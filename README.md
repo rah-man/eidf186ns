@@ -33,3 +33,13 @@ docker push fr27/frahman-hugface:latest
 ---
 
 ## Kubernetes
+
+### Create alias
+To save the typing `kubectl --namespace eidf186ns`, a new command alias can be made following these steps:
+
+    vim ~/.bashrc
+    alias <new_command>='kubectl -n eidf106ns'
+
+Save the file and reload by running this command: `source ~/.bashrc`.
+Try the alias: `<new_command> get jobs`
+
