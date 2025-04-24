@@ -20,7 +20,16 @@ This is a preliminary work, or basically just a setup, to train a HuggingFace mo
 
 ## 🐳 Docker
 
+I need to login to docker before pushing the image. Note to self: use `fr27` as my login.
+
 ### Build the Docker image
 
 ```bash
+docker login
 docker build -t fr27/frahman-hugface:latest .
+docker push fr27/frahman-hugface:latest
+```
+
+---
+
+## Kubernetes
