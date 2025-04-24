@@ -1,0 +1,43 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  generateName: frahman-hugface-job-
+  labels:
+    kueue.x-k8s.io/queue-name: eidf186ns-user-queue
+spec:
+  completions: 1
+  template:
+    metadata:
+      name: frahman-hugface-pod
+    spec:
+      restartPolicy: Never
+      containers:
+        - name: frahman-hugface-con
+          image: fr27/frahman-hugface:latest
+          command:
+            - /bin/sh
+            - '-c'
+            - '--'
+          args:
+            - |
+              git clone https://github.com/rah-man/kube01.git &&
+              cd kube01 &&
+              python train.py --model bert-base-uncased --epochs 5 --lr 3e-5 &&
+              echo "Done training and saving"
+          volumeMounts:
+            - mountPath: /mnt/app
+              name: volume
+          resources:
+            requests:
+              cpu: 2
+              memory: 2Gi
+            limits:
+              cpu: 4
+              memory: 8Gi
+              nvidia.com/gpu: 1
+      #nodeSelector:
+      #  nvidia.com/gpu.product: NVIDIA-A100-SXM4-40GB-MIG-1g.5gb
+      volumes:
+        - name: volume
+          persistentVolumeClaim:
+            claimName: pytorch-pvc
