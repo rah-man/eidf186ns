@@ -43,3 +43,24 @@ To save the typing `kubectl --namespace eidf186ns`, a new command alias can be m
 Save the file and reload by running this command: `source ~/.bashrc`.
 Try the alias: `<new_command> get jobs`
 
+### Basic Kubernetes commands
+For jobs and pods:
+    kubectl -n <project-namespace> create -f <job.yml>
+    kubectl -n <project-namespace> get jobs
+    kubectl -n <project-namespace> describe job <job_id>
+    kubectl -n <project-namespace> get pods
+    kubectl -n <project-namespace> describe pod <pod_id>
+    kubectl -n <project-namespace> logs <pod_id>
+    kubectl -n <project-namespace> delete job <job_id>
+
+For PVC:
+    kubectl -n <project-namespace> create -f <pvc.yml>
+    kubectl -n <project-namespace> delete pvc <pvc_id>
+    kubectl -n <project-namespace> get pvc <pvc_id>
+    kubectl -n <project-namespace> apply -f <pvc.yml>
+    kubectl -n <project-namespace> delete pvc <pvc_id>
+
+Accessing a PVC from a lightweight job's pod:
+    kubectl -n <project-namespace> cp alice.txt <pod_id>:/mnt/app/
+    kubectl -n <project-namespace> exec <pod_id> -- ls /mnt/app/
+    kubectl -n <project-namespace> exec <pod_id> -- curl https://archive.ics.uci.edu/static/public/53/iris.zip -o /mnt/app/iris.zip
