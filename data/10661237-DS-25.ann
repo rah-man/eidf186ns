@@ -1,0 +1,6 @@
+T1	Delirium 1783 1791	Oriented
+A1	Negation T1
+T2	Independently_mobile 6311 6335	ambulating independently
+T3	Delirium 8246 8279	Mental Status: Clear and coherent
+A2	Negation T3
+T4	Independently_mobile 8345 8369	Ambulatory - Independent

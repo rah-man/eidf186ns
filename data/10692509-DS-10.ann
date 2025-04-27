@@ -1,0 +1,24 @@
+T1	Dementia 340 348	dementia
+T2	Upper_gastrointestinal_haemorrhage 2119 2131	black stools
+A1	Negation T2
+T3	Lower_gastrointestinal_haemorrhage 2135 2145	red stools
+A2	Negation T3
+T4	Dementia 2778 2788	Dementia  
+T5	Delirium 3120 3128	Oriented
+A3	Negation T5
+T6	Dementia 6197 6205	dementia
+T7	Dementia 7742 7750	Dementia
+T8	Constipation 8120 8132	Constipation
+T9	Constipation 8720 8732	constipation
+A4	Diagnosis T9 Implicit_mention
+T10	Constipation 8964 8976	constipation
+A5	Diagnosis T10 Implicit_mention
+T11	Constipation 9675 9687	constipation
+A6	Diagnosis T11 Implicit_mention
+T12	Constipation 9923 9935	constipation
+A7	Diagnosis T12 Implicit_mention
+T13	Has_carers 10591 10608	Home With Service
+T14	Delirium 10685 10718	Mental Status: Clear and coherent
+A8	Negation T14
+T15	Mobile_with_assistance 10737 10747;10759 10769	Ambulatory assistance
+T16	Mobile_with_aid 10737 10747;10773 10776	Ambulatory aid

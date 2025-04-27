@@ -1,0 +1,10 @@
+T1	Delirium 2316 2324	oriented
+A1	Negation T1
+T2	Delirium 3069 3077	oriented
+A2	Negation T2
+T3	Lower_respiratory_tract_infection 5780 5789	pneumonia
+T4	Lower_respiratory_tract_infection 9093 9102	pneumonia
+T5	Delirium 9196 9229	Mental Status: Clear and coherent
+A3	Negation T5
+T6	Independently_mobile 9295 9319	Ambulatory - Independent
+T7	Lower_respiratory_tract_infection 9503 9512	pneumonia

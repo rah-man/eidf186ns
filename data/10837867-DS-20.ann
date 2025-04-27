@@ -1,0 +1,8 @@
+T1	Unspecified_cognitive_impairment 1679 1690	memory loss
+T2	Delirium 3070 3078	oriented
+A1	Negation T2
+T3	Unspecified_cognitive_impairment 3197 3208	memory loss
+T4	Unspecified_cognitive_impairment 5926 5937	memory loss
+T5	Urinary_tract_infection 6571 6594;6612 6630	Urinalysis was positive started on bactrim
+A2	Low_confidence T5
+T6	Unspecified_cognitive_impairment 8346 8357	memory loss

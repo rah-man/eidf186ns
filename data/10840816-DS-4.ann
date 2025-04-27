@@ -1,0 +1,49 @@
+T1	Bed_Chairbound 468 482	unable to rise
+T2	Lower_respiratory_tract_infection 911 914	PNA
+T3	Lower_respiratory_tract_infection 3125 3128	PNA
+T4	Lower_respiratory_tract_infection 3329 3338	pneumonia
+T5	Lower_respiratory_tract_infection 3379 3388	pneumonia
+T6	Delirium 3423 3426	A&O
+A1	Negation T6
+T7	Lower_respiratory_tract_infection 4055 4058	HAP
+A2	In-hospital_event T7
+A3	In-hospital_event T5
+A4	In-hospital_event T4
+A5	In-hospital_event T3
+A6	In-hospital_event T2
+T8	Lower_gastrointestinal_haemorrhage 4311 4327	blood per rectum
+T9	Lower_gastrointestinal_haemorrhage 4425 4431;4440 4442	bloody BM
+T10	Lower_gastrointestinal_haemorrhage 4432 4442	marroon BM
+T11	Lower_gastrointestinal_haemorrhage 4662 4668;4677 4682	maroon stool
+T12	Lower_respiratory_tract_infection 5338 5347	pneumonia
+A7	In-hospital_event T12
+T13	Lower_gastrointestinal_haemorrhage 6969 6978	maroon BM
+T15	Lower_respiratory_tract_infection 8664 8673	pneumonia
+A9	In-hospital_event T15
+T16	Lower_respiratory_tract_infection 9172 9175	HAP
+A10	In-hospital_event T16
+T17	Lower_respiratory_tract_infection 9176 9179	VAP
+A11	In-hospital_event T17
+T18	Lower_respiratory_tract_infection 9240 9243	PNA
+A12	In-hospital_event T18
+T19	Lower_respiratory_tract_infection 10352 10355	PNA
+A13	In-hospital_event T19
+T20	Lower_respiratory_tract_infection 10412 10417;10435 10444	Chest infection
+A14	In-hospital_event T20
+T21	Lower_respiratory_tract_infection 10412 10417;10475 10484	Chest infection
+T22	Constipation 12278 12290	constipation
+A15	Diagnosis T22 Implicit_mention
+T14	Lower_respiratory_tract_infection 13915 13920;13946 13955	chest infection
+T23	Lower_respiratory_tract_infection 13995 13998	HAP
+A8	In-hospital_event T23
+A16	In-hospital_event T14
+T24	Lower_respiratory_tract_infection 13999 14002	VAP
+A17	In-hospital_event T24
+T25	Lower_respiratory_tract_infection 14063 14066	PNA
+A18	In-hospital_event T25
+T26	Lower_respiratory_tract_infection 14825 14828	PNA
+A19	In-hospital_event T26
+T27	Lower_respiratory_tract_infection 14886 14891;14909 14918	Chest infection
+A20	In-hospital_event T27
+T28	Lower_respiratory_tract_infection 14886 14891;14949 14958	Chest infection
+A21	In-hospital_event T28

@@ -1,0 +1,32 @@
+T1	Falls 1034 1053	awoke on the ground
+T2	Seizures 1087 1094	seizure
+A1	Negation T2
+T3	Faecal_incontinence 1140 1153;1162 1169	loss of bowel control
+A2	Negation T3
+T4	Urinary_incontinence 1140 1147;1154 1169	loss of bladder control
+T5	Delirium 1450 1455	AAOx3
+A3	Negation T5
+T6	Delirium 3271 3279	oriented
+T7	Delirium 3825 3833	oriented
+A4	Negation T7
+T8	Lower_respiratory_tract_infection 5929 5938;5992 6002	pulmonary infectious
+A5	Diagnosis T8 Suspected
+T9	Seizures 8889 8896	seizure
+A6	Negation T9
+T10	Seizures 8907 8917	post-ictal
+A7	Negation T10
+T11	Faecal_incontinence 8946 8951;8960 8972	bowel incontinence
+T12	Urinary_incontinence 8952 8972	bladder incontinence
+A8	Negation T12
+A9	Negation T11
+A10	Negation T4
+T13	Seizures 8994 9001	seizure
+A11	Negation T13
+T14	Delirium 10590 10623	Mental Status: Clear and coherent
+A12	Negation T14
+T15	Independently_mobile 10689 10713	Ambulatory - Independent
+T16	Intracranial_haemorrhage 11514 11522;11531 11536	bleeding brain
+A13	Negation T16
+T17	Intracranial_haemorrhage 9035 9039;9059 9069	head hemorrhage
+A14	Negation T17
+T18	Falls 9075 9079	fall

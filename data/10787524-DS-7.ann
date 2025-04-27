@@ -1,0 +1,4 @@
+T1	Constipation 5835 5847	constipation
+A1	Diagnosis T1 Implicit_mention
+T2	Constipation 8326 8338	constipation
+A2	Diagnosis T2 Implicit_mention

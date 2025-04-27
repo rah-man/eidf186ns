@@ -1,0 +1,47 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Phenergan / Ambien  Attending: ___.  Chief Complaint: Chest pain, shortness of breath  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ yo M with recent TURP now w/L flank pain, progressive SOB for several weeks, worse over last several days. patient states he usually can walk around the pond without difficulty, but several days ago was only able to get ___round and had to turn around because of shortness of breath. He denies PND or orthopnea. His chest pain is worse with inspiration, radiating to the back, located primarily on the lower left thorax. Not associated with exercise. 
+
+He states he has been healing well from his prostate procdure. Denies chest pain, no cough, no dysuria. 
+
+In ED: VS: 71 139/75 18 98% RA AF. Had CTA in ED showing PE. EKG NSR. Admitted on heparin gtt. 
+
+On transfer to the floor patient feels well. Denies CP, no SOB currently. 
+
+ROS: As above and denies fever, chills, night sweats, headache, vision changes, rhinorrhea, congestion, sore throat, cough, abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, hematuria. 
+
+ Past Medical History: CAD s/p CABG X ___ (RCA)  HTN  Hyperlipidemia  Actinic Keratosis  BPH s/p TURP ___  GERD  H/o Cholelithiasis s/p ERCP  Chronic Renal failure, baseline Cr 1.4 
+
+ Social History: ___ Family History: NC  Physical Exam: On Presentation:
+
+VSS: AF BP 130/62 HR 76 RR 15 96% on 2Lnc  GENERAL: NAD, well apeparing elderly male  HEENT: EOMI, PERRL, mmm, no OP lesions  CARDIAC: regular rate, no mrg  LUNG: bibasilar crackles L>R  ABDOMEN: +bs, soft, NTND, no HSM  EXT: No ___, 2+ DP pulses, warm, well perfused  NEURO: a/o x3, ___ strength ___ B, sensation intact, CN ___ intact  DERM: no skin lesions 
+
+ Pertinent Results: CHEST CT: 1. Segmental pulmonary embolus. 2. Numerous calcified and noncalcified granulomas are stable. While stable as well, the ground glass nodules likely warrant a follow up CT to help exclude indolent neoplasms (e.g. bronchoalveolar cell carcinoma). 3. Pneumobilia. Given prior sphincterotomy, this is an expected finding. 4. Vascular, including coronary artery, calcifications. 
+
+DISCHARGE LABS: - WBC-6.9 RBC-3.70* Hgb-11.6* Hct-33.5* MCV-91 MCH-31.4 MCHC-34.7 RDW-13.5 Plt ___ - ___ PTT-95.4* ___ - Glucose-117* UreaN-27* Creat-1.4* Na-137 K-3.5 Cl-105 HCO3-22 AnGap-14 - D-Dimer-4196*  Brief Hospital Course: ___ yo M with PMH of CAD, HTN, HLP, BPH, chronic renal failure, GERD admitted with SOB found to have PE. Treated initially with heparin drip with bridging to coumadin. Heparin was d/c'ed and patient was initiated on ___. He was discharged home in stable condition with visting nurse services to administer ___ and daily INR checks until therapeutic (INR ___ on coumadin for 2 days. He will be followed by ___ ___ clinic.
+
+# Pulmonary Embolus: Found on CT, was likely causing progressive SOB. Likely post-operative given recent TURP. Could consider out pt malignancy w/u. Treated initially with heparin drip with bridging to coumadin. Heparin was d/c'ed and patient was initiated on ___. He was discharged home in stable condition with visting nurse services to administer ___ and bi-weekly INR checks until therapeutic (INR ___ on coumadin. He will be followed by ___ clinic.  # Chest Pain: Resolved prior to discharge. Was pleuritic in nature, L side, likely ___ PE which is in LLL segment.   # Hematuria: Had tea colored urine, UA with moderate blood but only 4 RBC. Hct has been stable, no urinary retention. Likely ___ TURP. CK wnl. Hct stable.   # Leukocytosis: 11.6 on admission but resolved. Likely occurred in setting of PE, normal diff. Was afberile through hospitalization.  # Chronic Renal Failure: At baseline of 1.4. Continued ACEi. Medications renally dose.   # CAD: Had pleuritic chest pain as above, likely ___ PE. He was s/p CABG X ___ (RCA). Continued home BB, ASA, statin. EKG was wnl. Trop negative. Was not fully ruled out for MI.
+
+# HTN: BP's well controlled. Continued home BB, ACEi, HCTZ.   # Hyperlipidemia: Continued home statin, last panel: total 177, LDL 97, HDL 84   # DM II: Diet controlled.   # BPH s/p TURP ___: Healing well, in no pain. Urology saw on admission in ED. Hematuria w/u tx as above.  # GERD: Continued home PPI.  # PPX: received heparin 
+
+# Code: FULL  Medications on Admission: Atorvastatin 80 mg Tablet qd  Enalapril 10 mg bid  Hydrochlorothiazide 25 mg qd  Metoprolol Tartrate 100 bid  Omeprazole 20 mg qd  Aspirin 325 mg qd  Calcium Carbonate [Tums] 1 tab tid  Cholecalciferol (Vitamin D3) 1,000 unit qd  Docusate 100 mg bid prn  Multivitamin 1 tab qd 
+
+ Discharge Medications: 1. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  2. Enalapril Maleate 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  3. Hydrochlorothiazide 12.5 mg Capsule Sig: Two (2) Capsule PO DAILY (Daily).  4. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).  5. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  6. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  7. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO TID (3 times a day).  8. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2) Tablet PO DAILY (Daily).  9. Multivitamin   Tablet Sig: One (1) Tablet PO DAILY (Daily).  10. Warfarin 7.5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 ___. Disp:*30 Tablet(s)* Refills:*2* 11. ___ 7.5 mg/0.6 mL Syringe Sig: Seven (7) syringes Subcutaneous DAILY (Daily) for 7 days: take until INR ___ for 2 days. Disp:*7 syringes* Refills:*0*
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Primary: Pulmonary Embolus
+
+Secondary: CAD s/p CABG X ___ (RCA)  HTN  Hyperlipidemia  Actinic Keratosis  BPH s/p TURP ___  GERD  H/o Cholelithiasis s/p ERCP  Chronic Renal failure, baseline Cr 1.4 
+
+ Discharge Condition: Stable vitals, ambulating without difficulty, satin well on room air.
+
+ Discharge Instructions: You were admitted with chest pain and shortness of breath and were found to have a clot in your lung. You were initially treated with IV medication and oral medication. You are being discharged on the oral medication, called coumadin which you will need to take for at least 6 months. Additionally, because it can take several days for the oral medication to have effect, you will also received a shot from visiting nurses for several days to ensure that your blood is adequately thinned while the oral medication takes effect. This medication is called ___.
+
+The oral medication (Coumadin) needs to be closely monitored to ensure that the levels in your blood are not too low and not too high. You will need to have your blood drawn several times a week in order to ensure this. The results of the blood tests will be faxed to ___ at ___ and if you need to change the dose of the medication, ___ will call you to let you know.
+
+When you had a CT scan of your lungs there were some nodules that were seen. It is unclear what the significance of these lesions, but you should have a follow up CT of your lungs in 3 months to ensure that the nodules are not growing.
+
+No other medication changes were made. You should continue all your home medications as previously directed.
+
+If you have bleeding, dark stool, chest pain, shortness of breath, chest pain, abdominal pain, high fever, dizziness or lightheadedness or any other concerning symptom, please seek medical care immediately.
+
+It was a pleasure meeting you and participating in your care.  Followup Instructions: ___ 

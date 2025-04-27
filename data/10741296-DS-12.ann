@@ -1,0 +1,24 @@
+T1	Falls 491 496	falls
+T2	Falls 202 208	fall  
+T3	Falls 4466 4470	fall
+T4	Falls 4718 4723	falls
+T5	Falls 6565 6570	falls
+T6	Falls 6817 6822	falls
+T7	Intracranial_haemorrhage 1039 1044;989 993	bleed head
+A1	Negation T7
+T8	Lower_respiratory_tract_infection 1700 1709	pneumonia
+A2	Diagnosis T8 History_of
+T9	Delirium 2964 2972	oriented
+A3	Negation T9
+T10	Intracranial_haemorrhage 3143 3166	intracranial hemorrhage
+A4	Negation T10
+T11	Constipation 5560 5572	constipation
+A5	Diagnosis T11 Implicit_mention
+T12	Constipation 5437 5449	constipation
+A6	Diagnosis T12 Implicit_mention
+T13	Constipation 5728 5740	constipation
+A7	Diagnosis T13 Implicit_mention
+T14	Has_carers 6472 6489	Home With Service
+T15	Delirium 6618 6651	Mental Status: Clear and coherent
+T16	Independently_mobile 6717 6741	Ambulatory - Independent
+T17	Malnutrition 6839 6853	poor nutrition

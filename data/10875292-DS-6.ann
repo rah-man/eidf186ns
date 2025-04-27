@@ -1,0 +1,39 @@
+T1	Intracranial_haemorrhage 296 319	subarachnoid hemorrhage
+T2	Intracranial_haemorrhage 715 718	SAH
+T3	Lives_alone 1139 1150	lives alone
+T4	Delirium 1509 1517	Oriented
+A1	Negation T4
+T5	Delirium 2150 2155	A&Ox3
+A2	Negation T5
+T6	Intracranial_haemorrhage 2289 2312	subarachnoid hemorrhage
+T7	Intracranial_haemorrhage 2831 2878	ruptured anterior communicating artery aneurysm
+T8	Intracranial_haemorrhage 3594 3617	subarachnoid hemorrhage
+T9	Lower_respiratory_tract_infection 4251 4260	pneumonia
+A3	Negation T9
+T10	Lower_respiratory_tract_infection 4637 4646	pneumonia
+A4	Negation T10
+T11	Intracranial_haemorrhage 4783 4806	intracranial hemorrhage
+A5	Negation T11
+T12	Delirium 5400 5417	mentating clearly
+A6	Negation T12
+T13	Urinary_tract_infection 6449 6452	UTI
+T14	Constipation 8435 8447	constipation
+A7	Diagnosis T14 Implicit_mention
+T15	Urinary_tract_infection 9151 9154	UTI
+T16	Delirium 9178 9211	Mental Status: Clear and coherent
+A8	Negation T16
+T17	Mobile_with_assistance 9277 9287;9299 9309	Ambulatory assistance
+T18	Mobile_with_aid 9277 9287;9313 9316	Ambulatory aid
+T19	Intracranial_haemorrhage 9396 9419	Subarachnoid Hemorrhage
+T20	Seizures 9939 9946	seizure
+A9	Diagnosis T20 Implicit_mention
+T21	Seizures 10444 10452	seizures
+A10	Diagnosis T21 Implicit_mention
+T22	Constipation 11207 11219	Constipation
+A11	Diagnosis T22 Implicit_mention
+T23	Lower_gastrointestinal_haemorrhage 11221 11240	Blood in your stool
+A12	Diagnosis T23 Implicit_mention
+T24	Seizures 11377 11385	Seizures
+A13	Diagnosis T24 Implicit_mention
+T25	Delirium 11651 11660	confusion
+A14	Diagnosis T25 Implicit_mention

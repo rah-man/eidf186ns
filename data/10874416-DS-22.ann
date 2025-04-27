@@ -1,0 +1,16 @@
+T1	Delirium 223 246	change in mental status
+T2	Dementia 364 372	dementia
+T3	Delirium 471 492	altered mental status
+T4	Lives_in_carehome 592 615	long term care facility
+T5	Delirium 739 748	confusion
+T6	Delirium 1024 1032	confused
+T7	Delirium 1142 1150	agitated
+T8	Delirium 2852 2873	altered mental status
+T9	Dementia 3192 3202	Dementia  
+T10	Urinary_incontinence 3263 3280	Urge Incontinence
+A1	Diagnosis T10 History_of
+T11	Delirium 4615 4620	AOx 1
+T12	Lower_respiratory_tract_infection 8165 8174	pneumonia
+A2	Diagnosis T12 Suspected
+T13	Dementia 9948 9956	dementia
+A3	Low_confidence T11

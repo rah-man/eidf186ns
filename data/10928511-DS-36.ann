@@ -1,0 +1,8 @@
+T1	Mobile_with_aid 1606 1616	wheelchair
+A1	Type_of_aid T1 Wheelchair
+T2	Constipation 1986 1998	constipation
+A2	Negation T2
+T3	Has_carers 11512 11529	Home With Service
+T4	Delirium 11780 11813	Mental Status: Clear and coherent
+A3	Negation T4
+T5	Independently_mobile 11879 11903	Ambulatory - Independent

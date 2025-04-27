@@ -1,0 +1,83 @@
+ Name: ___           Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Penicillins / prednisone / nitroglycerin / Cortisone  Attending: ___.  Chief Complaint: Shortness of breath 
+
+ Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ with mild delirium, PMHx of CAD (s/p CABG), AS (sp AVR), HTN, CKD, recurrent UTI ___ urinary obstruction and BPH (s/p TURP) who was noted at nursing ___ to have worsening shortness of breath over the last ___ days. He had a similar presentation last ___. He had labs drawn with elevated potassium 5.6, Hct 18.8. He was initially to come to ___ but concern for worsening SOB had ambulance divert to OSH. At ___ his initial vitals were 97.1 146/69 56 32 and 97% on NRB. He was quickly transitioned to room air. His Hct was 17.9 and guaiac positive. He was hyperkalemic to 6.0 with peaked Ts on EKG. He had ___ with Cr 3.8 from 3.1 last month, and fluid overload with trace right pleural effusions on CXR per report. He was ordered for 1U PRBCs and had no adjustment made to his potassium.  In the ED, initial vs were: 99.0 49 171/71 28 96% 4L. He arived in with 1 unit pRBCs infusing. He was A&Ox3 but slow, speaking in full sentences and using some accessory muscles. He received calcium gluconate, 10U regular insulin, D50 for K 6.2. He did not get albuterol or bicarb. He was seen by renal who recommended temporizing measures for hyperK as well as lasix for hyperK and fluid overload. He was given an 60mg of lasix and put out at least 400cc of urine via foley for pulmonary edema on CXR. He was sating 93% on RA and was placed on therapeutic 2L NC.  On the floor, the patient is sleepy, and complaining of feeling cold. He has no pain. He says he has noted dime sized blood in stools. No hematochezia, no melena.
+
+ Past Medical History: - BPH w/ urinary retention and chronic indwelling catheter now s/p Transurethral resection of prostate. - CKD - CAD s/p CABG w/ AVR - psychiatric d/o NOS, - hx recurrent UTI (requiring 2wks course Ertapenem in ___ and ___. - Vitamin D deficiency - GOUT - GERD - HTN - diastrolic CHF with EF 55% - Seizure disorder  Social History: ___ Family History: Per the patient, no family history of bladder, prostate, or renal disease. 
+
+ Physical Exam: ADMISSION PHYSICAL EXAM: ======================== General: Alert, oriented, no acute distress  HEENT: Sclera pale, Dry MM, pharynx erythematous Neck: supple, JVP not elevated, no LAD  Lungs: Left sided rhonchi, crackles diffusely  CV: Bradycardic, regular, healed sternotomy scar Abdomen: soft, non-tender, distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  GU: foley  Ext: 2+ pitting edema to knees 
+
+DISCHARGE PHYSICAL EXAM: ======================== VS: 98.8 125/64 69 18 99 RA I/O: ___ General: Lying comfortably in bed, alert, in NAD. HEENT: PERRL 3-->2. EOM intact. Conjunctiva clear. OP clear. Neck: Supple no LAD CV: Grade ___ harsh systolic murmur over LUSB. Lungs: Expiratory rhonchi throughout lung fields. No wheeze. Faint crackles at bases, moderate aeration. Abdomen: Soft, distended, non-tender, tympanitic to percussion. GU: deferred Ext: WWP, 2+ DPs, no edema Neuro: A/O x2 (does not know date). PERRL. EOM intact. Facial musculature symmetric. Tongue midline. Palate elevates symmetrically. Voice hoarse but without dysarthria. Moving all extremities spontaneously. Skin: bruising at IV sites, excoriations on arms. R. PICC in place.
+
+ Pertinent Results: ADMISSION: ---------- ___ 06:15PM BLOOD WBC-7.7 RBC-2.10* Hgb-6.5* Hct-21.3* MCV-105* MCH-30.7 MCHC-29.4* RDW-17.3* Plt ___ ___ 06:15PM BLOOD Neuts-76.7* Lymphs-16.7* Monos-4.8 Eos-1.6 Baso-0.2 ___ 06:15PM BLOOD ___ PTT-28.3 ___ ___ 06:15PM BLOOD Glucose-97 UreaN-64* Creat-3.9* Na-140 K-6.2* Cl-113* HCO3-13* AnGap-20 ___ 03:44AM BLOOD ALT-23 AST-23 AlkPhos-97 TotBili-0.3 ___ 10:53PM BLOOD CK(CPK)-226 ___ 10:53PM BLOOD Calcium-7.9* Phos-4.3 Mg-2.7* ___ 06:30PM BLOOD Glucose-80 Lactate-1.7 Na-139 K-6.1* Cl-120* calHCO3-14*
+
+PERTINENT RESULTS: ------------------ ___ 09:00AM BLOOD Ret Aut-3.4* ___ 10:53PM BLOOD CK-MB-9 cTropnT-0.06* ___ 03:44AM BLOOD ALT-23 AST-23 AlkPhos-97 TotBili-0.3 ___ 09:00AM BLOOD Folate-12.4 ___ 04:33PM BLOOD Hapto-281*
+
+DISCHARGE LABS: --------------- ___ 05:00AM BLOOD WBC-8.4 RBC-2.28* Hgb-7.1* Hct-23.8* MCV-105* MCH-31.1 MCHC-29.8* RDW-17.6* Plt ___ ___ 06:15PM BLOOD Neuts-76.7* Lymphs-16.7* Monos-4.8 Eos-1.6 Baso-0.2 ___ 09:00AM BLOOD Ret Aut-3.4* ___ 05:00AM BLOOD Glucose-114* UreaN-51* Creat-4.2* Na-144 K-4.3 Cl-109* HCO3-23 AnGap-16
+
+IMAGING: --------
+
+___ CXR: Pulmonary edema now involves all of both lungs, moderately severe throughout. Aeration in the lower lobes has improved minimally. Moderate-to-severe cardiomegaly and mediastinal vascular engorgement both worsened compared to ___. Bilateral pleural effusion is presumed, could be substantial on the right. No pneumothorax. 
+
+___ abdominal XR: There is a non-specific bowel gas pattern with no evidence of obstruction. There are no radiopaque foreign bodies. There are no acute fractures or dislocations. IMPRESSION:  No evidence of obstruction. 
+
+___ ECHO: The left atrial volume is severely increased. The estimated right atrial pressure is at least 15 mmHg. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%). Right ventricular chamber size and free wall motion are normal. The ascending aorta is mildly dilated. A bioprosthetic aortic valve prosthesis is present without evidence of valve dehiscence. The prosthetic aortic valve leaflets appear normal The transaortic gradient is higher than expected for this type of prosthesis. A paravalvular aortic valve leak is probably present. Mild (1+) aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Mild to moderate (___) mitral regurgitation is seen. There is moderate pulmonary artery systolic hypertension. Significant pulmonic regurgitation is seen. There is a very small pericardial effusion. 
+
+Compared with the prior study (images reviewed) of ___, transaortic gradients are higher with similar degree of paravalvular leak. There is more mitral regurgitation. Pulmonary pressures are significantly higher. Other findings are similar.
+
+___ CXR: As compared to the previous radiograph, there is a reoccurrence of the pre-existing pulmonary edema. The image resembles ___. Again,mild blunting of the costophrenic sinuses is seen, right more than left, suggesting coexisting mild pleural effusion. Moderate cardiomegaly, stable appearance of the sternal wires, the valvular replacement, and the right PICC line.   MICRO: URINE CULTURE (Final ___:    PROTEUS MIRABILIS.  10,000-100,000 ORGANISMS/ML.. 
+
+               SENSITIVITIES: MIC expressed in MCG/ML            _________________________________________________________               PROTEUS MIRABILIS               |  AMPICILLIN------------ =>32 R AMPICILLIN/SULBACTAM--  <=2 S CEFAZOLIN-------------   8 R CEFEPIME--------------  <=1 S CEFTAZIDIME-----------  <=1 S CEFTRIAXONE-----------  <=1 S CIPROFLOXACIN---------   2 I GENTAMICIN------------  <=1 S MEROPENEM-------------   1 S PIPERACILLIN/TAZO-----  <=4 S TOBRAMYCIN------------  <=1 S TRIMETHOPRIM/SULFA---- =>16 R
+
+ Brief Hospital Course: ___ with PMHx of CKD, CAD (s/p CABG), AS (sp AVR), HTN, recurrent UTI ___ urinary obstruction and BPH(s/p TURP) presents from his living center with improving respiratory distress, anemia s/p 1U PRBCs, hyperkalemia and ___.
+
+ACUTE ISSUES: ============== # Respiratory distress: The patient presented with dyspnea and CXR consistent with pulmonary edema. His volume overload was most likely due to diastolic HF with preserved EF exacerbated by volume overload from acutely decompensated CKD. An ECHO showed severe dilation of the left atrium, elevated pulmonary pressures, and preserved systolic function. His dyspnea resolved after receiving 60-120 mg of IV furosemide with metolazone daily for three days. He was then restarted on torsemide, with the dose increased to 10 mg from his home dose of 5 mg. On this increased dose, pt was able to maintain I/O's roughly even. 
+
+# Hyperkalemia: The patient's K on admission was elevated at 6.1 without EKG changes in the setting of worsening renal function.  He was successfully treated for hyperkalemia with D50, insulin, calcium gluconate, and IV lasix diuresis. He was then re-started on torsemide at 10 mg per day. On discharge, his K was stable at 4.3.
+
+# Acute on Chronic kidney disease: The patient has had a progressive decline in renal function, and presented to ___ with a Cr of 3.9 from baseline 3.1. In discussion with his primary nephrologist, it was determined that pt was not a candidate for dialysis due to declining cognitive function. This was reiterated in conversations with nephrology and with the patient's son during this visit. The patient was continued on his home bicarb and maintained on a renal diet. Of note, pt responded to diuresis well during his hospital course and continued to have normal range urine output.
+
+# CA-UTI: The patient's urine on admission grew proteus, sensitive to ceftriaxone. The patient was asymptomatic, but he was treated given his multiple comorbidities. He received ceftriaxone 1g q24h and completed a ___nemia: The patient's hematocrit on admission was 18, down from a baseline of approximately ___. His hematocrit bumped to ___ after 1U PRBCs and remained stable after that time. Further work-up of his anemia revealed relative reticulocytopenia, normal thyroid function, normal LFTs, normal B12/folate. In the absence of these sources of macrocytic anemia, myelodysplastic syndrome is a possible etiology. We did not do further work-up given goals of care as discussed with the patient's son, who is his HCP. He was hemodynamically stable throughout his admission.  CHRONIC ISSUES: ============== # HTN: The patient was continued on his home metoprolol and amlodipine. 
+
+# CAD s/p CABG w/ AVR: The patient was continued on his home atorvastatin and metoprolol.
+
+# Hyperlipidemia: The patient was continued on his home atorvastatin.
+
+# Constipation: Patient was treated with miralax, docusate, senna, and bisacodyl.
+
+# GOUT: The patient's home renally dosed allopurinol was held during this admission. He had no gout flare during this admission. On discharge, pt's allopurinol was restarted.
+
+# Seizure disorder: Previous discharge summaries mentioned a seizure in the setting of taking ertepenem. The patient was briefly on Keppra but is no longer taking this medication. He had no seizure activity while inpatient. 
+
+TRANSITIONAL ISSUES: ==================== # Subacute Hct drop: The patient's hct on admission was 18, down from ___ at baseline. Occult GIB is a possible etiology for his subacute drop in Hct, as his stool was guiac positive at an OSH. He had no evidence of ongoing bleed while inpatient. ___ consider further GI work-up as an outpatient.  # Volume status: The patient's torsemide was increased to 10 mg (from 5) during this admission given his persistent hypervolemia. It will be important to monitor his weight and in's and out's on this new dose to ensure that he is adequately diuresed while still maintaining sufficient volume to perfuse his kidney. In general, his daily in's and out's should be approximately equal.
+
+# Goals of care: We spoke extensively with Mr. ___ son about goals of care. He is aware that his father's renal disease is end-stage. He reaffirmed that his father would not undergo dialysis. His primary goal is his father's ___, and he would like the patient to avoid hospitalization whenever possible. Ongoing conversations with providers at Mr. ___ ___ about goals of care, as well as discussion of indications for hospitalizations within these goals of care, will be useful.
+
+# Transportation to ___: The patient's son would like to move him to ___, and he has begun to research nursing facilities. The son will need assistance in coordinating transit to ___ once he has found an appropriate facility for Mr. ___. 
+
+# Allopurinol was restarted at discharge, please montior renal function  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Ferrous Sulfate 325 mg PO BID 2. Tamsulosin 0.4 mg PO HS 3. HydrOXYzine 25 mg PO Q6H:PRN itch 4. Metoprolol Tartrate 50 mg PO DAILY 5. Polyethylene Glycol 17 g PO DAILY:PRN constipation 6. Cholestyramine 8 gm PO QHS 7. Sodium Bicarbonate 1300 mg PO BID 8. Torsemide 5 mg PO DAILY 9. TraZODone 25 mg PO HS:PRN insomnia 10. Triamcinolone Acetonide 0.1% Ointment 1 Appl TP BID:PRN rash 
+
+11. Acetaminophen 650 mg PO Q6H:PRN pain 12. Ascorbic Acid ___ mg PO BID 13. Vitamin D 50,000 UNIT PO 1X/WEEK (___) 14. Allopurinol ___ mg PO EVERY OTHER DAY 15. Amlodipine 10 mg PO HS 16. Aspirin 81 mg PO DAILY 17. Atorvastatin 40 mg PO DAILY 18. Calcium Acetate 667 mg PO BID 19. Docusate Sodium 100 mg PO BID 
+
+ Discharge Medications: 1. Acetaminophen 650 mg PO Q6H:PRN pain 2. Amlodipine 10 mg PO HS 3. Ascorbic Acid ___ mg PO BID 4. Aspirin 81 mg PO DAILY 5. Atorvastatin 40 mg PO DAILY 6. Calcium Acetate 667 mg PO BID 7. Cholestyramine 8 gm PO QHS 8. Docusate Sodium 100 mg PO BID 9. Ferrous Sulfate 325 mg PO BID 10. Metoprolol Tartrate 50 mg PO DAILY 11. Polyethylene Glycol 17 g PO BID constipation 12. Sodium Bicarbonate 1300 mg PO BID 13. Tamsulosin 0.4 mg PO HS 14. Torsemide 10 mg PO DAILY 15. Triamcinolone Acetonide 0.1% Ointment 1 Appl TP BID:PRN rash 
+
+16. Vitamin D 50,000 UNIT PO 1X/WEEK (___) 17. Sarna Lotion 1 Appl TP TID:PRN Itch 18. Senna 8.6 mg PO BID Constipation 19. Bisacodyl 10 mg PO DAILY constipation 20. TraZODone 25 mg PO HS:PRN insomnia 21. HydrOXYzine 25 mg PO Q6H:PRN itch 22. Allopurinol ___ mg PO EVERY OTHER DAY 
+
+ Discharge Disposition: Extended Care  Facility: ___  ___ Diagnosis: Primary diagnoses: # Acute on chronic kidney injury # Hyperkalemia # Pulmonary edema # Proteus UTI
+
+Secondary diagnoses: # Macrocytic anemia # Diastolic HF # Hypertension # Hyperlipidemia # Gout
+
+ Discharge Condition: Mental Status: Confused - sometimes. Level of Consciousness: Alert and interactive. Activity Status: Out of Bed with assistance to chair or wheelchair.
+
+ Discharge Instructions: Dear Mr. ___, 
+
+It was a pleasure to care for you at ___. You were admitted with high potassium, low blood counts, and difficulty breathing.  Your difficulty breathing was most likely due to extra fluid in your lungs resulting from your renal disease. We treated you with diuretics which help you urinate. This improved your breathing. We also gave you several medications that lower your potassium. You also received a blood transfusion to help increase your blood count. Finally, you were treated with a short course of antibiotics for a urinary tract infection.  
+
+Please call your doctor if your breathing worsens, you develop ankle swelling, or you gain greater than 3 pounds.
+
+We are increasing your home dose of Torsemide to 10 mg to help prevent you from retaining extra fluid and developing breathing difficulties.
+
+We wish you all the best, Your ___ team
+
+ Followup Instructions: ___ 

@@ -1,0 +1,36 @@
+T1	Falls 190 196	Fall  
+T2	Falls 326 330	fall
+T3	Falls 621 625	fall
+T4	Mobile_with_aid 427 433	walker
+A1	Type_of_aid T4 Two_sticks_or_frame
+T5	Lower_gastrointestinal_haemorrhage 2272 2287	rectal bleeding
+A2	Diagnosis T5 History_of
+T6	Delirium 2691 2697	AOX2.5
+A3	Low_confidence T6
+T7	Delirium 3248 3252	AOx3
+A4	Negation T7
+T8	Intracranial_haemorrhage 4854 4877	intracranial hemorrhage
+A5	Negation T8
+T9	Falls 7941 7945	fall
+T10	Falls 8068 8072	fall
+T11	Lower_respiratory_tract_infection 9317 9326	pneumonia
+A6	Negation T11
+T12	Falls 11440 11444	fall
+T13	Urinary_tract_infection 11658 11661	UTI
+T14	Urinary_tract_infection 11757 11780	Urinary Tract Infection
+T15	Urinary_tract_infection 11782 11785	UTI
+T16	Urinary_tract_infection 11985 11988	UTI
+T17	Constipation 13759 13771	constipation
+A7	Diagnosis T17 Implicit_mention
+T18	Constipation 14147 14159	constipation
+A8	Diagnosis T18 Implicit_mention
+T19	Constipation 14304 14316	constipation
+A9	Diagnosis T19 Implicit_mention
+T20	Delirium 14686 14719	Mental Status: Clear and coherent
+A10	Negation T20
+T21	Mobile_with_aid 14785 14795;14821 14824	Ambulatory aid
+T22	Mobile_with_assistance 14785 14795;14807 14817	Ambulatory assistance
+T23	Falls 14925 14929	fall
+T24	Urinary_tract_infection 15257 15280	urinary tract infection
+T25	Falls 522 526	fell
+A11	Diagnosis T6 Suspected

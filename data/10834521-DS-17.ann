@@ -1,0 +1,21 @@
+T1	Mobile_with_assistance 564 568;575 593	hold things to ambulate
+T2	Intracranial_haemorrhage 692 695	SDH
+T3	Delirium 1115 1123	Oriented
+A1	Negation T3
+T4	Intracranial_haemorrhage 2041 2044	SDH
+T5	Intracranial_haemorrhage 1984 1988;2055 2065	head hemorrhage
+A2	Negation T5
+T6	Intracranial_haemorrhage 2254 2257	SDH
+T7	Intracranial_haemorrhage 2410 2414;2483 2491	head hematoma
+T8	Intracranial_haemorrhage 4023 4040	Subdural Hematoma
+T9	Delirium 4064 4097	Mental Status: Clear and coherent
+A3	Negation T9
+T10	Independently_mobile 4163 4187	Ambulatory - Independent
+T11	Constipation 4695 4707	constipation
+A4	Diagnosis T11 Implicit_mention
+T12	Seizures 5442 5450	seizures
+A5	Diagnosis T12 Implicit_mention
+T13	Delirium 5457 5466	confusion
+A6	Diagnosis T13 Implicit_mention
+T14	Delirium 5470 5493	change in mental status
+A7	Diagnosis T14 Implicit_mention

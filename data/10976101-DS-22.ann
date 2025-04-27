@@ -1,0 +1,11 @@
+T1	Falls 1323 1328	falls
+A1	Diagnosis T1 History_of
+T2	Falls 1350 1354	fall
+A2	Diagnosis T2 History_of
+T3	Lower_respiratory_tract_infection 1432 1441	pneumonia
+A3	Diagnosis T3 History_of
+T4	Constipation 6545 6557	constipation
+A4	Diagnosis T4 Implicit_mention
+T5	Delirium 6899 6932	Mental Status: Clear and coherent
+A5	Negation T5
+T6	Independently_mobile 6998 7022	Ambulatory - Independent

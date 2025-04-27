@@ -1,0 +1,8 @@
+T1	Constipation 1100 1112	Constipation
+T2	Lower_gastrointestinal_haemorrhage 1118 1129;1134 1142	hemorrhoids bleeding
+T3	Lower_gastrointestinal_haemorrhage 1295 1303;1344 1355	bleeding hemorrhoids
+T4	Lower_gastrointestinal_haemorrhage 3101 3106;3113 3121	blood stooling
+T5	Lower_gastrointestinal_haemorrhage 5121 5129;5140 5146	bleeding rectum
+T6	Constipation 3212 3224	constipation
+T7	Constipation 5232 5244	constipation
+T8	Lower_gastrointestinal_haemorrhage 5434 5439;5450 5456	blood rectum

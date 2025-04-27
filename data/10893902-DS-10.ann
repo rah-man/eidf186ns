@@ -1,0 +1,36 @@
+T1	Visual_impairment 322 342	macular degeneration
+A1	Diagnosis T1 History_of
+T2	Urinary_tract_infection 371 374	UTI
+A2	Diagnosis T2 History_of
+T3	Delirium 391 412	altered mental status
+T4	Has_carers 491 501	home nurse
+T5	Urinary_tract_infection 593 596	UTI
+T6	Delirium 759 767	confused
+T7	Delirium 873 882	confusion
+T8	Urinary_tract_infection 1240 1243	UTI
+T9	Constipation 1533 1545	constipation
+A4	Negation T9
+T10	Lower_gastrointestinal_haemorrhage 1547 1552	BRBPR
+A5	Negation T10
+T11	Upper_gastrointestinal_haemorrhage 1554 1560	melena
+A6	Negation T11
+T12	Lower_gastrointestinal_haemorrhage 1562 1574	hematochezia
+A7	Negation T12
+T13	Dementia 1625 1633	Dementia
+T14	Urinary_tract_infection 1779 1782	UTI
+A8	Diagnosis T14 Implicit_mention
+T15	Delirium 1787 1808	altered mental status
+A9	Diagnosis T15 Implicit_mention
+T16	Delirium 3044 3057;3070 3078	mental status baseline
+A10	Negation T16
+T17	Urinary_tract_infection 3340 3363	URINARY TRACT INFECTION
+T18	Urinary_tract_infection 3417 3420	UTI
+T19	Delirium 3509 3517	delirous
+T20	Has_carers 4108 4112;4126 4130	Home care
+T21	Urinary_tract_infection 4830 4853	Urinary tract infection
+T22	Delirium 4877 4910	Mental Status: Clear and coherent
+A3	Negation T22
+T23	Mobile_with_assistance 4976 4986;4998 5008	Ambulatory assistance
+T24	Mobile_with_aid 4976 4986;5012 5015	Ambulatory aid
+T25	Delirium 5083 5092	confusion
+T26	Urinary_tract_infection 5139 5162	urinary tract infection

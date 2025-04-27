@@ -1,0 +1,23 @@
+T1	Vertebral_compression_fracture 597 617	compression fracture
+T2	Vertebral_compression_fracture 588 590;609 617	L5 fracture
+T3	Bed_Chairbound 772 793	inability to ambulate
+T4	Mobile_with_aid 864 870	walker
+A1	Type_of_aid T4 Two_sticks_or_frame
+T5	Dementia 1215 1223	Dementia
+T6	Hip_fracture 1251 1263	hip fracture
+A2	Diagnosis T6 History_of
+T7	Vertebral_compression_fracture 1300 1302;1321 1329	L5 fracture
+T8	Vertebral_compression_fracture 1309 1329	compression fracture
+T9	Lives_alone 1386 1396;1401 1404	lives with son
+A3	Negation T9
+T10	Delirium 1517 1522	A&Ox3
+A4	Negation T10
+T11	Constipation 5421 5433	constipation
+A5	Diagnosis T11 Implicit_mention
+T12	Constipation 5614 5626	constipation
+A6	Diagnosis T12 Implicit_mention
+T13	Dementia 5878 5886	Confused
+T14	Mobile_with_assistance 5964 5974;5986 5996	Ambulatory assistance
+T15	Mobile_with_aid 5964 5974;6000 6003	Ambulatory aid
+T16	Constipation 6668 6680	constipation
+A7	Diagnosis T16 Implicit_mention

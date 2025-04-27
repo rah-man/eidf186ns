@@ -1,0 +1,7 @@
+T1	Unspecified_cognitive_impairment 2006 2026	COGNITIVE IMPAIRMENT
+T2	Delirium 3489 3497	oriented
+A1	Negation T2
+T3	Delirium 4015 4020	A&Ox3
+A2	Negation T3
+T4	Unspecified_cognitive_impairment 9277 9285	Confused
+T5	Independently_mobile 9363 9387	Ambulatory - Independent

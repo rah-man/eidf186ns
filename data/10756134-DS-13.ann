@@ -1,0 +1,9 @@
+T1	Weight_loss 275 286	weight loss
+T2	Weight_loss 776 787	weight loss
+T3	Weight_loss 959 970	weight loss
+T4	Delirium 2144 2146	AO
+A1	Negation T4
+T5	Weight_loss 4621 4632	weight loss
+T6	Delirium 7306 7314	oriented
+A2	Negation T6
+T7	Independently_mobile 7319 7329;7338 7349	ambulatory Independent

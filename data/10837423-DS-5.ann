@@ -1,0 +1,20 @@
+T1	Weight_loss 1844 1855	weight loss
+A1	Negation T1
+T2	Delirium 1874 1897	change in mental status
+A2	Negation T2
+T3	Constipation 1937 1949	constipation
+A3	Negation T3
+T4	Upper_gastrointestinal_haemorrhage 1967 1973	melena
+A4	Negation T4
+T5	Lower_gastrointestinal_haemorrhage 1977 1989	hematochezia
+A5	Negation T5
+T6	Urinary_incontinence 2055 2075	urinary incontinence
+T7	Dementia 2879 2890	Alzheimer's
+A6	Diagnosis T7 Implicit_mention
+T8	Delirium 3129 3137	oriented
+A7	Negation T8
+T9	Delirium 3891 3896	A&Ox3
+A8	Negation T9
+T10	Delirium 7393 7426	Mental Status: Clear and coherent
+A9	Negation T10
+T11	Independently_mobile 7492 7516	Ambulatory - Independent

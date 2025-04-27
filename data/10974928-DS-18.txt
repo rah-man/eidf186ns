@@ -1,0 +1,27 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Keppra  Attending: ___.  Chief Complaint: Scheduled Therapy
+
+ Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ yo male with a history of GBM who is admitted for treatment with NovoTTF. The patient is unable to provide any history due to aphasia due to his GBM. Therefore all history obtained from records and discuss with his primary neurological oncologist. The patient recently started treatment with avastin on ___. He is now admitted to receive treatment with NovoTTF which he will receive for a week at a time and will alternate with a week off.  Past Medical History: - COPD - Alcohol Abuse - Hypertension  Social History: ___ Family History: Unable to obtain.  Physical Exam: Admission: PHYSICAL EXAM: General: Agitated VITAL SIGNS: BP 114/68 HR 66 RR 19 O2 96%RA HEENT: MMM, no OP lesions CV: RR, NL S1S2 PULM: CTAB ABD: Soft, NTND, no masses or hepatosplenomegaly LIMBS: No edema. SKIN: No rashes or skin breakdown NEURO: Alert, oriented to person only, unable to follow commands/participate in exam. Aphasia.
+
+Discharge: General: NAD, sitting in bed, appears comfortable Eyes: PERRLA HEENT: MMM, no OP lesions CV: RRR no m/r/g, warm and well perfused distal extremities, no edema PULM: CTAB anteriorly only as could not roll over given shackles, normal respiratory rate, no increased work of breathing ABD: Soft, NTND, no masses or hepatosplenomegaly LIMBS: No edema. shackles on both legs and right arm SKIN: No rashes or skin breakdown NEURO: AOx1 (himself only, could not name hospital unless I help with first word), speaks in short sentences but not meaningful ones, can follow simple commands like opening eyes Access: Right chest port with c/d/I dressing in place  Pertinent Results: ___ 05:16AM BLOOD WBC-6.2 RBC-4.24* Hgb-13.4* Hct-39.2* MCV-93 MCH-31.6 MCHC-34.2 RDW-12.6 RDWSD-42.7 Plt ___ ___ 05:16AM BLOOD ___ PTT-33.6 ___ ___ 05:16AM BLOOD Glucose-133* UreaN-10 Creat-0.7 Na-143 K-4.1 Cl-106 HCO3-24 AnGap-13 ___ 05:16AM BLOOD Calcium-8.3* Phos-2.7 Mg-2.1
+
+Micro:  URINE CULTURE (Final ___:  NO GROWTH. 
+
+Imaging: None  Brief Hospital Course: ___ PMH of GBM admitted for scheduled therapy with optune and bevacizumab. Patient received optune treatment for 1 week, and received dose of Bevacizumab (C1D14) on ___ prior to discharge. He is to start colchicine in the outpatient setting to prepare his malignancy for his next cycle of optune treatments to begin on ___. Colchicine will be dosed in outpatient setting only. He is to receive next dose of bevacizumab on the ___ day of his next optune treatment. Patient will continue such regimen indefinitely at this point, until directed otherwise by Dr. ___. 
+
+Transitional Issues: 1. Continue daily colchicine until next inpatient optune treatment on ___  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Labetalol 100 mg PO BID 2. Phenytoin Sodium Extended 400 mg PO QHS 3. Thiamine 100 mg PO DAILY 4. Multivitamins 1 TAB PO DAILY 5. Omeprazole 20 mg PO DAILY 
+
+ Discharge Medications: 1. Colchicine 0.6 mg PO DAILY start on ___ RX *colchicine 0.6 mg 1 tablet(s) by mouth daily when outpatient Disp #*30 Tablet Refills:*0 2. Labetalol 100 mg PO BID  3. Multivitamins 1 TAB PO DAILY  4. Omeprazole 20 mg PO DAILY  5. Phenytoin Sodium Extended 400 mg PO QHS  6. Thiamine 100 mg PO DAILY 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Glioblastoma Chronic Encephalopathy
+
+ Discharge Condition: Mental Status: Confused - always. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Mr. ___,
+
+It was a pleasure taking care of you while you were hospitalized. You were hospitalized for your chemotherapy and optune treatments. You tolerated the treatments well. You will return on ___ for your next cycle. 
+
+You should take colchicine in the outpatient setting to prepare for your next cycle. In the future you will take this medication only on the weeks you are not hospitalized for your optune treatments. 
+
+ Followup Instructions: ___ 

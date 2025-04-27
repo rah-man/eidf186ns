@@ -1,0 +1,33 @@
+T1	Lower_gastrointestinal_haemorrhage 528 533	BRBPR
+T2	Lower_gastrointestinal_haemorrhage 571 576	BRBPR
+T3	Lower_gastrointestinal_haemorrhage 653 666	bloody stools
+T4	Lower_gastrointestinal_haemorrhage 747 755	GI bleed
+A1	Negation T4
+A2	Diagnosis T4 History_of
+T5	Faecal_incontinence 1541 1559	bowel incontinence
+A3	Negation T5
+T6	Delirium 2272 2280	oriented
+A4	Negation T6
+T7	Lower_gastrointestinal_haemorrhage 4002 4017	rectal bleeding
+T8	Lower_gastrointestinal_haemorrhage 4353 4365	hematochezia
+T9	Lower_gastrointestinal_haemorrhage 4486 4498	hematochezia
+T10	Lower_gastrointestinal_haemorrhage 8588 8604	blood per rectum
+T11	Lower_gastrointestinal_haemorrhage 8606 8611	BRBPR
+T12	Lower_gastrointestinal_haemorrhage 8624 8647	bleeding on colonoscopy
+A5	Negation T12
+T13	Lower_gastrointestinal_haemorrhage 8886 8891	BRBPR
+T14	Lower_gastrointestinal_haemorrhage 8954 8967;8992 9000	sigmoidoscopy bleeding
+A6	Negation T14
+T15	Lower_gastrointestinal_haemorrhage 9002 9013;9040 9048	Colonoscopy bleeding
+A7	Negation T15
+T16	Lower_gastrointestinal_haemorrhage 9133 9138	BRBPR
+T17	Lower_gastrointestinal_haemorrhage 11368 11390	Gastrointestinal bleed
+T18	Delirium 11488 11521	Mental Status: Clear and coherent
+A8	Negation T18
+T19	Independently_mobile 11587 11611	Ambulatory - Independent
+T20	Lower_gastrointestinal_haemorrhage 11744 11752;11763 11769	bleeding rectum
+T21	Lower_gastrointestinal_haemorrhage 11790 11803;11855 11863	sigmoidoscopy bleeding
+A9	Negation T21
+T22	Lower_gastrointestinal_haemorrhage 11810 11821;11855 11863	colonoscopy bleeding
+A10	Negation T22
+T23	Lower_gastrointestinal_haemorrhage 11884 11892;11908 11919	bleeding hemorrhoids

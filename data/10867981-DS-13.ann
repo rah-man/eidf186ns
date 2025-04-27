@@ -1,0 +1,17 @@
+T1	Dementia 343 354	Alzheimer's
+T2	Dementia 355 363	dementia
+T3	Falls 380 384	fell
+T4	Lives_alone 466 475	husband's
+A1	Negation T4
+T5	Falls 543 550	falling
+T6	Delirium 703 716;728 736	mental status declined
+T7	Falls 229 235	Fall  
+T8	Intracranial_haemorrhage 839 842	SDH
+T9	Dementia 1104 1114	Alzheimers
+T10	Dementia 1115 1125	dementia  
+T11	Intracranial_haemorrhage 1386 1403	subdural hematoma
+T12	Intracranial_haemorrhage 1666 1688	intraventricular blood
+T13	Intracranial_haemorrhage 2377 2394	subdural hematoma
+T14	Seizures 3015 3022	seizure
+A2	Diagnosis T14 Implicit_mention
+T15	Intracranial_haemorrhage 3567 3584	Subdural Hematoma

@@ -1,0 +1,51 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___  Chief Complaint: diarrhea  Major Surgical or Invasive Procedure: sigmoidoscopy with biopsy
+
+ History of Present Illness: The patient is a ___ with history of colitis, HTN, HL; who presents with 3 weeks of non-bloody diarrhea. She reports that she was having loose stools five times per day. In addition, she had intermittent fevers (up to 101.2 F), which stopped two weeks ago. She saw her PCP last ___ and was started on Ciprofloxacin, which she stopped on last ___ because she didn't think it was helping. She called her PCP back on ___ because she got no relief from the ciprofloxacin and was started on prednisone 40 mg per day for a likely colitis flare, which she has been taking, but to no avail (and was hoping she could stop taking them). She endorses nausea and had dry heaving today in the ED and had emesis yesterday. Today she has been able to keep some food down, but has had a poor appetite. She endorses mild dizziness when she gets up from a lying position, dyspnea on exertion when walking up steps and occasional heart palpitations. She endorses increased thirst, occastional chills, a 7 lb weight loss since ___ and her usual anxiety. She denies chest pain and hematochezia. 
+
+Upon review of OMR, her last admission here was ___ for bilateral salpingo-oophorectomy for a right adnexal cyst diagnosed incidentally on CT scan for an episode of colitis in the ___. Her postoperative course was uncomplicated, and she was discharged home in good condition on POD#1.
+
+In ER: VS: 96.1 64 137/53 16 100% RA, ___ pain PX: A&O, 20gz R hand; Stool sample guaic positive. Studies: WBC 15.3, 73%N, 9% bands, u/a wnl CT scan: Colitis involving the distal ascending, transverse and descending colon. Likely inflammatory given the patient's history. Infectious etiologies less likely. Fluids given: 2L NS Meds given: Lorazepam 2mg IV & Ondansetron 4mg IV Consults called: None
+
+Review of Systems:  (+) Per HPI  (-) Denies recent weight gain. Denies visual changes, sinus tenderness, neck stiffness, rhinorrhea, congestion, sore throat or dysphagia. Denies chest pain, orthopnea. Denies shortness of breath, cough or wheezes. Denies heartburn, constipation, BRBPR, melena. No dysuria, urinary frequency. Denies arthralgias or myalgias. Denies rashes. No increasing lower extremity swelling. No numbness/tingling or muscle weakness in extremities. No feelings of depression. All other review of systems negative. 
+
+ Past Medical History: MedHx: hypertension hyperlipidemia remote hx of proctitis
+
+SurgHx: TAH via paramedian incision at age ___ T+A as a child
+
+ObHx: SVDx2 SABx1
+
+GynHx: fibroid uterus last menses prior to TAH no hx abnl Paps nl mammograms  Social History: ___ Family History: Her family history is noteworthy for one cousin who had ulcerative colitis. Sister with ___ macro globulin anemia.
+
+ Physical Exam: VS: 98.7 139/51 85 18 95%RA, ___ epigastric soreness ("not pain") 
+
+GEN: No apparent distress, but appears uncomfortable; malodorous flatus HEENT: no trauma, pupils round and reactive to light and accommodation, no LAD, oropharynx clear, no exudates CV: regular rate and rhythm, no murmurs/gallops/rubs PULM: Clear to auscultation bilaterally, no rales/crackles/rhonchi GI: soft, mild tenderness to deep palpation diffusely, non-distended; no guarding/rebound, obese EXT: no clubbing/cyanosis/edema; 2+ distal pulses; peripheral IV present NEURO: Alert and oriented to person, place and situation; CN II-XII intact, ___ motor function globally DERM: no lesions appreciated 
+
+ Pertinent Results: ___ 06:45PM  GLUCOSE-108* UREA N-14 CREAT-0.8 SODIUM-138 POTASSIUM-3.5 CHLORIDE-102 TOTAL CO2-21* ANION GAP-19 ___ 06:45PM  WBC-15.3* RBC-4.56 HGB-13.1 HCT-37.4 MCV-82 MCH-28.8 MCHC-35.2* RDW-12.1 ___ 06:45PM  NEUTS-73* BANDS-9* LYMPHS-10* MONOS-6 EOS-2 BASOS-0 ___ MYELOS-0 ___ 06:45PM  HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-OCCASIONAL MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL OVALOCYT-OCCASIONAL ___ 06:45PM  PLT SMR-HIGH PLT COUNT-522* ___ 04:43PM URINE GR HOLD-HOLD ___ 04:43PM URINE COLOR-Yellow APPEAR-Clear SP ___ ___ 04:43PM URINE BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 LEUK-NEG
+
+CT ABD & PELVIS WITH CONTRAST: IMPRESSION: Colitis involving the distal ascending, transverse and descending colon, sparing the cecum and sigmoid colon. The presence of engorged vasa recta and history of Crohn's disease favors inflammatory process though infection cannot be fully excluded. 
+
+Sigmoidoscopy Report: Findings: Mucosa: Segmental erythema and friability with contact bleeding were noted in the rectum. These findings are compatible with ulcerative colitis. Segmental continuous erythema and granularity were noted in the sigmoid colon. Cold forceps biopsies were performed for histology at the sigmoid colon and rectum. Impression: Ulcerative colitis
+
+BX: A. Sigmoid colon, biopsy:
+
+  Chronic mildly active colitis.
+
+B. Rectum, biopsy:
+
+  Chronic moderately active colitis with erosion.
+
+Note: No granulomata or dysplasia identified.  Brief Hospital Course: ## Colitis flare: Ms. ___ is a ___ w/ HTN, depression, anxiety, with remote hx of proctitis not on treatment who presented with watery diarrhea. CT showed colitis and flex sig ultimately showed findings consistent with UC. Infectious workup for her diarrhea was negative. She was afebrile throughout her hospitalization. She was started on Solumedrol and had slow improvement. There was some discussion regarding starting cyclosporin given her lack of improvement but her BMs gradually became more formed and her abdominal discomfort improved. She complained of crampy pains that would improve after bowel movements. She was transitioned to prednisone and started on ___. Hepatitis serologies were negative. PPD was negative. She may require Remicade in the future if she flares but appears to be improving now. Inflammatory markers downtrended. Hydrocortisone suppositories were also started.  She had some symptoms of GERD and so a PPI was started as well.  She will follow up with Dr. ___ in GI. ___ will have weekly CBC and LFTs checked. . #Hypertension, Hyperlipidemia - she was continued on her home regiment. . #Depression/Anxiety - she was continued on her citalopram and buspirone. She was given Ativan prn for anxiety as she was very anxious regarding her new diagnosis.
+
+ Medications on Admission: propranolol 40 mg BID simvastatin 40 mg po daily HCTZ/Triametrene 37.5/25 mg 1 po daily cetalopram 40 mg 1 po daily buspirone 10 mg twice daily prednisone 10 mg 1 po QID
+
+OTC: ASA 81 mg 2 daily MVI po daily calcium 500 mg 1 po daily
+
+ Discharge Medications: 1. propranolol 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  2. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  3. triamterene-hydrochlorothiazid 37.5-25 mg Capsule Sig: One (1) Cap PO DAILY (Daily).  4. buspirone 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+
+5. citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  6. hydrocortisone acetate 25 mg Suppository Sig: One (1) Suppository Rectal BID (2 times a day). Disp:*60 Suppository(s)* Refills:*2* 7. prednisone 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). Disp:*60 Tablet(s)* Refills:*2* 8. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily). Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2* 9. simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO TID (3 times a day) as needed for gas, bloating. Disp:*30 Tablet, Chewable(s)* Refills:*0* 10. mercaptopurine 50 mg Tablet Sig: 1.5 tablets Tablets PO DAILY (Daily). Disp:*75 Tablet(s)* Refills:*2* 11. multivitamin   Tablet Sig: One (1) Tablet PO once a day.  12. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO BID (2 times a day).  13. cholecalciferol (vitamin D3) 400 unit Tablet Sig: Two (2) Tablet PO DAILY (Daily).  14. Outpatient Lab Work CBC, LFTs weekly - Please fax results to Dr. ___. ___. 
+
+ Discharge Disposition: Home  Discharge Diagnosis: ulcerative colitis
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: You were diagnosed with ulcerative colitis. You had profuse watery diarrhea at admission but improved with steroids. You should take prednisone and the ___ as prescribed and use the rectal suppositories twice daily. You will need weekly bloodwork and should follow up with Dr. ___ in the next ___ weeks.  Followup Instructions: ___ 

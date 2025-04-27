@@ -1,0 +1,85 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: SURGERY  Allergies: Plavix  Attending: ___.  Chief Complaint: Free air  Major Surgical or Invasive Procedure: Trach and peg  History of Present Illness: Mr. ___ is an ___ yo M with treatment refractory ITP on long-term high dose steroids s/p lap splenectomy on ___, discharged to home on ___. The next day, his visiting nurse noted that he was unable to rise from the couch. He presented to ___ ED and was diagnosed with steroid induced myopathy and discharged to a rehab facility. At that rehab, he had a KUB showing an ileus. He then represented to ___ last night with marked abdominal distention. Repeat imaging at that time showed free air on CXR and he had a CT which showed a large amount of free air, small fluid collection in LLQ, marked bowel distention ? SBO vs ileus, and RLL PNA. He was started on vanc/cipro/flagyl and a surgery consult was obtained. The surgeons at the outside hospital recommended transfer back to ___ for management under the patient's recent surgeon at ___, Dr. ___.  Past Medical History: PMH: ITP A-Fib CAD-EF 35% Bullous dermatitis HTN Hyperlipidemia, BPH macular degeneration, degenerative joint disease Perineal abscess s/p ID Hyperglycemia ___ to steroids
+
+PSH: RCA stent ___ Hernia repair
+
+ Social History: ___ Family History: ___: CAD
+
+ Physical Exam: ___ 07:04 AM  Vital signs Tmax: 37.4 °C (99.4 °F) T current: 36.4 °C (97.6 °F) HR: 83 (83 - 98) bpm BP: 135/62(90) {135/62(90) - 170/78(115)} mmHg RR: 15 (14 - 27) insp/min SPO2: 91% Heart rhythm: AF (Atrial Fibrillation) Wgt (current): 97.9 kg (admission): 89 kg CVP: 9 (1 - 10) mmHg
+
+Total In: 2,080 mL 483 mL  Tube feeding: 960 mL/ 273 mL  IV Fluid: 600 mL/ 50 mL  Total out: 2,355 mL 745 mL  Urine: 2,355 mL 745 mL  Balance: -275 mL -262 mL
+
+Respiratory support O2 Delivery Device: Tracheostomy tube Ventilator mode: CPAP/PSV Vt (Set): 500 (500 - 500) mL Vt (Spontaneous): 729 (553 - 865) mL PS : 5 cmH2O RR (Set): 8 RR (Spontaneous): 13 PEEP: 5 cmH2O FiO2: 40% RSBI: 19 PIP: 11 cmH2O SPO2: 91% ABG: ___ Ve: 9.7 L/min PaO2 / FiO2: 230  Physical Examination ___ Appearance: Cachectic HEENT: PERRL Cardiovascular: (Rhythm: Irregular) Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Rhonchorous : bilateral) Abdominal: Soft, Bowel sounds present, Tender: Upper quadrants, Mild distension Left Extremities: (Edema: 3+), (Temperature: Warm) Right Extremities: (Edema: 3+), (Temperature: Warm) Skin: (Incision: Erythema) Neurologic: (Responds to: Tactile stimuli, Noxious stimuli)
+
+ Brief Hospital Course: Pt is an ___ Y M with ITP on steroids who had un uncomplicated lap splenectomy on ___ who was readmitted on ___ to OSH for what was thought to be steroid induced myopathy. Readmitted to ___ on ___ from OSH for abd distention. Imaging at that time showed free air on CXR and he had a CT which showed a large amount of free air, small fluid collection in LLQ, Treated for diverticulitis with bowel rest and NPO. Pt was transfered to the TICU for resp distress, and subsequent B/L aspergillus PNA, VRE, ATN and acute renal failure, possible PE, most recently a retroperitoneal hematoma. . Events: . ___ readmitted with diverticulitis, ___ CTA chest: No PE. likely a predominantly right upper lobe pneumonia, CXR: the pre-existing right upper lobe pneumonia markedly decreased  - doing well. A&O. on 4L NC, sats in high ___. gentle diuresis. lasix 20mg once. hct ___. GI consult: possible infected diverticuli with perf with 2ndary partial SBO or ischemic colon with perf. no emergent intervention/scope at this time. conservative treatment with hydration and IV abx, serial hcts. this AM, pt started to have increased WOB and tachypnea. another lasix 20mg. pt improved. febrile to 101. pan cx. APAP PR. s/p splenectomy and chronic steroids thus with increased risk of infections. last night febrile to 101. APAP PR. pan cx. primary team wants to consider adding fluconzole and ID consult. currently on Vanc/Zosyn, to cover HAP and diverticulitis. ___ ___ added, d/w ID. ID also recommended consider add cipro if continues to spike fevers for double gram neg coverage. ___ HCT dropped slightly at noon to 23.6 from 24.6, but was stable for 9 hours at 23.0. Had another episode of blood per rectum (red/maroon/clot) at 10pm. Repeat HCT to be checked at 2am. ___ HCT drop again to 21.7 w/another bloody/marroon BM, given dropping hct and active bleeding, transfused x1units PRBCs, electrolyte abnormalities suggested labs drawn from PICC contaminated by TPN. Repeat HCT stable at 23.7. Pt intubated for respiratory distress. Another maroon colored stool, hct stable, INR 1.5. Bronchoscopy showing purulent fluid in RUL and LLL and LUL/lingula. ___: started runs of ___ beats of vtach --> cont vtach. BP stable. ECG, electrolytes, trops. lidocaine 100mg, Mag 2gms, lidocaine 100mg, midazolam 2mg, percedex gtt, back on AC on vent. ___ lasix 20mg overnight, to diurese to even. Net -91cc. ___: Febrile in AM, pancx, NGT placed and TF started, failed decrease in PSV, unable to wean ___: aline. ___ Hct 25.3. CT torso per primary team. failed wean overnight. CT torso: Multiple lower abdominal pelvic air and fluid collections appear somewhat more organized and slightly smaller than prior exam. Left lower lobe pneumonia, new since prior exam. ___: failed weaning ___: ID consult: see below for recs ___: Started Voriconazole, CT chest worse, CT head done (WNL), unable to wean off vent, needed to increase PSV, HCP consented for trach/peg in future ___: spiked to 102.1. pan cx. requiring increased vent support. d/c'd fluconazole. tracheal asp sent for PCP. 2 doses of lasix to keep him even. minimal output, increased Cr. intermittent runs of V-tach. BPs stable. today: trach bedside, peg by ___. ___ attempted PICC line placement, but failed. Placed L IJ for access. ___ Bcx from ___ grew out GPCs in pairs and short chains. ___ bedside trach/peg converted to open trach/peg in OR, +VRE, antibiotics changed, increasing Cr, hypotensive --> neo gtt started, mixed respiratory and metabolic acidosis unresponsive to vent changes and cis gtt. bicarb gtt started. hcp passed away. ___: dead space 74%. started on heparin gtt for persumed PE. no read on ___ U/S. trach with cuff leak. Hct this AM 22. transfused 1 unit. TTE: RV mod dilated, mod PHTN, EF > 55%. UOP improving slightly, but Cr and lytes worsening. legionella/norcadia urine Ag neg, Cx pending. increased fats and decreased Dex in TPN. residuals in the 300s. TFs stopped. reglan given. family meeting on ___ 1pm with brother. ___: 2 units PRBC for Hct 22. Renal C/s for volume overload, ATN ___: HD catheter placed, cosyntropin test (initial cortisol WNL, but poor response to test), started hydrocort 100 IV TID, TPN stopped, plan to advance TFs, family mtg - DNR/DNI. no CPR, no shock, no HD, no vasopressors. continue current medical mgmt, DC coumadin. ___: had another large maroon BM. stat hct 23.3. no change in mgmnt. TFs held again ___ high residuals. per ID, d/c'd cipro.  
+
+___ Transfused 2u PRBc w/ bump from 23.7 to 26.4. Put back on PSV, tolerating well. ___: Switched to SIMV, Prednisone taper started ___ family meeting, continue DNR (no shocks, no compression), no dialysis, no escalation of care, but continue w/treatment/ abx/medications. ___: resolved metabolic acidosis with normal ABG, family meeting: no change in care plan. ___ stopped heparin given HCT drop and bleeding from PEG site, CT-torso showed large abdominal ?retroperitoneal bleed. CT-chest w/ worsening ground-glass opacities/consolidation. ___: US: superficial DVT in cepahlic vein RUE noted .
+
+Current assessment and Plan: NEURO: Declined when became azetemic, BUN was up to 170. As his renal function improved making eye contuct moving extremities, no priary neurological event Currently: Mental status poor despite minimal sedation, mild improvement with resolving uremia. HD CT ___ neg. Neuro checks Q4H, Intermittent Haldol/Dilaudid for agitation/pain control. . CV: During his VRE bacteremia, hypotensive and requred -pressor during his course, but as his infection improved he has been normo tensive and now needs home BP medicaiton. 75 TID of lopressor tolerating well. Quite a bit of ectomy with runs of VTACH no hymodynamic instibiliti. He is DNR so if he goes into lethal run can ot convert out. Was treated with lidocaine.  Currently: Pt has Chronic a-fib - rate controlled with lopressor increased to 37.5 ___ TID, continues to have ectopy and short runs of VTAC, but remains hemodynamically stable. Holding off on anticoagulation due to slow drop in Hct . PULM: Aspirgillis pneumonia with vorticonizol, On ___ fluconazole which is not neurotoxic. Tached in the OR, remained ventilator dependent. Currnently: -Possible PE based on TTE ___: RV mod dilated, mod PHTN. 75% calculated dead space. Heparin stopped ___ due to HCT drop, active bleeding from PEG site and CT showing retroperitoneal hematoma. -Respiratory failure - s/p trach. ___ CXRs. On CPAP ___. ABGs improving. Oxygenating well. Although CT chest on ___ read as worsening infection, will continue to assess clinically. -HAP/VAP: treating with Voriconazole (day 16-on ___ for aspergillius PNA -Most recent sputum cultures from ___ and ___ showed yeast with gpc which were c/w commensal flora. They were not enterococcus.  . GI: During his course pt recieved a PEG and now is on tube feeds. Currently: - Abd intermittently diffusely tender as pt occasionally grimaces to exam. Could be ___ retroperitoneal hematoma (no evidence of diverticulitis from CT ___ - TFs restarted and tolerating at goal, flexiseal for stool management, C diff negative so far. . RENAL: -Resolving ARF/ATN with Cr normalizing though pt is uremic despite adequate urine output, still w/anasarca, grossly volume overloaded. no dialysis per family mtg. His renal failure has resolved with his creatinine down to 1.1. Over the last few days his sodium had increased to 153 but this has improved with D5W running at 100cc/hr.  HEME: - Possible PE: Heparin gtt stopped ___ HCT drop and bleeding. - Anemia: HCT slowly dropping, checking seral HCT BID and transfusing when clinically indicated. Stool currently brown though heme positive in past. . ENDO: RISS. Restarted steroids; Now on pre-splenectomy prednisone ___ dose. . ID: . -PNA: BAL ___: Aspergillus: On Voriconazole (day 16, ___. CT-Chest on ___ worsening infection, ? radiologic lag vs evolving infection. -Bacteremia: BCx ___ Negative, Surveillance culture ___ still NGTD. Blood Cx: ___ VRE, treated with linezolid for 14 days, stopped on ___. Testing for legionella, PCP, ___, all negative. Continue to f/u BCx. -ID recs repeat B-glucan/galactomanan to assess treatment. Voriconazole level 6.78 (therapeutic). -From ___ to the ___ he had a rising white count from 10 to 19. He had completed his two week course of linezolid for the VRE in his blood. However given the gpc in his sputum the linezolid was continued. It should be continued for another 10 days. He his count has come back down to 15 from 19 and he has been afebrile during this time.   Medications on Admission: warfarin 2.5 alternating with 1.5 ___ 81 ___, proscar 5 ___, lasix 40 ___, lantus 7 units qPM, RISS, isosorbide mononitrate 90 ___, lactinex two pills bid, toprol XL 50 ___, prednisone 40 ___ (recently reduced from 50 ___, zocor 40 ___, prednisone forte eye drops one drop OD ___, Vit B3 ___ qweek, MVI ___, dulcolax & colase ___
+
+ Discharge Medications: 1. Prednisolone Acetate 1 % Drops, Suspension Sig: One (1) Drop Ophthalmic ___.  2. Docusate Sodium 50 mg/5 mL Liquid Sig: One (1) ___ BID (2 times a day).  3. Ipratropium Bromide 17 mcg/Actuation HFA Aerosol Inhaler Sig: Six (6) Puff Inhalation Q4H (every 4 hours) as needed for wheezing.  4. Voriconazole 200 mg Tablet Sig: 1.5 Tablets ___ Q12H (every 12 hours).  5. Prednisone 20 mg Tablet Sig: 1.5 Tablet ___.  6. Lansoprazole 30 mg Tablet,Rapid Dissolve, ___ Sig: One (1) Tablet,Rapid Dissolve, ___ ___.  7. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)  Injection TID (3 times a day).  8. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet ___ TID (3 times a day).  9. Senna 8.6 mg Tablet Sig: One (1) Tablet ___ BID (2 times a day) as needed for constipation.  10. Haloperidol ___ mg IV Q4H:PRN agitation 11. HYDROmorphone (Dilaudid) 0.5-1 mg IV Q3H:PRN pain 12. Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol 13. Linezolid ___ iv q12 14. Albuterol Inhaler 6 PUFF IH Q4H:PRN wheezing  15. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID intubated   Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: AIRWAY, INABILITY TO PROTECT (RISK FOR ASPIRATION, ALTERED GAG, AIRWAY CLEARANCE, COUGH), ACIDOSIS, METABOLIC, .H/O GASTROINTESTINAL BLEED, LOWER (HEMATOCHEZIA, BRBPR, GI BLEED, GIB), VENTRICULAR PREMATURE BEATS (VPB, VPC, PVC), RESPIRATORY FAILURE, ACUTE (NOT ___, ALTERED MENTAL STATUS (NOT DELIRIUM), OTHER PROBLEM - ENTER DESCRIPTION IN COMMENTS, IMPAIRED SKIN INTEGRITY, CARDIOMYOPATHY, OTHER, PNEUMONIA, OTHER, RENAL FAILURE, ACUTE (ACUTE RENAL FAILURE, ARF), DIVERTICULITIS
+
+Neurologic: Mental status poor despite minimal sedation, mild improvement with resolving uremia. HD CT ___ neg. Neuro checks Q4H, Intermittent Haldol/Dilaudid for agitation/pain control. Add Tylenol, wean dilaudid as tolerated
+
+ 
+
+Cardiovascular: Chronic a-fib - rate controlled with lopressor increased to 50 ___ TID advance to 75 TID, continues to have ectopy and short runs of VTAC, but remains hemodynamically stable.
+
+Pulmonary: Trach, (Ventilator mode: CPAP + PS), Possible PE based on TTE ___: RV mod dilated, mod PHTN. 75% calculated dead space. Heparin stopped ___ due to HCT drop, active bleeding from PEG site and CT showing retroperitoneal hematoma. 
+
+-Respiratory failure - s/p trach. ___ CXRs. On CPAP ___. ABGs improving. Oxygenating well. Although CT chest on ___ read as worsening infection, will continue to assess clinically.
+
+-HAP/VAP: treating with Voriconazole (day 16-on ___ for aspergillius PNA
+
+ 
+
+Gastrointestinal / Abdomen: Abd soft, 
+
+- TFs restarted and tolerating at goal, flexiseal for stool management, C diff negative
+
+ 
+
+Nutrition: Tube feeding
+
+Renal: Foley, -Resolving ARF/ATN with Cr normalizing though pt is uremic despite adequate urine output, still w/anasarca, grossly volume overloaded. no dialysis per family mtg. ___ need some hydration with elevated BUN and serum Sodium and creatinine is almost reached baseline.
+
+ 
+
+Hematology: - stable anemia. 1 unit for Hct=22
+
+- Anemia: HCT slowly dropping, checking seral HCT BID and transfusing when clinically indicated. Stool currently brown though heme positive in past.
+
+ 
+
+Endocrine: RISS, RISS. Restarted steroids; Now on pre-splenectomy prednisone ___ dose. 
+
+ 
+
+Infectious Disease: -PNA: BAL ___: Aspergillus: On Voriconazole (day ___, ___. CT-Chest on ___ worsening infection, ? radiologic lag vs evolving infection.
+
+-Bacteremia: BCx ___ Negative, Surveillance culture ___ still NGTD. Blood Cx: ___ VRE, treated with linezolid for 14 days, stopped on ___. Testing for legionella, PCP, ___, all negative. Continue to f/u BCx.
+
+-ID recs repeat B-glucan/galactomanan to assess treatment. Voriconazole level 6.78 (therapeutic).
+
+.
+
+Wound: Stage ___ wound. wound care per nursing.
+
+ 
+
+Lines / Tubes / Drains: Trach, PEG, Foley, right axillary a-line, LIJ CVL
+
+ 
+
+Wounds: 
+
+Imaging: 
+
+Fluids: KVO
+
+Consults: ___ surgery, ID dept
+
+Billing Diagnosis: (Respiratory distress: Failure), Post-op hypotension, Acute renal failure 
+
+ Discharge Condition: Poor  Discharge Instructions: N: Follow mental status CV: beta-blockade for rate controlled afib and runs of v-tach.  Resp: Vent - currently requiring minimal support, wean to trach collar, 2 weeks linezolid for gpc in sputum. Airway and mouth care. GI: NovaSource Renal (Full) - ___ 06:13 ___ 40 mL/hour GU: renal failure resolved, watch creatinine Glycemic Control: Regular insulin sliding scale Heme: no anticoagulation for afib secondary to retroperitoneal hematoma. ID: prolonged voriconzole and 10 days of linezolid.  Lines: Multi Lumen - ___ 06:30 ___ Arterial Line - ___ 06:09 ___ Prophylaxis: DVT: Boots, SQ UF Heparin Stress ulcer: PPI VAP bundle: HOB elevation, Mouth care, ___ wake up, RSBI Code status: DNR (do not resuscitate)
+
+ Followup Instructions: ___ 

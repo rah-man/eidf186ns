@@ -1,0 +1,8 @@
+T1	Upper_gastrointestinal_haemorrhage 2830 2842	black stools
+A1	Negation T1
+T2	Lower_gastrointestinal_haemorrhage 2846 2856	red stools
+A2	Negation T2
+T3	Has_carers 12233 12250	Home With Service
+T4	Delirium 12371 12404	Mental Status: Clear and coherent
+A3	Negation T4
+T5	Independently_mobile 12470 12494	Ambulatory - Independent

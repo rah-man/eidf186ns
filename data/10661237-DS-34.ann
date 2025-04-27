@@ -1,0 +1,22 @@
+T1	Constipation 2037 2049	constipation
+A1	Negation T1
+T2	Lower_gastrointestinal_haemorrhage 2051 2056	BRBPR
+A2	Negation T2
+T3	Upper_gastrointestinal_haemorrhage 2058 2064	melena
+A3	Negation T3
+T4	Lower_gastrointestinal_haemorrhage 2066 2078	hematochezia
+A4	Negation T4
+T5	Dementia 1732 1747	memory problems
+T6	Dementia 463 476	memory issues
+T7	Dementia 3019 3031	oriented x 1
+T8	Dementia 8187 8195	Dementia
+T9	Dementia 8221 8229	dementia
+T10	Dementia 8304 8309	A&Ox2
+T11	Delirium 8460 8468	delirium
+A5	Diagnosis T11 Implicit_mention
+T12	Delirium 8491 8499	delirium
+A6	Negation T12
+T13	Has_carers 10949 10966	Home With Service
+T14	Delirium 11149 11182	Mental Status: Clear and coherent
+A7	Negation T14
+T15	Independently_mobile 11248 11272	Ambulatory - Independent

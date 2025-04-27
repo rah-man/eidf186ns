@@ -1,0 +1,161 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Penicillins / codeine / Sulfa (Sulfonamide Antibiotics) / Demerol / Percocet / Neosporin AF / bacitracin / Levaquin / Levaquin / latex / lisinopril / perfume  Attending: ___.  Chief Complaint: Fall  Major Surgical or Invasive Procedure: none
+
+ History of Present Illness: ___ is a ___ female who presents to ___ on ___ with a mild TBI. 
+
+Mechanism of trauma: She had a fall at 1am. She had fallen asleep in a chair, woke up and tried to stand but got dizzy and fell. Her head fit the floor. No LOC. 
+
+She was taken to OSH where head CT showed 6mm right side SDH and she was transferred to ___ for further evaluation. She takes Eliquis for afib, but this has been held since ___ given rectal (vs vaginal?) bleeding. Bleeding has since resolved and she planned to f/u in clinic tomorrow. 
+
+Patient c/o mild to moderate headache with mild nausea. No vomiting. No visual changes, weakness, or numbness.  Past Medical History: HYPERTENSION                           HYPOTHYROIDISM                          GASTROESOPHAGEAL REFLUX                     SICK SINUS SYNDROME                       PACEMAKER PLACEMENT                       PERICARDIAL EFFUSION                       LUPUS                              DIVERTICULITIS                          OSTEOARTHRITIS                          ATRIAL FIBRILLATION on eliquis   HFrEF (25% in ___  Social History: ___ Family History: non-contributory  Physical Exam: -------------- on admission: -------------- GCS upon Neurosurgery Evaluation: 15    
+
+Airway: [ ]Intubated  [x]Not intubated
+
+Eye Opening:  [ ]1 Does not open eyes [ ]2 Opens eyes to painful stimuli [ ]3 Opens eyes to voice [x]4 Opens eyes spontaneously
+
+Verbal: [ ]1 Makes no sounds [ ]2 Incomprehensible sounds [ ]3 Inappropriate words [ ]4 Confused, disoriented [x]5 Oriented
+
+Motor: [ ]1 No movement [ ]2 Extension to painful stimuli (decerebrate response) [ ]3 Abnormal flexion to painful stimuli (decorticate response) [ ___ Flexion/ withdrawal to painful stimuli  [ ]5 Localizes to painful stimuli [x]6 Obeys commands
+
+Exam:
+
+Gen: WD/WN, comfortable, NAD. HEENT: ecchymosis and erythema over right eye Neck: supple Extrem: warm and well perfused
+
+Neuro:
+
+Mental Status: Awake, alert, cooperative with exam, normal affect.
+
+Orientation: Oriented to person, place, and date.
+
+Language: Speech is fluent with good comprehension. Hard of hearing 
+
+Cranial Nerves: I: Not tested II: Pupils equally round and reactive to light, 3 to 2 mm bilaterally. III, IV, VI: Extraocular movements intact bilaterally without nystagmus. V, VII: Facial strength and sensation intact and symmetric. VIII: Hearing intact to voice. IX, X: Palatal elevation symmetrical. XI: Sternocleidomastoid and trapezius normal bilaterally. XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements, tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch
+
+DISCHARGE EXAM ============== Vitals: 24 HR Data (last updated ___ @ 608)   Temp: 97.4 (Tm 98.5), BP: 131/81 (89-131/42-81), HR: 59 (50-87), RR: 18 (___), O2 sat: 94% (92-97), O2 delivery: RA, Wt: 190.26 lb/86.3 kg  General: In NAD. HEENT: 2 cm scratch over right eyebrow-minimal with periorbital echymosis. Sclera anicteric, MMM, oropharynx clear.  Neck: JVP below mandible. CV: RRR, no murmurs/gallops/rubs Lungs: CTAB, no crackles/wheezing/rhonchi Abdomen: Soft, non tender, non distended.  Ext: Warm, well perfused, +2 pulses. 1+ pitting edema around ankles bilaterally. R wrist in splint. Neuro: A&Ox3, answering questions appropriately, CN II-XII intact, motor and sensation to light touch intact.  Pertinent Results: ADMISSION LABS ============== ___ 07:50AM BLOOD WBC-5.8 RBC-3.81* Hgb-11.7 Hct-37.2 MCV-98 MCH-30.7 MCHC-31.5* RDW-13.8 RDWSD-49.7* Plt ___ ___ 07:50AM BLOOD Neuts-83.3* Lymphs-8.3* Monos-6.6 Eos-1.0 Baso-0.3 Im ___ AbsNeut-4.81 AbsLymp-0.48* AbsMono-0.38 AbsEos-0.06 AbsBaso-0.02 ___ 07:50AM BLOOD ___ PTT-28.4 ___ ___ 07:50AM BLOOD Glucose-119* UreaN-28* Creat-0.8 Na-143 K-4.0 Cl-102 HCO3-29 AnGap-12
+
+IMAGING =======
+
+___ TTE The left atrial volume index is normal. There is mild symmetric left ventricular hypertrophy with a normal cavity size. There is normal regional and global left ventricular systolic function. The visually estimated left ventricular ejection fraction is 55-60%. There is no resting left ventricular outflow tract gradient. Normal right ventricular cavity size with normal free wall motion. The aortic sinus diameter is normal for gender. The aortic arch diameter is normal with a mildly dilated descending aorta. The aortic valve leaflets (3) are mildly thickened. There is no aortic valve stenosis. There is mild [1+] aortic regurgitation. The mitral valve leaflets are mildly thickened with no mitral valve prolapse. There is mild [1+] mitral regurgitation. The pulmonic valve leaflets are normal. The tricuspid valve leaflets appear structurally normal. There is physiologic tricuspid regurgitation. Due to acoustic shadowing, the severity of tricuspid regurgitation may be UNDERestimated. There is moderate pulmonary artery systolic hypertension. There is no pericardial effusion. IMPRESSION: Mild symmetric left ventricular hypertrophy with normal cavity size and regional/global biventricular systolic function. Mild aortic regurgitation. Mild mitral regurgitation. Moderate pulmonary hypertension.
+
+___ CT HEAD IMPRESSION:  1. Stable small right subdural hematoma. No new intracranial hemorrhage. 2. Stable configuration of the ventricular system.  Approximately 3 mm leftward midline shift and partial effacement of the temporal horn of the right lateral ventricle. 
+
+DISCHARGE LABS ============== ___ 07:50AM BLOOD WBC-3.9* RBC-3.99 Hgb-12.3 Hct-38.6 MCV-97 MCH-30.8 MCHC-31.9* RDW-13.6 RDWSD-48.4* Plt ___ ___ 07:50AM BLOOD Plt ___ ___ 07:50AM BLOOD Glucose-91 UreaN-30* Creat-0.8 Na-143 K-3.9 Cl-98 HCO3-29 AnGap-16 ___ 07:50AM BLOOD Calcium-8.7 Phos-3.4 Mg-2.___ w/ PMH AFib (on apixaban), SSS ___ PPM/CRT-P), HFrEF (EF previously 25%, now improved to 55%), SLE, Sjogren's, admitted with ___ after a fall, course c/b encephalopathy.
+
+#SDH #Encephalopathy She was admitted to neurosurgery floor for close monitoring. Eliquis (for afib) was held. She was started on keppra 500 mg bid for seizure ppx. She had increased lethargy ___ but exam remained non-focal and was easily arousable. Infectious workup was negative. Repeat CT on ___ was stable. No surgical intervention was indicated. She should continue to hold Eliquis and follow up with repeat CT in 1 month. MS improved to ___ at the time of DC.
+
+#Wrist sprain She was evaluated by ortho for right wrist pain. XR was negative for fracture. She was ordered for a wrist splint to be worn at all times and should follow up with ortho in 2 weeks. 
+
+#Vertigo/syncope Patient notes h/o vertigo and attributes this to fall. She was transferred to Medicine service for further work up. On medicine she was found to be orthostatic. We reduced her Torsemide dose to 10mg from alternating between 20 and 40mg. ___ require further uptitration as an outpatient. TTE did not show any aortic pathology as cause for syncope, but was notable for an improved EF to 55% (after placement of BiV pacer) from 25% previously. Her pacemaker was interrogated and showed two episodes of NSVT, neither of which corresponded to her fall. 
+
+#HFrEF: EF 25% in ___ w/ global hypokinesis. Unclear if from CAD (prior stress test w/ apical scarring c/f prior MI), not on home ___ (?adverse reaction) or spironolactone (hyperkalemia). As above, reduced her Torsemide to 10mg. Also as above, TTE showed improvement in EF to 55%, as her last echo was done before placement of BiV device. We continued his home metoprolol. 
+
+# SSS ___ CRT-P #AFib: Holding AC ___ SDH, will not restart until after cleared by neurosurgery with repeat head CT. COntinued home metoprolol for rate control.
+
+# Hypothyroidism: Continued home levothyroxine
+
+# GERD: Continued home PPI
+
+TRANSITIONAL ISSUES =================== [] Follow-up with Ortho in 2 weeks, keep wrist splint on until then [] Call ___ for a Neurosurgery follow-up appointment with Dr. ___ in 4 weeks. Hold anticoagulation until then. Will need repeat CT Head w/o contrast at that time. [] Daughter mentioned some perineal bleeding, unclear whether vaginal, rectal or superficial. None observed during the hospitalization. Please continue to monitor for bleeding. [] 1 week Keppra course to end ___ [] As above, Torsemide dose was downtitrated to 10mg qd in the setting of orthostasis. Unclear whether orthostasis is totally attributable to Torsemide. Dose may need adjustment if pt has weight gain, shortness of breath. 
+
+# CODE: Full (presumed) - discussed with daughter who states she is HCP, however, do not have paperwork that she is HCP. # CONTACT: ___ (daughter) ___  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Apixaban 5 mg PO BID 2. Levothyroxine Sodium 88 mcg PO DAILY 3. Metoprolol Succinate XL 150 mg PO DAILY 4. Pantoprazole 40 mg PO Q24H 5. Torsemide 20 mg PO EVERY OTHER DAY 6. Torsemide 40 mg PO DAILY 7. Calcium Carbonate 1200 mg PO DAILY 8. Vitamin D 1000 UNIT PO DAILY 
+
+ Discharge Medications: 1. LevETIRAcetam 500 mg PO Q12H Duration: 7 Days  2. Calcium Carbonate 500 mg PO BID  3. Torsemide 10 mg PO DAILY  4. Levothyroxine Sodium 88 mcg PO DAILY  5. Metoprolol Succinate XL 150 mg PO DAILY  6. Pantoprazole 40 mg PO Q24H  7. Vitamin D 1000 UNIT PO DAILY  8. HELD- Apixaban 5 mg PO BID This medication was held. Do not restart Apixaban until you are cleared by neurosurgery to restart
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Primary Diagnosis: subdural hematoma, orthostatic hypotension
+
+ Discharge Condition: Mental Status: Confused - always. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Dear Ms. ___, 
+
+It was a pleasure taking care of you at ___. 
+
+WHY WERE YOU IN THE HOSPITAL? You had a fall and hit your head
+
+WHAT HAPPENED WHILE YOU WERE HERE? You were found to have a small amount of bleeding in your brain. We adjusted the dose of your diuretic (Torsemide), as this may have contributed to your fall. 
+
+WHAT SHOULD YOU DO WHEN YOU LEAVE THE HOSPITAL? Please continue to take all of your medications as directed, and follow up with your doctors. ___ care when going from sitting to standing, do so slowly. Below are some recommendations specifically related to your brain bleeding. 
+
+Brain Hemorrhage without Surgery:
+
+Activity
+
+·   We recommend that you avoid heavy lifting, running, climbing, or other strenuous exercise until your follow-up appointment.
+
+·   You make take leisurely walks and slowly increase your activity at your own pace once you are symptom free at rest. ___ try to do too much all at once.
+
+·   No driving while taking any narcotic or sedating medication.
+
+·   If you experienced a seizure while admitted, you are NOT allowed to drive by law.
+
+·   No contact sports until cleared by your neurosurgeon. You should avoid contact sports for 6 months.
+
+ Medications
+
+·   ***Please do NOT take Eliquis or any other blood thinning medication (Aspirin, Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon at follow up with a repeat head CT.
+
+·   ***You have been discharged on Keppra (Levetiracetam). This medication helps to prevent seizures. Please continue this medication as indicated on your discharge instruction (total of 7 days only, then stop). It is important that you take this medication consistently and on time.  ·   You may use Acetaminophen (Tylenol) for minor discomfort if you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+
+·   You may have difficulty paying attention, concentrating, and remembering new information.
+
+·   Emotional and/or behavioral difficulties are common.
+
+·   Feeling more tired, restlessness, irritability, and mood swings are also common.
+
+·   Constipation is common. Be sure to drink plenty of fluids and eat a high-fiber diet. If you are taking narcotics (prescription pain medications), try an over-the-counter stool softener.
+
+ 
+
+Headaches:
+
+·   Headache is one of the most common symptom after a brain bleed.
+
+·   Most headaches are not dangerous but you should call your doctor if the headache gets worse, develop arm or leg weakness, increased sleepiness, and/or have nausea or vomiting with a headache.
+
+·   Mild pain medications may be helpful with these headaches but avoid taking pain medications on a daily basis unless prescribed by your doctor.
+
+·   There are other things that can be done to help with your headaches: avoid caffeine, get enough sleep, daily exercise, relaxation/ meditation, massage, acupuncture, heat or ice packs.
+
+ 
+
+ 
+
+When to Call Your Doctor at ___ for:
+
+·   Severe pain, swelling, redness or drainage from the incision site.
+
+·   Fever greater than 101.5 degrees Fahrenheit
+
+·   Nausea and/or vomiting
+
+·   Extreme sleepiness and not being able to stay awake
+
+·   Severe headaches not relieved by pain relievers
+
+·   Seizures
+
+·   Any new problems with your vision or ability to speak
+
+·   Weakness or changes in sensation in your face, arms, or leg
+
+ 
+
+Call ___ and go to the nearest Emergency Room if you experience any of the following:
+
+·   Sudden numbness or weakness in the face, arm, or leg
+
+·   Sudden confusion or trouble speaking or understanding
+
+·   Sudden trouble walking, dizziness, or loss of balance or coordination
+
+·   Sudden severe headaches with no known reason
+
+ 
+
+ 
+
+ Followup Instructions: ___ 

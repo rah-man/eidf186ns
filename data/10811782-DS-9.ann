@@ -1,0 +1,34 @@
+T1	Falls 235 242	Falls  
+T2	Falls 511 515	fell
+T3	Falls 578 582	fell
+T4	Falls 475 482	falling
+T5	Falls 445 450	falls
+T6	Falls 633 638	falls
+T7	Falls 3136 3141	falls
+T8	Falls 3147 3152	Falls
+T9	Falls 3207 3212	falls
+T10	Falls 3228 3235	falling
+T11	Falls 3500 3504	fall
+T12	Falls 3445 3450	falls
+T13	Falls 5248 5253	falls
+T14	Falls 5458 5463	falls
+T15	Falls 5523 5527	fall
+T16	Falls 6569 6573	fall
+T17	Falls 6680 6684	fall
+T18	Falls 7468 7473	falls
+A1	Diagnosis T18 Implicit_mention
+T19	Constipation 703 715	constipation
+A2	Negation T19
+T20	Intracranial_haemorrhage 2801 2824	intracranial hemorrhage
+A3	Negation T20
+T21	Intracranial_haemorrhage 3663 3667;3702 3707	head bleed
+A4	Negation T21
+T22	Mobile_with_aid 3829 3835	walker
+A5	Type_of_aid T22 Two_sticks_or_frame
+T23	Has_carers 6494 6511	Home With Service
+T24	Seizures 6725 6732	seizure
+A6	Negation T24
+T25	Lives_in_carehome 6903 6918	assisted living
+A7	Negation T25
+T26	Lives_in_carehome 3898 3913	assisted living
+A8	Negation T26

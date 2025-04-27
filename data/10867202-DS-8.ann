@@ -1,0 +1,6 @@
+T1	Lower_respiratory_tract_infection 1621 1626	PNA  
+A1	Diagnosis T1 Implicit_mention
+T2	Delirium 8220 8253	Mental Status: Clear and coherent
+A2	Negation T2
+T3	Mobile_with_assistance 8319 8329;8341 8351	Ambulatory assistance
+T4	Mobile_with_aid 8319 8329;8355 8358	Ambulatory aid

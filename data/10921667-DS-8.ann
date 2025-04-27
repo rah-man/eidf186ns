@@ -1,0 +1,20 @@
+T1	Weight_loss 418 429	weight loss
+T2	Lives_alone 688 692	wife
+A1	Negation T2
+T3	Weight_loss 1425 1436	weight loss
+T4	Constipation 2020 2032	constipation
+A2	Negation T4
+T5	Visual_impairment 2122 2139	changes in vision
+A3	Negation T5
+T6	Hearing_impairment 2122 2132;2155 2162	changes in hearing
+A4	Negation T6
+T7	Lower_respiratory_tract_infection 2429 2432;2514 2523	CXR infection
+A5	Diagnosis T7 Suspected
+T8	Intracranial_haemorrhage 2945 2968	Intracranial hemorrhage
+A6	Diagnosis T8 History_of
+T9	Lower_respiratory_tract_infection 5397 5400;5514 5523	CXR infection
+A7	Diagnosis T9 Suspected
+T10	Weight_loss 7334 7345	weight loss
+T11	Delirium 10731 10764	Mental Status: Clear and coherent
+A8	Negation T11
+T12	Independently_mobile 10830 10854	Ambulatory - Independent

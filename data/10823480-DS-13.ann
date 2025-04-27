@@ -1,0 +1,13 @@
+T1	Constipation 1211 1223	constipation
+A1	Negation T1
+T2	Lower_gastrointestinal_haemorrhage 1225 1230	BRBPR
+A2	Negation T2
+T3	Upper_gastrointestinal_haemorrhage 1232 1238	melena
+A3	Negation T3
+T4	Lower_gastrointestinal_haemorrhage 1240 1252	hematochezia
+A4	Negation T4
+T5	Delirium 1809 1812	a/o
+A5	Negation T5
+T6	Has_carers 5772 5789	Home With Service
+T7	Upper_gastrointestinal_haemorrhage 7442 7452	dark stool
+A6	Diagnosis T7 Implicit_mention

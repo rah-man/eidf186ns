@@ -1,0 +1,63 @@
+T1	Intracranial_haemorrhage 231 234	ICH
+T2	Intracranial_haemorrhage 240 245	IVH  
+T3	Seizures 336 343	seizure
+A1	Diagnosis T3 History_of
+T4	Falls 370 374	fall
+T5	Intracranial_haemorrhage 382 405	intracranial hemorrhage
+T6	Falls 509 513	fell
+T7	Falls 423 427	fall
+T8	Falls 1911 1915	Fall
+T9	Falls 6055 6059	fall
+T10	Falls 6003 6007	fall
+T11	Falls 7358 7362	fall
+T12	Falls 7905 7909	Fall
+T13	Falls 7926 7930	fall
+T14	Falls 8111 8115	fall
+T15	Falls 10074 10078	fall
+T16	Falls 10386 10390	fall
+T17	Falls 6141 6145	fell
+T18	Delirium 787 795	confused
+T19	Delirium 874 882	confused
+T20	Intracranial_haemorrhage 999 1022	intracranial hemorrhage
+T21	Seizures 1852 1859	Seizure
+A2	Diagnosis T21 History_of
+T22	Seizures 1876 1883	seizure
+A3	Diagnosis T22 History_of
+T23	Lower_respiratory_tract_infection 4954 4963	pneumonia
+A4	Negation T23
+T24	Intracranial_haemorrhage 5089 5112	intracranial hemorrhage
+T25	Intracranial_haemorrhage 5130 5146;5156 5166	intraventricular hemorrhage
+T26	Intracranial_haemorrhage 5338 5348;5417 5421	hemorrhage HEAD
+A5	Negation T26
+T27	Intracranial_haemorrhage 5460 5483	intracranial hemorrhage
+T28	Intracranial_haemorrhage 5650 5666;5690 5700	encephalomalacia hemorrhage
+A6	Negation T28
+T29	Seizures 5969 5976	seizure
+A7	Diagnosis T29 History_of
+T30	Intracranial_haemorrhage 6015 6038	intracranial hemorrhage
+T31	Delirium 6418 6426	confused
+T32	Delirium 6505 6513	confused
+T33	Intracranial_haemorrhage 6630 6653	intracranial hemorrhage
+T34	Intracranial_haemorrhage 7303 7326	intracranial hemorrhage
+T35	Lower_respiratory_tract_infection 8374 8377;8428 8437	CXR infection
+A8	Negation T35
+T36	Urinary_tract_infection 8382 8387;8428 8437	urine infection
+A9	Negation T36
+T37	Seizures 8531 8539	seizures
+A10	Diagnosis T37 History_of
+T38	Intracranial_haemorrhage 8674 8677	ICH
+T39	Constipation 9667 9681	constipation  
+A11	Diagnosis T39 Implicit_mention
+T40	Intracranial_haemorrhage 10056 10059	ICH
+T41	Intracranial_haemorrhage 10065 10068	IVH
+T42	Seizures 10102 10109	Seizure
+A12	Diagnosis T42 History_of
+T43	Delirium 10171 10179	Confused
+T44	Bed_Chairbound 10273 10292	assistance to chair
+T45	Mobile_with_aid 10296 10306	wheelchair
+T46	Intracranial_haemorrhage 10417 10422;10431 10436	bleed brain
+T47	Seizures 11243 11251	seizures
+A13	Diagnosis T47 Implicit_mention
+T48	Constipation 11778 11790	Constipation
+A14	Diagnosis T48 Implicit_mention
+T49	Intracranial_haemorrhage 12028 12039	brain bleed

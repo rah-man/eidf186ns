@@ -1,0 +1,12 @@
+T1	Constipation 2815 2827	constipation
+T2	Delirium 4830 4834	AOx3
+A1	Negation T2
+T3	Delirium 5511 5515	AOx3
+A2	Negation T3
+T4	Constipation 10089 10101	constipation
+T5	Constipation 15585 15597	Constipation
+A3	Diagnosis T5 Implicit_mention
+T6	Has_carers 16549 16566	Home With Service
+T7	Delirium 16909 16942	Mental Status: Clear and coherent
+A4	Negation T7
+T8	Independently_mobile 17008 17032	Ambulatory - Independent

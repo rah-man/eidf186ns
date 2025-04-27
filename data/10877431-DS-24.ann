@@ -1,0 +1,10 @@
+T1	Dementia 1292 1300	Dementia
+T2	Delirium 5117 5125	Delirium
+A1	Diagnosis T2 History_of
+T3	Delirium 5162 5170	delirium
+A2	Diagnosis T3 History_of
+T4	Constipation 6487 6499	constipation
+A3	Diagnosis T4 Implicit_mention
+T5	Delirium 8804 8837	Mental Status: Clear and coherent
+A4	Negation T5
+T6	Independently_mobile 8903 8927	Ambulatory - Independent

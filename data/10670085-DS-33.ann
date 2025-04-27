@@ -1,0 +1,27 @@
+T1	Seizures 2035 2042	Seizure
+A1	Diagnosis T1 History_of
+T2	Seizures 2074 2081	seizure
+A2	Diagnosis T2 History_of
+T3	Seizures 2137 2155	status epilepticus
+A3	Diagnosis T3 History_of
+T4	Delirium 2397 2401	AOx3
+A4	Negation T4
+T5	Delirium 2412 2420	confused
+T6	Delirium 2952 2956	AOx3
+A5	Negation T6
+T7	Delirium 2967 2975	confused
+T8	Mobile_with_aid 6206 6216	wheelchair
+A6	Type_of_aid T8 Wheelchair
+T9	Bed_Chairbound 6168 6180;6188 6192	bed to chair lift
+A7	Low_confidence T9
+T10	Constipation 9472 9486	constipation  
+A8	Diagnosis T10 Implicit_mention
+T11	Constipation 9514 9528	constipation  
+A9	Diagnosis T11 Implicit_mention
+T12	Has_carers 9628 9645	Home With Service
+T13	Delirium 9924 9932	Confused
+T14	Mobile_with_aid 10049 10059	wheelchair
+A10	Type_of_aid T14 Wheelchair
+T15	Bed_Chairbound 10026 10045	assistance to chair
+T16	Constipation 11343 11355	constipation
+A11	Diagnosis T16 Implicit_mention

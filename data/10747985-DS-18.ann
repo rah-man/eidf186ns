@@ -1,0 +1,9 @@
+T1	Constipation 689 701	Constipation
+A1	Diagnosis T1 History_of
+T2	Has_carers 2129 2146	Home With Service
+T3	Delirium 2222 2255	Mental Status: Clear and coherent
+A2	Negation T3
+T4	Mobile_with_assistance 2321 2331;2343 2353	Ambulatory assistance
+T5	Mobile_with_aid 2321 2331;2357 2360	Ambulatory aid
+T6	Constipation 2725 2737	constipation
+A3	Diagnosis T6 Implicit_mention

@@ -1,0 +1,37 @@
+T1	Dementia 540 548	dementia
+T2	Falls 655 660	falls
+T3	Dementia 991 999	dementia
+T4	Lower_respiratory_tract_infection 1480 1483;1578 1587	CXR infection
+A1	Diagnosis T4 Suspected
+T5	Upper_gastrointestinal_haemorrhage 2604 2616	black stools
+A2	Negation T5
+T6	Lower_gastrointestinal_haemorrhage 2620 2630	red stools
+A3	Negation T6
+T7	Dementia 2798 2806	dementia
+T8	Lower_respiratory_tract_infection 6455 6465;6600 6609	infrahilar infection
+A4	Diagnosis T8 Suspected
+T9	Hip_fracture 7563 7566;7694 7702	Hip fracture
+A5	Negation T9
+T10	Dementia 8955 8963	dementia
+T11	Falls 9333 9338	falls
+T12	Falls 9988 9993	falls
+T13	Falls 10692 10696	fall
+A6	Diagnosis T13 Implicit_mention
+T14	Dementia 10943 10951	Dementia
+T15	Falls 11735 11739	Fall
+A7	In-hospital_event T15
+T16	Urinary_tract_infection 12351 12354	UTI
+A8	Negation T16
+T17	Constipation 12679 12691	constipation
+A9	Diagnosis T17 Implicit_mention
+T18	Constipation 13017 13029	constipation
+A10	Diagnosis T18 Implicit_mention
+T19	Constipation 13284 13296	constipation
+A11	Diagnosis T19 Implicit_mention
+T20	Constipation 13538 13550	constipation
+A12	Diagnosis T20 Implicit_mention
+T21	Falls 14277 14282	falls
+T22	Delirium 14436 14469	Mental Status: Clear and coherent
+A13	Negation T22
+T23	Independently_mobile 14535 14559	Ambulatory - Independent
+T24	Dementia 14188 14196	Dementia

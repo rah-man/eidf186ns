@@ -1,0 +1,8 @@
+T1	Delirium 789 792	A&O
+A1	Negation T1
+T2	Delirium 3570 3603	Mental Status: Clear and coherent
+A2	Negation T2
+T3	Mobile_with_assistance 3669 3679;3691 3701	Ambulatory assistance
+T4	Mobile_with_aid 3669 3679;3705 3708	Ambulatory aid
+T5	Constipation 4551 4563	constipation
+A3	Diagnosis T5 Implicit_mention

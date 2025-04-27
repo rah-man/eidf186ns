@@ -1,0 +1,28 @@
+T1	Hearing_impairment 1567 1582	Hard of hearing
+T2	Delirium 2011 2019	oriented
+A1	Negation T2
+T3	Lower_respiratory_tract_infection 3789 3792	PNA
+T4	Lower_respiratory_tract_infection 3812 3816	NSIP
+A2	Diagnosis T4 Suspected
+A3	Diagnosis T3 Suspected
+T5	Upper_gastrointestinal_haemorrhage 4440 4462	gastrointestinal bleed
+T6	Upper_gastrointestinal_haemorrhage 4921 4929;4937 4945	bleeding duodenum
+A5	Negation T6
+T7	Upper_gastrointestinal_haemorrhage 5325 5346	bleeding angioectasia
+A6	Negation T7
+T8	Has_carers 7750 7767	Home With Service
+T9	Upper_gastrointestinal_haemorrhage 7805 7827	Gastrointestinal bleed
+A7	Diagnosis T9 Suspected
+T10	Lower_gastrointestinal_haemorrhage 7805 7827	Gastrointestinal bleed
+A8	Diagnosis T10 Suspected
+A4	Diagnosis T5 Suspected
+T11	Lower_gastrointestinal_haemorrhage 4440 4462	gastrointestinal bleed
+A9	Diagnosis T11 Suspected
+T12	Delirium 8174 8182	oriented
+A10	Negation T12
+T13	Lower_gastrointestinal_haemorrhage 8516 8521;8525 8531	blood stools
+A11	Diagnosis T13 Implicit_mention
+T14	Upper_gastrointestinal_haemorrhage 8533 8537;8544 8550	dark stools
+A12	Diagnosis T14 Implicit_mention
+T15	Upper_gastrointestinal_haemorrhage 8538 8550	tarry stools
+A13	Diagnosis T15 Implicit_mention

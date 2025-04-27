@@ -1,0 +1,36 @@
+T1	Delirium 346 354	delirium
+T2	Urinary_tract_infection 413 416	UTI
+T3	Delirium 1226 1231	A&Ox3
+T4	Lower_gastrointestinal_haemorrhage 1827 1839	hematochezia
+A1	Negation T4
+T5	Upper_gastrointestinal_haemorrhage 1844 1850	melena
+A2	Negation T5
+T6	Lower_gastrointestinal_haemorrhage 1807 1822	blood in stools
+T7	Urinary_tract_infection 2046 2049	UTI
+T8	Seizures 2173 2180	Seizure
+A3	Diagnosis T8 History_of
+T9	Delirium 2386 2394	oriented
+A4	Negation T9
+T10	Urinary_tract_infection 7442 7445	UTI
+T11	Urinary_tract_infection 9168 9174	CA-UTI
+T12	Constipation 10216 10228	Constipation
+T13	Seizures 10475 10482	Seizure
+A5	Diagnosis T13 History_of
+T14	Seizures 10534 10541	seizure
+A6	Diagnosis T14 History_of
+T15	Seizures 10663 10670	seizure
+A7	Negation T15
+T16	Lower_gastrointestinal_haemorrhage 10835 10838	GIB
+A8	Diagnosis T16 Suspected
+T17	Upper_gastrointestinal_haemorrhage 10835 10838	GIB
+A9	Diagnosis T17 Suspected
+T18	Constipation 12477 12489	constipation
+A10	Diagnosis T18 Implicit_mention
+T19	Constipation 13385 13397	constipation
+A11	Diagnosis T19 Implicit_mention
+T20	Urinary_tract_infection 14007 14010	UTI
+T21	Unspecified_cognitive_impairment 14145 14153	Confused
+T22	Bed_Chairbound 14261 14266	chair
+T23	Mobile_with_aid 14270 14280	wheelchair
+A12	Type_of_aid T23 Wheelchair
+T24	Urinary_tract_infection 14848 14871	urinary tract infection

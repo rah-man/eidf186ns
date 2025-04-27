@@ -1,0 +1,12 @@
+T1	Weight_loss 1317 1328	weight loss
+T2	Lower_gastrointestinal_haemorrhage 1388 1400	hematochezia
+A1	Negation T2
+T3	Lower_gastrointestinal_haemorrhage 2369 2374	BRBPR
+A2	Negation T3
+T4	Upper_gastrointestinal_haemorrhage 2376 2382	melena
+A3	Negation T4
+T5	Delirium 3592 3600	oriented
+A4	Negation T5
+T6	Delirium 8294 8327	Mental Status: Clear and coherent
+A5	Negation T6
+T7	Independently_mobile 8393 8417	Ambulatory - Independent

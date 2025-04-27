@@ -1,0 +1,8 @@
+T1	Delirium 3541 3549	Oriented
+A1	Negation T1
+T2	Lower_respiratory_tract_infection 5001 5004;5113 5122	CXR infection
+A2	Diagnosis T2 Suspected
+T3	Delirium 9684 9717	Mental Status: Clear and coherent
+A3	Negation T3
+T4	Mobile_with_aid 9783 9793;9819 9822	Ambulatory aid
+T5	Mobile_with_assistance 9783 9793;9805 9815	Ambulatory assistance

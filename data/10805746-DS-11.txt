@@ -1,0 +1,85 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Digoxin  Attending: ___.  Chief Complaint: Fall  Major Surgical or Invasive Procedure: None  History of Present Illness: ___ DM2, ___, CKD, AFib on coumadin here after mechanical fall down 10 stairs landing on right side. She did hit her head but no LOC. She was walking with her walker at the top of the stairs with her neice. When her neice turned, she took a bad step and fell down the stairs. The patient herself cannot give a clear history of the events leading to the fall and suggests that she may have felt a little dizzy.  In the ED, she was hemodynamically stable and endorsed significant MSK pain in multiple sites. her INR was found to be 5.0. Given the high-risk situation she had a CT torso with contrast. CT head negative, CT C-spine without acute fracture or traumatic malalignment. CT chest/abd/pelvis notable for a growing breast mass, a T2 spinous process fracture and a possible R posterior rib fracture, as well as a large distended bladder with hydroureter and hydronephrosis. Trauma surgery consulted and felt no operative intervention.   Other labs notable for stable H&H and ___ with Cr 2.3 from baseline 1.4. UA was bland. She was given 1L hydration with contrast. She also desatted to 89% on RA and was placed on oxygen.   
+
+  In the weeks leading up to this, she reports being in her usual state of health. She reports one day of nausea + emesis x1 several days ago, and one day of diarrhea also several days ago. No fevers. No new med changes or recent antibiotics. Unclear how her PO intake has been, the nurse from her nursing home denied any changes to her PO intake. She also suggests that she has been urinating her normal amount. Denies any difficulty urinating.
+
+She is not complaining of pain in any particular location. 
+
+ Past Medical History: PAST MEDICAL HISTORY: - diabetes mellitus type II  - h/o rectal cancer, s/p rectal XRT, and resection  ___  - atrial fibrillation  - Glaucoma  - moderate pulmonary artery systolic hypertension  - Diastolic CHF - EF (50%)  - transanal endoscopic microsurgical excision for rectum CA  hysterectomy  - diabetic renal insuff  - osteopenia  - ___ rectal bleeding - radiation proctitis.HCT 18.  . PAST SURGICAL HISTORY:  - incomplete transanal excsion of rectal carcinoma (OSH)  - ___ - transanal endoscopic microsurgical excision of left lateral polypoid lesion encompassing 50% of the rectal wall. 
+
+ Social History: ___ Family History: Her sister had breast cancer.  Physical Exam: ADMISSION PHYSICAL EXAM:  VS - 98.5 65 168/59 100% 2L General: Appears well, NAD. AOX2.5 (year was ___. HEENT: Head atruamtic, ecchymosis on forehead, laceration on chin. Neck: No tenderness to palpation of full length of spine. CV: RRR. Systolic murmur at ___. Systolic murmur of different character at RLSB. Lungs: Crackles at R base. Abdomen: Soft, NT, ND. Ext: Trace pitting edema in L leg. Ecchymoses and small hematomas over bilateral shins. Full ROM of both hips and legs. Pelvis stable.
+
+DISCHARGE PHYSICAL EXAM: VS Tmax 98.2 Tc 97.9 HR 54-66 BP 135/80-167/70 RR ___ SpO2 94-99% RA, I/O ___, 8h: NR/200 General: Appears well, NAD. AOx3 HEENT: Ecchymosis on forehead, laceration on chin. Neck: No tenderness to palpation of full length of spine. CV: RRR. Systolic murmur at ___. Systolic murmur of different character at RLSB. Lungs: Crackles to ___ way up both lungs (R>L). Abdomen: Soft, NT, more distended and tympanic compared to yesterday. +Normoactive BS. Ext: Trace pitting edema in L leg. Ecchymoses and small hematomas over bilateral shins with overlying erythema on LLE with interval progression. Full ROM of both hips and legs. Pelvis stable. Neuro: Grossly normal 
+
+ Pertinent Results: ADMISSION LABS: ___ 08:41PM  %HbA1c-7.0* eAG-154* ___ 03:20PM URINE HOURS-RANDOM ___ 03:20PM URINE UHOLD-HOLD ___ 03:20PM URINE COLOR-Straw APPEAR-Clear SP ___ ___ 03:20PM URINE BLOOD-SM NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-NEG ___ 03:20PM URINE RBC-<1 WBC-0 BACTERIA-NONE YEAST-NONE EPI-0 ___ 03:20PM URINE MUCOUS-RARE ___ 03:17PM  COMMENTS-GREEN TOP ___ 03:17PM  K+-5.2* ___ 01:50PM  GLUCOSE-139* UREA N-65* CREAT-2.3* SODIUM-140 POTASSIUM-5.2* CHLORIDE-106 TOTAL CO2-21* ANION GAP-18 ___ 01:50PM  estGFR-Using this ___ 01:50PM  ALT(SGPT)-18 AST(SGOT)-22 CK(CPK)-74 ALK PHOS-138* TOT BILI-0.4 ___ 01:50PM  cTropnT-0.02* ___ 01:50PM  CK-MB-4 ___ 01:50PM  ALBUMIN-4.3 CALCIUM-9.7 PHOSPHATE-3.9 MAGNESIUM-2.2 ___ 01:50PM  DIGOXIN-1.1 ___ 01:50PM  WBC-8.4 RBC-3.72* HGB-10.9* HCT-34.1* MCV-92 MCH-29.4 MCHC-32.1 RDW-15.9* ___ 01:50PM  NEUTS-81.7* LYMPHS-11.2* MONOS-4.5 EOS-2.3 BASOS-0.3 ___ 01:50PM  PLT COUNT-127* ___ 01:50PM  ___ PTT-51.0* ___
+
+DISCHARGE LABS:
+
+IMAGING: CT Head: No acute intracranial hemorrhage or mass effect or acute fracture. Right posterior scalp hematoma. 
+
+CT torso: 1. Nodule posterior to the left lobe of thyroid likely exophytic thyroid nodule. Could be further assessed with targeted ultrasound if clinically indicated. 2. A high-density, presumably enhancing mass, in the left breast measuring 1.6 x 1.4 cm has increased in size since ___ at which time it measured 1.3 x 1.2 cm. This could represent a neoplasm. Suggest clinical assessment and consider dedicated further imaging if clinically indicated. 3. Moderate cardiomegaly. 4. Small right non-hemorrhagic pleural effusion. There is bibasilar distal atelectasis was mild right basal patchy infiltrate also. 5. In the neck of the gallbladder there is a stone measuring 1.7 cm. 6. Trace perihepatic ascites. 7. Markedly distended bladder. There is mild left hydronephrosis and hydroureter. Indeterminate left interpolar and upper pole lesions. Suggest renal ultrasound when bladder empty. 8. Aherosclerotic plaque narrows the origin of the superior mesenteric artery. 9. T2 spinous process fracture. (Discussed by Dr. ___ at approximately 17:00 on ___ with Dr. ___. Possible right posterior fifth rib fracture. 
+
+RENAL ULTRASOUND: 1. No evidence of hydronephrosis or main renal vein occlusion. 2. 2.0 cm septated cystic lesion within the lower pole of left kidney containing a 1.0 cm peripheral calcification. 
+
+MSK IMAGING: all without acute findings, unable to rule out non-displaced fracture given degree of osteopenia.
+
+___ DUP EXTEXT BIL (MAP) ___ Impression: Negative for DVT bilaterally 
+
+MICROBIOLOGY:
+
+Urine Cx ___: No growth
+
+___ 1:06 pm URINE   Source: Catheter. 
+
+              **FINAL REPORT ___
+
+  URINE CULTURE (Final ___:    ESCHERICHIA COLI.  >100,000 ORGANISMS/ML..      PRESUMPTIVE IDENTIFICATION.      Cefazolin interpretative criteria are based on a dosage regimen of     2g every 8h. 
+
+               SENSITIVITIES: MIC expressed in MCG/ML            _________________________________________________________               ESCHERICHIA COLI               |  AMPICILLIN------------  <=2 S AMPICILLIN/SULBACTAM--  <=2 S CEFAZOLIN-------------  <=4 S CEFEPIME--------------  <=1 S CEFTAZIDIME-----------  <=1 S CEFTRIAXONE-----------  <=1 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------  <=1 S MEROPENEM-------------<=0.25 S NITROFURANTOIN-------- <=16 S PIPERACILLIN/TAZO-----  <=4 S TOBRAMYCIN------------  <=1 S TRIMETHOPRIM/SULFA----  <=1 S
+
+___ 9:33 am STOOL   CONSISTENCY: NOT APPLICABLE    Source: Stool. 
+
+              **FINAL REPORT ___
+
+  C. difficile DNA amplification assay (Final ___:    Negative for toxigenic C. difficile by the Illumigene DNA    amplification assay.       (Reference Range-Negative). 
+
+DISCHARGE LABS:
+
+___ 07:45AM BLOOD WBC-6.2 RBC-3.14* Hgb-9.1* Hct-30.0* MCV-96 MCH-28.8 MCHC-30.1* RDW-17.1* Plt ___ ___ 07:45AM BLOOD Plt ___ ___ 07:45AM BLOOD Glucose-128* UreaN-44* Creat-2.0* Na-145 K-4.4 Cl-113* HCO3-21* AnGap-15 ___ 07:45AM BLOOD Calcium-9.2 Phos-3.0 Mg-2.___ y.o. F with DM2, CKD, dCHF, AFIb on coumadin who presents after a fall with urinary retention, ___, accelerated junctional rhythm and hypoxia. Thankfully, escaped significant MSK injuries from fall. Unclear baseline Cr, but likely had some post-renal obstructive uropathy on admission. However Cr continued to rise with gentle IVF. She developed superimposed contrast induced nephropathy.
+
+# Oliguric ___: Initially felt to be post-renal based on distended bladder, hydronephrosis seen on CT and urine lytes with concentrated urine and sodium avidity. She was rehdyrated with 2L gentle IVF. However, Cr bumped to 3.4 and patient developed oliguria 48 hrs after admission. Urinarylysis was bland. A repeat renal US was without hydronephrosis, with patent renal veins. This acute kidney injury was felt to represent contrast induced nephropathy given the timing and sodium avid urine, bland sediment, and lack of response to IVF. Her home aldactone and torsemide were held. Her creatinine was improved to 2.0 at the time of discharge.
+
+#T2 Spinous Process Fracture/Right Posterior 5th Rib Fracture: Trauma Surgery evaluated patient and recommended conservative management. The patient was managed initially on Tramadol PRN but transitioned to Tylenol given delirium and urinary retention. 
+
+# Hypoxia: Patient was initially hypoxic to SpO2 less than 95% on RA with significant inspiratory crackles bilaterally on exam. There was no evidence of pneumonia on CXR. The patient's hypoxia was thought to be due to pulmonary edema in the setting of receiving IV fluids. The patient was diuresed with Furosemide 80 mg IV with good urinary output. At the time of discharge, the patient was no longer hypoxic on room air.
+
+#Junctional bradycardia: During her hospitalization, the patient was found to be bradycardic with HR ___. Cardiology was consulted and it was felt that ___ patient was bradycardic due to a junctional escape rhythm likely secondary to digoxin toxicity. Digoxin was discontinued and advised to to be resumed. The patient's nodal agents (metoprolol succinate and diltizem) were initially held. With her nodal agents stopped, the patient converted to slow atrial fibrillation with HR 60-70s. Her metoprolol was restarted at half dose on discharge.
+
+# Atrial Fibrilliation: CHADS score of atleast 4. Patient initially in junctional bradycardia as noted above. With all nodal agents held, recent EKG ___ at rest was notable for narrow complex, irregularly, irregular with rate HR ___ consistent with slow A. fib. The patient's home coumadin was titrated to maintain INR ___. With the patient back in Afib, the patient was started on a lower dose of metoprolol succinate 25 mg PO QDaily for rate control as patient was tachycardic to 110s with activity. 
+
+# Left Lower Extremity Hematoma and Surrounding Erythema and Warmth: Patient has resolving hematoma at LLE which continued to be painful and surrounded by area of warmth and erythema. Presentation likely from tissue damage superimposed on known bilateral stasis dermatitis. Presentation was not felt to be due to cellulitis as area of erythema and warmth had no progressively increased and patient afebrile with no leukocytosis. The patient's hematoma and area of erythema improved at the time of discharge. 
+
+# Urinary retention: New finding per PCP office as patient has not been previously documented to have urinary retention. Neurogenic bladder from her diabetes is also a possibility, however, A1c only 7. Likely drug effect from recent narcotic use (Tramadol) for pain control following traumatic fall. The patient's foley was initially discontinued but repeat bladder scan was notable for 900 cc, thus foley replaced. The patient continued to have urinary retention and was thought to be related to her underlying UTI. At discharge, the patient passed her voiding trial and the foley was removed. 
+
+# Complicated Urinary Tract Infection (UTI): Likely Foley catether-associated. UA and urine cx from ___ unremarkable, now repeat UA nitrite positive and WBC> 100. Patient otherwise denies any symptoms, but patient poor historian. Complicated UTI given recent instrumentation. Urine cultures were notable for pansensitive E. coli. The patient was initially managed on IV Ceftriaxone, but narrowed to Ciprofloxacin 250 mg PO Q48H (renally-dosed), which will need to be continued until ___. 
+
+CHRONIC ISSUES:
+
+# Diabetes Mellitus: Patient admitted without a diabetic medication regimen. The patient was managed on an insulin sliding scale.
+
+#Chronic compensated dCHF: On admission, the patient did not appear grossly volume overloaded aside from some bibasilar inspiratory crackles. In the setting of ___, the patient's home diuretics were held. 
+
+TRANSITIONAL ISSUES: [] Code Status: FULL [] Patient will need to continue Ciprofloxacin 250 mg PO Q24H (Last day ___. [] Patient should not take digoxin going forward [] Patient's home gabapentin should be resumed (held in the setting of delirium) [] Patient's home diuretics (Torsemide/Aldactone) will need to be resumed by PCP [] Patient started on lower dose Metprolol Succinate 25 mg PO QDaily at discharge., will need to titrate back to home dose as well as consider resuming Diltiazem for further rate control if needed [] Incidentilomas found on imaging: Thyroid, Breast, and Renal lesions, will need to be addressed by PCP
+
+ ___ on ___: The Preadmission Medication list is accurate and complete. 1. Cardizem CD 120 mg oral daily 2. Docusate Sodium 100 mg PO DAILY 3. Digoxin 0.0625 mg PO DAILY 4. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES BID 5. Ferrous GLUCONATE 324 mg PO DAILY 6. Guaifenesin ___ mL PO Q4H:PRN cough 7. Metoprolol Succinate XL 50 mg PO DAILY 8. Multivitamins 1 TAB PO DAILY 9. Gabapentin 300 mg PO QHS 10. Pravastatin 20 mg PO QPM 11. Omeprazole 20 mg PO DAILY 12. Prochlorperazine 5 mg PO Q6H:PRN nasuea 13. Senna 8.6 mg PO BID:PRN constipation 14. Tiotropium Bromide 1 CAP IH DAILY 15. Spironolactone 12.5 mg PO DAILY 16. Torsemide 50 mg PO DAILY 17. Travatan Z (travoprost) 0.004 % ophthalmic qd 18. Warfarin 3 mg PO DAILY16 
+
+ Discharge Medications: 1. Ferrous GLUCONATE 324 mg PO DAILY 2. Metoprolol Succinate XL 25 mg PO DAILY 3. Multivitamins 1 TAB PO DAILY 4. Omeprazole 20 mg PO DAILY 5. Senna 8.6 mg PO BID:PRN constipation 6. Tiotropium Bromide 1 CAP IH DAILY 7. Travatan Z (travoprost) 0.004 % ophthalmic qd 8. Warfarin 3 mg PO DAILY16 9. Bisacodyl 10 mg PR QHS:PRN constipation 10. Ciprofloxacin HCl 250 mg PO Q24H 11. Polyethylene Glycol 17 g PO DAILY 12. Pravastatin 20 mg PO QPM 
+
+ Discharge Disposition: Extended Care  Facility: ___  ___ Diagnosis: Primary: Acute on chronic kidney injury Fracture of T2 spinous process
+
+Secondary: Atrial fibrillation Diabetes mellitus type 2 Chronic diastolic congestive heart failure
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Ms. ___,  You were admitted to the hospital after a bad fall. You fractured a small bone in your back but thankfully escaped any other serious injuries. You were noted to be unable to urinate and had sustained injury to your kidneys. You were also noted to be in an abnormal heart rhythm because of build up of one of your heart medications to toxic levels. You were also found to have a urinary tract infection and you were treated with antibiotics. 
+
+It's been a pleasure taking care of you at the ___ -your ___ care team.  Followup Instructions: ___ 

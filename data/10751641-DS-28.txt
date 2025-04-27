@@ -1,0 +1,75 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Morphine / Codeine / Keflex / Iodine-Iodine Containing / Tetracycline / Lipitor / Ace Inhibitors / Glyburide / Metformin / Clonidine / Percocet / Benadryl / Flovent Diskus / Spiriva with HandiHaler / hydralazine / chlorthalidone  Attending: ___  Chief Complaint: Nausea, vomiting  Major Surgical or Invasive Procedure: None  History of Present Illness: ___ year old female with AF on apixaban, HFpEF followed by ___, AS, MR, CAD s/p DES x2 RCA stent ___, tachy/___ syndrome s/p PPM ___, DM, HTN, HLD, PVD, CKD, and COPD who presents with nausea and vomiting with concomitant weight gain.
+
+Patient was seen on ___ in the heart failure clinic where she was noted to have a weight gain of 10lbs over a few months. As a result, she was sent to the ___ for IV furosemide 100mg x1 and continued on torsemide 40mg (increased on ___ from furosemide 40mg). She reports that she lost 1lb with that diuresis but subsequently gained it back the following day.
+
+Two nights prior to presentation, she developed acute onset nausea, diaphoresis, and "wooziness," which upon further questioning the patient stating felt somewhat like lightheadedness. In the ED, she reported that this may have been associated with some chest pressure though she did not think so by the time she got to the floor. She denies dyspnea, arm pain, and jaw pain. The episode was self resolving after a few minutes
+
+She had another similar episode on the night of presentation that was also associated with emesis and mild chest pressure (without radiation). It again resolved within a few minutes. This prompted her to present to the ED.
+
+In the ED, - Vital signs - T max 97.8, BP ___ and satting well on room air. - Exam - notable for flat neck veins, diffuse crackles in the posterior lung fields, and 2+ pitting edema bilaterally. - ECG - atrial paced rhythm at 60 BPM with poor R wave progression though without ST changes to suggest acute ischemia. - CXR - stable chronic interstitial abnormality without acute intrathoracic process. - Labs - notable for proBNP 1396, Cr 2.8 (recently uptrending), BUN 111, and troponins <0.01 x1. - UA - large ___, 20 WBC< and few bacteria.  On the floor, the patient confirms the above history. She denies any recent sick contacts or infectious symptoms (including fevers, chills, diarrhea).  REVIEW OF SYSTEMS:  Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope, or presyncope.   On further review of systems, denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. Denies exertional buttock or calf pain. Denies recent fevers, chills or rigors. All of the other review of systems were negative. 
+
+ Past Medical History: -CAD: s/p D1 (___), OM1 (___), and proximal RCA (___) stents. 
+
+ -PAD status post multiple peripheral vascular interventions in the right superficial femoral artery. ___ peripheral angiogram in her LLE, with subsequent two stents to L SFA. s/p R 
+
+-CIA stent w/ R EIA ___ stenosis. Aorta has diffuse atherosclerosis. -Moderate non proliferative diabetic retinopathy bilaterally -Interstitial lung disease, suspected fibrotic NSIP versus chronic HP -Atrial fibrillation on warfarin c/b tachy-brady syndrome s/p PPM -dCHF (EF 70% ___ -DMII  -HTN -Hypothyroidism -Allergic rhinitis -Hyperlipidemia  Social History: ___ Family History: Non-contributory  Physical Exam: Admission Exam: VITALS: 97.8  158/34  60  16  95%RA GENERAL: Well-developed elderly female laying comfortably in bed. NAD. Mood, affect appropriate. HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  NECK: Supple with JVP of elevated to 15-20 cm (just under angle of the jaw) CARDIAC: RRR, normal S1/S2, no murmurs, rubs, or gallops. III/VI systolic murmur appreciated ___ at the upper sternal borders with radiation to the carotids bilaterally and the back. S2 is audible. LUNGS: Coarse bibasilar crackles. No wheezes or rhonchi. ABDOMEN: Soft, NTND. No HSM or tenderness.  EXTREMITIES: No c/c/e. No femoral bruits.  SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  PULSES: Distal pulses palpable and symmetric 
+
+Discharge Exam: 24 HR Data (last updated ___ @ 725)   Temp: 98.2 (Tm 99.0), BP: 137/62 (124-155/42-91), HR: 62 (59-67), RR: 18 (___), O2 sat: 98% (95-100), O2 delivery: RA, Wt: 179.23 lb/81.3 kg  ___ Total Output: 250ml Urine Amt: 250ml GENERAL: Well-developed female sitting upright comfortably in bed. NAD. Mood, affect appropriate. HEENT: PERRL, MMM NECK: Supple with JVP at clavicle at 90 degrees CARDIAC: RRR, normal S1/S2, III/VI systolic crescendo-decrescendo murmur appreciated ___ at the upper sternal borders. S2 is audible. LUNGS: Coarse bibasilar crackles. No wheezes or rhonchi. ABDOMEN: Soft, NTND. EXTREMITIES: Mildly tender trace lower extremity edema to bilateral mid-shin. No femoral bruits.  SKIN: Warm, well-perfused PULSES: Distal pulses palpable and symmetric   Pertinent Results: ADMISSION LABS: =============== ___ 10:12AM  cTropnT-<0.01 ___ 12:28AM  cTropnT-<0.01 ___ 02:05AM URINE COLOR-Straw APPEAR-Clear SP ___ ___ 02:05AM URINE BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-LG* ___ 02:05AM URINE RBC-1 WBC-20* BACTERIA-FEW* YEAST-NONE EPI-<1 ___ 12:28AM  GLUCOSE-134* UREA N-111* CREAT-2.8* SODIUM-137 POTASSIUM-4.6 CHLORIDE-99 TOTAL CO2-25 ANION GAP-13 ___ 12:28AM  ___ PTT-33.9 ___ ___ 12:28AM  NEUTS-65.8 LYMPHS-15.0* MONOS-12.3 EOS-6.1 BASOS-0.4 IM ___ AbsNeut-4.61 AbsLymp-1.05* AbsMono-0.86* AbsEos-0.43 AbsBaso-0.03 ___ 12:28AM  proBNP-1396* ___ 12:28AM  ALT(SGPT)-11 AST(SGOT)-12 ALK PHOS-91 TOT BILI-0.3 ___ 12:28AM  LIPASE-69*
+
+DISCHARGE LABS: =============== ___ 06:40AM BLOOD WBC-7.7 RBC-3.74* Hgb-11.2 Hct-34.5 MCV-92 MCH-29.9 MCHC-32.5 RDW-12.4 RDWSD-42.1 Plt ___ ___ 06:40AM BLOOD Glucose-161* UreaN-107* Creat-2.4* Na-140 K-4.0 Cl-101 HCO3-22 AnGap-17
+
+STUDIES: ======== ___: RHC - RA 2, RV 40/2, PA 22, PCWP 13 1. Low RA and only mildly elevated PCW pressures, with normal right ventricular end-diastolic pressure. 2. Normal calculated cardiac index. 3. Mild pulmonary systolic hypertension.
+
+___ TTE: LVEF 75%. Severe aortic stenosis by continuity equation (visually the leaflets appear more pliable and consistent with moderate aortic stenosis). Vigorous biventricular systolic function. Borderline pulmonary hypertension.
+
+___ CXR: 1. No acute intrathoracic process. 2. Stable chronic interstitial abnormality. 
+
+___ ECG: Atrial-paced rhythm late rwp Anterior infarct, old compared to previous ECG No significant change was found
+
+ Brief Hospital Course: ___ year old female with a multitude of cardiac issues most notable for HFpEF ___ LVEF 75%, LVH), mod-severe AS, CAD s/p PCI, tachy-brady syndrome s/p PPM on apixaban, and HTN/HLD/DM/COPD presents with two episodes of transient nausea/vomiting/diaphoresis in the setting of a subacute heart failure exacerbation. 
+
+TRANSITIONAL ISSUES =================== [ ] Follow-up with outpatient cardiology for possible aortic valve replacement. Patient found to have severe aortic stenosis, largely unchanged since ___ TTE. [ ] Check Cr in one week. [ ] Follow-up on diabetes management. Patient was on SSI during admission with BGs in mid-high 200s. - Discharge weight: 179.2 lb, discharge Cr: 2.4 - Patient was evaluated by physical therapy with recommendation for discharge to rehab, which patient declined. She was offered home physical therapy on discharge.
+
+ACTIVE ISSUES ============= # Subacute on chronic HFpEF ___ LVEF 75%) Weight gain had been ongoing for several weeks-months and diuresis as an outpatient has been limited by rising Cr in the setting of CKD. He was diuresed with IV Lasix in the CDAC last week without significant improvement in weights, symptoms. Initially diuresed with Lasix 120 BID this admission, though discontinued diuresis on ___ due to Cr elevations. Home carvedilol 50 mg BID continued, and home losartan discontinued in setting of ___. Patient had euvolemic exam prior to discharge. TTE on ___ showed severe AS and. ___ RHC showed RA 2, RV 40/2, PA 22, PCWP 13, and mild pulmonary systolic hypertension. 
+
+# Nausea, vomiting # Dizziness Patient presented complaining of episodes of N/V and dizziness. No arrhythmias noted on telemetry, and pacemaker interrogation on ___ showed no events. Low concern for infectious etiology. Patient had positive orthostatic vital signs during admission, likely in the setting of overdiuresis. Episodes may also be explained by patient's moderate-severe aortic stenosis.
+
+# ___ on CKD Cr uptrending over the past 6 months from 2.0 to high 2-low 3. Initially uptrended with diuresis as high as 3.0. Cr downtrended to 2.4 prior to discharge in the setting of holding diuresis (___-). 
+
+# Hypertension Antihypetensive regimen had recently been adjusted as an outpatient, complicated by uptrending Cr. Losartan discontinued ___ due to ___. Increased home carvedilol to 50 mg BID and continued home amlodipine 10 mg as an inpatient.
+
+CHRONIC/STABLE ISSUES: ===================== # Mod-Severe AS Recent TTE with EF 75% and aortic velocity 3.6m/sec. Per outpatient notes, some discrepancy between recent TTEs with regard to moderate or severe AS.
+
+# CAD s/p PCI Most recently with DES x2 to RCA in ___. Patient denied chest pain symptoms. Continued pravastatin, carvedilol and aspirin during admission. Ranexa was discontinued.
+
+# Tachy/___ syndrome s/p PPM History of atrial fibrillation now s/p PPM in ___. No events on pacemaker interrogation ___. Apixiban held ___ prior to RHC. Carvedilol continued throughout admission.
+
+# COPD/interstitial lung disease Followed by Dr. ___. Anoro ellipta nonformulary, so combivent given during this admission. Albuterol PRN continued during admission.
+
+# Hypothyroidism Continued levothyroxine 100mcg daily
+
+# DMII Diet controlled. A1c 6.6 on presentation. On SSI during admission.
+
+# PVD Continued home aspirin, statin.
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Losartan Potassium 50 mg PO DAILY 2. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN dyspnea 3. Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea 4. amLODIPine 10 mg PO DAILY 5. Apixaban 2.5 mg PO BID 6. Benzonatate 100 mg PO QHS:PRN cough 7. CARVedilol 37.5 mg PO BID 8. Gabapentin 100-300 mg PO QHS 9. Levothyroxine Sodium 100 mcg PO DAILY 10. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 11. Pravastatin 80 mg PO QPM 12. Ranitidine 150 mg PO BID 13. Ranexa (ranolazine) 500 mg oral BID 14. Torsemide 40 mg PO DAILY 15. Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID 16. Anoro Ellipta (umeclidinium-vilanterol) 62.5-25 mcg/actuation inhalation DAILY 17. Aspirin 81 mg PO DAILY 18. Cetirizine 10 mg PO DAILY 19. Vitamin D 1000 UNIT PO DAILY 20. Multivitamins 1 TAB PO DAILY 21. PreserVision Lutein (vit C-vit E-copper-zinc-lutein) 226 mg-200 unit -5 mg-0.8 mg oral BID 
+
+ Discharge Medications: 1. Torsemide 20 mg PO DAILY- on hold until evaluated by ___ team 
+
+2. CARVedilol 50 mg PO BID  3. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN dyspnea  4. Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea  5. amLODIPine 10 mg PO DAILY  6. Anoro Ellipta (umeclidinium-vilanterol) 62.5-25 mcg/actuation inhalation DAILY  7. Apixaban 2.5 mg PO BID  8. Aspirin 81 mg PO DAILY  9. Benzonatate 100 mg PO QHS:PRN cough  10. Cetirizine 10 mg PO DAILY  11. Gabapentin 100-300 mg PO QHS  12. Levothyroxine Sodium 100 mcg PO DAILY  13. Multivitamins 1 TAB PO DAILY  14. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  15. Pravastatin 80 mg PO QPM  16. PreserVision Lutein (vit C-vit E-copper-zinc-lutein) 226 mg-200 unit -5 mg-0.8 mg oral BID  17. Ranitidine 150 mg PO BID  18. Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID  19. Vitamin D 1000 UNIT PO DAILY  20. HELD- Losartan Potassium 50 mg PO DAILY This medication was held. Do not restart Losartan Potassium until you follow-up with your PCP.
+
+ Discharge Disposition: Home With Service  Facility: ___  ___: HFpEF exacerbation Acute on Chronic kidney disease Moderate aortic stenosis
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr ___,
+
+It was a pleasure taking care of you at ___ ___. 
+
+WHY WAS I ADMITTED TO THE HOSPITAL? - You were admitted to the hospital because you were found to be volume overloaded due to a heart failure exacerbation. 
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL? - You were given medication through the veins to help bring down the fluid. - An ultrasound of your heart showed hardening of one of the valves. - A study of the right side of the heart showed no significant abnormalities. - You were found to have decreased kidney function due to dehydration. 
+
+WHAT SHOULD I DO WHEN I GO HOME? - You should continue to take your medications as prescribed. - You should attend the appointments listed below. - Please return to the emergency room if you have severe chest pain, worsening shortness of breath, or loss of consciousness.
+
+We wish you the ___! Your ___ Care Team  Followup Instructions: ___ 

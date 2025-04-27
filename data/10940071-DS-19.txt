@@ -1,0 +1,65 @@
+ Name: ___   Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: Right breast cancer  Major Surgical or Invasive Procedure: Right total mastectomy with sentinel lymph node biopsy
+
+ History of Present Illness: Ms ___ is a ___ year old woman accompanied by her daughter who was originally scheduled for surgery on ___, however, she canceled the procedure. We have been discussing the surgery with the patient and her daughter, ___, with the assistance of Dr. ___, since that time and have answered many of ___ concerns and eased her anxiety surrounding the surgery. They return today to discuss the surgery in person and answer any further questions. This was completed through a ___ interpreter. ___ had any changes to her medical history since her last visit. She is very comfortable proceeding with surgical intervention.  Past Medical History: CORONARY ARTERY DISEASE                     -s/p MI ___ (___)                      
+
+BREAST CANCER UTERINE PROLAPSE                         HYPERTENSION                           SICK SINUS SYNDROME  -s/p pacemaker placement ___  Social History: ___ Family History: no sudden cardiac death  Physical Exam: PHYSICAL EXAM ON ADMISSION No Vital Signs on file for this date. General: Comfortable, no distress, pleasant Cardiac: RRR Pulm: CTAB Abdomen: Soft ND NT Breast: Breast exam is unchanged. Right breast has a 2.8 cm mass in the upper outer quadrant that does not extend to skin nor underlying muscle. No nipple retraction nor skin dimpling. No axillary lymphadenopathy. The left breast has no palpable masses or axillary lymphadenopathy. Her range of motion of her arms and shoulders. Extremities: No rash, no edema
+
+PHYSICAL EXAM ON DISCHARGE 98.8 133 / 75 62 18 99 RA Gen: NAD, appears well HEENT: EOMI, sclear anicteric Neck: normal JVP Chest: CTAB; s/p right mastectomy w/ 2 JP drains in place Cardiovasc: RR, + ___ systolic murmur heard best at LUSB and apex Abd: S/NT/ND/BS+ Back: no evidence of injury, rash, or other skin changes to left scapula and entire back and b/l shoulder blades are non-tender to palpation Extr: WWP, no edema or cyanosis, no pain with palpation of LLE or left hip; normal ROM Skin: no rashes or lesions Neuro: CN II-XII intact (IX and X not specifically tested), strength 4+/5 throughout, sensation to light touch intact throughout, awake, alert, oriented to person, place, time, and reason for hospitalization, able to do months of year backwards with no issues Psych: calm, cooperative
+
+ Pertinent Results: ==================== ADMISSION LABS ==================== None.
+
+==================== NOTABLE LABS ====================
+
+___ 01:55PM BLOOD Calcium-9.3 Phos-2.8 Mg-1.5* ___ 01:55PM BLOOD WBC-7.5# RBC-3.52* Hgb-10.7* Hct-31.2* MCV-89 MCH-30.4 MCHC-34.3 RDW-12.3 RDWSD-39.8 Plt ___
+
+___ 01:55PM BLOOD CK-MB-3 cTropnT-<0.01 ___ 10:25PM BLOOD CK-MB-4 cTropnT-<0.01 ___ 06:30AM BLOOD TSH-0.60 ___ 06:30AM BLOOD Cortsol-18.7
+
+==================== DISCHARGE LABS ====================
+
+___ 06:59AM BLOOD Glucose-92 UreaN-15 Creat-0.8 Na-128* K-4.2 Cl-93* HCO3-28 AnGap-11 ___ 06:59AM BLOOD Calcium-9.3 Phos-3.3 Mg-1.9
+
+==================== MICRO ==================== None.
+
+==================== IMAGING ==================== None.
+
+==================== PATHOLOGY ==================== BREAST, MASTECTOMY W/O LYMPH NODES  ___ ___ - PENDING  Brief Hospital Course: ==================================== Breast Surgery Hospital Course: ==================================== The patient presented as a same day admission for surgery. The patient was taken to the operating room on ___ for right total mastectomy with right sentinel node biopsy, which the patient tolerated well. For full details of the procedure please see the separately dictated operative report. The patient was taken from the OR to the PACU in stable condition and after satisfactory recovery from anesthesia was transferred to the floor. The patient was started on a regular diet and oral medications. The patient's home medications were continued throughout this hospitalization, except her Plavix and aspirin which were held for surgical purposes. On ___ the pt had an episode of chest pain and elevated blood pressure, labs were drawn (please refer to lab results section) and an EKG done which showed a previous LBBB already known from her history. Cardiology was consulted and after evaluating the patient recommended repeating troponins x2 (negative) and said chest pain was not likely of cardiac etiology. Incidentally, the patient was found the have a moderate to severe hyponatremia (Na: 117) that was initially managed with increased IVF. Due to difficulty to manage, medicine was consulted and the patient was transferred to medicine for further optimization. 
+
+==================================== ___ Course: ==================================== # Hyponatremia: initially due to components of both hypovolemia and inappropriate ADH. Think due in large part to severe post-operative pain. Initially did not respond to IVF and urine lytes showed inappropriately elevated urine Osm and urine Na.  However, free water restriction did not help, and patient reported feeling LH and dizzy with walking. Orthostatics were positive. AM cortisol was wnl. TSH was not suggestive of HYPOnatremia. So a repeat fluid bolus challenge was given. Orthostatics improved, symptoms improved, and repeat urine lytes demonstrated normalization (ADH suppressed, and Na < 20). Serum sodium subsequently improved and was up to 128 on the day of discharge, with the patient feeling well, mentating well, and tolerating normal diet. Plan for repeat serum sodium check with PCP on ___ (3 days after discharge) to ensure complete resolution.
+
+# Hypertension: the primary team at the time, the Breast Surgery team, initially consulted cardiology dur to severe HTN and palpitations. Cardiology advised increasing enalapril to 20 mg PO BID, which was done. Patient's pain gradually improved, and with this increase in enalapril, BP gradually improved. On day prior to discharge, she had significant hypertension prior to AM meds, but BP the remainder of the day was well controlled. Same on the day of discharge. Would advise repeat BP check with PCP on upcoming appointment and further adjustment if needed. On discharge her BP regimen will be:   - enalapril 20 mg PO BID (increased from home regimen)   - bisoprolol 10 mg PO daily (home med, was on atenolol here because bisoprolol not on formulary) If BP still not optimized at that time, would be reasonable to have her see her cardiologist, Dr. ___ the next ___ weeks for further management.
+
+# Invasive ductal carcinoma s/p R mastectomy w/ SLNB - Tramadol PRN while inpatient. Tylenol or motrin PRN pain at home - drain management per surgery recommendations - outpatient Breast surgery f/u as scheduled
+
+# CAD - continued aspirin, statin, beta blocker, ACEi on discharge # Sick sinus s/p PPM
+
+# DVT ppx: HSQ BID
+
+# Dispo: of note, patient did not qualify (financially, through limited ___ for home ___ services. RN to educate patient's family re: JP drain care/management prior to discharge.  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Atorvastatin 40 mg PO QPM 2. bisoprolol fumarate 10 mg oral DAILY 3. Clopidogrel 75 mg PO DAILY 4. Enalapril Maleate 20 mg PO DAILY 5. Aspirin 81 mg PO DAILY 6. calcium carbonate-vitamin D3 500 mg(1,250mg) -200 unit oral DAILY 
+
+ Discharge Medications: 1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  2. Docusate Sodium 100 mg PO BID:PRN constipation RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth BID:PRN Disp #*60 Capsule Refills:*3 3. Senna 8.6 mg PO BID:PRN constipation RX *sennosides [senna] 8.6 mg 1 TAB by mouth BID:PRN Disp #*60 Tablet Refills:*3 4. Enalapril Maleate 20 mg PO BID RX *enalapril maleate 20 mg 1 tablet(s) by mouth twice a day Disp #*60 Tablet Refills:*3 5. Aspirin 81 mg PO DAILY  6. Atorvastatin 40 mg PO QPM  7. bisoprolol fumarate 10 mg oral DAILY  8. calcium carbonate-vitamin D3 500 mg(1,250mg) -200 unit oral DAILY  9. Clopidogrel 75 mg PO DAILY 
+
+ Discharge Disposition: Home  Discharge Diagnosis: Primary: Carcinoma of the right breast, two sites. Clinically T2,N0,MX- Stage IIA carcinoma of the right breast.
+
+Secondary: Hyponatremia, Hypertension
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Ms. ___,
+
+You were admitted to the breast surgery service for right total mastectomy (excision of your breast tissue) with sentinel lymph node biopsy. You tolerated the procedure well and did well post-operatively. You are being discharged home. You will follow 
+
+up in breast surgery clinic.
+
+Please follow the directions below:
+
+Personal Care: 1. You will be discharged home with a dressing in place on your right chest. You can take off the dressing but keep the steri-strips (tape-like dressing) until they fall down. 2. You may take sponge baths or shower daily but avoid getting your dressing wet. Do not submerge in water (no baths, pools) until instructed to do so by Dr. ___. This will be further clarified at your follow-up visit. 
+
+Activity: 1. You may resume your regular diet. 2. DO NOT lift anything heavier than 5 pounds or engage in strenuous activity until instructed by Dr. ___.
+
+Medications: 1. Resume your regular medications unless instructed otherwise and take any new meds as ordered. 2. You may take Tylenol and/or Motrin for pain control. 
+
+JP drain instructions: 1. Empty the bulb of your drain when half full and record the output daily. 
+
+You were also evaluated and treated for: 1) Hyponatremia (low blood sodium concentration): this improved over the course of your hospitalization. Please see your PCP on ___ to have repeat labs checked to ensure resolution. If you develop new or worsening headache, nausea/vomiting, abdominal pain, or confusion, please seek medical attention.
+
+2) Hypertension: your blood pressure following surgery was very elevated. We think this was due to a variety of factors, including post-operative pain. The Cardiology team evaluated you and recommended increasing one of your blood pressure medications, which brought about improvement in your blood pressure. When you see your primary care physician on ___, please be sure to have taken of your scheduled blood pressure medications that morning.  Followup Instructions: ___ 

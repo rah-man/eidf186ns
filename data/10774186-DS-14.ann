@@ -1,0 +1,18 @@
+T1	Falls 237 241	Fall
+T2	Unspecified_cognitive_impairment 404 413	confusion
+T3	Falls 1193 1197	fall
+T4	Constipation 2957 2969	constipation
+T5	Urinary_incontinence 3045 3065	urinary incontinence
+T6	Upper_gastrointestinal_haemorrhage 3242 3248	melena
+A1	Negation T6
+T7	Lower_gastrointestinal_haemorrhage 3250 3255	brbpr
+A2	Negation T7
+T8	Falls 6258 6262	fall
+T9	Delirium 6291 6300	confusion
+T10	Unspecified_cognitive_impairment 7376 7385	Confusion
+T11	Unspecified_cognitive_impairment 7639 7653	pseudodementia
+T12	Dementia 7720 7728	dementia
+A3	Diagnosis T12 Suspected
+T13	Falls 10300 10304	fall
+T14	Unspecified_cognitive_impairment 10320 10334	pseudodementia
+T15	Falls 10501 10505	fall

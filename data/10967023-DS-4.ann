@@ -1,0 +1,16 @@
+T1	Delirium 967 975	oriented
+A1	Negation T1
+T2	Lower_respiratory_tract_infection 2398 2407	pneumonia
+A2	Negation T2
+T3	Lower_respiratory_tract_infection 5438 5447	pneumonia
+A3	Negation T3
+T4	Urinary_incontinence 6667 6676;6687 6698	urinating incontinent
+T5	Constipation 7410 7422	constipation
+A4	Diagnosis T5 Implicit_mention
+T6	Constipation 7491 7503	constipation
+A5	Diagnosis T6 Implicit_mention
+T7	Delirium 7872 7905	Mental Status: Clear and coherent
+A6	Negation T7
+T8	Independently_mobile 7971 7995	Ambulatory - Independent
+T9	Constipation 10508 10520	Constipation
+A7	Diagnosis T9 Implicit_mention

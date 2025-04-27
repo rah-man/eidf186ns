@@ -1,0 +1,33 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending: ___.  Chief Complaint: "chest convulsion"  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ yo male with hypercholesterolemia, HTN, and a pacemaker complaining of a feeling in his chest that "felt like a sneeze." He said it lasted for a second at 3 am on ___. At the time he was sitting on the side of his bed ready to go to the bathroom. He says that it was not painful. He denies SOB, cough, chest pain, chest tightness, palpitations, nausea, vomiting, fevers or chills. He has never had a myocardial infarction in the past. 
+
+Cardiology evaluated the patient in the ER and said that his pacemaker was not malfunctioning. He was transferred to the floors to rule out MI.  Past Medical History: --s/p pacemaker implant on ___ secondary to sinus bradycardia/tachybrady syndrome --Anorectal dysmotility disorder followed within the GI clinic  --Hypertension --Constipation with hemorrhoids and bleeding with straining --h/o CVA  --essential tremor  --gait instability --hypothyroidism --iron deficiency anemia (had negative ___ in ___ at the time of w/u, bleeding thought related to straining and trauma/hemorrhoids) --BPH --Depression --s/p cataract removal in left eye  Social History: ___ Family History: Father died of MI at age ___.  Physical Exam: Admission physical exam:
+
+Vitals (ED presentation): T: 98.5 ,BP: 142/75,HR: 73 ,RR: 16,O2 sat: 98% on RA Vitals (on floor): T: 97.1 ,BP: 141/86 ,HR: 95 ,RR: 18 ,O2 sat: 100%RA General - Resting comfortably in bed, no acute distress HEENT - NC/AT, sclera anicteric, conjunctiva pink. No facial droop. Neck - Supple, JVP not elevated, 2+ carotid pulses. No carotid bruits. Pulm - Full breath sounds. CTA bilaterally; no wheezes, rales, or rhonchi CV - RRR, normal S1/S2; no murmurs, rubs, or gallops Abdomen - Rotund abdomen. bowel sounds present; soft, non-tender, non-distended. No hepatosplenomegaly. No guarding or rebound. Ext - No clubbing, cyanosis or edema Neuro - ___ strength in all extremities.  Pertinent Results: Chemistry: ___ GLUCOSE-95 UREA N-16 CREAT-0.9 SODIUM-139 POTASSIUM-4.3 CHLORIDE-106 TOTAL CO2-24 ANION GAP-13
+
+___ TSH-1.9
+
+CBC: WBC-6.1 RBC-3.61* HGB-11.3* HCT-34.6* MCV-96# MCH-31.1# MCHC-32.5 RDW-13.9 PLT COUNT-314 Diff: NEUTS-61.7 ___ MONOS-7.0 EOS-8.5* BASOS-0.4  Cardiac enzymes: ___ CK(CPK)-62 ___ CK-MB-NotDone cTropnT-<0.01
+
+___ BLOOD CK(CPK)-57 ___ BLOOD CK-MB-NotDone cTropnT-<0.01
+
+EKG: 67 bpm, normal sinus rhythm, paced rhythm. LAD, RBBB, PVCs, T wave inversion in V1.
+
+Chest X-ray: No acute cardiopulmonary process.  Brief Hospital Course: The patient was admitted to the medicine floors and monitored on telemetry. Cardiology assured that his pacemaker was properly working. He had no complaints. Three sets of cardiac enzymes were negative and no episodes of chest pain, SOB, or diaphoresis. 
+
+In the emergency department, the patient was noticed to have bright red blood after stooling. The patient said that he normally has some bright blood as a complication of his chronic constipation. His gastroenterologist advised against colonoscopy (last scope was ___. While on the floor, the patient hematocrit remained stable and at his baseline. He was discharged with a hematocrit of 31.7. He had no further episodes of any bleeding. 
+
+Of note, the patient had a high eosinophil count of 8.5 (WBC=6.3). Absolute eosinophil count is <600.
+
+Issues to follow-up as an outpatient: 1. Continue to follow hematocrit.  Medications on Admission: MEDICATIONS: (as of ___ Epogen 10,000 U three times a week Levothyroxine 50 mcg Daily Metoprolol XR 50 Daily Lisinopril 10 mg Daily Aspirin 81 mg PO Daily Amytripyline 10 mg qHs Simvastatin 40 mg Daily Sennakot 2 pills in morning, 2 at night
+
+ Discharge Medications: No changes from admission: 1. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).  2. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).  4. Amitriptyline 10 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).  5. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  6. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day).  7. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day. 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Primary diagnosis: 1. chest pain . Secondary diagnoses: 1. hemorrhoids 2. hypothyroidism 3. Hypertension
+
+ Discharge Condition: Stable. Asymptomatic without any complaints. Patient ambulating well. No need for oxygen. 
+
+ Discharge Instructions: You came to the hospital because you felt a sensation in your chest that you called a "chest convulsion." Cardiology checked your pacemaker and found it to be working properly. We checked your heart with an EKG and lab results and there were no problems. . You also were noted to have bleeding from your rectum while in the emergency department. You said that was normal for you because you have constipation. Your blood count remained stable while in the hospital.
+
+You should return to the emergency department if you become short of breath, have chest pain, fever, or more than usual bright red blood from your rectum.  Followup Instructions: ___ 

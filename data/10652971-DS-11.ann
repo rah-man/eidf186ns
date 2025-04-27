@@ -1,0 +1,43 @@
+T1	Intracranial_haemorrhage 477 480	TBI
+A1	Low_confidence T1
+T2	Falls 515 519	fall
+T3	Falls 339 345	Fall  
+T4	Falls 7003 7007	fall
+T5	Falls 7496 7500	fall
+T6	Falls 6238 6242	fall
+T7	Falls 10199 10203	fall
+T8	Falls 10411 10415	fall
+T9	Constipation 12166 12178	Constipation
+A2	Diagnosis T9 Implicit_mention
+T10	Falls 607 611	fell
+T11	Intracranial_haemorrhage 704 707	SDH
+T12	Delirium 1897 1905	Confused
+A3	Diagnosis T12 Implicit_mention
+T13	Delirium 1907 1918	disoriented
+A4	Diagnosis T13 Implicit_mention
+T14	Delirium 1924 1932	Oriented
+A5	Negation T14
+T15	Delirium 2397 2405	Oriented
+A6	Negation T15
+T16	Delirium 3674 3679	A&Ox3
+A7	Negation T16
+T17	Intracranial_haemorrhage 5579 5596	subdural hematoma
+T18	Intracranial_haemorrhage 5605 5628	intracranial hemorrhage
+A8	Negation T18
+T19	Wrist_fracture 6790 6795;6822 6830	wrist fracture
+A9	Negation T19
+T20	Intracranial_haemorrhage 7917 7920	SDH
+T21	Intracranial_haemorrhage 9848 9865	subdural hematoma
+T22	Unspecified_cognitive_impairment 9929 9937	Confused
+T23	Mobile_with_aid 10012 10022;10048 10051	Ambulatory aid
+T24	Mobile_with_assistance 10012 10022;10034 10044	Ambulatory assistance
+T25	Intracranial_haemorrhage 10299 10307;10316 10321	bleeding brain
+T26	Intracranial_haemorrhage 10681 10695	brain bleeding
+T27	Intracranial_haemorrhage 10699 10715	Brain Hemorrhage
+T28	Seizures 11121 11128	seizure
+A10	Diagnosis T28 Implicit_mention
+T29	Intracranial_haemorrhage 12423 12434	brain bleed
+T30	Seizures 13278 13286	Seizures
+A11	Diagnosis T30 Implicit_mention
+T31	Delirium 13571 13580	confusion
+A12	Diagnosis T31 Implicit_mention

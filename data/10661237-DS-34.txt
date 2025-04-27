@@ -1,0 +1,61 @@
+ Name: ___           Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Keflex / Oxycodone / morphine / vancomycin / vitamin B12 / ceftriaxone  Attending: ___.  Chief Complaint: LLQ abdominal pain  Major Surgical or Invasive Procedure: none  History of Present Illness: ___ with PMHx of diverticulitis, C.Diff, ESRD on HD presenting with LLQ abdominal pain.  The patient has significant memory issues at baseline, so most of the history is from her son. About 2 weeks ago, the patient began complaining of LLQ pain, worse with bowel movements, typical of her previous diverticulitis flairs. Her son took her to ___ near their home. He reports a CT scan done there, which "showed something," and she was given cipro/flagyl po and told to follow up with her PCP for an ultrasound.  Her pain improved on the antibiotics. However, after she finished the flagyl about ___ days ago (she has not yet finished the cipro given that she only takes it after dialysis) the pain recurred. She also began having loose stools and urgency. The pain is worse w/ bowel movements, but no association with food. She has not had any fevers/chills, nausea/vomiting. Her son reports that she stopped making urine about ___ weeks ago (she previously made about ___ cup per day).  In the ED initial vitals were: 97.2 71 101/58 18 93% ra  - Initial labs were significant for normal CBC and Chem-7 w/ lactate of 2.5. Repeat labs the next day showed Hct 37 -> 32, Na 138 -> 129, lactate 2.5 -> 1.6.  - Patient was given cipro/flagyl and home meds  Vitals prior to transfer were: 98.1 76 121/68 20 100% RA  On the floor, she says that LLQ is very mild. No complaints. She acknowledges memory problems and has difficulty recounting the details of her history. Her mental status is baseline per the son.  Review of Systems:  (+) per HPI  (-) fever, chills, night sweats, headache, vision changes, rhinorrhea, congestion, sore throat, cough, shortness of breath, chest pain, nausea, vomiting, constipation, BRBPR, melena, hematochezia, dysuria, hematuria. 
+
+ Past Medical History: ESRD status post left upper arm fistula placement, on dialysis since the ___.  H/o HTN  Paroxysmal Afib, not anticoagulated Abscess/complex cyst of left liver lobe s/p IV oxacillin,  minocycline, IV nafcillin -> daptomycin -> nafcillin ->  ceftriaxone (MSSA)  Thoracic aortic aneurysm  Gallstones  Lactose intolerance  IBS (last colonoscopy ___  GERD  HTN  RA  Patent foramen ovale  Complex ovarian cyst on R ovary  C diff colitis (___)  Prior Surgical History:  1. Cholecystectomy.  2. Pelvic surgery of unknown type  3. Sigmoid resection ___ for diverticulitis  4. Right salpingo-oophorectomy  5. Papillary stenosis status post papillotomy ___  6. Tubal ligation  7. S/p L4-L5 laminectomy and fusion 
+
+ Social History: ___ Family History: No family history of renal disease.  Physical Exam: PHYSICAL EXAM ON ADMISSION
+
+Vitals - T:98.4 BP:99/55 HR:65 RR:18 02 sat:99% RA  GENERAL: NAD, alert, oriented x 1 (thought ___ and ___, didn't know month or year, knew hospital but not name).  HEENT: MMM  NECK: nontender supple neck  CARDIAC: RRR, II/VI systolic murmur best heard at RUSB  LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles  ABDOMEN: nondistended, +BS, tender in LLQ, no rebound/guarding  Rectal: brown, guaiac negative stool  EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 extremities with purpose  SKIN: warm and well perfused, no excoriations or lesions, no rashes 
+
+PHYSICAL EXAM ON DISCHARGE
+
+Vitals: T98.___.1 BP:92-106/48-69 ___ O2:95-97/RA General: NAD, alert, oriented to hospital, season. HEENT: NC/AT, MMMs Neck: soft, supple Cardiac: RRR, ___ SEM best heard at ___ Pulm: CTAB, no wheezes, rales, rhonchi, no increased work of breathing Abd: nondistended, +BS, nontender to deep palpation, no rebound/guarding Ext: no cyanosis, clubbing or edema, moving all 4 extremities with purpose. Palpable thrill over LUE fistula. No erythema, drainage associated with fistula site.  Pertinent Results: ADMISSION LABS: ================ ___ 04:20PM BLOOD WBC-8.4# RBC-3.92*# Hgb-11.7*# Hct-37.0# MCV-94 MCH-29.7 MCHC-31.5 RDW-15.4 Plt ___ ___ 04:20PM BLOOD Plt ___ ___ 04:20PM BLOOD Glucose-96 UreaN-32* Creat-6.7*# Na-138 K-4.2 Cl-93* HCO3-27 AnGap-22* ___ 04:20PM BLOOD ALT-22 AST-25 AlkPhos-75 TotBili-0.1 ___ 04:20PM BLOOD Lipase-192* ___ 04:20PM BLOOD Albumin-3.8 ___ 11:20AM BLOOD Calcium-9.2 Phos-7.1*# Mg-2.2 ___ 04:30PM BLOOD Lactate-2.5* K-4.0
+
+INTERIM LABS: ================ ___ 06:00AM BLOOD WBC-5.8 RBC-3.30* Hgb-9.9* Hct-30.7* MCV-93 MCH-29.9 MCHC-32.2 RDW-15.6* Plt ___ ___ 09:35PM BLOOD Lipase-394* ___ 06:00AM BLOOD Lipase-438* ___ 11:41AM BLOOD Lactate-1.6
+
+LABS ON DISCHARGE: ================ ___ 06:00AM BLOOD WBC-5.4 RBC-3.32* Hgb-10.0* Hct-30.9* MCV-93 MCH-30.1 MCHC-32.3 RDW-15.8* Plt ___ ___ 06:00AM BLOOD Glucose-107* UreaN-17 Creat-5.8*# Na-132* K-3.8 Cl-91* HCO3-28 AnGap-17 ___ 06:00AM BLOOD ALT-17 AST-28 LD(LDH)-160 AlkPhos-60 TotBili-0.2 ___ 06:00AM BLOOD Calcium-8.7 Phos-5.5*# Mg-1.9
+
+MICROBIOLOGY: ================ Blood culture x2 ___ - NGTD
+
+IMAGING: ========================== CT Abd/Pelvis ___ 1. Diverticulosis without evidence of diverticulitis. 2. Bowel wall thickening and surrounding stranding involving a loop of small bowel in the left lower quadrant may represent mild enteritis. 3. Complex right renal cystic lesion and multiple hyperdense lesions in the bilateral kidneys should be further evaluated with MRI or multiphasic CT to exclude malignancy in this hemodialysis patient. 
+
+ Brief Hospital Course: ___ with PMHx of diverticulitis, C.Diff, ESRD on HD presenting with LLQ abdominal pain and findings of small bowel enteritis in LLQ on abdominal CT, most likely consistent with viral enteritis. Patient had just completed course of antibiotics (cipro/flagyl) and did not have fever, leukocytosis or worsening symptoms therefore antibiotics were discontinued. Patient tolerated advancing diet without worsening symptoms. She was pain free and tolerating regular diet on day of discharge. Additionally, patient was restarted on outpatient regimen of psyllium and cholestyramine on day of discharge. 
+
+#LLQ Abdominal Pain: Patient was recently evaluated at ___ ___ 2 weeks prior to admission and found to have ileitis on CT, started on course of ciprofloxacin and flagyl. Patient presented to ___ with LLQ pain, CT showed evidence of diverticulosis without diverticulitis, LLQ enteritis. As patient did not have fevers, leukocytosis, and had recently completed a full course of cipro and flagyl, this was thought to be a viral enteritis and no further antibiotics administered. Patient was noted to have elevated lipase, uptrending to 433, concerning for pancreatitis, however this diagnosis was thought to be less likely given location of pain, lack of symptoms with PO intake, lack of imaging findings, and unclear etiology (non-drinker, previous cholecystectomy, no new medications). Blood cultures no growth to date. Patient's pain improved and she was able to tolerate a full diet prior to discharge. 
+
+#Diarrhea: Patient has history of c diff colitis as well as chronic diarrhea which is generally well controlled on psyllium. She began experiencing loose bowel movements in the week preceeding admission. During admission diarrhea improved, and patient began having one bowel movement per day. Home psyllium and cholestyramine were initially held and then restarted on the day of discharge. Low clinical suspicion for C. diff given lack of leukocytosis, improving symptoms, no imaging findings.
+
+#Acute-on-chronic Anemia: Patient chronically anemic with Hb ___ during previous admissions. Hgb downtrended from 11.7 on presentation to 10.0 during admission. Rectal exam showed guaiac negative brown stool. Etiology thought likely anemia of chronic disease (elevated ferritin at previous visits) with downtrend being dilutional given decreased WBC, platelet counts. 
+
+#ESRD: Patient was maintained on ___ dialysis through LUE AVF throughout admission. Had HD session here at ___ on ___. Continued calcium acetate, nephrocaps.
+
+CHRONIC ISSUES: #Dementia: Son reports progressive dementia over last several years that has been evaluated as an outpatient. Patient A&Ox2, able to determine hospital and year from multiple choices. At baseline mental status. During admission, maintained frequent reorientation to prevent delirium. No clinical signs of delirium during admission.
+
+Chronic Issues:  # HTN: Previously on amlodipine, hydral and carvedilol in ___. Now only on carvedilol. Carvedilol held during admission due to low-normal pressures.
+
+# HLD: Continued pravastatin 10mg PO daily, ASA 81mg. 
+
+# Paroxysmal Afib: History of Afib during hospitalization in ___. Was not anticoagulated long-term due to a questionable hematoma on heparin gtt. Converted to regular sinus rhythm afterwards. Has not had previous Holter monitoring done. CHADS2Vasc = 4 (HTN, Age ___, was continued on ASA 81 mg throughout admission. Consider holter monitor as outpatient to determine burden of atrial fibrillation. 
+
+==================== TRANSITIONAL ISSUES: ===================== [] Right renal cystic lesion and multiple hyperdense lesions in bilateral kidneys: seen on CT, recommend MRI or multiphasic CT to exclude malignancy in this hemodialysis patient. [] History of paroxysmal atrial fibrillation- CHADS2Vasc score =4, consider outpatient holter ___ of hearts to evaluate for burden of afib (patient appeared to be in sinus rhythm throughout this admission). []ESRD- Maintained on ___ dialysis schedule, had session of HD ___, due ___. Continued home calcium acetate, nephrocaps. [] HTN: Home carvedilol held during admission due to low-normal pressures (SBP ___. will need to be restarted at PCP follow up or before if BPs tolerate. [] Decreased Vision: Patient complained of long standing difficulty with vision, L>R, consider referral to optometry for formal vision testing
+
+# Code Status : Full (confirmed with patient and son/HCP) # Emergency Contact: ___ (son) phone number: ___ 
+
+ ___ on Admission: The Preadmission Medication list is accurate and complete. 1. Acetaminophen 1000 mg PO Q8H:PRN pain 2. Aspirin 81 mg PO DAILY 3. Carvedilol 25 mg PO BID 4. Pravastatin 10 mg PO DAILY 5. brimonidine 0.2 % ___ BID 6. Nephrocaps 1 CAP PO DAILY 7. Psyllium 1 PKT PO DAILY 8. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 9. Calcium Acetate 1334 mg PO TID W/MEALS 10. Ciprofloxacin HCl 500 mg PO AFTER DIALYSIS 11. Cholestyramine 4 gm PO DAILY 
+
+ Discharge Medications: 1. Acetaminophen 1000 mg PO Q8H:PRN pain 2. Aspirin 81 mg PO DAILY 3. Calcium Acetate 1334 mg PO TID W/MEALS 4. Cholestyramine 4 gm PO DAILY 5. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 6. Nephrocaps 1 CAP PO DAILY 7. Pravastatin 10 mg PO DAILY 8. Psyllium 1 PKT PO DAILY 9. brimonidine 0.2 % ___ BID 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Primary diagnosis: Enteritis
+
+Secondary diagnosis: Anemia ESRD on HD Diarrhea Hypertension Paroxysmal Atrial fibrillation
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Ms. ___, 
+
+It was a pleasure taking care of you during your admission to ___. You came into the hospital because of diarrhea. Your CT scan showed some inflammation in your small bowel, consistent with an infection. We monitored you closely off antibiotics and your symptoms improved. We advanced your diet slowly which you tolerated well. Please take your medications as directed and follow up with your primary care physician as below.
+
+During your hospitalization your blood pressure was low and we stopped one of your blood presusre medications. You will need to follow up with your primary care doctor to follow up 
+
+Be well and take care.
+
+Sincerely, Your ___ Care Team  Followup Instructions: ___ 

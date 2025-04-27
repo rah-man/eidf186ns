@@ -1,0 +1,25 @@
+T1	Wrist_fracture 351 373	distal radius fracture
+T2	Wrist_fracture 2695 2711	distal radius fx
+T3	Wrist_fracture 3106 3128	distal radius fracture
+T4	Wrist_fracture 3694 3716	distal radius fracture
+T5	Wrist_fracture 3861 3883	distal radius fracture
+T6	Delirium 4127 4135	oriented
+A1	Negation T6
+T7	Has_carers 5965 5982	Home With Service
+T8	Wrist_fracture 6071 6093	distal radius fracture
+T9	Delirium 6117 6150	Mental Status: Clear and coherent
+A2	Negation T9
+T10	Independently_mobile 6216 6240	Ambulatory - Independent
+T11	Wrist_fracture 6828 6842	wrist fracture
+T12	Upper_gastrointestinal_haemorrhage 7982 7986;8011 8016	dark vomit
+T13	Upper_gastrointestinal_haemorrhage 7982 7986;8027 8032	dark bowel
+A3	Diagnosis T13 Implicit_mention
+A4	Diagnosis T12 Implicit_mention
+T14	Upper_gastrointestinal_haemorrhage 7987 7992;8011 8016	black vomit
+A5	Diagnosis T14 Implicit_mention
+T15	Upper_gastrointestinal_haemorrhage 7987 7992;8027 8032	black bowel
+A6	Diagnosis T15 Implicit_mention
+T16	Upper_gastrointestinal_haemorrhage 7973 7978;8011 8016	blood vomit
+A7	Diagnosis T16 Implicit_mention
+T17	Lower_gastrointestinal_haemorrhage 7973 7978;8027 8032	blood bowel
+A8	Diagnosis T17 Implicit_mention

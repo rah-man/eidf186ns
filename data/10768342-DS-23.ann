@@ -1,0 +1,14 @@
+T1	Lower_gastrointestinal_haemorrhage 2006 2014;2033 2039	bleeding rectum
+A1	Diagnosis T1 History_of
+T2	Lower_gastrointestinal_haemorrhage 3049 3057;3099 3104	bleeding colon
+A2	Diagnosis T2 History_of
+T3	Independently_mobile 7397 7421	ambulating independently
+T4	Urinary_tract_infection 7838 7843	UTI  
+A3	Negation T4
+T5	Lower_respiratory_tract_infection 8096 8107	Pneumonia  
+A4	Negation T5
+T6	Delirium 11032 11065	Mental Status: Clear and coherent
+T7	Mobile_with_assistance 11131 11141;11153 11163	Ambulatory assistance
+T8	Mobile_with_aid 11131 11141;11167 11170	Ambulatory aid
+T9	Constipation 11915 11927	constipation
+A5	Diagnosis T9 Implicit_mention

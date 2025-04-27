@@ -1,0 +1,101 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Flexeril  Attending: ___.  Chief Complaint: abnormal thyroid labs, weakness
+
+ Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ with hx recurrent L pleural effusions, CAD s/p CABG ___ (LIMA-LAD, SVG-D1, SVG to OM, SVG to RCA), severe AS s/p bioAVR ___, A fib on Eliquis and amiodarone, CLL, who presents for abnormal labs and weakness. Patient had TSH of 98 @ cardiologist office 2 days ago w/ free T3 0.51, free T4 0.30. They instructed the pt to hold his amiodarone ___ concern for toxicity. No hx thyroid disease. Pt reports he has been completely asymptomatic recently. He and his wife are currently staying at a hotel after being evacuated ___ the fires last night in ___. They report that he has "fluid issues" after his heart surgeries and his daily Lasix dosing was recently increased from 40mg qd to 80mg qd approximately 2 weeks ago. They have not noticed any change in his leg edema with the increase and he reports it is currently worse than usual. Due to the evacuation and forgetting to bring his medication, he has not taken any of his medications since yesterday. Denies chest pain. Reports ongoing dyspnea with talking, denies dyspnea at other times or with exertion. Denies orthopnea, PND. 
+
+Pt's cardiology office can be reached at ___.
+
+In the ED:
+
+Initial vital signs were notable for: ___ 61 18 107/55 99%RA
+
+Exam notable for: Gen app: NAD, no resp distress HEENT: no thyroid enlargement, no palpable thyroid nodules. CV: There is a loud S2. RRR. Lungs: Faint rales in lower lobes bilaterally. Extrem: 2+ bilateral pitting edema in lower extreme
+
+Labs were notable for: WBC 7.8 Hb 8.2 Plt 132 (baselin Hb ~9, Plt ~200)\ 137 | 95 | ___ 5.6 | 30 | 1.5  (baseline 1.2) Ca 8.7 Mg 2.3 P 3.2 proBNP ___ Outside labs from 2 days ago: TSH 98, free T3 0.51, free T4 0.30
+
+Studies performed include: Chest x-ray: No significant change from most recent prior exam with near complete opacification of the left hemithorax due likely due to a large left pleural effusion (comparison ___
+
+Patient was given: 150 mg ranitidine Metoprolol succinate xl 25 mg Simvastatin 40 mg Apixaban 5 mg IV furosemide 80 mg - output not documented
+
+Consults: None
+
+Vitals on transfer: 97.6  58  96/46  18  98% RA
+
+Upon arrival to the floor, pt confirms the above history. He says he left ___ due to recent explosions to stay in ___ ___ overnight. He was on the way home when his cardiologist in ___ called about his abnormal labs, which is why he presented to the hospital. He denies feeling any acutely worse than usual. On review of systems, he endorses worsening vision for the past ___ months with occasional episodes of double vision. He endorses constipation to sometimes 3 days between bowel movements for the past ___ months. Over that same period of time his cardiologist has been attempting to increase his dose of lasix to decrease the edema in the ankles - increased to 80 mg daily from 20 mg 2 months ago. He denies palpitations, headaches, chest pain or pain anywhere. Denies recent illness, FH of thyroid problems.
+
+ Past Medical History: - CLL previously on ibrutinib - Psoriasis - Insomnia - BPH - Prior TIA (right leg weakness and numbness) - Chronic low back pain - Cataract surgery - Severe AS with AVR in ___ - AVR, CABG ___ (LIMA to LAD, reverse saphenous vein to diagonal branch, marginal branch, and RCA)  Social History: ___ Family History: Father died secondary to MI aged ___. Mother died secondary to cancer.  Physical Exam: ADMISSION PHYSICAL EXAM: ======================== VITALS: 97.6  58  96/46  18  98% RA GENERAL: Pleasant alert and interactive kyphotic man sitting in bed in no acute distress. HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without injection. MMM. NECK: Thyroid is normal in size and texture, elevates with swallowing. No palpable nodules or goiter. No cervical lymphadenopathy. No visible JVP. CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No murmurs/rubs/gallops. LUNGS: Significantly decreased to absent breath sounds in all left lung fields. Right lung fields with occasional crackles in lower lobes, no wheezes. No increased work of breathing, accessory muscle use, or tachypnea. BACK: No spinous process tenderness. No CVA tenderness. Kyphotic. ABDOMEN: Normal bowel sounds, non distended, non-tender to deep palpation in all four quadrants. No organomegaly. EXTREMITIES: No clubbing or cyanosis. Pulses DP/Radial 2+ bilaterally. Significant ___ puffy edema without any skin changes bilaterally in the ankles extending up to 1+ edema in the mid shins SKIN: Warm. Cap refill <2s. No rash. NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal sensation. 2+ biceps reflexes, 1+ patellar reflex. AOx3.
+
+DISCHARGE PHYSICAL EXAM: ======================== VITALS: ___ 0736 Temp: 98.3 PO BP: 102/46 HR: 51 RR: 18 O2 sat: 99% O2 delivery: 1L GENERAL: Pleasant, alert and interactive, kyphotic man sitting up in bed in NAD. HEENT: NC/AT, EOMI. Sclera anicteric and without injection. MMM. CARDIAC: Bradycardic but regular rhythm. No murmurs/rubs/gallops. LUNGS: +Decreased breath sounds in left lung. Right lung mildly diminished at the base. No increased work of breathing, accessory muscle use, or tachypnea. ABDOMEN: +BS, non-distended, non-tender, no organomegaly. EXTREMITIES: No clubbing or cyanosis. ___ BLE R>L edema up to mid-shins SKIN: Warm and well perfused. NEUROLOGIC: AOx3. +Delayed relaxation of reflexes. No focal neurologic deficits. 
+
+ Pertinent Results: ADMISSION LABS: =============== ___ 02:37PM  PLT COUNT-132* ___ 02:37PM  NEUTS-61.8 ___ MONOS-6.5 EOS-0.4* BASOS-0.4 IM ___ AbsNeut-4.82 AbsLymp-2.36 AbsMono-0.51 AbsEos-0.03* AbsBaso-0.03 ___ 02:37PM  WBC-7.8 RBC-2.72* HGB-8.2* HCT-27.0* MCV-99* MCH-30.1 MCHC-30.4* RDW-20.0* RDWSD-71.9* ___ 02:37PM  CALCIUM-8.7 PHOSPHATE-3.2 MAGNESIUM-2.3 ___ 02:37PM  ___ 02:37PM  GLUCOSE-94 UREA N-21* CREAT-1.5* SODIUM-137 POTASSIUM-5.6* CHLORIDE-95* TOTAL CO2-30 ANION GAP-12
+
+PERTINENT LABS: =============== ___ 08:10AM BLOOD calTIBC-200* Ferritn-1061* TRF-154* ___ 08:10AM BLOOD TSH-85* ___ 08:10AM BLOOD T3-33* Free T4-0.3* ___ 08:10AM BLOOD Cortsol-17.7 ___ 08:10AM BLOOD antiTPO-PND ___ 01:27AM BLOOD Lactate-1.1 ___ 01:51PM BLOOD Lactate-1.4 ___ 01:51AM BLOOD Lactate-0.8
+
+MICROBIOLOGY: ============= ___ 8:22 am BLOOD CULTURE   #2. 
+
+  Blood Culture, Routine (Pending): __________________________________________________________ ___ 5:02 pm URINE   Source: ___. 
+
+  URINE CULTURE (Pending): __________________________________________________________ ___ 1:35 pm BLOOD CULTURE   #1. 
+
+  Blood Culture, Routine (Pending): __________________________________________________________ ___ 2:35 am BLOOD CULTURE
+
+  Blood Culture, Routine (Pending):  No growth to date. __________________________________________________________ ___ 1:15 am BLOOD CULTURE
+
+  Blood Culture, Routine (Pending):  No growth to date. 
+
+IMAGING: ======== ___ CXR FINDINGS: PA and lateral views of the chest provided. Midline sternotomy wires and aortic valve replacement as well as mediastinal clips noted. Near complete opacification of the left hemithorax is again noted with mild residual aeration in the left upper lobe. Findings are secondary to known large pleural effusion. The right lung is essentially clear with minimal right basal atelectasis noted. The heart size cannot be assessed. No gross signs for edema. Mediastinal contour appears grossly unchanged. Imaged bony structures are intact.   IMPRESSION:  No significant change from most recent prior exam with near complete opacification of the left hemithorax du likely due to a large left pleural effusion. 
+
+DISCHARGE LABS: =============== ___ 08:22AM BLOOD WBC-7.7 RBC-2.86* Hgb-8.6* Hct-28.0* MCV-98 MCH-30.1 MCHC-30.7* RDW-21.5* RDWSD-75.9* Plt ___ ___ 08:22AM BLOOD Plt ___ ___ 08:22AM BLOOD Glucose-92 UreaN-20 Creat-1.3* Na-135 K-4.5 Cl-94* HCO3-28 AnGap-13 ___ 08:22AM BLOOD ALT-11 AST-21 LD(LDH)-422* AlkPhos-81 TotBili-1.0 DirBili-0.3 IndBili-0.7 ___ 08:22AM BLOOD Albumin-3.0* Calcium-8.3* Phos-3.0 Mg-2.2 UricAcd-6.___RIEF HOSPITAL SUMMARY: ======================= ___ with hx of recurrent L pleural effusions, CAD s/p CABG ___ (LIMA-LAD, SVG-D1, SVG to OM, SVG to RCA), severe AS s/p bioAVR ___, A fib on Eliquis and amiodarone, CLL presenting with TSH of 98 found on clinic visit 2 days ago and several months of gradually worsening weakness, worsening vision, and constipation in the setting of profound hypothyroidism.
+
+TRANSITIONAL ISSUES: ==================== [ ] Patient started on levothyroxine 50mcg qd while inpatient. Will need to follow up with endocrinology in ~4 weeks. Can either see an endocrinologist that his PCP recommends or can call ___ to set up an appointment at ___ Endocrinology. [ ] Patient will need thyroid function tests checked on ___. [ ] Anti-TPO antibodies pending at time of discharge. Primary inpatient team will follow up on these results (although expect them to be negative given hypothyroidism likely from amiodarone toxicity). [ ] Amiodarone was held as it is likely etiology of hypothyroidism. Patient should discuss with his cardiologist prior to restarting. [ ] Metoprolol and Lasix were held in the setting of hypotension and bradycardia (40-50s). Patient should discuss with his cardiologist prior to restarting these medications. [ ] If patient continues to be bradycardic and hypotensive despite hypothyroid treatment and holding metoprolol, can consider further workup for autonomic instability. [ ] Patient with ___ on admission, Creatinine up to 1.5 on admission from 1.2 on last discharge. Creatinine on day of discharge was 1.3. Please recheck Cr 1 week from discharge at PCP follow up. [ ] Patient with chronic Left pleural effusion s/p VATS. He is asymptomatic and should follow up with IP as outpatient as needed. 
+
+ACUTE ISSUES: ============= # Hypothyroidism Pt with elevated TSH, low FT4 and FT3 found on labs at OSH Cardiology. Symptoms included general weakness, vision changes, and constipation for several weeks prior to admission. Presentation not consistent with myxedema coma at time of admission. Etiology of hypothyroidism thought most likely secondary to Amiodarone toxicity, however of note was found to have euthyroid sick syndrome in the ___ given mildly elevated TSH 16, FT3 1.62, and FT4 1.0. Anti-TPO antibodies were pending at time of discharge. Endocrine was consulted and recommended starting levothyroxine. Patient was discharged on levothyroxine 50mcg qd with plan to uptitrate in ~4 weeks as an outpatient. He will follow up either at ___ endocrinology or with an endocrinologist of his PCP's recommendation. Thyroid function tests will be rechecked on ___. Amiodarone was held on admission and will not be restarted until patient discusses with his cardiologist. He was started on a bowel regimen for constipation. 
+
+# Recurrent triggers # Hypotension # Bradycardia Patient with multiple episodes of hypotension with SBP in 60-70s during admission. Patient reported having poor PO fluid intake for the past several weeks. Given poor PO intake, IV Lasix in the ED, and home metoprolol, hypotension was thought most concerning for hypovolemia with concurrent bradycardia and hypothyroidism. Of note, his SBPs from prior hospitalizations and outpatient records was 90-100s. During episodes of hypotension, lactate was normal. He received 250cc LR boluses when necessary, but only gentle fluid administration given chronic difficulties with hypervolemia in the setting of severe aortic stenosis. Metoprolol was held on admission. Hypothyroidism was treated as above. Patient should consider autonomic instability workup if still bradycardic despite treating hypothyroidism and holding metoprolol. 
+
+# ___ on CKD Patient presented with creatinine of 1.5 and K 5.6 on admission, up from 1.2 on last discharge. Patient received 80mg IV Lasix in the ED after labs were drawn. Patient was euvolemic on exam. ___ was felt to be due to hypovolemia in the setting of poor PO intake and recent Lasix. Patient had one isolated TTE on ___ with EF 40%, but several days later EF>55%; unclear if this represented recovered HF or (more likely) isolated spurious finding on a suboptimal quality TTE performed while patient was in atrial tachyarrhythmia. Patient received gentle fluid administration given h/o hypervolemia ___ severe aortic stenosis. Creatinine was monitored and was 1.3 on day of discharge. Creatinine should be checked by PCP 1 week after discharge. Home Lasix was held on admission and patient should discuss with his cardiologist prior to restarting. 
+
+# Anemia Anemia on admission thought likely secondary to CLL + iron deficiency anemia. Patient had decrease to 6.3 overnight after admission, with no evidence of active bleeding. He received 1u pRBC ___ AM and over-responded back to baseline of 8. Iron studies were consistent with anemia of chronic disease, hemolysis labs indeterminate (K within normal limits, LDH and T bili elevated but at baseline). Uric acid was slightly elevated but downtrended to normal during admission. CBC was monitored and he required no additional transfusions. 
+
+# Lower extremity edema Patient received 80 mg IV lasix in the ED with output unknown. Per patient, edema is worse than usual but is chronic. Potential etiology of worsening edema included hypothyroidism. Home Lasix was held given hypotension and will not be restarted until patient discusses with outpatient cardiologist. 
+
+# Atrial fibrillation Patient on amiodarone and metoprolol at home. Amiodarone held given hypothyroidism, and Metoprolol held given bradycardia and hypotension. Patient was monitored on tele and remained in sinus rhythm during admission. He was continued on apixaban 5 BID. Metoprolol and Amiodarone were held on discharge until patient discusses with his cardiologist. 
+
+CHRONIC ISSUES: =============== # L pleural effusion chronic Patient had recent follow up with IP on ___, per note patient "has had no recurrence of his L pleural effusion after VATS, suggesting that he has pleurodesed". Per note, at the time he was not symptomatic and continues to be asymptomatic. He was not scheduled for follow up and told to return if symptomatic. Chest x-ray on admission was unchanged from prior and patient continues to be asymptomatic. Patient should continue to follow up with outpatient IP as needed. 
+
+# Cardiac constriction LV/RV interdependence seen on TTE ___. No signs of constriction on physical exam on admission. Patient should continue to be monitored as an outpatient.
+
+# Thrombocytopenia Plt 132 on admission, just below baseline ~200s. Stable at 131 on day of discharge. Etiology most likely secondary to history of CLL. Patient should continue to be monitored as an outpatient. 
+
+# RLS Patient was continued on ropinirole. 
+
+# CAD s/p CABG ___ Patient was continued on home ASA and simvastatin. Home metoprolol was held as above. 
+
+#CODE: full, confirmed with patient ___ @ 20:15 #CONTACT: Name of health care proxy: ___ (wife) ___
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Metoprolol Succinate XL 25 mg PO DAILY 2. Cyanocobalamin 1000 mcg PO DAILY 3. Aspirin 81 mg PO DAILY 4. Ranitidine 150 mg PO DAILY 5. Apixaban 5 mg PO BID 6. Gabapentin 300 mg PO QHS 7. Ramelteon 8 mg PO QHS:PRN insomnia 8. Simvastatin 40 mg PO QPM 9. Amiodarone 100 mg PO DAILY 10. Furosemide 80 mg PO DAILY 11. rOPINIRole 1 mg PO QPM 
+
+ Discharge Medications: 1. Docusate Sodium 100 mg PO BID:PRN Constipation - First Line 
+
+2. Levothyroxine Sodium 50 mcg PO DAILY RX *levothyroxine 50 mcg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 3. Senna 8.6 mg PO BID:PRN Constipation - First Line  Reason for PRN duplicate override: Alternating agents for similar severity 4. Apixaban 5 mg PO BID  5. Aspirin 81 mg PO DAILY  6. Cyanocobalamin 1000 mcg PO DAILY  7. Gabapentin 300 mg PO QHS  8. Ramelteon 8 mg PO QHS:PRN insomnia  9. Ranitidine 150 mg PO DAILY  10. rOPINIRole 1 mg PO QPM  11. Simvastatin 40 mg PO QPM  12. HELD- Amiodarone 100 mg PO DAILY This medication was held. Do not restart Amiodarone until you discuss with your cardiologist. 13. HELD- Furosemide 80 mg PO DAILY This medication was held. Do not restart Furosemide until you discuss with your cardiologist 14. HELD- Metoprolol Succinate XL 25 mg PO DAILY This medication was held. Do not restart Metoprolol Succinate XL until you discuss with your cardiologist 
+
+ Discharge Disposition: Home With Service  Facility: ___  ___ Diagnosis: Primary diagnosis: Hypothyroidism 
+
+Secondary diagnoses: Hypotension Bradycardia Acute on chronic kidney injury Anemia Lower extremity edema Atrial fibrillation Chronic left pleural effusion Cardiac constriction Restless leg syndrome Thrombocytopenia Coronary artery disease s/p CABG ___
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr. ___, 
+
+It was a pleasure to care for you at the ___ ___. 
+
+Why did you come to the hospital?  - You came to the hospital because your outpatient cardiologist was concerned about your thyroid function.  
+
+What did you receive in the hospital?  - You were started on a medicine called levothyroxine to help your low thyroid levels. We think that your decreased thyroid function is from taking amiodarone. - Your heart rate was slow and your blood pressure was low. Your home metoprolol and Lasix were held because they can make your heart beat slower and blood pressure lower. - Your red blood cell count was low. You received a unit of red blood cells. You did not have any evidence of bleeding. 
+
+What should you do once you leave the hospital?  - You should take all of your medications as prescribed (see below). Your metoprolol, amiodarone and Lasix were held during your admission and should not be restarted until you discuss with your cardiologist. - You should call your cardiologist on ___ AM to set up an appointment this week to discuss your medications. - You should also call your primary care doctor ___ AM to set up an appointment this week and to ask if he/she has any specific endocrinologist you should see. - If your primary care doctor does not recommend a specific endocrinologist, you can call ___ to set up an appointment at ___ Endocrinology. 
+
+We wish you the best!  Your ___ Care Team 
+
+ Followup Instructions: ___ 

@@ -1,0 +1,39 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Ceclor / Keflex / prednisone / sulfamethoxazole / furin / methyl / cephalus  Attending: ___.  Chief Complaint: pancreatic mass, weight loss  Major Surgical or Invasive Procedure: ERCP s/p pancreatic duct brushings, pancreatic duct stent placement, pancreatic sphincterotomy  History of Present Illness: This is a ___ y/o man with a medical history notable for HTN, HL, hemorrhagic CVA ___ s/p VP shunt, admitted for monitoring post ERCP for a pancreatic mass. Patient initially had symptoms beginning in late ___ of sharp abdominal pain and back pain. He also began having post-prandial diarrhea along with a 40-lb unintentional weight loss since the end of ___. He initially saw his PCP and ___ local specialist, who diagnosed him with IBS and started him on dicyclomine. Due to persistent symptoms and further weight loss, he was referred to ___ for further work-up. He denies any symptoms f/c/s, jaundice, acholic stools or changes to his urine at that time. 
+
+He underwent an EUS on ___ which demonstrated 2x3 cm mass in the HOP with dilatation of the main PD. An FNA was done and came back as cystic neoplasm vs. GI contamination. Therefore, he was brought back for an ERCP today which he underwent without any immediate complications.  Brushings of the PD, stent insertion into the PD and a PD sphincterotomy were performed.  He did have left-sided CP post-procedure, which he described as sharp and 15 minutes in duration (currently pain free). EKG at the time was without signs of ischemic changes.
+
+Currently the patient is without CP, but reports ___ abd pain and abd bloating/distenstion. No n/v. No f/c/s. No other new symptoms.
+
+12-pt ROS otherwise negative except for as described above.  Past Medical History: HTN Hyperlipidemia Hemorrhagic CVA s/p VP shunt (residual memory loss) Headaches (due to increased ICP)  Social History: ___ Family History: Maternal uncle with pancreatic cancer  Physical Exam: VS: Tc 97.8, BP 158/81, HR 59, RR 18, SaO2 100/RA General: Older man in NAD, AO x 3 HEENT: Anicteric sclerae, MM dry, OP clear Neck: supple, no LAD Chest: CTA-B, no w/r/r CV: RRR s1 s2 normal, no m/g/r Abd: soft, distended with NABS, slight TTP over epigastric area, no peritoneal signs Ext: no c/c/e Skin: warm, dry, no jaundice  Pertinent Results: ___ 12:50PM  WBC-4.8 RBC-4.11* HGB-11.7* HCT-37.0* MCV-90 MCH-28.5 MCHC-31.6* RDW-14.5 RDWSD-47.8* ___ 12:50PM  PLT COUNT-128* ___ 12:50PM  ___ PTT-34.7 ___ ___ 12:50PM  LIPASE-6 ___ 12:50PM  ALT(SGPT)-66* AST(SGOT)-65* ALK PHOS-333* AMYLASE-52 TOT BILI-0.3 ___ 12:50PM  UREA N-14 CREAT-1.2 SODIUM-142 POTASSIUM-3.9 CHLORIDE-112* TOTAL CO2-19* ANION GAP-15 ___ 04:00PM  CK(CPK)-86
+
+___ 06:00AM BLOOD WBC-3.6* RBC-4.01* Hgb-11.5* Hct-36.0* MCV-90 MCH-28.7 MCHC-31.9* RDW-14.4 RDWSD-47.1* Plt ___ ___ 06:00AM BLOOD Glucose-66* UreaN-13 Creat-1.1 Na-142 K-4.0 Cl-110* HCO3-21* AnGap-15 ___ 06:00AM BLOOD ALT-209* AST-282* AlkPhos-464* TotBili-1.9* ___ 04:00PM BLOOD cTropnT-<0.01 ___ 12:50PM BLOOD ___ EKG: sinus brady, slight sinus arrhythmia, no ST or T wave changes
+
+___ ERCP: There was evidence of narrowing at D1/D2. The duodenoscope was removed and a gastroscope was advanced to this level. A CRE balloon catheter was inserted through the gastroscope and the area of narrowing was dilated from 12 to 15 mm. The duodenoscope was reinserted. A bulging, edematous and distorted papilla was noted. Given a tight stricture at the level of the intra-ampullary segment of the pancreatic duct we were unable to cannulate with a sphincterotome. Cannulation of the pancreatic duct was successful and deep with a ___ cannula using a free-hand technique. Contrast medium was injected resulting in complete opacification. The procedure was moderately difficult.  The pancreatic duct was filled with contrast and well visualized throughout. There was evidence of a 1cm stricture of the intra-ampullary segment of the pancreatic duct. The remainder of the pancreatic duct was dilated to 11 mm.  A 7cm by ___ single pigtail pancreatic stent was placed successfully.  A pancreatic sphincterotomy was performed in the 12 o'clock position using a needle-knife. There was evidence of mild oozing. A total of 7 mL of 1:10,000 Epinephrine was injected with good effect. Cytology samples of the pancreatic duct stricture were obtained for histology using a brush. Cold forceps biopsies of the ampulla were taken and were sent for histology.
+
+ Brief Hospital Course: Assessment - ___ y/o man with unintentional weight loss, abd pain, diarrhea x 6 months, presenting for further evaluation of a pancreatic mass concerning for malignancy, now s/p ERCP.
+
+# Pancreatic mass: s/p ERCP which revealed bulging papilla, narrowing of first two segments of duodenum and stricture in the pancreatic duct. Pancreatic brushings sent for cytology, also underwent pancreatic duct stent placement and pancreatic sphincterotomy.   He tolerated the procedure well, but had an elevation in his transaminases and bilirubin post-procedure.  On day of discharge labs worsened slightly (with increase in bilirubin). Pt declined to stay an additional day.
+
+MRCP was attempted but pt was unable to tolerate. There was discussion about whether to pursue CT pancreatic protocol, but Dr. ___ radiology discussed, and decision was made to hold off on further imaging until cytology results return.
+
+- brushing samples from pancreatic duct are pending - He will need to return in 3 weeks for removal of the stent - will need to take 5 days cipro - will need to have labs rechecked
+
+#Abdominal pain - likely related to pancreatic mass, appears to have responded to tramadol prn
+
+# Chest pain: Patient experienced some chest pain after the procedure and had an EKG thet was negative for ischemic changes and a troponin level that was negative
+
+# HTN: Cardizem CD continued until pt ran out of his own pill supply (reports he cannot do generic due to allergy). He was given metoprolol in-house thereafter, but will resume Cardizem CD upon discharge.
+
+# Mood disorder, NOS: Continue celexa and Topamax
+
+# hx VP shunt for hx hemorrhagic CVA - seen by neurosurgery after his MRCP to re-calibrate his VP shunt.
+
+# Mild thrombocytopenia: Patient without signs of bleeding but he developed some petecheie at the site of a blood draw.   Unclear if thrombocytopenia is old or new. Remained stable in-house in the low 100s.
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. butalbital-acetaminophen-caff 50-300-40 mg oral DAILY:PRN migraine 2. Citalopram 40 mg PO DAILY 3. DICYCLOMine 20 mg PO DAILY 4. Cardizem CD 120 mg oral DAILY 5. Mirtazapine 30 mg PO QHS 6. Simvastatin Dose is Unknown PO DAILY 7. Topiramate (Topamax) 50 mg PO QID 
+
+ Discharge Medications: 1. Cardizem CD 120 mg oral DAILY 2. Citalopram 40 mg PO DAILY 3. Mirtazapine 30 mg PO QHS 4. Topiramate (Topamax) 100 mg PO BID 5. DICYCLOMine 20 mg PO DAILY 6. butalbital-acetaminophen-caff 50-300-40 mg oral DAILY:PRN migraine 7. TraMADol 50 mg PO Q6H:PRN abdominal pain 
+
+ Discharge Disposition: Home  Discharge Diagnosis: 1. Pancreatic mass 2. Abdominal Pain 3. VP shunt  Discharge Condition: condition: good mental status: alert, oriented x 3 ambulatory status: Independent.  Discharge Instructions: You were admitted after a procedure called an ERCP. We obtained brushings from your pancreatic duct in attempt to diagnose the cause of the mass in the pancreas. You had a stent placed in this duct and will be contacted by our ERCP team to return to have the stent removed in 3 weeks. Our ERCP team will also contact you to let you know the results of the pancreatic duct brushing samples. Our cytology laboratory is currently still studying the samples.
+
+Please do not use any medicines such as aspirin or ibuprofen for the next 5 days.  Followup Instructions: ___ 
