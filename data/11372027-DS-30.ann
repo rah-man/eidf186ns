@@ -1,0 +1,12 @@
+T1	Delirium 2655 2663	Oriented
+A1	Negation T1
+T2	Vertebral_compression_fracture 4187 4208	compression fractures
+A2	Diagnosis T2 History_of
+T3	Constipation 6857 6869	constipation
+A3	Diagnosis T3 Implicit_mention
+T4	Constipation 7575 7587	constipation
+A4	Diagnosis T4 Implicit_mention
+T5	Has_carers 8080 8097	Home With Service
+T6	Delirium 8311 8344	Mental Status: Clear and coherent
+A5	Negation T6
+T7	Independently_mobile 8410 8434	Ambulatory - Independent

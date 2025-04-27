@@ -1,0 +1,7 @@
+T1	Lower_respiratory_tract_infection 1705 1714	pneumonia
+A1	Diagnosis T1 Suspected
+T2	Delirium 3161 3169	oriented
+A2	Negation T2
+T3	Lower_respiratory_tract_infection 4072 4081	pneumonia
+A3	Diagnosis T3 Suspected
+T4	Delirium 10069 10090	altered mental status

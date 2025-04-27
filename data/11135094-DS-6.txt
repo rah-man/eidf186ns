@@ -1,0 +1,63 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Indomethacin  Attending: ___.  Chief Complaint: Primary: Lower extremity weakness E. Coli bacteremia  Major Surgical or Invasive Procedure: none
+
+ History of Present Illness: ___ year old male, poor historian, with history of htn, hyperlipidemia, h/o MI in ___ who presents with worsening bilateral lower extremity weakness for ___ weeks. He was able to walk normally with a cane until last week when he felt he could not lift his legs well and had to drag them. This was first noticed when trying to get out of a chair. On the day of admission he was unable to rise from bed. He has been having urinary incontinence also for a few weeks, but no fecal incontnence. He does note some numbness and tingling in his legs and perineum (per Neurosurg note, presently denies). 
+
+. In the ED he was febrile. MRI showed no epidural abscess.  There were degeneteritive stenosis at L3/L4 and L4/L5 with resltant compression of the cauda equina. UA was positive and he was started on Ciprofloxacin. Pt is still unsure whether he wants to pursue surgery. Given symptoms preented subacutely, neurosurgery is okay to delay decision to go for surgery until pt discusses it with his son. . On transfer to the floor today, he says he feels "so so" He still endorses weakness in his legs and pain in the insteps of his feet. He denies dysuria.  
+
+ Past Medical History: HTN hyperlipidemia h/o MI in ___ Spinal Stenosis
+
+ Social History: ___ Family History: Family History: nc
+
+ Physical Exam: Physical Exam:  Vitals: T: 98 (100.5) BP:136/84 P:80s R: 20 O2: 98ra General: Alert, oriented, no acute distress, seems to ramble when he speaks but seems cognitively intact HEENT: Sclera anicteric, MMM, oropharynx clear  Neck: supple, JVP not elevated, no LAD  Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi  CV: Regular rate and rhythm, normal S1 + S2, ___ systolic murmur heard best at apex Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  Ext: Warm, well perfused, 2+ pulses, pneumoboots are on and he has some 1+ pitting edema of the ankles Skin: no rashes Neuro: pt has ___ strength in the upper and lower extremeties with the exception of plantar and dorsal flexion of the foot which was ___ strength. Sensation is intact  Pertinent Results: Labs on admission:
+
+___ 03:00PM BLOOD WBC-9.9 RBC-3.76* Hgb-12.1* Hct-34.6* MCV-92 MCH-32.1* MCHC-35.0 RDW-15.2 Plt Ct-94*
+
+___ 03:00PM BLOOD Hypochr-2+ Anisocy-1+ Poiklo-1+ Macrocy-1+ Microcy-1+ Polychr-OCCASIONAL Ovalocy-1+
+
+___ 03:00PM BLOOD Glucose-88 UreaN-12 Creat-1.1 Na-133 K-3.5 Cl-95* HCO3-27 AnGap-15
+
+___ 05:00PM URINE BLOOD-LG NITRITE-POS PROTEIN-25 GLUCOSE-NEG KETONE-15 BILIRUBIN-NEG UROBILNGN-4* PH-5.0 LEUK-MOD ___ 05:00PM URINE ___ BACTERIA-MANY YEAST-NONE ___
+
+Labs on discharge:
+
+___ 06:00AM BLOOD WBC-4.4 RBC-3.93* Hgb-12.2* Hct-35.4* MCV-90 MCH-31.1 MCHC-34.5 RDW-15.2 Plt ___ ___ 06:00AM BLOOD Glucose-95 UreaN-12 Creat-0.8 Na-137 K-5.1 Cl-100 HCO3-27 AnGap-15
+
+Micro: ___ Blood Culture,    ESCHERICHIA COLI.  FINAL SENSITIVITIES.            _________________________________________________________               ESCHERICHIA COLI               |  AMPICILLIN------------  <=2 S AMPICILLIN/SULBACTAM--  <=2 S CEFAZOLIN-------------  <=4 S CEFEPIME--------------  <=1 S CEFTAZIDIME-----------  <=1 S CEFTRIAXONE-----------  <=1 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------  <=1 S MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----  <=4 S TOBRAMYCIN------------  <=1 S TRIMETHOPRIM/SULFA----  <=1 S
+
+Blood cultures from ___ still pending UCx from ___ is negative
+
+Imaging: ___ CT Head: No acute intracranial abnormality. If concern for infarction persists, would recommend evaluation with MRI. . ___ MRI Spine: Limited study as gadolinium enhancement could not be performed as patient was unable to continue. No evidence of discitis, osteomyelitis or obvious signs of epidural abscess seen. Severe spinal stenosis at L4-5 level. Degenerative changes at other levels as described above. 
+
+___ CXR: no acute process
+
+ Brief Hospital Course: # E. coli bacteremia: Patient was initially admitted to the neuro service, and was started on ciprofloxacin for a positive UA. Once initial cultures came back as g- rods, he was switched to cefepime 2g daily, and was transferred to the medicine service and foley was removed. He remained afebrile throughout admission, and was not exhibiting any signs/symptoms of infection. Final cultures from ___ eventually came back positive for pan-sensitive e. coli. Pt was then switched over to ciprofloxacin 500mg PO BID for what will be a total of 14 days of antibiotics. He still has 3 days of cultures pending at this point which will need to be followed.
+
+.  # Lower extremity weakness: Pt presented with new onset ___ weakness. MRI was obtained on admission showing severe spinal stenosis at L4-L5. He was initially admitted to the neuro service for this, but was transferred to medicine for management of his bacteremia. He had ___ strength to dorsal and plantar flexion of the feet, but ___ strength throughout the rest of the lower extremities on transfer. The neurosurgery team did not feel this warranted immediate surgery. He was transferred to the medicine service for medical optimization. The neurosurgery team spoke with the patient and his son, and the decision was made to defer surgical intervention while in the hospital and pursue as an outpatient once his antibiotic course was completed. He was seen in-house by physical therapy who fitted him with AFO's to help brace him while walking. They recommended that he be d/c'd to rehab as he was not safe to go home. The patient refused, understood the risks, and preferred to go home with ___. He understood that this was against medical advice. 
+
+#Thromobcytopenia: Unclear etiology. Started at 94 on admission but increased to 134 by discharge. We held off on sc heparin, but looking at labs from the past year, he appeared to have a low baseline. He did not have any bleeding issues in house. .  # Lethargy: Patient was initially lethargic before transfer to the floor. This was likely secondary to his infection, but resolved over his hospital course. He was A/O x 3 on discharge .
+
+#CAD: Pt did not come in to the hospital on asa despite a history of CAD. We did not give it in-house. We felt that his could potentially be addressed as an outpatient.
+
+ Medications on Admission: folate 1 mg tab daily lasix 20 mg tab ___ tab daily) metoprolol 25 mg tab ___ tab daily) omeprazole 20 mg cap twice daily simvastatin 10mg tab daily Vit B12 50 mcg tab daily Iron 1 tab daily docusate 1 pill bid  Discharge Medications: 1. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  2. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).  3. Furosemide 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+
+5. Cyanocobalamin (Vitamin B-12) 100 mcg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  6. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO BID (2 times a day).  7. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) for 11 days. Disp:*22 Tablet(s)* Refills:*0*
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: PRIMARY: 1. Bacteremia 2. lower extremity weakness
+
+SECONDARY: 1. CAD
+
+ Discharge Condition: Mental Status: Confused - sometimes. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Mr. ___, You were admitted to the hospital because you were having weakness in your feet and legs. You had an MRI which showed some possible compression of your spinal cord, but the neurosurgery team felt that this did not warrant immediate surgery. You were also started on antibiotics for a blood stream infection. You should continue these antibiotics (ciprofloxacin) as directed below. 
+
+The physical therapy team recommended that you be discharged to a rehab facility until you were more physically fit to return home. However, you would rather return home now. You should know that the physical therapy team feels this is unsafe, but ultimately it is your decision. This discharge is therefore "against medical advice".
+
+Physical therapy will arrange to visit you at home.
+
+Please follow up with your primary care physician and neurosurgeon at the dates and times listed below.
+
+Since you have coronary artery disease you would likely benefit from being on a daily aspirin. Please discuss whether or nor to start taking an aspirin with your primary care physician at your follow up appointment.
+
+It was a pleasure participating in your care
+
+-Please continue all of your home medications -Please continue ciprofloxacin (antibiotic) 500mg by mouth every 12 hours. You will finish your antibiotic on ___.  Followup Instructions: ___ 

@@ -1,0 +1,34 @@
+T1	Delirium 225 246	Altered Mental Status
+T2	Urinary_tract_infection 379 383	UTIs
+A1	Diagnosis T2 History_of
+T3	Urinary_tract_infection 463 466	UTI
+T4	Urinary_tract_infection 605 608	UTI
+T5	Lives_in_carehome 1245 1257	nursing home
+T6	Delirium 1278 1299	altered mental status
+T7	Urinary_tract_infection 2198 2201	UTI
+T8	Dementia 2876 2884	Dementia
+T9	Urinary_tract_infection 2895 2898	UTI
+A2	Diagnosis T9 History_of
+T10	Urinary_tract_infection 2928 2931	UTI
+A3	Diagnosis T10 History_of
+T11	Lives_in_carehome 2987 2999	nursing home
+T13	Urinary_tract_infection 8621 8625	UTIs
+A4	Diagnosis T13 History_of
+T14	Urinary_tract_infection 8705 8708	UTI
+T15	Delirium 8826 8829	AMS
+T16	Urinary_tract_infection 8891 8897;8936 8943	septic urinary
+T17	Urinary_tract_infection 9030 9033	UTI
+T18	Urinary_tract_infection 9078 9081	UTI
+T19	Urinary_tract_infection 9155 9159	UTIs
+A5	Diagnosis T19 History_of
+T20	Constipation 12990 13004	Constipation  
+A6	Diagnosis T20 Implicit_mention
+T21	Constipation 13096 13110	Constipation  
+A7	Diagnosis T21 Implicit_mention
+T22	Urinary_tract_infection 14068 14091	urinary tract infection
+T23	Dementia 14147 14155	Dementia
+T24	Dementia 14300 14308	Confused
+T25	Bed_Chairbound 14399 14418	assistance to chair
+T26	Mobile_with_aid 14422 14432	wheelchair
+A8	Type_of_aid T26 Wheelchair
+T12	Urinary_tract_infection 14591 14614	urinary tract infection

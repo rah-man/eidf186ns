@@ -1,0 +1,9 @@
+T1	Delirium 2246 2254	oriented
+A1	Negation T1
+T2	Delirium 3963 3971	oriented
+A2	Negation T2
+T3	Intracranial_haemorrhage 6331 6354	intracranial hemorrhage
+A3	Negation T3
+T4	Delirium 8723 8756	Mental Status: Clear and coherent
+A4	Negation T4
+T5	Independently_mobile 8822 8846	Ambulatory - Independent

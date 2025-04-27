@@ -1,0 +1,18 @@
+T1	Urinary_tract_infection 751 760	urosepsis
+T2	Delirium 2156 2161	AAOx3
+A1	Negation T2
+T3	Urinary_tract_infection 2261 2263;2295 2304	UA infection
+A2	Diagnosis T3 Suspected
+T4	Delirium 4914 4919	A/Ox3
+A3	Negation T4
+T5	Urinary_tract_infection 11256 11265;11573 11583	URINE     infections
+T6	Urinary_tract_infection 12530 12538;12553 12561	infected ureteral
+T7	Urinary_tract_infection 12777 12783;12809 12817	Septic Ureteral
+T8	Urinary_tract_infection 13028 13031;13051 13073	UCX treated with meropenem
+T9	Urinary_tract_infection 18648 18657	Urosepsis
+T10	Delirium 18740 18773	Mental Status: Clear and coherent
+A4	Negation T10
+T11	Bed_Chairbound 18855 18874	assistance to chair
+T12	Mobile_with_aid 18878 18888	wheelchair
+A5	Type_of_aid T12 Wheelchair
+T13	Urinary_tract_infection 19100 19109;19118 19124	infection kidney

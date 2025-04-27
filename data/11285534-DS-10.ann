@@ -1,0 +1,19 @@
+T1	Faecal_incontinence 663 668;680 692	bowel incontinence
+T2	Urinary_incontinence 672 679;680 692	bladder incontinence
+T3	Urinary_tract_infection 779 782	UTI
+A1	Diagnosis T3 History_of
+T4	Constipation 2044 2056	constipation
+A2	Negation T4
+T5	Lower_gastrointestinal_haemorrhage 2058 2063	BRBPR
+A3	Negation T5
+T6	Upper_gastrointestinal_haemorrhage 2065 2071	melena
+A4	Negation T6
+T7	Lower_gastrointestinal_haemorrhage 2073 2085	hematochezia
+A5	Negation T7
+T8	Delirium 2898 2903	A&Ox3
+A6	Negation T8
+T9	Delirium 3491 3496	A&Ox3
+A7	Negation T9
+T10	Delirium 9527 9560	Mental Status: Clear and coherent
+A8	Negation T10
+T11	Independently_mobile 9626 9650	Ambulatory - Independent

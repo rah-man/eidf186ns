@@ -1,0 +1,78 @@
+T1	Delirium 207 216	confusion
+T2	Delirium 218 239	altered mental status
+T3	Intracranial_haemorrhage 483 486	SDH
+A1	Diagnosis T3 History_of
+T4	Dementia 488 496	Dementia
+T5	Falls 510 515	falls
+A2	Diagnosis T5 History_of
+T6	Lives_in_carehome 541 544	SNF
+T7	Falls 608 612	fall
+T8	Falls 1391 1396	falls
+A3	Diagnosis T8 History_of
+T9	Falls 1452 1456	fall
+A4	Diagnosis T9 History_of
+T10	Lives_in_carehome 1433 1436	SNF
+T11	Mobile_with_aid 1415 1425	wheelchair
+A5	Type_of_aid T11 Wheelchair
+T12	Intracranial_haemorrhage 716 719	SDH
+A6	Diagnosis T12 Suspected
+T13	Mobile_with_aid 1207 1213	walker
+A7	Type_of_aid T13 Two_sticks_or_frame
+T14	Constipation 1247 1259	constipation
+T15	Dementia 1632 1642	Dementia  
+T16	Upper_gastrointestinal_haemorrhage 1644 1648	UGIB
+A8	Diagnosis T16 History_of
+T17	Upper_gastrointestinal_haemorrhage 1679 1687;1694 1706	duodenal hemorrhage  
+A9	Diagnosis T17 History_of
+T18	Seizures 1973 1981	Seizures
+A10	Diagnosis T18 History_of
+T19	Seizures 2187 2194	seizure
+A11	Negation T19
+T20	Intracranial_haemorrhage 2331 2348	subdural hematoma
+A12	Diagnosis T20 History_of
+T21	Seizures 2446 2453	seizure
+A13	Diagnosis T21 Implicit_mention
+T22	Intracranial_haemorrhage 9852 9855	SDH
+A14	Diagnosis T22 History_of
+T23	Dementia 9860 9868	Dementia
+T24	Intracranial_haemorrhage 9919 9922	SDH
+A15	Diagnosis T24 History_of
+T25	Lower_respiratory_tract_infection 10272 10281	Pneumonia
+T26	Lower_respiratory_tract_infection 10287 10300	parapneumonic
+T27	Urinary_tract_infection 10365 10368	UTI
+T28	Lower_respiratory_tract_infection 10373 10376	PNA
+T29	Urinary_tract_infection 10554 10557	UTI
+T30	Lower_respiratory_tract_infection 10562 10565	PNA
+A16	Diagnosis T27 Suspected
+A17	Diagnosis T28 Suspected
+T31	Dementia 11644 11652	Dementia
+T32	Delirium 11655 11663	Delerium
+T33	Dementia 11688 11696	dementia
+T34	Lower_respiratory_tract_infection 12020 12023	PNA
+A18	Diagnosis T34 Suspected
+T35	Lower_respiratory_tract_infection 12192 12195	PNA
+A19	Diagnosis T35 Suspected
+T36	Constipation 12779 12791	constipation
+T37	Constipation 15022 15034	constipation
+A20	Diagnosis T37 Implicit_mention
+T38	Constipation 15073 15085	constipation
+A21	Diagnosis T38 Implicit_mention
+T39	Constipation 15734 15748	constipation  
+A22	Diagnosis T39 Implicit_mention
+T40	Constipation 15933 15947	constipation  
+A23	Diagnosis T40 Implicit_mention
+T41	Urinary_tract_infection 16219 16222	UTI
+T42	Lower_respiratory_tract_infection 16223 16232	Pneumonia
+T43	Lower_respiratory_tract_infection 16238 16251	parapneumonic
+T44	Delirium 16282 16290	Delirium
+T45	Dementia 16349 16357	Confused
+T46	Delirium 16349 16357	Confused
+T47	Mobile_with_assistance 16435 16445;16457 16467	Ambulatory assistance
+T48	Mobile_with_aid 16435 16445;16471 16474	Ambulatory aid
+T49	Delirium 16551 16560	confusion
+T50	Delirium 16565 16586	altered mental status
+T51	Urinary_tract_infection 16613 16616	UTI
+T52	Lower_respiratory_tract_infection 16630 16639	pneumonia
+T53	Lower_respiratory_tract_infection 16728 16737	pneumonia
+T54	Lower_respiratory_tract_infection 16748 16755	empyema
+T55	Lower_respiratory_tract_infection 16762 16770;16800 16804	infected lung

@@ -1,0 +1,19 @@
+T1	Seizures 5464 5471	seizure
+T2	Seizures 6623 6630	seizure
+T3	Seizures 7698 7705	Seizure
+T4	Seizures 7738 7745	seizure
+T5	Seizures 8033 8043	grand-mals
+A1	Negation T5
+T6	Seizures 7725 7737	tonic-clonic
+A2	Low_confidence T6
+T7	Seizures 8074 8081	siezure
+A3	Negation T7
+T8	Urinary_tract_infection 8365 8368	UTI
+T9	Constipation 9488 9502	Constipation  
+A4	Diagnosis T9 Implicit_mention
+T10	Constipation 10037 10051	Constipation  
+A5	Diagnosis T10 Implicit_mention
+T11	Urinary_tract_infection 10554 10577	urinary tract infection
+T12	Delirium 10624 10657	Mental Status: Clear and coherent
+A6	Negation T12
+T13	Bed_Chairbound 10725 10733	Bedbound

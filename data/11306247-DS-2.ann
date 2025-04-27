@@ -1,0 +1,22 @@
+T1	Weight_loss 206 217	weight loss
+T2	Weight_loss 918 929	weight loss
+T3	Urinary_tract_infection 2601 2624	urinary tract infection
+T4	Constipation 2755 2767	Constipation
+A1	Diagnosis T4 History_of
+T5	Malnutrition 3083 3092	cachectic
+T6	Delirium 3659 3667	oriented
+A2	Negation T6
+T7	Urinary_tract_infection 8549 8552	UTI
+T8	Mobile_with_aid 11300 11306	walker
+A3	Type_of_aid T8 Two_sticks_or_frame
+T9	Has_carers 11724 11737	home services
+T10	Constipation 12022 12034	Constipation
+A4	Diagnosis T10 Implicit_mention
+T11	Constipation 12512 12524	Constipation
+A5	Diagnosis T11 Implicit_mention
+T12	Has_carers 12645 12662	Home With Service
+T13	Delirium 12765 12798	Mental Status: Clear and coherent
+A6	Negation T13
+T14	Mobile_with_assistance 12864 12874;12886 12896	Ambulatory assistance
+T15	Mobile_with_aid 12864 12874;12900 12903	Ambulatory aid
+T16	Urinary_tract_infection 13122 13131;13149 13156	infection urinary

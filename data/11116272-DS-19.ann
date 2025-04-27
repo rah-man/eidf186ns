@@ -1,0 +1,15 @@
+T1	Falls 242 248	Fall  
+T2	Falls 360 364	fall
+T3	Unspecified_cognitive_impairment 539 559	cognitive impairment
+T4	Constipation 2670 2682	constipation
+A1	Diagnosis T4 Implicit_mention
+T5	Constipation 2906 2918	constipation
+A2	Diagnosis T5 Implicit_mention
+T6	Constipation 4038 4050	constipation
+A3	Diagnosis T6 Implicit_mention
+T7	Constipation 3931 3943	constipation
+A4	Diagnosis T7 Implicit_mention
+T8	Delirium 4363 4396	Mental Status: Clear and coherent
+A5	Negation T8
+T9	Mobile_with_assistance 4462 4472;4484 4494	Ambulatory assistance
+T10	Mobile_with_aid 4462 4472;4498 4501	Ambulatory aid

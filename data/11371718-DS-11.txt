@@ -1,0 +1,61 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: admitted with febrile neutrapenia  Major Surgical or Invasive Procedure: none
+
+ History of Present Illness: ___ PMHs of MDS-AML transformation (now on Mylotarg C1D1 ___ (s/p left nephrectomy ___, Squamous cell Ca (s/p resection), CAD (1 vessel, s/p stent ___, HTN, Gout, who presented from outpatient clinic for management and work-up of fever and neutropenia.
+
+He has been getting regular transfusions for his cytopenias, including ___ and ___. In the evening of ___ he started to feel chills while visiting his son, so went home. He had a temperature as high as ___, for which he took Tylenol and defervesced. He did not call or present to the ED because he was reassured by his decreased fever and wanted to sleep in his bed, despite previous instructions to call with fever. He then presented to outpatient clinic for transfusion, where he was noted again to be febrile to 101.6F and cytopenic (ANC 7, 210 blasts, Hgb 9.0, PLT of 13. Blood cultures were drawn, U/A was unremarkable, and CXR was also unremarkable. He received 1g vancomycin, 2g cefepime, IVF, and was admitted.
+
+Upon interview in the hospital, he denies any new complaints, and feels quite good. Denies current fever, chills, rigors, diaphoresis, sinus pain or congestion, vision changes, dyspnea, cough, abdominal pain, diarrhea, lower extremity swelling, dysuria or other change in urinary habits.  Past Medical History: As per last ___ clinic note: "dx MDS ___, transformed to AML ___: admitted to hospital for dyspnea and fatigue. On admission found to be pancytopenic with hgb 5.2, plt 63,000, WBC 3.4, 10% blasts. ___ confirmed MDS with hyperplasia and fibrosis - ___: Peripheral blasts of 22% meeting WHO criteria of AML
+
+STUDY TREATMENT HISTORY: Started MUC protocol ___ - ___ Cycle 1 treatment plan: Cycle 1 Plan: GO-203-2C 18mg/m2 IV on days ___ and ___ of 28 day cycle. Decitabine 20mg/m2 IV on days ___ of 28 day cycle. Last dose - ___ Cycle 7 treatment plan: GO-203-2C 18 mg/m2 IV on days ___ and ___ of 28 day cycle. Decitabine 20 mg/m2 IV on days ___ of 28 day cycle. -___ C1D1 Mylotarg 
+
+PAST MEDICAL HISTORY: - MDS->AML - Stage T1 renal cell carcinoma, status post left radical nephrectomy at ___ in ___ - Squamous cell skin cancer, status post resection - Elevated PSA followed by Urology, felt to be due to benign prostatic hypertrophy - Adenomatous colon polyps on colonoscopy in ___, status post resection. - One vessel CAD status post bare metal stent to mid LAD in ___ - Upper GI bleed about ___ years ago, status post endoscopic intervention; per patient report was attributed to aspirin, no recurrence since starting PPI - Hypertension - Dyslipidemia - CKD stage III - Gout  Social History: ___ Family History: Father died at ___ of heart disease.  Mother died at age ___ of old age.  Brother, coronary artery disease requiring CABG, question history of atrial fibrillation.  Three adult children, all healthy. 
+
+ Physical Exam: ADMISSION PHYSICAL EXAM: Vitals: 98.8 128/68 73 18 98% RA Gen: Pleasant, calm and conversive HEENT: No conjunctival pallor. No icterus. MMM. OP clear.  NECK: no appreciable JVP LYMPH: No cervical or supraclav LAD CV: Normocardic, regular. Normal S1,S2. No m/r/g LUNGS: CTAB. No wheezes, rales, or rhonchi. Breathing without distress ABD: NABS. Soft, NT, ND.  EXT: WWP. No ___ edema. SKIN: No rashes/lesions, petechiae/purpura ecchymoses.  NEURO: A&Ox3. LINES: R chest port with dried blood and mild erythema (unclear if chronic, but not warm)
+
+DISCHARGE PHYSICAL EXAM: VS: TC 98 ___ 97-99%RA I/O: ___ BM x1 GEN: Pleasant, calm and conversive HEENT: No conjunctival pallor. No icterus. MMM. OP clear. + ecchymosis on nasal bridge and right buccal area.  NECK: No appreciable JVP LYMPH: No cervical or supraclav LAD CV: Normocardic, regular. Normal S1,S2. No m/r/g LUNGS: CTAB. No wheezes, rales, or rhonchi. ABD: NABS. Soft, rounded but NT/ND.  EXT: WWP. No ___ edema or tremors. SKIN: No rashes/lesions, petechiae/purpura ecchymoses.  NEURO: A&Ox3, grossly non-focal. LINES: R chest port with dried blood, no discharge, swelling or tenderness  Pertinent Results: ADMISSION LABS: =============== ___ 08:30AM BLOOD WBC-0.6* RBC-2.42* Hgb-7.7* Hct-22.3* MCV-92 MCH-31.8 MCHC-34.5 RDW-15.3 RDWSD-51.6* Plt Ct-20* ___ 08:30AM BLOOD Neuts-3* Bands-0 Lymphs-65* Monos-2* Eos-0 Baso-0 ___ Myelos-0 Blasts-30* NRBC-1* AbsNeut-0.02* AbsLymp-0.39* AbsMono-0.01* AbsEos-0.00* AbsBaso-0.00* ___ 08:30AM BLOOD UreaN-30* Creat-1.1
+
+DISCHARGE LABS: =============== ___ 12:00AM BLOOD WBC-1.1* RBC-2.37* Hgb-7.4* Hct-20.7* MCV-87 MCH-31.2 MCHC-35.7 RDW-15.6* RDWSD-49.6* Plt Ct-8* ___ 12:00AM BLOOD Neuts-3* Bands-0 Lymphs-61* Monos-1* Eos-0 Baso-0 ___ Metas-1* Myelos-0 Blasts-34* AbsNeut-0.03* AbsLymp-0.67* AbsMono-0.01* AbsEos-0.00* AbsBaso-0.00* ___ 12:00AM BLOOD Hypochr-NORMAL Anisocy-NORMAL Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL ___ 07:05AM BLOOD Plt Ct-13*# ___ 12:00AM BLOOD Glucose-153* UreaN-32* Creat-1.1 Na-136 K-4.5 Cl-99 HCO3-23 AnGap-14 ___ 12:00AM BLOOD ALT-34 AST-41* LD(LDH)-727* AlkPhos-142* TotBili-0.4 ___ 12:00AM BLOOD Albumin-2.9* Calcium-8.4 Phos-3.5 Mg-2.2
+
+IMAGING: ========
+
+CHEST CT ___
+
+IMPRESSION:   1. No focal consolidation to suggest pneumonia. 2. Enlarging 9 mm perifissural solid pulmonary nodule in the medial pleural based aspect of the right lower lobe compared to ___. This is concerning for a metastatic disease in the setting of known renal cancer. PET-CT is recommended for further evaluation. 
+
+CT A/P ___
+
+IMPRESSION:   Within the limits of a noncontrast study, there is no evidence of colitis or intra-abdominal abscess.   CXR PA/LATERAL ___:
+
+IMPRESSION:   Tip of Port-A-Cath in cavoatrial juncture.   MICRO: ======
+
+___ BLOOD CULTURE Blood Culture, Routine-PENDING ___ BLOOD CULTURE Blood Culture, Routine-PENDING ___ BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT ___ BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT ___ BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT ___ BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT ___ BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT ___ BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT ___ BLOOD CULTURE Blood Culture, Routine-FINAL INPATIENT ___ BLOOD CULTURE Blood Culture, Routine-FINAL {ESCHERICHIA COLI}; Anaerobic Bottle Gram Stain-FINAL; Aerobic Bottle Gram Stain-FINAL  Brief Hospital Course: ACUTE ISSUES: ===============
+
+#Febrile neutropenia: #E coli Bacteremia: source likely bowel translocation in setting of severe neutropenia although no evidence of acute intra-abdominal sources per evaluation. There was no inconsistency in bowel habits per patient. No BRBPR. Empirically started on vancomycin and cefepime on ___ but changed to meropenem ___ with persistent fever spikes. Bacteremia unlikely to be causing fevers at this point as on sensitive ABX. Discontinued vancomycin on ___ as may be contributing to fever per ID and no evidence of MRSA infection. He has evidence of a new RUL ___ lung nodule on CT chest ___. Per ID, does not necessitate change in fungal therapy (patient has been on voriconazole since ___ for positive b-d-glucan). Voriconazole trough on ___ was 3.5. De-escalated to ciprofloxacin on ___ as pansensitive plus have had negative blood cultures since ___ and has been afebrile > 72 hours. Will need a 2 week course per ID from day he cleared his bacteremia (___) but this could be continued for some time since he does not have counts.
+
+#MDS->AML transformation (now on Mylotarg: ___ C1D1, D4, D7 of Mylotarg. He is currently D+22 of his regimen today. -Continue acyclovir/voriconazole -Currently on PJP/PCP prophylaxis, consider since remains on low steroids -Daily CBC/Diff -Transfuse for Hgb<7 or plt <10 -He received platelets transfusion on ___, 8---13
+
+#Pancytopenia: likely secondary to his underlying AML and/or recent chemotherapy, continue with infectious ppx as above
+
+#HTN: resumed atenolol on ___ as HTN was exacerbation, continue to monitor outpatient. 
+
+CHRONIC/STABLE/RESOLVED ISSUES: ===============================
+
+___, resolved: Likely pre-renal, continue to monitor outpatient. Cr 1.1 today Received 1L NS prior to discharge. 
+
+#Joint pains/? pseudogout vs. muscular injury: Has long history of gout with prior increased pain in shoulders. MRI showed rotator cuff injury. He remains on MS ___ 15 mg once per day but has been complaining of increased restless on his legs during this hospital course. Plan to switch to Oxycontin 10mg BID once PA approved. Continues on Allopurinol. Now on prednisone 7.5mg daily
+
+#CAD (s/p stent ___: No longer on ASA given low platelets. Continues on pravastatin 
+
+#ACCESS: R POC #CODE: Full (confirmed) #CONTACT: Health care proxy chosen: Yes Name of health care proxy: ___ Relationship: daughter Phone number: ___ Date on form: ___ Proxy form in chart: ___ Comments: alternate: ___ ___  #DISPO: Discharged ___. RTC ___ to see Dr. ___ for likely plts transfusion  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Acyclovir 400 mg PO Q12H 2. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 3. Docusate Sodium 100 mg PO BID constipation 4. Hydrocortisone Cream 1% 1 Appl TP BID:PRN irritation at port site ___ tegaderm 5. Lansoprazole Oral Disintegrating Tab 15 mg Other DAILY 6. Morphine SR (MS ___ 15 mg PO QHS 7. Pravastatin 10 mg PO QPM 8. PredniSONE 7.5 mg PO DAILY 9. Voriconazole 200 mg PO Q12H 10. Allopurinol ___ mg PO DAILY 11. Atenolol 25 mg PO DAILY 
+
+ Discharge Medications: 1. Ciprofloxacin HCl 500 mg PO Q12H  2. OxyCODONE SR (OxyconTIN) 10 mg PO Q12H ONCE YOUR INSURANCE APPROVAL GOES THROUGH, YOU CAN START OXYCONTIN ONLY AND STOP MS CONTIN  3. Polyethylene Glycol 17 g PO DAILY:PRN constipation  4. Acyclovir 400 mg PO Q12H  5. Allopurinol ___ mg PO DAILY  6. Atenolol 25 mg PO DAILY  7. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID  8. Docusate Sodium 100 mg PO BID constipation  9. Hydrocortisone Cream 1% 1 Appl TP BID:PRN irritation at port site ___ tegaderm  10. Lansoprazole Oral Disintegrating Tab 15 mg Other DAILY  11. Morphine SR (MS ___ 15 mg PO QHS CONTINUE UNTIL YOUR INSURANCE APPROVAL GOES THROUGH FOR OXYCONTIN, THEN DISCONTINUE  12. Pravastatin 10 mg PO QPM  13. PredniSONE 7.5 mg PO DAILY  14. Voriconazole 200 mg PO Q12H 
+
+ Discharge Disposition: Home  Discharge Diagnosis: PRIMARY DIAGNOSIS: ================= #E Coli Bacteremia #Febrile Neutrapenia #AML
+
+SECONDARY DIAGNOSIS: ==================== #Hypertension #Gout
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Mr. ___,
+
+You were admitted due to fever when your blood counts were low. You were found to have a blood infection which improved with IV antibiotics. You will continue oral antibiotics (ciprofloxacin) at home until you are advised to discontinue. You will follow up in the clinic to see Dr. ___ as stated below. Please do not hesitate to call in the meantime with any questions or concerns. It was a pleasure taking care of you.  Followup Instructions: ___ 

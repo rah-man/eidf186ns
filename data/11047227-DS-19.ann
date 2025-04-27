@@ -1,0 +1,14 @@
+T1	Urinary_tract_infection 428 431	UTI
+T2	Urinary_tract_infection 905 908	UTI
+A1	Diagnosis T1 History_of
+A2	Diagnosis T2 History_of
+T3	Urinary_tract_infection 3505 3508	UTI
+A3	Diagnosis T3 History_of
+T4	Urinary_tract_infection 4069 4072	UTI
+A4	Diagnosis T4 History_of
+T5	Urinary_tract_infection 6216 6239	urinary tract infection
+A5	Diagnosis T5 History_of
+T6	Delirium 6314 6347	Mental Status: Clear and coherent
+A6	Negation T6
+T7	Mobile_with_assistance 6413 6423;6435 6445	Ambulatory assistance
+T8	Mobile_with_aid 6413 6423;6449 6452	Ambulatory aid

@@ -1,0 +1,79 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Nickel / Sulfa (Sulfonamide Antibiotics)  Attending: ___.  Chief Complaint: dyspnea  Major Surgical or Invasive Procedure: None  History of Present Illness: ___ yo F with PMH of HFpEF, hypertension, CKD, severe AS s/p TAVR, type 2 diabetes and COPD on 2 L of oxygen presents with dyspnea.
+
+The patient had a recent admission for ___ to ___ for gastroenteritis and an E. coli UTI.
+
+She reports that five days ago she began to have chills and progressive shortness of breath. She also had nasal congestion but no body aches. She has a cough with sputum production but it is at baseline. She has had no sick contacts, leg swelling, body aches, chest pain or abdominal pain. She has had orthopnea but no PND. She has been taking her albuterol nebulizers several times a day in addition to her inhaler BID. Today she increased her home O2 from 2L to 3L, however continued to have dyspnea and called EMS. In terms of her COPD history she has several exacerbations per year but has never been intubated. 
+
+In the ED,  - Initial Vitals: T 97.8 HR 92 BP 166/63 RR 30 O2 sat 98% on nebs
+
+- Exam:  Const: Short of breath Eyes: No conjunctival injection HENT: NCAT, Neck supple without meningismus CV: RRR, Warm, well-perfused extremities RESP: Tachypneic, diffusely wheezy GI: soft, non-tender, non-distended MSK: No gross deformities appreciated. Nonpitting lower extremity edema. Skin: Warm, dry. No rashes Neuro: Alert, Speech fluent. No facial droop. Psych: Appropriate mood and affect.
+
+- Labs:  VBG 7.36/42, lactate 1.7, flu negative
+
+- Imaging:  CXR: Diffuse increased interstitial markings bilaterally suggests mild interstitial edema. Persistent cardiomegaly. 
+
+- Interventions: 80mg IV methylpred Duonebs 2mg IV mag 1g CTX/500 azithro 20mg IV Lasix
+
+On arrival to the MICU she reports her work of breathing has improved.  
+
+ Past Medical History: Hypertension COPD on 2 L home O2 HFpEF Aortic stenosis status post TAVR Obstructive sleep apnea Type 2 diabetes Depression/anxiety Chronic kidney disease RIGHT VOCAL CORD POLYP ___ TAVR ___ TUBAL LIGATION ___ 
+
+ Social History: ___ Family History: Mother with cirrhosis, father with emphysema  Physical Exam: ADMISSION PHYSICAL EXAM ======================== VS: Afebrile, BP 136/61 HR 88 O2 Sat 93 % Bipap ___ GENERAL: Alert and interactive, BiPAP mask in place  HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without injection. MMM.  NECK: Difficult to appreciate JVD CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. Systolic murmur at RUSB LUNGS: Diffuse, predominantly expiratory wheezing, prolonged expiratory phase BACK: No spinous process tenderness. No CVA tenderness.  ABDOMEN: Normal bowels sounds, non distended, non-tender to deep palpation in all four quadrants. No organomegaly.  EXTREMITIES: No clubbing, cyanosis, or edema. NEUROLOGIC: Moving extremities with purpose AOx3. 
+
+DISCHARGE PHYSICAL EXAM ======================== VS: 24 HR Data (last updated ___ @ 1222) Temp: 97.7 (Tm 97.9), BP: 145/71 (125-145/61-72), HR: 97 (88-107), RR: 20 (___), O2 sat: 93% (90-95), O2 delivery: 2L NC (2L NC-3L), Wt: 191.9 lb/87.05 kg  GEN: Elderly female sitting up in chair, no acute distress HEENT: MMM, NC in place CV: RRR, no murmurs or gallops RESP: Moving air well bilaterally, no appreciated wheezes or rales, no increased work of breathing. ABD: mildly distended/obese, NTTP, BS present GU: no foley EXTR: no edema, no rashes or wounds Psych: alert, appropriate, very pleasant
+
+ Pertinent Results: ADMISSION LABS: =============== ___ 07:43PM BLOOD WBC-3.9* RBC-3.09* Hgb-9.0* Hct-29.4* MCV-95 MCH-29.1 MCHC-30.6* RDW-16.7* RDWSD-58.3* Plt ___ ___ 07:43PM BLOOD Neuts-67.1 ___ Monos-10.2 Eos-2.0 Baso-0.0 Im ___ AbsNeut-2.63 AbsLymp-0.80* AbsMono-0.40 AbsEos-0.08 AbsBaso-0.00* ___ 07:43PM BLOOD Glucose-158* UreaN-22* Creat-1.4* Na-138 K-4.3 Cl-105 HCO3-21* AnGap-12 ___ 07:43PM BLOOD ALT-24 AST-28 AlkPhos-99 TotBili-0.3 ___ 07:43PM BLOOD Albumin-4.0 Calcium-8.4 Phos-2.7 Mg-1.7 ___ 07:48PM BLOOD ___ pO2-39* pCO2-42 pH-7.36 calTCO2-25 Base XS--1
+
+PERTINENT LABS/MICRO: ===================== ___ 07:43PM BLOOD D-Dimer-920 ___ 06:10AM BLOOD D-Dimer-1170* ___ 03:22PM BLOOD ___ pO2-177* pCO2-47* pH-7.39 calTCO2-30 Base XS-3 Comment-GREEN TOP ___ 07:43PM BLOOD proBNP-757* ___ 03:14AM BLOOD proBNP-1455* ___ 03:56AM BLOOD ___ pO2-50* pCO2-49* pH-7.29* calTCO2-25 Base XS--3 ___ 04:36PM BLOOD ___ pO2-69* pCO2-48* pH-7.31* calTCO2-25 Base XS--2 ___ 10:07PM BLOOD ___ Temp-36.6 Rates-/___ O2 Flow-5 pO2-56* pCO2-42 pH-7.36 calTCO2-25 Base XS--1 Intubat-NOT INTUBA ___ 03:28AM BLOOD ___ Temp-36.6 pO2-111* pCO2-54* pH-7.27* calTCO2-26 Base XS--2 Intubat-NOT INTUBA
+
+___ 07:27PM OTHER BODY FLUID FluAPCR-NEG FluBPCR-NEG ___ 07:55PM OTHER BODY FLUID FluAPCR-NEG FluBPCR-NEG
+
+___ BCx: NGTD ___ UCx: No growth ___ Resp viral panel: Negative ___ Sputum culture: canceled
+
+DISCHARGE LABS: =============== ___ 06:05AM BLOOD WBC-10.6* RBC-3.21* Hgb-9.0* Hct-29.9* MCV-93 MCH-28.0 MCHC-30.1* RDW-16.4* RDWSD-55.9* Plt ___ ___ 06:05AM BLOOD ___ PTT-50.5* ___ ___ 06:05AM BLOOD Glucose-153* UreaN-40* Creat-1.3* Na-145 K-4.6 Cl-102 HCO3-30 AnGap-13 ___ 06:05AM BLOOD Calcium-9.3 Phos-3.8 Mg-2.0
+
+PERTINENT IMAGING: ================== ___ CXR: COPD. Diffuse increased interstitial markings bilaterally suggests mild interstitial edema. Persistent cardiomegaly.
+
+___ CXR: In comparison with the study of ___, there again is hyperexpansion of the lungs with flattening hemidiaphragms consistent with chronic pulmonary disease. Stable enlargement of the cardiac silhouette with increasing pulmonary edema.  Probable small bilateral pleural effusions. Specifically, no evidence of pneumothorax.  ___ CXR: IMPRESSION:  Heart size and mediastinum are overall stable in appearance.  Bibasal opacities are minimal, unchanged since ___ with no evidence of progression or consolidations or development of pulmonary edema. No pleural effusion or pneumothorax. 
+
+___ V/Q Scan: Low likelihood ratio for acute pulmonary thromboembolism.
+
+ Brief Hospital Course: ___ y/o F with PMH of diastolic CHF, hypertension, CKD stage II, severe AS s/p TAVR, DMII, ongoing tobacco use and mod-severe COPD on 2 L of oxygen presents with acute resp failure secondary to COPD exacerbation. Hospital course was complicated by acute diastolic CHF v flash pulmonary edema, now improving and awaiting dispo evaluation. 
+
+#Acute on chronic hypoxemic respiratory failure #COPD exacerbation and Acute Diastolic CHF #Chronic tobacco use Mod-Severe COPD with last PFTs in ___ -> FEV1 50% predicted, 2L NC at home and active smoker at baseline. She was initially admitted to the ICU for BiPAP therapy and was slow to improve despite steroids, nebs and azithromycin. Hospital course was complicated by flash pulm edema/CHF exacerbation while in the ICU improved with diuresis (notable BNP increase compared to admission). Overall, patient's clinical presentation is most consistent with primary COPD exacerbation and mild fluid overload. She was diuresed to euvolemia. Notably, she remained deconditioned with oxygen requirement going up to 4L NC with ambulation and very low exercise tolerance. Patient triggered on ___ for hypoxia to 82% on 4L and tachycardia likely due to overexertion though worsening COPD v PE on differential; notably lungs without edema, VBG normal. V/Q scan performed and negative. Patient improved slowly clinically and did not have any other concerning episodes thereafter. She was given round-the-clock duonebs, albuterol nebs prn, Advair (to replace home symbicort which is not on formulary here). She was started on steroid taper, decreased to 50 mg x5 days (___), plan to decrease to 40 mg x5d on ___, then 30 mg x5d, then 20mg x5d, then 15mg x5d, 10 mg x5d, 5 mg x5d then stop. She was continued on GI prophylaxis with pantoprazole. Patient was counseled re: smoking cessation. She was offered nicotine supplementation in-house, which she declined. She expressed understanding regarding the need to quit but declined any further support. 
+
+#Acute on Chronic HFpEF: Mild exacerbation on admission. On ___ am patient developed acute hypertension/tachycardia and respiratory distress that was likely ___ flash pulmonary edema. Pt was treated with diuresis and became clinically euvolemic. Creatinine elevated with ___ on CKD, improved with a break from diuresis. She was restarted on home Lasix 40mg daily but appeared dry as a result thus dose was reduced to 20 mg at discharge. Home lisinopril was held as patient was normotensive, restarted on discharge.
+
+#Acute on chronic CKD: Baseline Creat 1.3, peak 1.6 here likely secondary to diuresis. Patient clinically dry. Was given a break from diuresis and lisinopril was held for part of hospitalization, with normalization of creatinine to baseline. Home meds restarted on discharge per above.
+
+#T2DM: Metformin held given ___. Patient was started on lantus standing, Humalog standing and sliding scale due to persistent hyperglycemia from steroid use. On day of discharge, regimen was lantus 10u qhs, standing Humalog 10u with meals and SSI. Doses decreased on discharge given dose decrease of prednisone starting tomorrow and restarting of metformin.
+
+#Depression/Anxiety: Likely worsened by admission and dyspnea. Continued citalopram and bupropion
+
+#OSA: continued CPAP at night
+
+TRANSITIONAL ISSUES: [] please check weekly chem-7 and monitor Cr and electrolytes [] Lasix dose decreased on discharge to 20 mg. Home dose is 40mg, increase as needed if showing signs of fluid accumulation. [] hyperglycemia in setting of steroid use. She was started on lantus and Humalog since metformin was held in setting of ___. Metformin restarted on discharge and doses of insulin on discharge decreased to reflect decreasing prednisone and resumption of metformin. However, please continue to monitor and adjust insulin as needed. [] prednisone taper: 40mg x5d ___ 30mg x5d ___ 20mg x5d ___ 15mg x5d ___ 10mg x5d ___ 5mg x5d ___ #CODE STATUS: Full code (confirmed) #CONTACT/HCP: ___ (daughter) ___ [x] I spent 45 min in discharge planning and coordination of care
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Aspirin 81 mg PO DAILY 2. Atorvastatin 40 mg PO QPM 3. Azithromycin 250 mg PO EVERY OTHER DAY 4. BuPROPion 150 mg PO BID 5. Citalopram 20 mg PO DAILY 6. Pantoprazole 40 mg PO Q24H 7. Tiotropium Bromide 1 CAP IH DAILY 8. Lisinopril 30 mg PO DAILY 9. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation inhalation BID 10. Allopurinol ___ mg PO DAILY 11. Albuterol Inhaler 2 PUFF IH Q4H:PRN sob 12. Furosemide 40 mg PO DAILY 13. MetFORMIN (Glucophage) 850 mg PO DAILY 
+
+ Discharge Medications: 1. Albuterol 0.083% Neb Soln 2 NEB IH Q2H:PRN wheezing/SOB  2. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation - Second Line  3. Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol  4. Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol  5. Glucose Gel 15 g PO PRN hypoglycemia protocol  6. Glargine 10 Units Bedtime Humalog 6 Units Breakfast Humalog 6 Units Lunch Humalog 6 Units Dinner Humalog 2 Units Bedtime Insulin SC Sliding Scale using HUM Insulin 7. Polyethylene Glycol 17 g PO DAILY  8. PredniSONE 15 mg PO DAILY Duration: 5 Doses Start: After 20 mg DAILY tapered dose This is dose # 4 of 6 tapered doses 9. PredniSONE 10 mg PO DAILY Duration: 5 Doses Start: After 15 mg DAILY tapered dose This is dose # 5 of 6 tapered doses 10. PredniSONE 5 mg PO DAILY Duration: 5 Doses Start: After 10 mg DAILY tapered dose This is dose # 6 of 6 tapered doses 11. PredniSONE 40 mg PO DAILY Duration: 5 Doses Start: Tomorrow - ___, First Dose: First Routine Administration Time This is dose # 1 of 6 tapered doses 12. PredniSONE 30 mg PO DAILY Duration: 5 Doses Start: After 40 mg DAILY tapered dose This is dose # 2 of 6 tapered doses 13. PredniSONE 20 mg PO DAILY Duration: 5 Doses Start: After 30 mg DAILY tapered dose This is dose # 3 of 6 tapered doses 14. Ramelteon 8 mg PO QPM:PRN insomnia  15. Senna 17.2 mg PO BID:PRN Constipation - First Line  16. Sodium Chloride Nasal ___ SPRY NU QID:PRN congestion  17. Furosemide 20 mg PO DAILY  18. Albuterol Inhaler 2 PUFF IH Q4H:PRN sob  19. Allopurinol ___ mg PO DAILY  20. Aspirin 81 mg PO DAILY  21. Atorvastatin 40 mg PO QPM  22. Azithromycin 250 mg PO EVERY OTHER DAY  23. BuPROPion 150 mg PO BID  24. Citalopram 20 mg PO DAILY  25. Lisinopril 30 mg PO DAILY  26. MetFORMIN (Glucophage) 850 mg PO BID  27. Pantoprazole 40 mg PO Q24H  28. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation inhalation BID  29. Tiotropium Bromide 1 CAP IH DAILY 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH ACUTE EXACERBATION ACUTE ON CHRONIC HYPOXEMIC RESPIRATORY FAILURE DIASTOLIC HEART FAILURE EXACERBATION ACUTE KIDNEY INJURY CHRONIC KIDNEY DISEASE DIABETES MELLITUS WITH HYPERGLYCEMIA
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Dear Ms. ___,
+
+It was a pleasure taking care of you during your hospitalization at ___!
+
+Why did you come to the hospital? - Because you were having trouble breathing
+
+What happened while you were in the hospital? - You were found to have an exacerbation of your COPD. You needed bipap so you were admitted to the intensive care unit and were treated with the BiPAP, as well as steroids, nebulizers and other supportive therapies - While in the ICU, you also developed fluid overload and received diuresis for it - You came to the regular medical floor where we continued to work on optimizing your breathing - You remained quite deconditioned and short of breath with minimal exertion so you had to go to rehab before going home.
+
+What should you do after you leave the hospital? - Please weigh yourself every morning, call MD if weight goes up more than 3 lbs. - Continue to take your medications as before. You are on a steroid taper, so tomorrow ___ you will go down to 40 mg daily. The doses will continue to decrease every 5 days until we can stop it. - Follow up with Dr. ___ in Pulmonary clinic in ___ ___ as scheduled - Please continue to abstain from smoking. You told us you did not require any assistance with this, but any of your doctors ___ be happy to help with nicotine supplementation, Chantix or other medical therapies if you think they will be helpful. 
+
+We wish you the ___!
+
+Sincerely, Your ___ Care Team
+
+ Followup Instructions: ___ 

@@ -1,0 +1,13 @@
+T1	Delirium 276 297	altered mental status
+T2	Dementia 417 425	dementia
+T3	Delirium 445 466	altered mental status
+T4	Upper_gastrointestinal_haemorrhage 611 619;656 661	vomiting blood
+A1	Negation T4
+T5	Delirium 918 938	mental status change
+T6	Delirium 944 953	confusion
+T7	Delirium 958 972	disorientation
+T8	Dementia 6309 6317	dementia
+T9	Delirium 6336 6339	AMS
+T10	Delirium 11902 11910	Confused
+T11	Mobile_with_assistance 11988 11998;12010 12020	Ambulatory assistance
+T12	Mobile_with_aid 11988 11998;12024 12027	Ambulatory aid

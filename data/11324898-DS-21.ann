@@ -1,0 +1,6 @@
+T1	Upper_gastrointestinal_haemorrhage 1163 1175	black stools
+A1	Negation T1
+T2	Lower_gastrointestinal_haemorrhage 1179 1189	red stools
+A2	Negation T2
+T3	Delirium 2080 2088	Oriented
+A3	Negation T3

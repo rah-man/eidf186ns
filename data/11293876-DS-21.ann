@@ -1,0 +1,13 @@
+T1	Visual_impairment 218 231	blurry vision
+T2	Visual_impairment 375 388	blurry vision
+T3	Visual_impairment 1068 1086	blurring of vision
+T4	Delirium 2237 2245	oriented
+A1	Negation T4
+T5	Visual_impairment 3584 3597	blurry vision
+T6	Visual_impairment 3680 3693	Blurry vision
+T7	Visual_impairment 4148 4161	blurry vision
+A2	Negation T7
+T8	Visual_impairment 4449 4462	blurry vision
+T9	Visual_impairment 5955 5968	blurry vision
+T10	Intracranial_haemorrhage 6120 6125;6134 6138	bleed head
+A3	Negation T10

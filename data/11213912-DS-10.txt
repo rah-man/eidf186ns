@@ -1,0 +1,115 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Lexapro / Lipitor / Penicillins  Attending: ___.  Chief Complaint: Hypoxia, hypotension   Major Surgical or Invasive Procedure: - PA Line Insertion (___) - BILATERAL THORACENTESIS AND CHEST TUBE PLACEMENT (___)  History of Present Illness: ___ y/o male with recent prolonged hospitalization at ___ ___ thru ___ after an anterior STEMI. His other PMHx is significant for DM, HLD, hx of PEs, bipolar disorder, and cirrhosis.
+
+His recent hospitalization was a transfer from ___ ___ for ostial LAD STEMI for which he had DES x1 and BMS x1 and IABP. His hospitalization here was course complicated by  cardiogenic shock, hypoxia, AV block, hematemesis, left groin hematoma, HCAP. He had a pacemaker placed on ___. At the end of his hospitalization, he was started on low dose metoprolol succinate 12.5mg PO daily. As patient's systolic blood pressures persistently ___, patient was unable to tolerate low dose ACE inhibitor and was not disharged on one. His diuretic regimen on discharge was torsemide 20mg daily. Weight on discharge was 104.7 kgs.
+
+He presented today to the ___ ED for dyspnea and hypotension. Per review of documentation from rehab (___ ___), patient was complaining of shortness of breath at 0715. At that time SaO2 was 93% on 2L nasal canula, with BP of 82/60 and HR of 92. He was placed on a nonrebreather (10L/min) with no change in his subjective symptoms. He was sent to ___ ED for further evaluation.
+
+-In the the ___ ED, initial vitals were: 97.3 98 74/55 40 95% on room air (per documentation). -Labs with WBC of 13.9, Hbg/Hct 8.8/26.2, Plt 247. Troponin 0.16. Lactate 2.4. ProBNP of 17,808. Urinalysis with trace leukocytes, large blood, moderate bacteria, and no epithelial cells. Chemistry panel was hemolyzed, but Na 129 K 7.5 Cl 91 HCO3 24 BUN 71 Cr 1.7. K off of ABG was 4.8. ABG (presumably obtained on BiPAP) was pH 7.57 pCO2 28 pO2 142. - Seen by the Cardiology Fellow in the ED, bedside ECHO with small pericardial effusion, similar EF to prior (~30%). Warm extremities and mentating well. Recommended admission to CCU for BiPAP and diuresis. - Meds given: vancomycin, cefepime, furosemide 40mg IV, ASA 324mg. - He was initially placed on BiPAP, however despite improvement in his respiratory rate, the patient felt increasingly tired and was not tolerating BiPAP. He was thus intubated for respiratory support. - BPs in the ED were in the 80-90/50-60; he was trialed on dopamine per Cardiology recommendation. Per ED report, rate was at 15mcg/kg/min, with no effect on blood pressure. He was thus changed to norepinepherine, with stablization of SBPs in the 100-110s. - Right femoral line was placed for access and administration of pressor. - Vital signs on transfer: 98.1 94 ___ 99% on the ventillator.
+
+REVIEW OF SYSTEMS:  Unable to obtain as patient is intubated and sedated. Per nursing facility documentation, no report of fevers/chills, cough, abdominal pain, nausea, vomiting, diarrhea.
+
+ Past Medical History: -DM2, A1c 7.2%, not on meds, with neuropathy  -History of PE ___ -Hyperlipidemia -Obesity -Alcoholic cirrhosis, "mild" per patient -H/o upper GI bleed -H/o gallstones -Diverticulosis -Sleep apnea -___ esophagus with dysplasia -Benign prostatic hyperplasia  Social History: ___ Family History: Father died of MI at age ___. Otherwise, no family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death.  Physical Exam: EXAM ON ADMISSION: ========================= VS: 98.6 ___ 100% on ventillator (CMV: Vt of 500, RR 14, PEEP 5, FiO2 60%) Gen: Intubated and sedated. Does not open eyes to voice. Withdraws to painful stimuli. HEENT: Pupils reactive, right with anisocoria, sclera nonicteric. ET tube in place, no obvious oral lesion or trauma, MMM. NECK: No LAD. JVP estimated at 9-10cm. CV: RRR. No murmur appreciated. LUNGS: Lungs with upper airway sounds and possible right rhonchi when auscultated from anterior/lateral. ABD: Soft, nondistended. Does not appear tender to palpation. EXT: Warm UEs and LEs. DP pulses via doppler bilaterally. There is a healing ecchymosis on the left posterior thigh. SKIN: No obvious rash. NEURO: Sedated. 
+
+EXAM ON DISCHARGE: Physical Exam: Limited as patient CMO. VS: RR ___, otherwise deferred. Lungs: Rhoncherous and diminshed Neuro: Alert, cannot assess orientation as non verbal but shakes head no in response to pain. 
+
+=========================
+
+ Pertinent Results: LABS ON ADMISSION: ============================ ___ 08:15AM BLOOD WBC-13.9* RBC-3.26* Hgb-8.8* Hct-26.2* MCV-81* MCH-27.1 MCHC-33.7 RDW-21.3* Plt ___ ___ 08:15AM BLOOD Neuts-86.0* Lymphs-5.4* Monos-8.0 Eos-0.5 Baso-0.1 ___ 08:15AM BLOOD ___ PTT-30.0 ___ ___ 08:15AM BLOOD Glucose-195* UreaN-71* Creat-1.7* Na-129* K-7.5* Cl-91* HCO3-24 AnGap-22* ___ 08:15AM BLOOD ALT-58* AST-112* LD(LDH)-837* AlkPhos-373* TotBili-0.6 ___ 08:15AM BLOOD ___ ___ 08:15AM BLOOD cTropnT-0.16* ___ 08:15AM BLOOD Calcium-9.1 Phos-5.0*# Mg-2.7* ___ 09:59AM BLOOD Type-ART pO2-142* pCO2-28* pH-7.57* calTCO2-26 Base XS-5 ___ 08:23AM BLOOD Lactate-2.4* ___ 08:40AM URINE Color-DkAmb Appear-Cloudy Sp ___ ___ 08:40AM URINE Blood-LG Nitrite-NEG Protein-100 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-TR ___ 08:40AM URINE RBC->182* WBC-68* Bacteri-MOD Yeast-NONE Epi-0
+
+PERTINENT LABS: ============================ ___ PLEURAL FLUID STUDIES: ___ 12:39PM PLEURAL WBC-194* RBC-1717* Polys-62* Lymphs-4* Monos-1* Meso-32* Macro-1* ___ 12:38PM PLEURAL WBC-763* RBC-1063* Polys-67* Lymphs-8* ___ Meso-1* Macro-24* ___ 12:39PM PLEURAL TotProt-1.7 Glucose-164 LD(LDH)-252 Albumin-LESS THAN ___ Misc-PRO BNP = ___ 12:38PM PLEURAL TotProt-1.5 Glucose-149 LD(LDH)-466 Albumin-0.8 ___ Misc-PROBNP=261
+
+LABS ON DISCHARGE: ============================ ___ 05:30AM BLOOD WBC-12.4* RBC-2.74* Hgb-7.4* Hct-23.3* MCV-85 MCH-27.2 MCHC-31.9 RDW-21.7* Plt ___ ___ 05:30AM BLOOD Glucose-200* UreaN-124* Creat-3.2* Na-138 K-3.3 Cl-107 HCO3-19* AnGap-15 ___ 05:30AM BLOOD Calcium-7.7* Phos-6.0* Mg-3.1*
+
+MICROBIOLOGY: ============================ ___ 8:15 am BLOOD CULTURE  Blood Culture, Routine: NO GROWTH 
+
+___ 10:00 am BLOOD CULTURE   2 OF 2.   Blood Culture, Routine: NO GROWTH 
+
+___ 8:40 am URINE   Site: NOT SPECIFIED    CHM S# ___ UCU ADDED ___.   URINE CULTURE: NO GROWTH 
+
+___ 4:30 pm MRSA SCREEN   Site: NASOPHARYNX    Source: Nasal swab.   MRSA SCREEN: No MRSA isolated.
+
+___ 5:52 pm SPUTUM   Source: Endotracheal.   GRAM STAIN (Final ___:    <10 PMNs and <10 epithelial cells/100X field.    NO MICROORGANISMS SEEN.    QUALITY OF SPECIMEN CANNOT BE ASSESSED.   RESPIRATORY CULTURE: YEAST.  SPARSE GROWTH. 
+
+___ BLOOD CULTURES X3: NO GROWTH 
+
+___ URINE CULTURE: NO GROWTH
+
+___ BLOOD CULTURE: (PENDING)
+
+___ URINE CULTURE: YEAST. 10,000-100,000 ORGANISMS/ML.. 
+
+___ BLOOD CULTURE: (PENDING)
+
+___ URINE CULTURE:YEAST. 10,000-100,000 ORGANISMS/ML.
+
+___ BLOOD CULTURE: FINAL
+
+___ URINE CULTURE:  YEAST.  >100,000 ORGANISMS/ML.. 
+
+___ STOOL: C.DIF NEGATIVE
+
+___ PLEURAL FLUID CULTURES X3: ENTEROCOCCUS SP..      Isolated from broth media only, INDICATING VERY LOW NUMBERS OF     ORGANISMS. 
+
+               SENSITIVITIES: MIC expressed in MCG/ML            _________________________________________________________               ENTEROCOCCUS SP.               |  AMPICILLIN------------  <=2 S PENICILLIN G----------   4 S VANCOMYCIN------------   1 S
+
+STUDIES: ============================ CHEST (PORTABLE AP) Study Date of ___ 8:13 AM  IMPRESSION:   No significant interval change with multifocal, bilateral airspace opacities and bilateral pleural effusions. Findings could be related to edema and/or infection. 
+
+CHEST (PORTABLE AP) Study Date of ___ 11:30 AM FINDINGS:   Endotracheal tube is seen with tip 5.2 cm from the carina. Enteric tube passes below the inferior field of view. Otherwise, there has been no significant interval change.   ___ TTE: The left ventricular cavity size is normal. LV systolic function appears depressed secondary to septal, anterior, and apical hypokinesis. Right ventricular chamber size and free wall motion are normal. The mitral valve leaflets are mildly thickened. Mild to moderate (___) mitral regurgitation is seen. There is a moderate to large sized pericardial effusion subtending primarily the diaphragmatic surface of the right ventricle and the inferior and posterior walls of the left ventricle. There are no echocardiographic signs of tamponade. No right atrial or right ventricular diastolic collapse is seen. 
+
+Compared with the prior study (images reviewed) of ___, a moderate-to-large pericardial effusion is now seen. 
+
+___ CT CHEST WO CONTRAST: 1. Moderate, pericardial effusion is either not serous, of, if serous, is not acute. In the absence of caval dilatation the small right atrium is more likely due to intravascular hypovolemia than cardiac tamponade, but should neverhteless be evaluated by echocardiography. 2. Probable bilateral pneumonia. 3. Borderline mediastinal adenopathy, most likely reactive. 4. Large, pleural effusions account for severe bibasilar atelectasis. 5. Mild anterior wedging of the T12 vertebral body, age indeterminate. 6. Cirrhotic liver. 7. Calcific cholelithiasis; no cholecystitis. 
+
+___ TTE: No atrial septal defect is seen by 2D or color Doppler. The estimated right atrial pressure is ___ mmHg. The left ventricular cavity size is normal. There is moderate regional left ventricular systolic dysfunction with akinesis of the mid to distal septum and anterior wall and of the apex. The mitral valve leaflets are mildly thickened. Trivial mitral regurgitation is seen. There is a moderate sized pericardial effusion. The effusion appears circumferential. No right atrial or right ventricular diastolic collapse is seen. 
+
+IMPRESSION: Regional left ventricular systolic dysfunction suggestive of LAD ischemia/infarction. Moderate circumferential pericardial effusion without evidence of tamponade physiology.
+
+Compared with the prior study (images reviewed) of ___, the findings are similar.
+
+___ CT ABD & PELVIS WO CONTRAST: IMPRESSION:   1. No evidence of intra-abdominal abscess, bowel obstruction or perforation. 2. Large amount of stool distending the rectum and redundant loops of sigmoid colon. 3. Extensive colonic diverticulosis without evidence of diverticulitis. 4. Moderate pericardial effusion with increased density suggestive of proteinaceous or hemorrhagic contents. 5. Large right and moderate left pleural effusions with associated compressive atelectasis of the lower lobes. 6. Cholelithiasis without evidence of cholecystitis. 
+
+___ CXR: IMPRESSION:  In comparison with the study of ___, the monitoring and support devices are essentially unchanged. Diffuse bilateral pulmonary opacifications are again seen, especially in the right upper lobe, in a patient with moderate cardiomegaly and layering pleural effusions. 
+
+___ PLEURAL FLUID CYTOLOGY X2: (PENDING)
+
+___ CXR: IMPRESSION:  ET tube tip is 5 cm above the carinal. NG tube tip is in the stomach. Heart size and mediastinum are overall unchanged but there is substantial interval improvement in pulmonary edema with still present large bilateral pleural effusions. Left pigtail catheter is in place. No pneumothorax is seen. 
+
+ Brief Hospital Course: ___ y/o male with recent prolonged hospitalization at ___ ___ thru ___ after an anterior STEMI. Presents from rehabilitation center with hypotension and hypoxia.
+
+# CORONARIES: Cath ___ with RCA 70% stenosis, LCx free of significant disease, LAD with 80% mid-distal stenosis now s/p DES on ___.  # PUMP: ECHO ___ with LVEF 35-40%, dyskinesis of the apex, and severe hypokinesis of the distal ___ of the LV. # RHYTHM: Sinus rhythm, with intermittent v-pacing.
+
+#) GOALS OF CARE/MULTIORGAN FAILURE: Patient continued to decompensate, as evidenced by shock requiring two pressors, heart failure, renal failure, respiratory failure with enterococcus in pleural fluid. With the help of palliative care, the decision was made with family to extubate the patient and make him CMO. He was succesfully extubated on ___ and taken off pressors. He tolerated this well and was discharged home to hospice on room air. 
+
+#) ACUTE DECOMPENSATED HEART FAILURE: LVEF 35-40%. Patient with recent hospitalization here, discharged the day prior to this admission. He presented with hypoxia, requiring BiPAP respiratory support in the ED, BNP of 18,000 (no prior value for comparision), CXR with effusions and edema, somewhat worsened from prior. Elevated lactate (2.4) and depressed venous O2 sat (38) suggest component of cardiogenic shock. The patient was diuresed intermittently throughout his hospitalization and ultimately volume status was hypervolemic. Echo showed mild pericardial effusion that remained largely unchanged while admitted. 
+
+#)Respiratory distress: Patient presented with dyspnea and tachypnea (RR ___ on presentation), initial saturations in the ___ on room air. Patient was placed on BiPAP in the ED with further improvement in saturations and tachypnea (RR down to 20). However, patient felt to be tiring out and was intubated. Etiology of respiratory distress likely pulmonary edema in the setting of heart failure, though PNA not excluded based on chest xray. Of note patient was treated for HCAP during prior hositalization with 8-day course of vancomycin and aztreonam (from ___ thru ___ and again from ___ tp ___. Was started on vancomycin and cefepime for UTI and empiric treatment for possible PNA. The patient was successfully extubated on ___ and made CMO. He remained comfortable on room air until discharge. 
+
+#)SHOCK: The patient was hypotensive on admission requiring pressors. Thought to be due to HCAP vs. parapneumonic pleural effusions vs. cdiff vs. UTI. The patient was treated for HCAP (8 day course of vancomycin and cefepime ending ___. Despite this treatment, the patient was persistently hypotensive requiring pressors. Urine and sputum cultures showed yeast concerning for fungemia. Blood cultures never grew yeast. The shock was also thought to be exacerbated by Precedex. Precedex was weaned on ___ but the patient was still pressor dependent. on ___ the patient had a thoracentesis to possibly isolate a site of infection. Pleural fluid was exudative in nature but had a normal pH thus was not suggestive of infection. Pleural fluid culture, however, grew very low number of ENTEROCOCCUS SP.
+
+#)CAD: patient is s/p anterior STEMI ___, with DES placed to the mid-distal LAD. Has 70% stenosis of the RCA. He was continued on appropriate cardiac medications while admitted (aspirin, atorvastatin, ticagrelor, metoprolol).Ticargrelor was discontinued on ___ and he was switched to clopidogrel. 
+
+#) HCAP: Appeared to be in bilateral upper lobes based on CT. He received vancomycin and cefepime from ___ to ___. Antibiotics discontinued given de-escalation of care. 
+
+#) Atrial Fibrillation: He was found to be in atrial fibrillation. Due to concern for GIB, he was initially anti-coagulated with aspirin/plavix, however, he was eventually placed on heparin gtt.
+
+#) ___: BUN/Creatinine on admission of 71/1.7, up from 56/1.4 on ___. Lab specimen was hemolyzed, unclear if this affects these values. Patient with likely UTI, and may have a component of cardiorenal syndrome given heart failure. Urine lytes suggestive of prerenal etiology. Creatinine continued to trend up throughout admission. 
+
+#) DM: HbA1c of 7.2% ___. Patient was on lantus and Humalog ISS while admitted.
+
+#) Anxiety/Bipolar disorder: preadmission quetiapine 100mg BID and 150mg qHS was continued.
+
+#) BPH: preadmission tamsulosin 0.4mg was continued. 
+
+Transitional Issues # CONTACT: wife ___, ___ # CODE: DNR/DNI  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 2. QUEtiapine Fumarate 150 mg PO QHS 3. QUEtiapine Fumarate 100 mg PO BID 4. Tamsulosin 0.4 mg PO QHS 5. Aluminum-Magnesium Hydrox.-Simethicone ___ mL PO QID:PRN dyspepsia 6. Aspirin 81 mg PO DAILY 7. Atorvastatin 80 mg PO QPM 8. Bisacodyl ___AILY:PRN constipation, difficulty stooling 9. Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol 10. Docusate Sodium (Liquid) 100 mg PO BID 11. Glucose Gel 15 g PO PRN hypoglycemia protocol 12. Lansoprazole Oral Disintegrating Tab 30 mg PO BID 13. Polyethylene Glycol 17 g PO DAILY:PRN constipation 14. Senna 8.6 mg PO BID 15. Sodium Chloride Nasal 2 SPRY NU TID 16. TiCAGRELOR 90 mg PO BID 17. Metoprolol Succinate XL 12.5 mg PO DAILY 18. Torsemide 20 mg PO DAILY 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Primary diagnoses: acute decompensated heart failure, atrial fibrillation, healthcare-associated pneumonia, acute kidney injury, respiratory failure, pericardial effusion, coronary artery disease
+
+ Discharge Condition: Level of Consciousness: Alert and interactive. Mental Status: Confused - sometimes. Activity Status: Bedbound.
+
+ Discharge Instructions: Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ ___. You were admitted for low blood pressure and low oxygen levels. We treated you for heart failure, pneumonia and kidney failure. You required ventilatory support and blood pressure support with special medications. Eventually you and your medical team decided to remove the breathing tube and focus on treating your discomfort. This was removed successfully and you were transferred to an inpatient hospice center 
+
+On behalf of your ___ team, We wish you all the best
+
+Weigh yourself every morning, call MD if weight goes up more than 3 lbs.  Followup Instructions: ___ 

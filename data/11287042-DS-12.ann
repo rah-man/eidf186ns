@@ -1,0 +1,18 @@
+T1	Constipation 453 465	constipation
+T2	Falls 649 653	fell
+T3	Falls 7601 7605	fall
+T4	Falls 7710 7714	fall
+T5	Falls 11596 11600	fall
+T6	Falls 11890 11894	fall
+T7	Hip_fracture 2216 2228	hip fracture
+A1	Diagnosis T7 History_of
+T8	Lower_respiratory_tract_infection 2231 2240	pneumonia
+A2	Diagnosis T8 History_of
+T9	Delirium 3044 3048	AOX3
+A3	Negation T9
+T10	Delirium 3786 3790	AOX3
+A4	Negation T10
+T11	Has_carers 11142 11159	Home With Service
+T12	Delirium 11353 11386	Mental Status: Clear and coherent
+A5	Negation T12
+T13	Independently_mobile 11452 11476	Ambulatory - Independent

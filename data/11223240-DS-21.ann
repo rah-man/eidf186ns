@@ -1,0 +1,18 @@
+T1	Upper_gastrointestinal_haemorrhage 493 499	melena
+T2	Upper_gastrointestinal_haemorrhage 907 912;917 922	stool black
+T3	Upper_gastrointestinal_haemorrhage 936 941;952 957	stool black
+T4	Constipation 1151 1163	constipation
+A1	Negation T4
+T5	Lower_gastrointestinal_haemorrhage 1185 1197	hematochezia
+A2	Negation T5
+T6	Dementia 2342 2351	Alzheimer
+A3	Diagnosis T6 Implicit_mention
+T7	Upper_gastrointestinal_haemorrhage 5794 5805	dark stools
+T8	Upper_gastrointestinal_haemorrhage 7119 7127	GI bleed
+T9	Upper_gastrointestinal_haemorrhage 8367 8373	Melena
+T10	Upper_gastrointestinal_haemorrhage 8375 8389	upper GI bleed
+T11	Delirium 8493 8526	Mental Status: Clear and coherent
+A4	Negation T11
+T12	Independently_mobile 8592 8616	Ambulatory - Independent
+T13	Upper_gastrointestinal_haemorrhage 8752 8763	black stool
+T14	Upper_gastrointestinal_haemorrhage 8792 8806	upper GI bleed

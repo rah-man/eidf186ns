@@ -1,0 +1,20 @@
+T1	Lives_in_carehome 436 452	nursing facility
+T2	Falls 533 537	fall
+A1	Diagnosis T2 History_of
+T3	Urinary_tract_infection 672 675	UTI
+A2	Diagnosis T3 History_of
+T4	Delirium 888 897	confusion
+T5	Constipation 1730 1742	constipation
+A3	Negation T5
+T6	Lower_gastrointestinal_haemorrhage 1744 1749	BRBPR
+A4	Negation T6
+T7	Upper_gastrointestinal_haemorrhage 1751 1757	melena
+A5	Negation T7
+T8	Lower_gastrointestinal_haemorrhage 1759 1771	hematochezia
+A6	Negation T8
+T9	Delirium 2715 2723	oriented
+A7	Negation T9
+T10	Delirium 8486 8519	Mental Status: Clear and coherent
+T11	Mobile_with_assistance 8601 8620	assistance to chair
+T12	Mobile_with_aid 8624 8634	wheelchair
+A8	Type_of_aid T12 Wheelchair

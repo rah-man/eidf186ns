@@ -1,0 +1,19 @@
+T1	Constipation 744 756	constipation
+A1	Diagnosis T1 History_of
+T2	Weight_loss 1793 1804	weight loss
+A2	Negation T2
+T3	Constipation 1991 2003	constipation
+A3	Negation T3
+T4	Delirium 4012 4016	AOx3
+A4	Negation T4
+T5	Constipation 14803 14815	Constipation
+T6	Constipation 14844 14856	constipation
+A5	Diagnosis T6 History_of
+T7	Constipation 17342 17354	constipation
+A6	Diagnosis T7 Implicit_mention
+T8	Constipation 17662 17674	constipation
+A7	Diagnosis T8 Implicit_mention
+T9	Has_carers 18214 18231	Home With Service
+T10	Delirium 18378 18411	Mental Status: Clear and coherent
+A8	Negation T10
+T11	Independently_mobile 18477 18501	Ambulatory - Independent

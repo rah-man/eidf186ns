@@ -1,0 +1,24 @@
+T1	Weight_loss 543 554	weight loss
+T2	Upper_gastrointestinal_haemorrhage 620 629	melanotic
+A1	Diagnosis T2 History_of
+T3	Upper_gastrointestinal_haemorrhage 716 722	melena
+A3	Diagnosis T3 History_of
+T4	Weight_loss 734 745	weight loss
+T5	Upper_gastrointestinal_haemorrhage 891 897	melena
+A5	Negation T5
+T6	Weight_loss 916 920;959 965	lost weight
+T7	Hearing_impairment 2135 2152	Decreased hearing
+T8	Urinary_tract_infection 7355 7378	urinary tract infection
+T9	Urinary_tract_infection 7465 7468	UTI
+A2	Diagnosis T9 Suspected
+T10	Urinary_tract_infection 7895 7898	UTI
+A4	Diagnosis T10 Implicit_mention
+T11	Weight_loss 9806 9817	Weight loss
+T12	Urinary_tract_infection 12845 12868	urinary tract infection
+T13	Delirium 12990 13023	Mental Status: Clear and coherent
+A6	Negation T13
+T14	Mobile_with_assistance 13089 13099;13111 13121	Ambulatory assistance
+T15	Mobile_with_aid 13089 13099;13125 13128	Ambulatory aid
+T16	Urinary_tract_infection 13728 13751	urinary tract infection
+T17	Urinary_tract_infection 14173 14197	urinary tract infections
+A7	Diagnosis T17 Implicit_mention

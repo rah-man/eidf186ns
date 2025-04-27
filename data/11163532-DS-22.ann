@@ -1,0 +1,9 @@
+T1	Constipation 3329 3343	constipation  
+A1	Diagnosis T1 Implicit_mention
+T2	Has_carers 3584 3601	Home With Service
+T3	Delirium 3704 3737	Mental Status: Clear and coherent
+A2	Negation T3
+T4	Mobile_with_assistance 3803 3813;3825 3835	Ambulatory assistance
+T5	Mobile_with_aid 3803 3813;3839 3842	Ambulatory aid
+T6	Constipation 4710 4722	constipating
+A3	Diagnosis T6 Implicit_mention

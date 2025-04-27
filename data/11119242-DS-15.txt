@@ -1,0 +1,65 @@
+ Name: ___      Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: fever  Major Surgical or Invasive Procedure: Percutaneous cholangiogram Biliary drain adjustment  History of Present Illness: ___ year old male with metastatic pancreatic adenocarcinoma (to the liver and lung) who presented to the clinic today for C2D1 of FOLFOX and was found to have a fever of ___. He is sent in for work-up and management of fever.
+
+Review of the OMR shows recent admission ___ for pulmonary edema and anasarca that was felt to be secondary to non-cardiogenic edema. TTE revealed preserved EF and moderate MR ___ responded well to diuresis and was discharged on bid Lasix.
+
+The ___ and his daughter provide the history. He has been having low grade temperatures of about ___ for the past week and the day prior to presentation had a temperature of ___. His daughter reports he was also extremely weak starting the day prior to presentation and had trouble dressing himself. In clinic today during his visit to Dr. ___ also had a fever of ___ and was noted to lethargic. He has had no shaking chills. Review of systems is notable for approximately two episodes of diarrhea daily in the past week without abdominal pain. No nausea or vomiting. The diarrhea is said to be greenish and foul smelling. The ___ denied in changes in his urine, but per nursing the urine is a dark brown color. Recent history is notable for fever some weeks ago while the ___ was on the ___ and at that time he was treated empirically with Levaquin; it seems there was some suspicion for pneumonia. However, the ___ denies SOB or cough or URI symptoms. 
+
+ Past Medical History: PAST ONCOLOGIC HISTORY: Mr. ___ underwent Whipple's pancreaticoduodenectomy ___ for resection of a 3.9cm moderately differentiated adenocarcinoma. ___ lymph nodes were involved; margins negative, LVI and perineural invasion present. He was diagnosed with pT3N1 stage IIB PDA. He received six months adjuvant gemcitabine and chemoradiation. Liver metastasis was confirmed on biopsy ___, and he initiated treatment on clinical trial ___. He completed eight cycles as of ___ at which time there was disease progression in the liver and lung, and he transitioned to second line therapy with FOLFOX.
+
+PAST MEDICAL HISTORY: -atrial fibrillation: s/p cardioversion attempts in ___. -Hypertension -Hyperlipidemia -gastritis on whipple resection specimen ___ -pancreatic cancer as above
+
+ Social History: ___ Family History: brother with lung cancer, no history GI cancer
+
+ Physical Exam: ADMISSION EXAM: General: NAD VITAL SIGNS: T 99 BP 103/50 HR 96 RR 18 SpO2 96% RA HEENT: NC/AT, anicteric, MMM, no OP lesions, no cervical, supraclavicular, or axillary adenopathy CV: irregularly irregular, nl S1S2, murmurs not appreciated PULM: moving air well, right base crackles, ? decrease in breath sounds at the left base, no wheezing ABD: BS+, flat, soft, NTND, no masses or hepatosplenomegaly LIMBS: trace bilateral pedal edema SKIN: No rashes or skin breakdown observed NEURO: oriented to self, date and place, CN II-XII intact (vision was not tested in detail), appears to have normal speech mostly in ___ and normal comprehension, strength is ___ in the upper and lower extremities proximally and distally, no pronator drift  Pertinent Results: ADMISSION LABS: ___ 08:45AM BLOOD WBC-5.5 RBC-3.47* Hgb-7.8* Hct-27.4* MCV-79* MCH-22.5* MCHC-28.5* RDW-21.4* RDWSD-59.1* Plt ___ ___ 08:45AM BLOOD UreaN-9 Creat-0.7 Na-133 K-3.1* Cl-95* HCO3-27 AnGap-14 ___ 08:45AM BLOOD ALT-38 AST-62* AlkPhos-407* TotBili-2.8* DirBili-2.1* IndBili-0.7 ___ 08:45AM BLOOD Albumin-2.9* Calcium-7.9* Mg-2.1
+
+IMAGING:
+
+Portable CXR ___: As compared to ___ radiograph, lung volumes are lower with associated accentuation of cardiomediastinal contours in crowding of bronchovascular structures. New bibasilar patchy opacities have developed, left greater than right, which could potentially be due to developing pneumonia in the appropriate clinical setting, particularly at the left base. Aspiration is an additional consideration. Exam is otherwise remarkable for small left pleural effusion and linear atelectasis in the right lower lobe. 
+
+MRCP ___ IMPRESSION:   1. Interval increase in the size of an ill-defined hilar metastasis in segment 4A/B resulting in biliary obstruction, and upstream dilatation of the intrahepatic biliary ducts. The biliary enteric anastomosis is not well seen. 2. Interval worsening of multiple metastatic lesions within the liver, predominating in segments 4A, 4B, and 5. 3. Superimposed inflammatory cholangitis in the central liver. 
+
+___ PTC FINDINGS:  Mild to moderately dilated right biliary tree. Successful placement of an 8 ___ modified 8 APD internal/external catheter through the biliary system and into the small bowel. 
+
+___ catheter check IMPRESSION:  Successful exchange, repositioning and upsize to a right ___ internal-external biliary drain.  RECOMMENDATION(S): Keep to bag drainage, and consider capping trial tomorrow. 
+
+IMPRESSION:   Preliminary Report1. Interval improvement in the biliary duct dilation in the segment of the Preliminary Reportright lobe of the liver which is being drained by the PTBD. The biliary Preliminary Reportdilation in the remainder of the liver has slightly worsened, as described Preliminary Reportabove. The post-contrast images are limited by the timing of the contrast Preliminary Reportbolus and motion, though there is no definite active cholangitis. Preliminary Report2. The known hepatic metastases are not significantly changed. Due to the Preliminary Reportpatient's inability to breath hold and remain still for an MRI, consider using Preliminary ReportCT for future follow-up exams. Preliminary Report3. Expected postoperative changes after a Whipple. Preliminary Report4. Mild splenomegaly. Preliminary Report5. Small amount of ascites. Preliminary Report6. Partially imaged unchanged thoracic aortic aneurysm. Preliminary Report7. Small bilateral pleural effusions. 
+
+Microbiology: ___ 5:20 pm BILE
+
+              **FINAL REPORT ___
+
+  GRAM STAIN (Final ___:    NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.    NO MICROORGANISMS SEEN. 
+
+  FLUID CULTURE (Final ___:    ENTEROCOCCUS SP..  SPARSE GROWTH. 
+
+               SENSITIVITIES: MIC expressed in MCG/ML            _________________________________________________________               ENTEROCOCCUS SP.               |  AMPICILLIN------------  <=2 S PENICILLIN G----------  0.5 S VANCOMYCIN------------ <=0.5 S
+
+  ANAEROBIC CULTURE (Final ___:  NO ANAEROBES ISOLATED. 
+
+ ___ 4:30 am URINE   Source: Catheter. 
+
+              **FINAL REPORT ___
+
+  URINE CULTURE (Final ___:  NO GROWTH. ___ 9:00 am BLOOD CULTURE   Source: Line-POC. 
+
+  Blood Culture, Routine (Preliminary):    PSEUDOMONAS AERUGINOSA.  FINAL SENSITIVITIES. 
+
+               SENSITIVITIES: MIC expressed in MCG/ML            _________________________________________________________               PSEUDOMONAS AERUGINOSA               |  CEFEPIME--------------   2 S CEFTAZIDIME-----------   4 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------  <=1 S MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----   8 S TOBRAMYCIN------------  <=1 S
+
+___ 5:30 pm BILE   RIGHT BILIARY TREE PTBD (BIL CX). 
+
+              **FINAL REPORT ___
+
+  GRAM STAIN (Final ___:    NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.    NO MICROORGANISMS SEEN. 
+
+  FLUID CULTURE (Final ___:    PSEUDOMONAS AERUGINOSA.  SPARSE GROWTH. 
+
+               SENSITIVITIES: MIC expressed in MCG/ML            _________________________________________________________               PSEUDOMONAS AERUGINOSA               |  CEFEPIME--------------  <=1 S CEFTAZIDIME-----------   2 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------  <=1 S MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----   8 S TOBRAMYCIN------------  <=1 S
+
+Pertinent Labs: ___ 05:46AM BLOOD WBC-6.8 RBC-4.17* Hgb-10.1* Hct-34.7* MCV-83 MCH-24.2* MCHC-29.1* RDW-24.2* RDWSD-70.5* Plt ___ ___ 05:38AM BLOOD WBC-13.9*# RBC-4.59* Hgb-11.3* Hct-37.3* MCV-81* MCH-24.6* MCHC-30.3* RDW-24.5* RDWSD-69.7* Plt ___ ___ 12:35AM BLOOD WBC-39.5*# RBC-4.58* Hgb-11.0* Hct-41.2 MCV-90# MCH-24.0* MCHC-26.7*# RDW-23.3* RDWSD-75.9* Plt ___ ___ 05:49AM BLOOD WBC-28.7* RBC-3.85* Hgb-9.3* Hct-35.9* MCV-93 MCH-24.2* MCHC-25.9* RDW-23.5* RDWSD-78.8* Plt ___ ___ 11:57AM BLOOD ___ PTT-101.3* ___ ___ 06:09AM BLOOD Glucose-126* UreaN-8 Creat-0.7 Na-139 K-3.2* Cl-101 HCO3-30 AnGap-11 ___ 11:57AM BLOOD Glucose-138* UreaN-20 Creat-2.9* Na-132* K-6.5* Cl-97 HCO3-6* AnGap-36* ___ 06:09AM BLOOD ALT-17 AST-35 AlkPhos-311* TotBili-3.0* DirBili-2.5* IndBili-0.5 ___ 05:49AM BLOOD ALT-740* AST-4328* LD(LDH)-4180* AlkPhos-568* TotBili-8.3* ___ 11:04AM BLOOD Type-ART pO2-154* pCO2-23* pH-7.48* calTCO2-18* Base XS--3 ___ 11:48AM BLOOD Type-ART Temp-37.8 Rates-32/ Tidal V-500 PEEP-5 FiO2-60 pO2-98 pCO2-23* pH-6.99* calTCO2-6* Base XS--25 -ASSIST/CON Intubat-INTUBATED ___ 12:12PM BLOOD Type-ART Temp-37.2 pO2-93 pCO2-22* pH-7.07* calTCO2-7* Base XS--22 Intubat-INTUBATED ___ 11:04AM BLOOD Lactate-6.4* ___ 09:45PM BLOOD Lactate-10.7* ___ 03:37AM BLOOD Lactate-13.6* ___ 07:48AM BLOOD Lactate-13.9* ___ 05:07PM BLOOD Lactate-14.0* ___ 12:12PM BLOOD Lactate-15.5*  Brief Hospital Course: ___ w/ Afib s/p DCCV, MR/TR, HTN, DL, COPD and pancreatic adenocarcinoma s/p Whipple (___), s/p adjuvant chemoradiation with liver and lung mets on C1 palliative FOLFOX p/w fever and elevated tbili on ___ and was started on Vanc/ceftriaxone and flagyl, who was found to have c. diff colitis and enterococcus bacteremia and was switched to ampicillin on ___ based on culture sensitivities. In addition, an MRCP was performed which showed biliary obstruction and on ___ ___ placed 8 ___ internal/external catheter thru R hepatic duct. There was post-procedure leakage, on ___ the drain was upsized to a ___ internal-external biliary drain w/ extra side holes. On ___ the ___ triggered for a. fib with RVR and altered mental status. Rate control was achieved on the floor, the ___ was intubated in order to protect his airway and he was brought to the FICU for management of septic shock and his antibiotics were broadened. Later that day, the ___ went to ___ to have additional drains placed to relieve his biliary obstruction. Upon returning from the procedure, the ___ lactate rose from 6.4 to 8.9 and developed a profound leukocytosis of 39.5. He was given multiple fluid boluses and required 3 pressors to maintain his blood pressure. The ___ family was called during the early morning of ___ and the ___ was made DNR. After worsening lactates, increased pressor requirements and no clinical improvement during the day, the family decided pursue comfort focused care, after which the ___ passed away.
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Cetirizine 10 mg PO DAILY 2. Creon ___ CAP PO TID W/MEALS 3. Cyclobenzaprine 5 mg PO TID:PRN pain/muscle cramps 4. Digoxin 0.25 mg PO DAILY 5. Furosemide 40 mg PO BID 6. Metoprolol Succinate XL 300 mg PO QHS 7. Omeprazole 20 mg PO BID 8. OxycoDONE (Immediate Release) 5 mg PO Q6H:PRN pain 9. Enoxaparin Sodium 80 mg SC Q12H 10. Verapamil 40 mg PO Q24H 11. Albuterol Inhaler 2 PUFF IH Q4H:PRN sob or wheezing 12. Levemir (insulin detemir) 6 units subcutaneous qhs 
+
+ Discharge Medications: n/a  Discharge Disposition: Expired  Discharge Diagnosis: Primary Diagnosis: Septic Shock Bacteremia
+
+Secondary Diagnosis: Metastatic Pancreatic Cancer C. difficle collitis  Discharge Condition: ___ is deceased  Discharge Instructions: n/a  Followup Instructions: ___ 

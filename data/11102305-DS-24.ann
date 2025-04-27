@@ -1,0 +1,9 @@
+T1	Hearing_impairment 2360 2368	Deafness
+T2	Constipation 2075 2089	constipation  
+A1	Negation T2
+T3	Urinary_incontinence 2411 2431	Urinary Incontinence
+T4	Visual_impairment 2447 2467	macular degeneration
+T5	Delirium 8969 9002	Mental Status: Clear and coherent
+T6	Bed_Chairbound 9084 9094;9098 9103	assistance chair
+T7	Mobile_with_aid 9107 9117	wheelchair
+A2	Type_of_aid T7 Wheelchair

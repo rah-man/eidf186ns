@@ -1,0 +1,13 @@
+T1	Mobile_with_aid 521 525	cane
+A1	Type_of_aid T1 One_Stick
+T2	Urinary_incontinence 742 762	urinary incontinence
+T3	Faecal_incontinence 792 809	fecal incontnence
+A2	Negation T3
+T4	Delirium 1705 1713	oriented
+A3	Negation T4
+T5	Delirium 6352 6355	A/O
+A4	Negation T5
+T6	Has_carers 7429 7446	Home With Service
+T7	Unspecified_cognitive_impairment 7592 7600	Confused
+T8	Mobile_with_assistance 7678 7688;7700 7710	Ambulatory assistance
+T9	Mobile_with_aid 7678 7688;7714 7717	Ambulatory aid

@@ -1,0 +1,65 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___  ___ Complaint: Hypotension  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ hx NHL, on CHOP C3D7, at that time also c/o loose stools, testing resulted C. diff (+) 4 days ago, has since been on flagyl and had relative constipation. ___ reports hypotensive episodes at home this week, last evening felt non-rapid strong palpitations in chest and frontus but no CP or headache, today was ambulating, became LH/weak, fell striking front on floor without LOC. - In the ED, initial VS were 0 98.8 80 113/35 16 96% RA. - Exam was notable for neuro intact, ecchymosis to mid-L frontus, no vertebral or thoracic tenderness, no UE tenderness. LS clear. - Imaging was notable for NCHCT which was normal and CT C spine which showed no fracture or acute malalignment, moderate to severe multilevel degenerative changes and a small right pleural effusion, slightly increased in size since the prior PET-CT on ___. bedisde u/s showed no pleural effusion, normal EF, collapsible IVC, small-mod R pleural effusion. CXR showed small rt pleural effusion. - Labs were notable for lactate 2.2, normal chem panel and UA, hct 26.6, plt 51, wbc 10.5. - Patient was given acyclovir and flagyl. - Patient was admitted to ___. - VS prior to ED 97.7 87 127/49 16 95% RA. The patient states that she hasnt had weakness previously. No fevers or chills. Last BM this AM was formed. Not dehydrated. REVIEW OF SYSTEMS: +ve per HPI.
+
+ Past Medical History: PAST ONCOLOGIC HISTORY: She presented to PCP with ___ cough in ___. Despite multiple rounds of Abx, cough persisted. Imaging from ___ demonstrated right sided pleural effusion and left sided axillary LAD. PET from ___ ___ demonstrated significant avidity in enlarged nodes. Multiple needles biopsies and analysis of the pleural fluid were concerning for lymphoma but non-diagnostic. Excisional biopsy from ___ with findings consistent with an aggressive lymphoma. - Cycle 1-CHOP ___ (Rituxan held) - Cycle 2- R-CHOP- ___ - Cycle ___ PAST MEDICAL HISTORY: - hip fracture - pneumonia in ___ per patient grew yeast in lungs - prior sinus infections - depression - GERD
+
+ Social History: ___ Family History: FAMILY HISTORY: NO hx hematological malignancies
+
+ Physical Exam: ADMISSION EXAM: -------------- PHYSICAL EXAM: General: NAD VITAL SIGNS: 98.1 108/48 95 24 97 ra HEENT: MMM, no OP lesions, no cervical, supraclavicular, or axillary adenopathy, no thyromegaly, CV: RR, NL S1S2 no S3S4 MRG PULM: mild crackles in bases, otherwise CTAB ABD: BS+, soft, NTND, no masses or hepatosplenomegaly LIMBS: No edema, clubbing, tremors, or asterixis; no inguinal adenopathy SKIN: No rashes or skin breakdown NEURO: Cranial nerves II-XII are within normal limits excluding visual acuity which was not assessed, no nystagmus; strength is ___ of the proximal and distal upper and lower extremities, AOX3, gait deferred
+
+DISCHARGE EXAM: -------------- Vitals: Tm 98.5 Tc 98.0 120s/50s ___ 20 94%RA Wt: 102.8 (admission) I/O: 4 normal BMs yesterday General: Well-appearing elderly female in NAD HEENT: MMM, no OP lesions, no cervical, supraclavicular, or axillary adenopathy, no thyromegaly CV: RR, NL S1S2 no S3S4 MRG PULM: CTAB ABD: BS+, soft, NTND, no masses or hepatosplenomegaly LIMBS: LLE>RLE, nontender, trace ___ edema bilaterally to mid-shin, No cyanosis, clubbing, tremors, or asterixis; no inguinal adenopathy SKIN: No rashes or skin breakdown NEURO: Cranial nerves II-XII are within normal limits excluding visual acuity which was not assessed, no nystagmus; strength is ___ of the proximal and distal upper and lower extremities, AOX3, gait deferred
+
+ Pertinent Results: ADMISSION LABS: -------------- ___ 05:00PM URINE MUCOUS-RARE ___ 05:00PM URINE RBC-0 WBC-1 BACTERIA-NONE YEAST-NONE EPI-0 ___ 05:00PM URINE BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-TR ___ 05:00PM URINE COLOR-Straw APPEAR-Clear SP ___ ___ 05:00PM  PLT SMR-VERY LOW PLT COUNT-51*# ___ 05:00PM  NEUTS-90.6* LYMPHS-8.1* MONOS-0.9* EOS-0.3 BASOS-0.1 ___ 05:00PM  WBC-10.5 RBC-2.72*# HGB-8.8*# HCT-26.6*# MCV-98 MCH-32.5* MCHC-33.2 RDW-18.2* ___ 05:00PM URINE GR HOLD-HOLD ___ 05:00PM URINE UHOLD-HOLD ___ 05:00PM URINE HOURS-RANDOM ___ 05:00PM URINE HOURS-RANDOM ___ 05:00PM  GLUCOSE-97 UREA N-23* CREAT-0.9 SODIUM-134 POTASSIUM-4.4 CHLORIDE-98 TOTAL CO2-27 ANION GAP-13 ___ 05:17PM  LACTATE-2.2* ___ 05:40AM BLOOD Hapto-58
+
+MICRO: ----- ___ BLOOD CULTURE Blood Culture, Routine-PENDING EMERGENCY WARD ___ BLOOD CULTURE Blood Culture, Routine-PENDING EMERGENCY WARD 
+
+IMAGING/STUDIES: ---------------- + EKG ___: NSR, ?new RBBB, borderline LAD, short PR interval, STD in V3.
+
++ ___ Imaging CT HEAD W/O CONTRAST IMPRESSION:   No acute intracranial process. 
+
++ ___-SPINE W/O CONTRAST IMPRESSION:   1. No fracture or acute malalignment. 2. Moderate multilevel degenerative changes. 3. Partially imaged right pleural effusion, appears slightly increased compared with prior PET-CT dated ___. 
+
++ ___ Imaging CHEST (PA & LAT) FINDINGS:   PA and lateral views of the chest provided.  A small right pleural effusion is noted not significantly changed from the prior PET-CT allowing for differences in modality. Otherwise, lungs are clear. Cardiomediastinal silhouette is normal. Bony structures are intact.   IMPRESSION:   Small right pleural effusion, not significantly changed from prior PET-CT. 
+
++ ___ Imaging CTA CHEST W&W/O C&RECON IMPRESSION:   No evidence of pulmonary embolism or aortic abnormality. Stable 5 mm nodule in the right lung base. No evidence of pathologic lymphadenopathy.       + ___ Cardiovascular ECHO Conclusions  The left atrium and right atrium are normal in cavity size. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). Doppler parameters are indeterminate for left ventricular diastolic function. There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Mild (1+) aortic regurgitation is seen. The mitral valve leaflets are moderately thickened. Trivial mitral regurgitation is seen. The tricuspid valve leaflets are mildly thickened. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion. 
+
+IMPRESSION: No cardiac source of syncope seen. Normal regional and global biventricular systolic function. Near hyperdynamic left ventricular systolic function. Indeterminate indices to assess diastolic function. Calcified mitral and aortic valves with mild aortic regurgitation.
+
+Compared with the prior study (images reviewed) of ___, the findings are similar.  
+
+DISCHARGE LABS: -------------- ___ 06:10AM BLOOD WBC-5.9# RBC-2.82* Hgb-9.2* Hct-26.3* MCV-94 MCH-32.6* MCHC-34.9 RDW-18.6* Plt Ct-44* ___ 06:10AM BLOOD Neuts-66 Bands-3 Lymphs-17* Monos-7 Eos-0 Baso-2 ___ Metas-5* Myelos-0 ___ 01:20PM BLOOD I-HOS-AVAILABLE ___ 06:10AM BLOOD Hypochr-NORMAL Anisocy-2+ Poiklo-1+ Macrocy-2+ Microcy-NORMAL Polychr-OCCASIONAL Burr-OCCASIONAL Tear ___ ___ 06:10AM BLOOD Glucose-93 UreaN-11 Creat-0.9 Na-137 K-4.1 Cl-102 HCO3-27 AnGap-12 ___ 06:10AM BLOOD Calcium-8.8 Phos-2.5* Mg-2.0
+
+ Brief Hospital Course: Ms. ___ is an ___ w/ NHL on CHOP C3D7 on admission, presenting with hypotensive episodes at home s/p a fall. She was hemodynamically stable in the ED and on the floor with normal head and c-spine imaging.
+
+# S/p fall: On admission the patient reported feeling weak and having heart palpitations prior to hear legs giving out underneath her. She denied LOC or chest pain prior to the episode. She states that she has had good PO intake. Her EKG in the ED was notable for a questionable development of a new RBBB, new V3 STD compared to prior, and LAD. A CTA chest was negative for PE. TTE showed no LVOT and normal EF (>55%). She was monitored on continuous telemetry during hospitalization with no abnormal events. She was evaluated by physical therapy, who determined that she was stable for a discharge to home.
+
+# Hypotension: The patient reportedly had had hypotensive episodes at home. She was normotensive on presentation to the ___ ED and remained normotensive during hospital stay. Her orthostatic vital signs on ___ were negative: 110/50, 94 (laying), 104/50, 106 (sitting), 102/52, 108 (standing). Her blood pressures may have been relatively lower than usual due to her C.diff infection with diarrhea, although she denied diarrhea prior to admission and she did not appear hypovolemic on exam. Her vitals were closely monitored during hospital stay. Blood cultures on admission showed no growth to date.
+
+# C. diff: The patient had recently been diagnosed with C. diff colitis and was started on metronidazole prior to admission. This was continued during hospital stay. She did not have any diarrhea during hospitalization.
+
+# NHL: The patient's first cycle of CHOP was on ___ (Rituxan held with first cycle). Her first cycle was complicated by admission for febrile neutropenia with LLL PNA and sinusitis. Her Cytoxan and Adriamycin were reduced by 20% with her ___ cycle of R-CHOP. She had a PET-CT on ___ with resolution of FDG avid LAD. The patient is currently on cycle 3 of RCHOP, She was discharged on day 9. On admission, she exhibited anemia and thrombocytopenia. Workup for hemolysis was negative, including a negative Heinz body prep as well as normal LDH and haptoglobin. Her symptoms of weakness and head-pounding were likely secondary to symptomatic anemia. She was transfused 1 unit of pRBCs and her symptoms improved. Her CBC showed improvement in counts prior to discharge. She was continued on prophylactic acyclovir and dapsone during hospitalization. 
+
+# Gastritis: The patient continued on her home omeprazole.
+
+# Depression: The patient was continued on home citalopram.
+
+# Asthma: The patient was continued on home fluticasone.
+
+TRANSITIONAL ISSUES: [] The patient will continue her treatment for C.diff with Flagyl 500mg PO TID upon discharge to complete a 14 day course (___). [] The patient should follow up with Dr. ___. [] CTA chest noted a stable 5 mm lung nodule [] Code status: FULL 
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Acetaminophen 325-650 mg PO Q6H:PRN fever, pain 2. Acyclovir 400 mg PO Q8H 3. Citalopram 20 mg PO DAILY 4. Fluticasone Propionate NASAL 1 SPRY NU DAILY 5. Omeprazole 20 mg PO DAILY 6. MetRONIDAZOLE (FLagyl) 500 mg PO TID 7. Ondansetron 8 mg PO Q8H:PRN nausea 8. Dapsone 100 mg PO DAILY 
+
+ Discharge Medications: 1. Acyclovir 400 mg PO Q8H 2. Citalopram 20 mg PO DAILY 3. Dapsone 100 mg PO DAILY 4. Fluticasone Propionate NASAL 1 SPRY NU DAILY 5. MetRONIDAZOLE (FLagyl) 500 mg PO TID 6. Omeprazole 20 mg PO DAILY 7. Ondansetron 8 mg PO Q8H:PRN nausea 8. Acetaminophen 325-650 mg PO Q6H:PRN fever, pain 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Primary Diagnosis: Near syncope Secondary Diagnoses: Non-Hodgkin's Lymphoma Clostridium difficile colitis Gastritis Asthma Depression  Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Ms. ___,
+
+You were admitted to the ___ because you were feeling weak and experienced a fall that resulted in a headstrike. Your head and cervical spine were imaged and showed no abnormalities. You also had a CT of the chest which showed that you did not have a pulmonary embolism. Your heart rhythm was closely monitored and was normal. You most likely were feeling weak and had a fall because of anemia. You received a unit of blood and your symptoms resolved. Your blood counts improved while you were in the hospital.
+
+Please follow up with Dr. ___. Your appointment is scheduled below.
+
+Thank you for allowing us to participate in your care. 
+
+Sincerely, Your ___ Team  Followup Instructions: ___ 

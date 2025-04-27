@@ -1,0 +1,55 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Penicillins  Attending: ___  Chief Complaint: Transfer from outside hospital for repeat catheterization
+
+ Major Surgical or Invasive Procedure: cardiac catheterization thrombin injection 
+
+ History of Present Illness: This is an ___ year-old caucasian male with a history of mild congestive heart failure, s/p 4 previous myocardial infarctions, s/p CABG x ___, s/p TIA who presented to an OSH with dizziness, described as spinning sensation. He had been having angina since ___. However in the past few weeks, he has had worsening daily chest pain, releived by NTG. He was seen in OSH ED with CP and ECG showed new LBBB. He was taken to the cath lab and found to have chronically occluded native arteries and posterior descending artery with 40-50% diffuse lesion. No interventions were performed. The pt was transferred to the CCU where he was found to have a elev in his cardiac enzymes, peaking at - CK 271, CK-MB 43.2, trop 0.85. Initially the plan was to continue medical therapy with asa, plavix, bb, statin and nitrates however on evening of ___ had recurrent L sided CP which resolved with 1 SL nitro. Patient's films reviewed by Dr. ___ felt he had a tight left main that could be stented. he was transferred to the ___ for repeat catheterization.
+
+On arrival to the ___ floor the patient was CP free. He had no SOB, dizziness or headache. ROS was negative. He was given prehydration in preparation for cath on ___.  Past Medical History: Cardiac History:  ___: CABG x 4 vessel: SVG to RCA.  ___istal to graft  ___: Stress test with evidence of small inf wall MI, ant apical and lateral ischemia. EF 40%, inferior hypokinesis, distal anterior severe hypokinesis, diskinesis of apex.  Other History: Dyslipidemia TIA  s/p hernia repair 
+
+ Social History: ___ Family History: Non-contributory  Physical Exam: VS - T 98 HR 72 BP 92/44 RR 12 ___ 97 Gen: elderly, caucasian male, no acute distress HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. Neck: Supple with JVP 8 cm CV: PMI located in ___ intercostal space, midclavicular line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4. Chest: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi. Abd: Soft, NTND. No HSM or tenderness. Ext: No c/c/e. No femoral bruits. Skin: midline sternal scar Pulses: Right: Carotid 2+ Femoral 2+ DP 2+ ___ 2+ Left: Carotid 2+ Femoral 2+ DP 2+ ___ 2+  Pertinent Results: ADMISSION LABS:
+
+___ 06:45PM  GLUCOSE-106* UREA N-13 CREAT-1.0 SODIUM-141 POTASSIUM-3.7 CHLORIDE-105 TOTAL CO2-29 ANION GAP-11 ___ 06:45PM  CALCIUM-8.7 PHOSPHATE-2.7 MAGNESIUM-2.1 CHOLEST-126 ___ 06:45PM  TRIGLYCER-57 HDL CHOL-42 CHOL/HDL-3.0 LDL(CALC)-73 ___ 06:45PM  WBC-6.5 RBC-4.12* HGB-12.9* HCT-36.4* MCV-89 MCH-31.4 MCHC-35.5* RDW-13.3 ___ 06:45PM  PLT COUNT-227 ___ 06:45PM  ___ PTT-58.8* ___
+
+CARDIAC ENZYMES:
+
+___ 04:20PM BLOOD CK-MB-NotDone cTropnT-0.74* ___ 12:25AM BLOOD CK-MB-NotDone cTropnT-0.74* ___ 08:59AM BLOOD CK-MB-NotDone cTropnT-0.69* ___ 04:47PM BLOOD CK-MB-NotDone cTropnT-0.64* ___ 06:10AM BLOOD ALT-20 AST-31 CK(CPK)-64 AlkPhos-40 TotBili-0.5 ___ 02:10PM BLOOD CK(CPK)-51 ___ 04:20PM BLOOD CK(CPK)-47 ___ 12:25AM BLOOD CK(CPK)-60 ___ 08:59AM BLOOD ALT-22 AST-29 CK(CPK)-68 TotBili-0.8 ___ 04:47PM BLOOD CK(CPK)-62
+
+DISCHARGE LABS:
+
+___ 05:35AM BLOOD Hct-32.2* ___ 05:35AM BLOOD Glucose-95 UreaN-14 Creat-1.1 Na-138 K-4.5 Cl-104 HCO3-27 AnGap-12 ___ 05:35AM BLOOD Calcium-8.8 Phos-3.7 Mg-2.1
+
+ECG ___: Sinus rhythm. Left atrial abnormality. Left bundle-branch block. No previous tracing available for comparison.
+
+CARDIAC CATHETERIZATION REPORT ___: COMMENTS:   1. Selective coronary angiography of the LMCA demonstrated 70% distal LMCA stenosis, 100% proximally occluded LAD, 70% ostial LCX stenosis with 80% stenosis in the AV groove branch. 2. Limited hemodynamics were performed. The systemic arterial pressures were normal measured 110/56mmHg. 3. Successful stenting of the LMCA with a 3.0x15mm Xience stent that was postdilated to 3.25mm. Final angiography revealed no residual stenosis, no angiographically apparent dissection and TIMI III flow (see PTCA comments). 4. Course later complicated by hematoma and pseudoaneurysm treated with thrombin injection. 5. Patient participated in Champion PCI study involving randomization to Plavix or Cangrelor.  FINAL DIAGNOSIS:   1. Three vessel coronary artery disease. 2. Normal systemic arterial pressures. 3. Successful stenting of the LMCA into the LCX.
+
+ECG ___: Sinus rhythm. The tracing is marred by baseline artifact. There is Q-T interval prolongation. Compared to the previous tracing of ___ left bundle-branch block is no longer recorded and the rate is slower. A repeat tracing of diagnostic quality is suggested.
+
+ECG ___: Sinus rhythm. Left atrial abnormality. Left bundle-branch block is new as compared with prior tracing of ___ and similar to that recorded on ___. The presence of left bundle-branch block may be rate-related.
+
+Right Femoral Vascular US ___: RIGHT FEMORAL VASCULAR ULTRASOUND: Grayscale and color and pulse wave Doppler examination was performed in the right groin region. Examination reveals a 3.1 x 2.7 x 1.7 cm pseudoaneurysm in the right groin, with visualization of the neck connecting the pseudoaneurysm to the right common femoral artery. The neck demonstrates to and fro flow, and is located slightly superomedially along the pseudoaneurysm. Normal flow is demonstrated in the common femoral artery. Wall-to-wall flow and normal compressibility is demonstrated in the right common femoral vein. Flow is also demonstrated in the greater saphenous vein. IMPRESSION: Pseudoaneurysm arising from right common femoral artery as described above.   Brief Hospital Course: This is an ___ year old male with history of multiple myocardial infarctions, coronary artery bypass graft with four vein grafts in ___, and chronic angina who was found to have NSTEMI at an outside hospital, underwent cardiac cath there demonstrating three vessel coronary artery disease and left main stenosis. No interventions were performed at the outside hospital and he was transferred to ___ for left main coronary artery stenting. 
+
+1) Coronary Artery Disease: Cardicac catheterization demonstrated three vessel disease and 70% stenosis of the left main coronary artery which was successfully stented with a drug eluting stent. Patient remained chest pain free throughout this hospitalization. He was started on metoprolol and lisinopril and will continue taking plavix, simvastatin, aspirin, and sublingual nitroglycerin as needed. He will follow up with his outpatient cardiologist, Dr. ___.  2) Femoral Hematoma: Following catheterization patient developed an expanding hematoma at access site. During this episode of bleeding patient became bradycardic and unresponsive. He regained responsiveness after intravenous fluid and one dose of atropine. Hematoma was stablized and patient was transferred to the CCU. Patient remained hemodynamically stable and was transferred back to the cardiology floor service. On hospital day 4 patient determined to have right femoral pseudoaneurysm diagnosed by a femoral bruit and confirmed by ultrasound. He was seen by the vascular surgery team who performed a thrombin ejection on ___. At time of discharge he was ambulating without any groin discomfort. He will follow up with Dr. ___ vascular surgery as an outpatient. 
+
+ 3) Pump: Patient remained euvolemic. An ECHO at the outside hospital on ___ showed normal left ventricular systolic function with EF 40-45%.   4) Rhythm: Patient remained in sinus rhythm with likely rate related left bundle branch block. 
+
+5) Hypercholesterolemia: Patient was continued on his outpatient dose of simvastatin.
+
+Patient was a FULL code during this admission.  Medications on Admission: Simvastatin Aspirin 325 mg daily Nitroglycerin 0.4 mg SL Plavix 75 mg daily Osteo Bi-Flex ___ mg daily Folic Acid ___ mcg Tablet Sig: One (1) Tablet PO once a day.  Vitamin B-12 250 mcg daily.  Beta Carotene 25,000 unit daily B Complex daily  Discharge Medications: 1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  2. Aspirin 325 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  3. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1)  Sublingual as needed as needed for chest pain.  4. Acetaminophen 500 mg Tablet Sig: 0.5 Tablet PO every ___ hours as needed for pain.  5. Toprol XL 25 mg Tablet Sustained Release 24 hr Sig: 1.5 Tablet Sustained Release 24 hrs PO once a day. Disp:*45 Tablet Sustained Release 24 hr(s)* Refills:*2* 6. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2* 7. Simvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.  8. Osteo Bi-Flex ___ daily 9. Folic Acid ___ mcg Tablet Sig: One (1) Tablet PO once a day. 
+
+10. Vitamin B-12 250 mcg Tablet Sig: One (1) Tablet PO once a day.  11. Beta Carotene 25,000 unit Tablet Sig: One (1) Tablet PO once a day.  12. B Complex   Capsule Sig: One (1) Capsule PO once a day. 
+
+ Discharge Disposition: Home  Discharge Diagnosis: Primary: Non-ST Elevation Myocardial Infarction, Status Post Percutaneous Intervention and stent to the left main coronary artery, Right groin hematoma, Right common femoral artery pseudoaneurysm status post thrombin injection Secondary:Dyslipidemia, status post coronary artery bypass graft in ___, status post hernia repair
+
+ Discharge Condition: good, chest pain free
+
+ Discharge Instructions: You were transferred to this hospital in order to have a cardiac catheterization. You had the cardiac catheterization performed and had a stent placed in one of your heart vessels. Following the procedure you had groin bleeding and went to an intensive care unit until the bleeding had stabilized. You were then transferred back to the regular cardiology floor. We then determined that you had an outpouching of your right groin blood vessel called a pseudoaneurysm. The vascular surgeons performed a procedure to remedy this defect in your vessel. 
+
+You will need to follow up as listed below.
+
+You were started on the following NEW medications: -Lisinopril 5 mg daily -Metoprolol succinate (Toprol XL): This will replace your metoprolol tartrate. 
+
+You should take the rest of your medications as directed.
+
+If you develop chest pain, shortness of breath, dizziness, or pass out please contact your primary care provider or come to the emergency department for evaluation.
+
+ Followup Instructions: ___ 

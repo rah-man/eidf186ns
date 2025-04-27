@@ -1,0 +1,15 @@
+T1	Weight_loss 952 966	weight changes
+A1	Negation T1
+T2	Seizures 1478 1486	seizures
+A2	Negation T2
+T3	Delirium 1950 1953	AxO
+A3	Negation T3
+T4	Independently_mobile 3405 3429	ambulating independently
+T5	Has_carers 4446 4463	Home With Service
+T6	Delirium 4558 4591	Mental Status: Clear and coherent
+A4	Negation T6
+T7	Independently_mobile 4657 4681	Ambulatory - Independent
+T8	Constipation 5285 5297	constipation
+A5	Diagnosis T8 Implicit_mention
+T9	Constipation 5351 5362	constipated
+A6	Diagnosis T9 Implicit_mention

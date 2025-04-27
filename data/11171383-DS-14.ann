@@ -1,0 +1,31 @@
+T1	Constipation 379 391	constipation
+T2	Constipation 661 673	constipation
+T3	Upper_gastrointestinal_haemorrhage 884 890	melena
+A1	Negation T3
+T4	Lower_gastrointestinal_haemorrhage 894 906	hematochezia
+A2	Negation T4
+T5	Hip_fracture 1073 1085	hip fracture
+A3	Diagnosis T5 History_of
+T6	Mobile_with_aid 1169 1179	wheelchair
+A4	Type_of_aid T6 Wheelchair
+T7	Lives_in_carehome 1208 1220	nursing home
+T8	Constipation 1482 1494	constipation
+A5	Diagnosis T8 History_of
+T9	Delirium 2309 2319	orientedx3
+A6	Negation T9
+T10	Delirium 2744 2752	oriented
+A7	Negation T10
+T11	Constipation 6081 6093	constipation
+T12	Constipation 16502 16514	constipation
+A8	Diagnosis T12 Implicit_mention
+T13	Constipation 16464 16476	constipation
+A9	Diagnosis T13 Implicit_mention
+T14	Constipation 16410 16422	constipation
+A10	Diagnosis T14 Implicit_mention
+T15	Constipation 13071 13083	constipation
+T16	Lives_in_carehome 14224 14234	caregivers
+T17	Delirium 16822 16855	Mental Status: Clear and coherent
+A11	Negation T17
+T18	Bed_Chairbound 16937 16947;16951 16956	assistance chair
+T19	Mobile_with_aid 16960 16970	wheelchair
+A12	Type_of_aid T19 Wheelchair

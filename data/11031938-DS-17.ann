@@ -1,0 +1,9 @@
+T1	Lower_gastrointestinal_haemorrhage 1758 1763	BRBPR
+A1	Negation T1
+T2	Upper_gastrointestinal_haemorrhage 1768 1774	melena
+A2	Negation T2
+T3	Delirium 2616 2621	AAOx3
+A3	Negation T3
+T4	Delirium 7790 7823	Mental Status: Clear and coherent
+A4	Negation T4
+T5	Independently_mobile 7889 7913	Ambulatory - Independent

@@ -1,0 +1,5 @@
+T1	Delirium 5636 5644	oriented
+A1	Negation T1
+T2	Has_carers 7208 7225	Home With Service
+T3	Delirium 7632 7640	oriented
+A2	Negation T3

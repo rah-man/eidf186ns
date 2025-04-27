@@ -1,0 +1,53 @@
+ Name: ___.        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: ___  Major Surgical or Invasive Procedure: ___ EGD
+
+ History of Present Illness: ___ with stage IB extrahepatic cholangiocarcinoma s/p surgical resection, gemcitabine, radiation and history of gastritis, diverticulosis, and hemorrhoids, presenting with one episode of melena, hemodynamically stable.
+
+He was recently seen in ___ clinic on ___. He had his ___ cycle of Gemcitabine. The day 15 dose was held due to platelets 63. He continued to have bloating for which he takes Gas-X with good success. He had a repeat CT Torso without definitive evidence of disease. His last session of chemotherapy was one week ago. 
+
+This morning, he went to have a bowel movement and noticed the stool was black. It was soft stool which was black in color. No clots and no bright red blood. He reports mild discomfort which resolved after the BM. Otherwise, denies any fever, chills, nausea, vomiting, hemoptysis, abdominal pain, diarrhea, constipation, dysuria, frequency, hematochezia, lightheadedness, dizziness, or weakness. 
+
+He called the clinic and was advised to head to the ED. He felt fine so he walked over to the ED. In the ED, initial vitals were 97.3 73 116/68 16 100% RA. Exam showed abdominal hernia, ___ edema, and guaiac positive brown stool. Hgb 9.0, compared with 9.3 two days ago, and around ___ recently. He was started on pantoprazole bolus and drip.
+
+On arrival to OMED, he denied any complaints. He has not had any bowel movements since this morning. He feels completely fine. He denies any history of black stools. Of note, he had EGD and colonoscopy performed in ___ for guaiac positive stools which revealed moderate gastritis, diverticulosis, and hemorrhoids.  Past Medical History: 1. Hyperlipidemia. 2. Benign prostatic hypertrophy. 3. Diverticulosis. 4. Hemorrhoids. 5. History of left shoulder surgery for traumatic dislocation. 6. Status post right inguinal hernia repair. 7. History of guaiac-positive stools with colonoscopy showing diverticulosis and EGD showing mild gastritis. 8. Cholangiocarcinoma, s/p resection and chemotherapy  Social History: ___ Family History: CAD in brother, mother. Alzheimer's in several family members on father's side. Uterine cancer in mother  Physical ___: ========================== ADMISSION PHYSICAL EXAM: ========================== VS: T98.1 130/66 67 16 100RA GEN: Well appearing, alert and oriented, no distress HEENT: Moist mucous membranes, sclera anicteric NECK: JVP is not elevated HEART: RRR, normal S1 S2, no murmurs LUNGS: Clear, no wheezes or rales ABD: Soft, nontender, normal bowel sounds EXT: No edema, 2+ DP pulses
+
+========================== DISCHARGE PHYSICAL EXAM: ========================== VS: T98.1| 100/63| 59| 18| 96% RA GEN: Well appearing, alert and oriented, no distress HEENT: Moist mucous membranes, sclera anicteric NECK: JVP is not elevated HEART: RRR, normal S1 S2, no murmurs LUNGS: Clear, no wheezes or rales ABD: Not markedly distended. Soft, nontender, normal bowel sounds. EXT: No edema, 2+ DP pulses  Pertinent Results: ================ ADMISSION LABS: ================ ___ 10:55AM BLOOD WBC-4.0 RBC-3.05* Hgb-9.0* Hct-28.1* MCV-92 MCH-29.5 MCHC-32.0 RDW-17.7* RDWSD-59.5* Plt Ct-95*# ___ 10:55AM BLOOD Neuts-67.8 Lymphs-9.4* Monos-17.7* Eos-4.3 Baso-0.3 Im ___ AbsNeut-2.68# AbsLymp-0.37* AbsMono-0.70 AbsEos-0.17 AbsBaso-0.01 ___ 10:55AM BLOOD ___ PTT-30.4 ___ ___ 10:55AM BLOOD Glucose-116* UreaN-20 Creat-0.9 Na-139 K-3.8 Cl-106 HCO3-25 AnGap-12 ___ 10:55AM BLOOD ALT-45* AST-51* LD(LDH)-205 AlkPhos-172* TotBili-0.6 ___ 10:55AM BLOOD Albumin-3.2* Calcium-8.5 Phos-3.3 Mg-1.8
+
+================ DISCHARGE LABS: ================ ___ 06:07AM BLOOD WBC-3.1* RBC-2.96* Hgb-9.1* Hct-27.2* MCV-92 MCH-30.7 MCHC-33.5 RDW-17.3* RDWSD-58.4* Plt ___ ___ 06:07AM BLOOD ___ PTT-32.2 ___ ___ 06:07AM BLOOD Glucose-107* UreaN-18 Creat-0.9 Na-137 K-4.2 Cl-107 HCO3-27 AnGap-7* ___ 06:07AM BLOOD Calcium-8.7 Phos-4.0 Mg-2.0 Iron-58 ___ 06:07AM BLOOD calTIBC-235* Ferritn-169 TRF-181* ___ 06:07AM BLOOD AMA-NEGATIVE Smooth-NEGATIVE ___ 06:07AM BLOOD ___ * Titer-1:40 ___ 06:07AM BLOOD IgG-1111 IgM-53
+
+========= IMAGING: ========= RUQ U/S ___: FINDINGS: LIVER: Patient is status post right hepatectomy. The visualized main and left portal veins as well as its segmental branches are patent, with hepatopetal flow. No suspicious hepatic lesions are identified although evaluation is somewhat limited by overlying bowel gas. BILE DUCTS: There is no intrahepatic biliary ductal dilation. PANCREAS: Portions of the pancreatic head were visualized and appeared unremarkable. Grossly, the pancreas was obscured by overlying bowel gas. Assessment was very limited. SPLEEN: The spleen measures 14.6 cm slightly larger than on prior examination where it measured 13.9. A 5 mm hyperechoic nodule is seen in the anterior aspect of the spleen. The ultrasound appearance is suggestive of a hemangioma.
+
+EGD ___: Several tortuous columns of prominent veins in the mid- and distal esophagus concerning for early varices without high-risk stigmata. Erythema and mosaic appearance in the fundus, stomach body and antrum compatible with portal hypertensive gastropathy. Erosion in the antrum. Unable to visualize anastomosis for the Roux limbs of hepaticojejunostomy. Otherwise normal EGD to third part of the duodenum.  Brief Hospital Course: ___ Male with stage IB (pT2N0Mx) Klatskin-like extrahepatic cholangiocarcinoma s/p resection, gemicitabine, and radiation, now on gemcitabine, presenting with one episode of melena.
+
+============== ACTIVE ISSUES: ==============
+
+# MELENA. He had one episode of dark stools morning of ___. He remained hemodynamically stable through the hospitalization. EGD on ___ showed evidence of portal gastropathy, distended esophageal veins/early varices, and small ulcer. Concern for portal vein thrombosis initially, but RUQ u/s with doppler showed patent hepatic vessels. Also concern for primary biliary cirrhosis, as this can predispose to cholangiocarcinoma. He had history of guaiac positive stools with EGD and colonoscopy in ___ showing moderate antral gastritis (H Pylori negative), mild diverticulosis, and hemorrhoids. Per GI recommendations, he was discharged on pantoprazole 40mg PO BID for 8 weeks, and then PPI QD henceforth. Workup for PBC and other liver disorders was deferred to outpatient.
+
+# CHOLANGIOCARCIONOMA. He completed three cycles of adjuvant gemcitabine followed by adjuvant chemoradiation with capecitabine, which completed ___, now s/p cycle 5 of adjuvant gemcitabine. Most recent session on ___ was held due to thrombocytopenia with platelets of 50. Chemotherapy can be resumed at the discretion of his outpatient providers.
+
+=============== CHRONIC ISSUES: ===============
+
+# BPH: Continued finasteride.
+
+# LOWER EXTREMITY EDEMA: No reported history of CHF. No edema currently. Normally takes Lasix 20mg if weight >172lbs. Held while inpatient given concern for GI bleed.
+
+CODE: Full (confirmed)  CONTACT: partner ___ ___ 
+
+==================== TRANSITIONAL ISSUES: ==================== -Pantoprazole 40mg PO BID x 8 weeks, then daily -Follow up with Liver and ___ clinic
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Finasteride 5 mg PO DAILY 2. Furosemide 20 mg PO DAILY:PRN weight>172lbs 3. promethazine 6.25 mg/5 mL oral DAILY:PRN nausea 4. biotin 2,500 mcg oral DAILY 5. coenzyme Q10 unknown oral DAILY 6. Cyanocobalamin 500 mcg PO DAILY 7. Docusate Sodium 100 mg PO DAILY 8. Multivitamins 1 TAB PO DAILY 9. Vitamin B Complex 1 CAP PO DAILY 10. Simethicone 40 mg PO QID:PRN bloating 
+
+ Discharge Medications: 1. Docusate Sodium 100 mg PO DAILY 2. Finasteride 5 mg PO DAILY 3. Multivitamins 1 TAB PO DAILY 4. Simethicone 40 mg PO QID:PRN bloating 5. Vitamin B Complex 1 CAP PO DAILY 6. Pantoprazole 40 mg PO Q12H RX *pantoprazole 40 mg 1 tablet(s) by mouth twice a day Disp #*120 Tablet Refills:*0 7. biotin 2,500 mcg oral DAILY 8. coenzyme Q10 unk unk ORAL DAILY 9. Cyanocobalamin 500 mcg PO DAILY 10. Furosemide 20 mg PO DAILY:PRN weight>172lbs 11. promethazine 6.25 mg/5 mL oral DAILY:PRN nausea 
+
+ Discharge Disposition: Home  Discharge Diagnosis: PRIMARY: -Melena, upper GI bleed -Early varices -Portal hypertensive gastropathy
+
+SECONDARY: -Cholangiocarcinoma
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr. ___,
+
+It was a pleasure to take care of you at ___. You were admitted to the hospital because of a black stool, which was suggestive of an upper GI bleed. An endoscopy showed early varices and portal hypertensive gastropathy. Ultrasound of your liver did not show any blood clots to explain the findings. You will need to continue the pantoprazole 40mg twice a day for 8 weeks, and then daily after that. 
+
+Follow up with your oncology team.
+
+You will need to follow up with our Liver doctors. They will call you with an appointment. If you do not hear from them in a week, call them at ___ to schedule an appointment with Dr. ___.  Followup Instructions: ___ 

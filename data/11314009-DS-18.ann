@@ -1,0 +1,59 @@
+T1	Intracranial_haemorrhage 391 394	IPH
+A1	Diagnosis T1 History_of
+T2	Lives_alone 518 522	wife
+A2	Negation T2
+T3	Intracranial_haemorrhage 706 710;765 775	Head hemorrhage
+A3	Diagnosis T3 History_of
+T4	Intracranial_haemorrhage 2288 2315	intraparenchymal hemorrhage
+A4	Diagnosis T4 History_of
+T5	Intracranial_haemorrhage 2513 2517;2579 2589	Head rebleeding
+T6	Intracranial_haemorrhage 2622 2632;2644 2654	hemorrhage subfalcine
+T7	Visual_impairment 2827 2834;2836 2842	blurred vision
+A5	Negation T7
+T8	Visual_impairment 2811 2825	loss of vision
+A6	Negation T8
+T9	Visual_impairment 2844 2852	diplopia
+A7	Negation T9
+T10	Hearing_impairment 2905 2923	hearing difficulty
+A8	Negation T10
+T11	Faecal_incontinence 3030 3035;3047 3059	bowel incontinence
+A9	Negation T11
+T12	Urinary_incontinence 3039 3059	bladder incontinence
+A10	Negation T12
+T13	Weight_loss 3305 3316	weight loss
+T14	Constipation 3433 3445	constipation
+A11	Negation T14
+T15	Intracranial_haemorrhage 3575 3602	intraparenchymal hemorrhage
+A12	Diagnosis T15 History_of
+T16	Intracranial_haemorrhage 5340 5343	IPH
+A13	Diagnosis T16 History_of
+T17	Intracranial_haemorrhage 5589 5616	intraparenchymal hemorrhage
+T18	Intracranial_haemorrhage 5738 5748;5752 5770	hemorrhage amyloid angiopathy
+T19	Intracranial_haemorrhage 5881 5889;5954 5964	hematoma subfalcine
+T20	Intracranial_haemorrhage 5954 5964;6053 6063	subfalcine hemorrhage
+T21	Intracranial_haemorrhage 5954 5964;6134 6142	subfalcine hematoma
+T22	Intracranial_haemorrhage 6520 6547	intraparenchymal hemorrhage
+A17	Diagnosis T22 History_of
+T23	Intracranial_haemorrhage 6569 6572	IPH
+A18	Diagnosis T23 History_of
+T24	Intracranial_haemorrhage 6596 6614;7008 7018	amyloid angiopathy hemorrhage
+A19	Low_confidence T24
+T25	Urinary_incontinence 7099 7111;7125 7132	incontinence bladder
+T26	Faecal_incontinence 7099 7111;7115 7120	incontinence bowel
+T27	Intracranial_haemorrhage 7259 7267;7322 7335	headache re-hemorrhage
+A21	Diagnosis T24 History_of
+T28	Intracranial_haemorrhage 7259 7267;7415 7428	headache re-hemorrhage
+T29	Intracranial_haemorrhage 7491 7501;7540 7558	hemorrhage amyloid angiopathy
+T30	Constipation 8570 8582	constipation
+A23	Diagnosis T30 Implicit_mention
+T31	Constipation 8755 8767	constipation
+A24	Diagnosis T31 Implicit_mention
+T32	Intracranial_haemorrhage 8901 8928	intraparenchymal hemorrhage
+T33	Mobile_with_assistance 9094 9098;9108 9118	walk assistance
+T34	Intracranial_haemorrhage 9221 9248	intraparenchymal hemorrhage
+T35	Intracranial_haemorrhage 9221 9237;9263 9274	intraparenchymal re-bleeding
+A25	Negation T35
+A14	Negation T20
+A15	Diagnosis T21 History_of
+A16	Negation T28
+A22	Diagnosis T29 History_of

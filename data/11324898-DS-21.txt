@@ -1,0 +1,47 @@
+ Name: ___       Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: SURGERY  Allergies: Sulfonamides  Attending: ___.  Chief Complaint: Chest Pain  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: Mrs ___ is a ___ yo female, hx of CAD, s/p CABG and PCIx2, hypothyroidism, OA who presented to the ED today with substernal CP. Pt states that the CP started 1 day PTA, is dull and comes in clusters with each episode lasting approx 1 minute, relieved immediately with NTG. Today she had 2 episodes of these clusters, one episode occurring after waking up in the morning, the second occurring while reading the paper. Denies associated sxs including SOB, diaphoresis, N/V. She states that it is not typical of her previous CP. She was CP free on arrival to the ED and on the floor.  .  In the ED, she was afebrile, HR 61, BP 150/74 R20, 100% RA. She was given 325 mg aspirin, started on heparin gtt. CE x1 WNL.  .  On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, cough, hemoptysis, black stools or red stools. S/he denies recent fevers, chills or rigors. S/he denies exertional buttock or calf pain. She endorses chronic MS pain ___s chronic ___ edema, unchanged from baseline. Also c/o one ___ stools. All of the other review of systems were negative.  .  Cardiac review of systems is notable for no dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, palpitations, syncope or presyncope. 
+
+ Past Medical History: Hypertension Hyperlipidemia Elevated Fasting Blood Glucose Coronary Artery Disease s/p CABG and PCIx2  Hypothyroidism Umbilical hernia s/p repair  Carpal Tunnel s/p release  Restless leg syndrome/leg cramps  Hx cholecystectomy  Social History: ___ Family History: No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.  Physical Exam: Per Admitting Intern:
+
+VS: T=97.3BP=168/74HR=60RR=16O2 sat=97%RA  GENERAL: NAD. Oriented x3. Mood, affect appropriate.  HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma. 
+
+NECK: Supple with JVP of 7 cm.  CARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  LUNGS: No chest wall deformities. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.  EXTREMITIES: 1+ edema bilaterally, painful to palpation.  SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  PULSES:  Right: Carotid 2+ Left: Carotid 2+ 
+
+ Pertinent Results: Admit Labs WBC-10.8 RBC-4.29 Hgb-12.0 Hct-36.0 MCV-84 MCH-27.9 MCHC-33.3 RDW-13.4 Plt ___ Neuts-68.9 ___ Monos-3.2 Eos-3.8 Baso-0.9 ___ PTT-24.8 ___ Glucose-115* UreaN-19 Creat-1.1 Na-140 K-4.6 Cl-105 HCO3-27 AnGap-13 Calcium-9.7 Phos-3.7 Mg-2.2
+
+Cardiac Biomarkers ___ 09:20AM CK(CPK)-47 CK-MB-NotDone cTropnT-<0.01 ___ 05:12PM CK(CPK)-38 CK-MB-NotDone cTropnT-<0.01 ___ 09:13PM CK(CPK)-39 CK-MB-NotDone cTropnT-<0.01
+
+Exercise Stress Test - IMPRESSION: No anginal symptoms or additional ST or T wave changes from baseline. Nuclear report to be sent seperately. 
+
+Cardiac Perfusion Scan - final report pending
+
+ Brief Hospital Course: ___ y/o F with significant h/o CAD (s/p CABG and PCI x2) presenting with substernal CP at rest and no EKG chgs, concerning for possible unstable angina. 
+
+# Chest Pain - The patient presented compaining of several episodes of brief chest pain over 2 days. she described these episodes as "annoying" pains, located in the left chest, that did not radiate. She was started on a heparin drip. Three sets of cardiac enzymes were negative. She was kept on her home regimen of cardiac medications, including aspirin, atenolol, plavix, and valsartan. She was also started on high dose atorvastatin. Telemetry overnight showed normal sinus rhythm with rare PVCs and rare couplets. In the morning, the patient underwent an exercise stress test and cardiac perfusion imaging.  The results of these did not indicate any cardiac ischemia. At this point, the patient was discharged home to follow-up with her PCP, ___ her cardiologist, Dr. ___. Of note, the patient had been taken off of two statins in the past because of muscle/leg pains. At discharge, she was started on a low dose (20mg) of pravastatin. She should follow-up with her PCP regarding use of this medication.  # HTN - The patient was noted to be hypertensive when she arrived on the medical floor. Overnight, her systolic blood pressures ranged 108-168. On the morning following her admission, her blood pressure was 126/80. She was discharged on her home anti-hypertensive regimen.
+
+# Hypothyroidism - A recent TSH from ___ was noted to be 1.1. The patient was continued on her home dose of levothyroxine.
+
+# Hyperglycemia - The patient was noted to have had an elevated fasting blood sugar in the past. She denied a diagnosis of diabetes on admission. She was placed on an insulin sliding scale but only required 2 units on one occasion. The patient was not started on any diabetic medications at discharge.  Further monitoring of the patients blood sugars can be done by her PCP as an outpatient.
+
+# Leg Cramps - The patient had a history of leg cramps, for which she had had two different statins stopped in the past.  Normal CK levels, however, suggested that statin-induced myopathy was not the cause of these pains. She was started on high-dose atorvastatin on admission based on ACS protocol. On discharge, she was started on low-dose pravastatin (she had not been on pravastatin previously). She is to follow-up with her PCP regarding her statin therapy.  Medications on Admission: ASPIRIN 81 mg PO q day  ATENOLOL - 25 mg Tablet - 1 (One) Tablet(s) by mouth once a day 
+
+CLOPIDOGREL [PLAVIX] - 75 mg Tablet - 1 (One) Tablet(s) by mouth  once a day  ESTRADIOL [ESTRACE] - 0.01 % Cream - apply as directed once  weekly  FUROSEMIDE - 20 mg Tablet - 1 Tablet(s) by mouth once a day as  needed  LEVOTHYROXINE [SYNTHROID] - 150 mcg Tablet - 1 Tablet(s) by mouth  once a day  NITROGLYCERIN [NITROLINGUAL] - 0.4 mg/dose Spray, Non-Aerosol - 
+
+as needed for chest pain  POTASSIUM CHLORIDE [KLOR-CON] - (Prescribed by Other Provider) -  8 mEq Tablet Sustained Release - 1 (One) Tablet(s) by mouth once  a day  PRAMIPEXOLE [MIRAPEX] - 0.25 mg Tablet - 1 Tablet(s) by mouth  twice a day  VALSARTAN [DIOVAN] - 80 mg Tablet - 1 (One) Tablet(s) by mouth  once a day  Multivitamin  VitD/Calcium  Fish Oil 
+
+ Discharge Medications: 1. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  2. Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  3. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  4. Estrace Vaginal 5. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  6. Levothyroxine 150 mcg Tablet Sig: One (1) Tablet PO once a day.  7. Nitroglycerin 0.4 mg/Dose Spray, Non-Aerosol Sig: ___ spray Translingual as directed as needed for chest pain: use ___ sprays for chest pain; may repeat after 5 minutes; if chest pain has not resolved after 3 doses (15 minutes), call ___.  8. Potassium Chloride 8 mEq Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO once a day.  9. Pramipexole 0.25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  10. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  11. Multivitamin   Tablet Sig: One (1) Tablet PO DAILY (Daily).  12. Calcium Carbonate-Vitamin D3 600-400 mg-unit Tablet Sig: One (1) Tablet PO three times a day.  13. Omega-3 Fatty Acids   Capsule Sig: One (1) Capsule PO DAILY (Daily).  14. Pravachol 20 mg Tablet Sig: One (1) Tablet PO at bedtime. Disp:*30 Tablet(s)* Refills:*2*
+
+ Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis Chest Pain
+
+Secondary Diagnosis Coronary Artery Disease Hypertension Hyperlipidemia
+
+ Discharge Condition: Afebrile, hemodynamically stable. Free of chest pain.
+
+ Discharge Instructions: You presented to the emergency department complaining of some chest pain. You had lab work drawn that did not indicate that you were having a heart attack. Also, you had a stress test done that was normal.
+
+Changes to your medications: START Pravastatin 20 mg at night.
+
+Please return to the emergency department if you experience any new or worsening chest pain, any shortness of breath, fevers greater than 101.5, or any other concerning symptoms. If you have any symptoms or weakness or muscle aches, please contact your PCP, ___ seek medical attention.
+
+It was a pleasure taking part in your medical care.  Followup Instructions: ___ 

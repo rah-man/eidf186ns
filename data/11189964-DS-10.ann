@@ -1,0 +1,10 @@
+T1	Lower_gastrointestinal_haemorrhage 700 712	hematochezia
+A1	Negation T1
+T2	Upper_gastrointestinal_haemorrhage 716 722	melena
+A2	Negation T2
+T3	Delirium 3632 3640	oriented
+A3	Negation T3
+T4	Has_carers 11185 11202	Home With Service
+T5	Delirium 11560 11593	Mental Status: Clear and coherent
+A4	Negation T5
+T6	Independently_mobile 11640 11650;11655 11668	Ambulatory independent  

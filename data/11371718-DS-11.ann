@@ -1,0 +1,17 @@
+T1	Upper_gastrointestinal_haemorrhage 2688 2702	Upper GI bleed
+A1	Diagnosis T1 History_of
+T2	Delirium 3594 3599	A&Ox3
+A2	Negation T2
+T3	Delirium 4190 4195	A&Ox3
+A3	Negation T3
+T4	Lower_respiratory_tract_infection 5420 5429	pneumonia
+A4	Negation T4
+T5	Lower_gastrointestinal_haemorrhage 6840 6845	BRBPR
+A5	Negation T5
+T6	Constipation 9909 9923	constipation  
+A6	Diagnosis T6 Implicit_mention
+T7	Constipation 10105 10119	constipation  
+A7	Diagnosis T7 Implicit_mention
+T8	Delirium 10699 10732	Mental Status: Clear and coherent
+A8	Negation T8
+T9	Independently_mobile 10798 10822	Ambulatory - Independent

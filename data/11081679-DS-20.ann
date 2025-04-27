@@ -1,0 +1,8 @@
+T1	Upper_gastrointestinal_haemorrhage 974 984	UGI bleeds
+A1	Diagnosis T1 History_of
+T2	Delirium 2066 2074	Oriented
+A2	Negation T2
+T3	Has_carers 10634 10651	Home With Service
+T4	Delirium 10840 10873	Mental Status: Clear and coherent
+A3	Negation T4
+T5	Independently_mobile 10939 10963	Ambulatory - Independent

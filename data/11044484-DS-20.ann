@@ -1,0 +1,9 @@
+T1	Delirium 2329 2337	oriented
+A1	Negation T1
+T2	Has_carers 5108 5125	Home With Service
+T3	Delirium 5255 5288	Mental Status: Clear and coherent
+A2	Negation T3
+T4	Mobile_with_assistance 5354 5364;5376 5386	Ambulatory assistance
+T5	Mobile_with_aid 5354 5364;5390 5393	Ambulatory aid
+T6	Delirium 5911 5919	oriented
+A3	Negation T6

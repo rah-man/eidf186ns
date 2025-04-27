@@ -1,0 +1,27 @@
+T1	Upper_gastrointestinal_haemorrhage 210 220	Dark stool
+T2	Lives_in_carehome 485 489	Aide
+T3	Upper_gastrointestinal_haemorrhage 511 522	black bowel
+T4	Upper_gastrointestinal_haemorrhage 818 828	dark stool
+T5	Upper_gastrointestinal_haemorrhage 918 928	dark stool
+T6	Intracranial_haemorrhage 1773 1790	Subdural hematoma
+A1	Diagnosis T6 History_of
+T7	Falls 1801 1805	fall
+T8	Lives_in_carehome 1813 1825	nursing home
+T9	Delirium 2439 2442	AAO
+A2	Negation T9
+T10	Upper_gastrointestinal_haemorrhage 4198 4209	black stool
+T11	Upper_gastrointestinal_haemorrhage 4268 4276	GI bleed
+T12	Upper_gastrointestinal_haemorrhage 4575 4577;4692 4700	GI bleeding
+A3	Negation T12
+T13	Constipation 5627 5638	constipatin
+A4	Diagnosis T13 Implicit_mention
+T14	Constipation 6503 6514	constipatin
+A5	Diagnosis T14 Implicit_mention
+T15	Lives_in_carehome 6541 6558	Home With Service
+A6	Low_confidence T15
+T16	Upper_gastrointestinal_haemorrhage 6606 6617	GI bleeding
+T17	Delirium 6709 6742	Mental Status: Clear and coherent
+A7	Negation T17
+T18	Mobile_with_assistance 6808 6818;6830 6840	Ambulatory assistance
+T19	Mobile_with_aid 6808 6818;6844 6847	Ambulatory aid
+T20	Upper_gastrointestinal_haemorrhage 6938 6943;6952 6958	blood stools

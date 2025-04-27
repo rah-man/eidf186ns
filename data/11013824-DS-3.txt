@@ -1,0 +1,105 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: Altered Mental Status  Major Surgical or Invasive Procedure: Intubation, RIJ  History of Present Illness: ___ year old female with a history of recurrent UTIs, HTN, Hyperlipidemia and peripheral vascular disease, presenting from ___ with UTI, sepsis and acute renal failure with hyperkalemia.
+
+Notably, the patient was recently discharged from ___ following treatment for an ESBL UTI treated with Ertapenem as an outpatient. Sensitivities showed that the ESBL was sensitive to Zosyn, Penems and Bactrim. Blood cultures from ___ and ___ grew ESBL, with cultures from ___ and ___ growing staph epidermis. These were all drawn from a PICC which was removed on ___ after which point the PICC line was removed and subsequent blood cultures were negative. The patient completed a 7 day course of Vancomycin and a 14 day course of IM Ertapenem (last dose on ___. During that admission, the patient was also noted to have ___ which resolved and was discharged with a creatinine of 0.9. 
+
+The patient presented to the ___ from a nursing home following 2 days of altered mental status. The patient's baseline is generally conversant. Here, she was found to have hyperkalemia to 6.7, with an EKG showing no changes. Her Cr was also noted to be 5.7. She got insulin/Dextrose, Calcium, and 100mg IV Lasix. A foley catheter was placed with 700ccs of thick white urine output. The patient was given a liter of NS and put out an additional 300ccs of urine. She was started on Vancomycin and Ceftriaxone. The patient's repeat potassium was unimproved, she was given a second liter of NS, and there was concern for need for urgent dialysis, so the patient was transferred to the ___. Prior to transfer, she had some low MAPs in the ___, and a right IJ was placed.
+
+In the ___ at ___, the patient was noted to be obtunded, but intermittently awake arousable. She was not intubated as she appeared to be protecting her airway. She was pan cultured and started on Zosyn given her previous ESBL UTI which was sensitive. Her potassium was down to 5.4 with a lactate of 2.6, pH of 7.2 and Bicarb of 18. Renal saw the patient and recommended Lasix 160 and then a drip if no good output in 30 minutes, repeating K 4 hours after Lasix, insulin/albuterol for temporizing as well as kayexalate. The patient was given only Zosyn 4.5g IV in the ___, but no further diuresis or temporizing measures for her K. The patient had some low MAPs in the ___ in the ___ and was started on levophed. CXR shoed no pulmonary edema with a CVL at the cavoatrial junction. 
+
+In ___ initial VS: T96.7 HR98 BP101/72 RR10 O296%  
+
+ Past Medical History: Hip and knee arthroplasty Left toe amputation Dementia recurrent UTI DMII HTN HLD Depression ESBL UTI Peripheral vascular disease
+
+ Social History: Lives at nursing home.  Physical Exam: ADMISSION PHYSICAL EXAM GENERAL: Unarousable, unable to converse, following some commands HEENT: Sclera anicteric, MMM, oropharynx clear, pupils slugglishly reactive  NECK: supple, no JVD LUNGS: Clear to auscultation bilaterally, no wheezes, rales, rhonchi  CV: Regular rate and rhythm, normal S1 S2, late peaking systolic ejection murmur best heard a right second intercostal space  ABD: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  SKIN: Two stage three pressure ulcers on back NEURO: Mimimally arousable, following some commands intermittently. Withdrawing to pain. CNs intact. Positive gag reflex.
+
+DISCHARGE PHYSICAL EXAM VS: 98.0 140/60 98 17 99 Ra GENERAL: Waxing/waning attention, conversant but confused, no agitation this morning HEENT: AT/NC, anicteric sclera HEART: RRR, S1/S2, ___ systolic murmur, no gallops or rubs  LUNGS: CTAB, nonlabored respirations ABDOMEN: nondistended EXTREMITIES: LLE with wrapped chronic ulcer NEURO: AOx1, moving all extremities  Pertinent Results: ADMISSION LABS ___ 10:05PM BLOOD WBC-25.9* RBC-3.48* Hgb-8.8* Hct-29.8* MCV-86 MCH-25.3* MCHC-29.5* RDW-17.5* RDWSD-53.5* Plt ___ ___ 10:05PM BLOOD Neuts-82.9* Lymphs-9.5* Monos-5.7 Eos-0.0* Baso-0.2 Im ___ AbsNeut-21.44* AbsLymp-2.46 AbsMono-1.47* AbsEos-0.01* AbsBaso-0.05 ___ 10:05PM BLOOD ___ PTT-26.1 ___ ___ 12:17AM BLOOD ___ ___ 10:05PM BLOOD Glucose-192* UreaN-89* Creat-4.5* Na-135 K-5.7* Cl-101 HCO3-16* AnGap-18 ___ 10:05PM BLOOD ALT-9 AST-24 CK(CPK)-1173* AlkPhos-107* TotBili-0.2 ___ 10:05PM BLOOD CK-MB-33* MB Indx-2.8 proBNP-537 ___ 10:05PM BLOOD Albumin-2.3* Calcium-9.0 Phos-7.9* Mg-2.1 ___ 10:12PM BLOOD ___ pO2-45* pCO2-44 pH-7.20* calTCO2-18* Base XS--10 ___ 10:12PM BLOOD Lactate-2.6* K-5.4* ___ 12:42AM BLOOD Lactate-1.8
+
+DISCHARGE LABS ___ 06:46AM BLOOD WBC-9.2 RBC-2.94* Hgb-7.5* Hct-24.2* MCV-82 MCH-25.5* MCHC-31.0* RDW-17.9* RDWSD-53.2* Plt ___ ___ 06:46AM BLOOD Glucose-175* UreaN-23* Creat-1.2* Na-147 K-4.0 Cl-113* HCO3-21* AnGap-13 ___ 06:46AM BLOOD Calcium-8.3* Phos-2.5* Mg-1.7
+
+MICROBIOLOGY ___ 10:10 pm URINE
+
+              **FINAL REPORT ___
+
+  URINE CULTURE (Final ___:    ESCHERICHIA COLI.  >100,000 CFU/mL. PRESUMPTIVE IDENTIFICATION. 
+
+               SENSITIVITIES: MIC expressed in MCG/ML            _________________________________________________________               ESCHERICHIA COLI               |  AMIKACIN--------------   4 S AMPICILLIN------------ =>32 R AMPICILLIN/SULBACTAM--  16 I CEFAZOLIN------------- =>64 R CEFEPIME--------------    R CEFTAZIDIME-----------  16 R CEFTRIAXONE----------- =>64 R CIPROFLOXACIN---------  =>4 R GENTAMICIN------------ =>16 R MEROPENEM-------------<=0.25 S NITROFURANTOIN-------- <=16 S PIPERACILLIN/TAZO-----   8 S TOBRAMYCIN------------ =>16 R TRIMETHOPRIM/SULFA----  <=1 S
+
+___ 10:10 pm BLOOD CULTURE
+
+  Blood Culture, Routine (Preliminary):    ESCHERICHIA COLI.  FINAL SENSITIVITIES. 
+
+               SENSITIVITIES: MIC expressed in MCG/ML            _________________________________________________________               ESCHERICHIA COLI               |  AMIKACIN--------------   4 S AMPICILLIN------------ =>32 R AMPICILLIN/SULBACTAM-- =>32 R CEFAZOLIN------------- =>64 R CEFEPIME--------------    R CEFTAZIDIME-----------  16 R CEFTRIAXONE----------- =>64 R CIPROFLOXACIN---------  =>4 R GENTAMICIN------------ =>16 R MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----   8 S TOBRAMYCIN------------ =>16 R TRIMETHOPRIM/SULFA----  <=1 S
+
+  Anaerobic Bottle Gram Stain (Final ___:    GRAM NEGATIVE ROD(S).    Reported to and read back by ___ (___) @ 1432 ON    ___. 
+
+IMAGING/RESULTS: CXR ___: IMPRESSION:  Right internal jugular central venous catheter tip at the SVC/right atrial junction. Low lung volumes without acute cardiopulmonary abnormality. 
+
+TEE ___: Conclusions   The left atrial volume index is normal. There is mild symmetric left ventricular hypertrophy with normal cavity size. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Left ventricular systolic function is hyperdynamic (EF>75%). Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. Physiologic mitral regurgitation is seen (within normal limits). The estimated pulmonary artery systolic pressure is normal. There is an anterior space which most likely represents a prominent fat pad. 
+
+ IMPRESSION: Mild symmetric left ventricular hypertrophy with preserved regional/and hyperdynamic global systolic function. Elevated PCWP. Aortic sclerosis without stenosis.  
+
+CXR ___: IMPRESSION:  Compared to chest radiographs ___. With the chin down, tip of the endotracheal tube, slightly more than 2 cm from the carina is ax septal. Care should be taken that it not advanced any further.  Atelectasis at the lung bases is mild. Upper lungs clear.  Normal cardiomediastinal silhouette. No pleural abnormality. Indwelling right jugular line ends in the low SVC. 
+
+CT HEAD W/O CONTRAST ___: IMPRESSION:  No acute intracranial process. Brain parenchymal atrophy. Moderate hippocampal atrophy, abnormal for age. Enlarged lacrimal glands bilaterally, may be inflammatory in etiology, lymphoproliferative process or neoplasm is less likely. 
+
+RENAL US ___: IMPRESSION:  No hydronephrosis identified.. 
+
+ Brief Hospital Course: ___ year old female with a history of recurrent UTIs, HTN, Hyperlipidemia and peripheral vascular disease, presenting from ___ with UTI, sepsis and acute renal failure with hyperkalemia. Upon presentation to the ICU, pt developed worsening acidosis and AMS despite BIPAP, and required intubation. Pt was noted to have septic shock requiring pressors, likely from urinary source, and was treated with meropenem. 
+
+ACUTE ISSUES:
+
+#Septic shock: #ESBL E. Coli UTI: #ESBL E. Coli Bacteremia: Likely source is UTI given positive UA and history. Renal u/s showed no hydronephrosis. Prior UTIs have been ESBL sensitive to Zosyn. Received one dose of Zosyn in the ___, as well as one dose of Vancomycin at ___. She was transferred to ___ for critical care. She received IVF and pressors briefly with improvement in BPs. Urine and blood cultures were positive for ESBL E. coli sensitive to meropenem. She was started on IV meropenem on ___ and will need to complete a 14 day course (last day ___. 
+
+___ #Hyperkalemia: ___ with Cr of 5.7 at ___. Suspect this is likely secondary to prerenal azotemia vs. ATN given sepsis and hypotension requiring pressor. Potassium of > 6 at OSH, received insulin and dextrose, down to 5.7 in ___. Patient given fluids with improvement in Cr. K downtrended and normalized, with discharge K of 4.0. Cr continued to trend downward, with discharge Cr of 1.2. 
+
+#Acute Ventilatory respiratory failure #Acidosis: The patient presented with a combined metabolic gap acidosis and respiratory acidosis. Gap acidosis likely secondary to uremia and lactic acidosis in the setting of urosepsis. Unable to keep up with respiratory compensation secondary to encephalopathy with PCO2 of 44 and pH down to 7.15 on BiPAP. Pt was intubated for worsening acidosis and was extubated on ___. She required no further oxygen support. Her acidosis improved with treatment of infection and fluid resuscitation. 
+
+#Encephalopathy: Most likely toxic metabolic in the setting of infection, hospitalization, metabolic derangements, meds, poor sleep, and pain. CT showed no acute intracranial process. EEG revealed no seizure activity. Patient's mental status improved with treatment of bacteremia. Per patient's family, patient was at baseline mentally at time of discharge. 
+
+#Anemia: Anemia below baseline with no concerns for active bleeding. Hb was stable and she required no transfusions. Discharge Hb is 7.5.
+
+#Diabetes type II: Patient had episodes of hypoglycemia on home Lantus dose. It was discontinued and patient was placed on insulin sliding scale. She will be discharged on insulin sliding scale. She should be restarted on home Lantus at a reduced dose if oral intake increases. 
+
+#Troponinemia: Mild troponinemia with EKG not showing dynamic changes. Unlikely acute plaque rupture, and more likely demand. Trops trended to peak. Patient remained without any chest pain. 
+
+CHRONIC ISSUES
+
+#PVD: Continue home ASA and Plavix
+
+#Depression: Continue home fluoxetine
+
+#HTN: Hold home antihypertensives in the setting of septic shock.
+
+TRANSITIONAL ISSUES: [] She will need to continue IV meropenem until ___ to complete 14 day course [] Consider restarting Lantus at lower dose as po intake improves [] Consider increasing gabapentin dosage as kidney function improves [] Consider adjusting oxycodone for further pain management
+
+#CONTACT: HCP: ___ (Son) ___ #CODE: Full, confirmed with MOLST 
+
+I have seen and examined Ms. ___, reviewed the findings, data, and discharge plan of care documented by Dr. ___, MD dated ___ and agree, except for any additional comments below.
+
+Day of discharge management: > 30 minutes
+
+___, MD, PharmD Section of Hospital Medicine ___  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Multivitamins 1 TAB PO DAILY 2. Cyanocobalamin 500 mcg PO DAILY 3. Ascorbic Acid ___ mg PO BID 4. Gabapentin 300 mg PO TID 5. amLODIPine 5 mg PO DAILY 6. Acetaminophen 1000 mg PO TID 7. Aspirin 81 mg PO DAILY 8. Mirtazapine 15 mg PO QHS 9. Meladox (melatonin) 3 mg oral QHS 10. Clopidogrel 75 mg PO DAILY 11. OxyCODONE (Immediate Release) 5 mg PO TID 12. OxyCODONE (Immediate Release) 10 mg PO DAILY:PRN Pain - Severe 13. Lisinopril 20 mg PO DAILY 14. FLUoxetine 30 mg PO DAILY 15. Metoprolol Succinate XL 25 mg PO DAILY 16. Glargine 16 Units Bedtime Insulin SC Sliding Scale using Novolog Insulin
+
+ Discharge Medications: 1. Bisacodyl 10 mg PO/PR DAILY Constipation  2. Meropenem 500 mg IV Q8H Duration: 10 Days Last day of therapy - ___. Senna 8.6 mg PO BID Constipation  4. Gabapentin 100 mg PO TID  5. Insulin SC    Sliding Scale
+
+Fingerstick QACHS Insulin SC Sliding Scale using HUM Insulin 6. OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Moderate RX *oxycodone 5 mg 1 tablet(s) by mouth every four (4) hours Disp #*18 Tablet Refills:*0 7. Acetaminophen 1000 mg PO TID  8. Ascorbic Acid ___ mg PO BID  9. Aspirin 81 mg PO DAILY  10. Clopidogrel 75 mg PO DAILY  11. Cyanocobalamin 500 mcg PO DAILY  12. FLUoxetine 30 mg PO DAILY  13. Meladox (melatonin) 3 mg oral QHS  14. Metoprolol Succinate XL 25 mg PO DAILY  15. Mirtazapine 15 mg PO QHS  16. Multivitamins 1 TAB PO DAILY  17. HELD- amLODIPine 5 mg PO DAILY This medication was held. Do not restart amLODIPine until you are evaluated by your doctor. 18. HELD- Lisinopril 20 mg PO DAILY This medication was held. Do not restart Lisinopril until ___ resolves.
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: PRIMARY DIAGNOSES: ESBL E. coli urinary tract infection ESBL E. coli bacteremia Toxic metabolic encephalopathy Dementia Acute Kidney Injury Anemia
+
+SECONDARY DIAGNOSES: Diabetes Mellitus Peripheral Vascular Disease Depression
+
+ Discharge Condition: Mental Status: Confused - always. Level of Consciousness: Alert and interactive. Activity Status: Out of Bed with assistance to chair or wheelchair.
+
+ Discharge Instructions: Dear Ms. ___, 
+
+It was a pleasure taking care of you at ___. 
+
+WHY DID YOU COME TO THE HOSPITAL? - You came to the hospital with a urinary tract infection.
+
+WHAT HAPPENED WHILE YOU WERE HERE? - You were found to have bacteria in your urine and blood. You were started on antibiotics to kill the bacteria. - You were found to be short of breath and required a breathing tube. This was removed once it was no longer necessary. - Your kidney function was decreased due to the infection. It was monitored and improved during your hospitalization. - Your memory was initially worsened due to the infection. It improved with the antibiotics. 
+
+WHAT SHOULD YOU DO WHEN YOU LEAVE THE HOSPITAL? - Please continue to take all of your medications as directed, and follow up with all of your doctors. 
+
+Again, it was a pleasure taking care of you!
+
+Sincerely, Your ___ Care Team  Followup Instructions: ___ 

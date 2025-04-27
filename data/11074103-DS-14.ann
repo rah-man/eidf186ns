@@ -1,0 +1,13 @@
+T1	Delirium 1649 1654	A+Ox3
+A1	Negation T1
+T2	Independently_mobile 3033 3055	ambulate independently
+T3	Has_carers 5523 5540	Home With Service
+T4	Delirium 5650 5683	Mental Status: Clear and coherent
+A2	Negation T4
+T5	Independently_mobile 5749 5773	Ambulatory - Independent
+T6	Weight_loss 7515 7519;7525 7531	lose weight
+A3	Diagnosis T6 Implicit_mention
+T7	Constipation 7743 7755	constipation
+A4	Diagnosis T7 Implicit_mention
+T8	Visual_impairment 8392 8406	loss of vision
+A5	Diagnosis T8 Implicit_mention

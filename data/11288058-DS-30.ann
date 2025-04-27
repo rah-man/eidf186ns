@@ -1,0 +1,25 @@
+T1	Falls 2788 2793	falls
+A1	Diagnosis T1 History_of
+T2	Hip_fracture 2799 2811	hip fracture
+A2	Diagnosis T2 History_of
+T3	Lower_respiratory_tract_infection 2948 2953	PNA  
+A3	Diagnosis T3 History_of
+T4	Seizures 3123 3130	seizure
+A4	Diagnosis T4 Implicit_mention
+T5	Intracranial_haemorrhage 3195 3218	intracranial hemorrhage
+A5	Diagnosis T5 Implicit_mention
+T6	Delirium 3322 3330	oriented
+A6	Negation T6
+T7	Delirium 4077 4085	oriented
+A7	Negation T7
+T8	Delirium 4654 4657	A/O
+A8	Negation T8
+T9	Lower_respiratory_tract_infection 8947 8956	pneumonia
+A9	Negation T9
+T10	Constipation 14372 14384	constipation
+A10	Diagnosis T10 Implicit_mention
+T11	Constipation 14465 14477	constipation
+A11	Diagnosis T11 Implicit_mention
+T12	Delirium 14939 14972	Mental Status: Clear and coherent
+A12	Negation T12
+T13	Independently_mobile 15038 15062	Ambulatory - Independent

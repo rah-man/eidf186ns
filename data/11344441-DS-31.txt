@@ -1,0 +1,43 @@
+ Name: ___           Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Ciprofloxacin / furosemide  Attending: ___.  Chief Complaint: Dark stool  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: This is a ___ h/o cholangitis secondary to choledocholithiasis s/p CCY (___), s/p ERCP 1 week ago for abdominal pain presents dark stools, abdominal pain and decreased in appetite x 2 days. Aide says she has had ___ black bowel movements per day, soft in consistency but still solid. Pt has no other symptoms except mild intermittent LUQ discomfort that she says is like her stomach flipping over. She denies nausea or vomting. Doesn't note much of a change in energy. Not lightheaded or dizzy. Denies previous episodes of dark stool. She does have a history of colon cancer treated with colocetomy in ___ but did not have dark stool at that time. 
+
+Of note, she was admitted last week with leukocytosis and transaminitis, CT abdomen/pelvis revealed a gallstone in the CBD, started on ceftriaxone and flagyl, ERCP on ___ with results negative for stone or sludge, AP/transaminitis resolved. It was thought at that time that she passed a stone.
+
+ROS: Denies fever or chills, denies chest pain or shortness of breath. Denies changes in vision. Able to walk with walker and assistance and this has not changed. Does complain of b/l shoulder pain. Denies leg pain. Weight has been stable (82lbs-->80lbs).  Past Medical History: CAD s/p STEMI in ___ (s/p cath with no intervention due to calcified vessels, dc'd on ASA/Plavix for 6 month course)  CHF - systolic, last ECHO in ___ showed EF 55% with moderate to severe MR noted since ECHO in ___ HTN  HLD  CKD - baseline Cr 1.8 GERD  Subdural hematoma - ___ s/p fall in her nursing home chronic renal insufficiency baseline Cr 1.8  cholangitis secondary to choledocholithiasis  colon cancer  anemia  glaucoma  osteoporosis 
+
+PSH:  Colectomy ___ Lap CCY ___  R hip fracture s/p repair   Social History: ___ Family History: mother with liver disease  Physical Exam: Elderly female, laying in bed in NAD Vitals: T 97.7 BP: 151/60 HR: 81 R: 18 O2 99% RA HEENT: MMM, pale conjunctiva, no icterus LUNGS: Clear B/L on auscultation. decreased air entry at bases. ___: RRR S1 S2 present. IV/VI systolic murmur heard throughout the precordium ABD: soft, NT, ND, + bowel sounds EXT: no edema. + kyphosis Neuro: AAO x3, pleasant, HOH  Pertinent Results: Admission Labs: ___ 03:30AM BLOOD WBC-9.4 RBC-2.65* Hgb-6.8* Hct-22.1* MCV-83 MCH-25.6* MCHC-30.8* RDW-16.4* Plt ___ ___ 03:30AM BLOOD Neuts-70 Bands-1 ___ Monos-1* Eos-7* Baso-0 Atyps-1* Metas-2* Myelos-0 ___ 03:30AM BLOOD Hypochr-2+ Anisocy-1+ Poiklo-NORMAL Macrocy-NORMAL Microcy-1+ Polychr-NORMAL ___ 03:30AM BLOOD ___ PTT-33.2 ___ ___ 07:30PM BLOOD ALT-18 AST-49* AlkPhos-231* TotBili-0.3 ___ 03:30AM BLOOD Calcium-8.2* Phos-4.1 Mg-1.9 ___ 07:30PM BLOOD Albumin-3.3*
+
+Discharge Labs: ___ 06:50AM BLOOD WBC-9.1 RBC-3.34*# Hgb-8.8*# Hct-27.2* MCV-82 MCH-26.5* MCHC-32.5 RDW-16.7* Plt ___ ___ 06:50AM BLOOD Glucose-97 UreaN-27* Creat-1.3* Na-135 K-4.0 Cl-108 HCO3-19* AnGap-12
+
+Hct Trend: ___ 06:50  27.2* ___ 00:08  26.3* ___ 15:20  29.1* ___ 08:00  24.4* ___ 03:30  22.1* 
+
+ECG - Sinus rhythm. Leftward axis. Non-diagnostic Q waves in leads V3-V6. Possible lateral myocardial infarction. Since the previous tracing of ___ the rate is now slower. Limb lead voltage is more prominent. T waves are more peaked. Clinical correlation is suggested. 
+
+RUQ U/S FINDINGS: Visualization of the liver is limited. There is diffuse pneumobilia with no evidence of intra or extrahepatic biliary dilatation. No focal liver lesion is identified. The gallbladder is surgically absent. The visualized portions of the pancreatic head are homogeneous. The body and tail are obscured by overlying bowel gas. The right kidney measures 10.4 cm and contains a 2.8 cm simple cyst in the interpolar region.  A right pleural effusion is noted, small. The SMV and main portal vein are patent. IMPRESSION: Pneumobilia post ERCP. No definite signs of biliary ductal dilation.  Brief Hospital Course: This is a ___ y/o female who presents with black stool after recent admission for choledocholitisis and ERCP.
+
+# GI bleed: Source unclear at this time. Of note, she did have ERCP last week but no sphincerotomy. She was also GUAIAC positive on previous admission. She also has h/o colon CA s/p resection. Patient received one unit of pRBCs with appropriate bump in Hct. GI evaluated the patient. After discussion between GI, patient, and family. It was decided to take a conservative approach at this time. She had no further episodes of bleeding, and her hematocrit remained stable. She was discharged home with close PCP ___. She was started on a PPI, which was continued at discharge.
+
+# History of chlangitis/choledocolitiasis: RUQ u/s in ED did not reveal stones or ductal dilitation. LFT's were stable/downtrending during admisison.
+
+# Coronary artery diease: No acute issues. Aspirin and beta blocker were initially held but were restarted at discharge.
+
+# Systolic Congestive Heart Failure, compensated: No e/o fluid overload on exam.
+
+# Chronic Renal Insufficency: Creatinine at baseline.  Medications on Admission: The Preadmission Medication list may be inaccurate and requires futher investigation. 1. Acetaminophen 650 mg PO Q8H 2. Aspirin 81 mg PO DAILY 3. Docusate Sodium 100 mg PO BID 4. Famotidine 20 mg PO DAILY 5. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES HS 6. Losartan Potassium 25 mg PO DAILY please hold for SBP < 90 7. Senna 1 TAB PO BID:PRN constipatin 8. Metoprolol Succinate XL 50 mg PO DAILY 9. Levobunolol 0.5% 1 DROP BOTH EYES BID 10. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES BID 11. Betamethasone Dipro 0.05% Oint 1 Appl TP QID 12. Atorvastatin 20 mg PO DAILY 
+
+ Discharge Medications: 1. Acetaminophen 650 mg PO Q8H as needed for pain 2. Betamethasone Dipro 0.05% Oint 1 Appl TP QID 3. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES BID 4. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES HS 5. Levobunolol 0.5% 1 DROP BOTH EYES BID 6. Pantoprazole 40 mg PO Q24H RX *pantoprazole 40 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 7. Aspirin 81 mg PO DAILY 8. Atorvastatin 20 mg PO DAILY 9. Docusate Sodium 100 mg PO BID 10. Famotidine 20 mg PO DAILY 11. Losartan Potassium 25 mg PO DAILY please hold for SBP < 90 12. Metoprolol Succinate XL 50 mg PO DAILY 13. Senna 1 TAB PO BID:PRN constipatin 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Primary - GI bleeding
+
+Secondary - CAD s/p STEMI - systolic CHF - HTN  - h/o colon cancer
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: You presented to the hospital with anemia and blood in your stools. We gave you a unit of blood and your blood counts improved. Since then, your blood counts have remained stable. You were seen by our GI service as well. After discussion with the GI service, you, and your family, we have decided to monitor you for now.
+
+Please refer to the medication list for any changes to your medications.
+
+Weigh yourself every morning, call MD if weight goes up more than 3 lbs.
+
+It was a pleasure taking part in your medical care.  Followup Instructions: ___ 

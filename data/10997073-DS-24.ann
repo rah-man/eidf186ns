@@ -1,0 +1,4 @@
+T1	Mobile_with_aid 8352 8356	cane
+A1	Type_of_aid T1 One_Stick
+T2	Delirium 8278 8314	Mental status: alert and appropriate
+A2	Negation T2

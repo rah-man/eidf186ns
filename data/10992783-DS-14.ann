@@ -1,0 +1,41 @@
+T1	Constipation 1222 1233	constipated
+A1	Diagnosis T1 History_of
+T2	Delirium 2818 2822	AOx3
+A2	Negation T2
+T3	Delirium 3342 3346	AOx3
+A3	Negation T3
+T4	Intracranial_haemorrhage 5006 5018;5030 5040	intracranial hemorrhage
+A4	Negation T4
+T5	Intracranial_haemorrhage 5084 5107	intracranial hemorrhage
+A5	Negation T5
+T6	Lower_respiratory_tract_infection 6925 6934	pneumonia
+T7	Lower_respiratory_tract_infection 8498 8507	pneumonia
+T8	Lower_respiratory_tract_infection 8603 8606	PNA
+T9	Lower_respiratory_tract_infection 8838 8841	PNA
+T10	Lower_respiratory_tract_infection 9295 9304	pneumonia
+T11	Seizures 10402 10409	seizure
+A6	Negation T11
+T12	Seizures 10528 10531	and
+A7	Negation T12
+T13	Lower_respiratory_tract_infection 12301 12310	pneumonia
+A8	In-hospital_event T13
+A9	In-hospital_event T10
+A10	In-hospital_event T9
+A11	In-hospital_event T8
+A12	In-hospital_event T7
+A13	In-hospital_event T6
+T14	Constipation 12814 12826	constipation
+A14	Diagnosis T14 Implicit_mention
+T15	Constipation 12854 12866	constipation
+A15	Diagnosis T15 Implicit_mention
+T16	Constipation 13442 13456	constipation  
+A16	Diagnosis T16 Implicit_mention
+T17	Constipation 13483 13495	constipation
+A17	Diagnosis T17 Implicit_mention
+T18	Lower_respiratory_tract_infection 13578 13587	pneumonia
+A18	In-hospital_event T18
+T19	Delirium 13705 13738	Mental Status: Clear and coherent
+A19	Negation T19
+T20	Independently_mobile 13804 13828	Ambulatory - Independent
+T21	Lower_respiratory_tract_infection 14131 14140	pneumonia
+A20	In-hospital_event T21

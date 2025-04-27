@@ -1,0 +1,19 @@
+T1	Delirium 2406 2411	A&Ox3
+A1	Negation T1
+T2	Intracranial_haemorrhage 3581 3604	intracranial hemorrhage
+A2	Negation T2
+T3	Lower_respiratory_tract_infection 4167 4176	pneumonia
+A3	Negation T3
+T4	Lower_respiratory_tract_infection 6909 6912	PNA
+A4	Diagnosis T4 Suspected
+T5	Lower_respiratory_tract_infection 5972 5981	pneumonic
+A5	Diagnosis T5 Suspected
+T6	Lower_respiratory_tract_infection 7475 7478	PNA
+T7	Lower_respiratory_tract_infection 8397 8400	PNA
+A6	Diagnosis T7 Suspected
+T8	Lower_respiratory_tract_infection 10391 10402	pneumonia  
+A7	Diagnosis T8 Suspected
+A8	Diagnosis T6 Suspected
+T9	Delirium 10423 10456	Mental Status: Clear and coherent
+A9	Negation T9
+T10	Independently_mobile 10522 10546	Ambulatory - Independent

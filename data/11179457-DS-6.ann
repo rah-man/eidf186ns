@@ -1,0 +1,7 @@
+T1	Delirium 3111 3114	A/O
+A1	Negation T1
+T2	Constipation 7788 7800	Constipation
+A2	Diagnosis T2 Implicit_mention
+T3	Has_carers 8288 8305	Home With Service
+T4	Delirium 8480 8488	oriented
+A3	Negation T4

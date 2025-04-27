@@ -1,0 +1,9 @@
+T1	Delirium 957 962	AAOx3
+A1	Negation T1
+T2	Urinary_tract_infection 2749 2752	UTI
+A2	Negation T2
+T3	Lower_respiratory_tract_infection 2996 3005	Pneumonia
+A3	Negation T3
+T4	Delirium 3659 3692	Mental Status: Clear and coherent
+A4	Negation T4
+T5	Independently_mobile 3758 3782	Ambulatory - Independent

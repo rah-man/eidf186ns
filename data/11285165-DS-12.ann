@@ -1,0 +1,21 @@
+T1	Delirium 222 243	altered mental status
+T2	Delirium 625 648	change in mental status
+T3	Lower_respiratory_tract_infection 1005 1014	pneumonia
+T4	Delirium 1590 1598	oriented
+A1	Negation T4
+T5	Delirium 1620 1628	confused
+T6	Delirium 2391 2397	orient
+A2	Negation T6
+T7	Delirium 2884 2889	AAOx3
+A3	Negation T7
+T8	Lower_gastrointestinal_haemorrhage 12460 12466;12493 12501	stools bleeding
+A4	Negation T8
+T9	Delirium 13174 13182	Delirium
+T10	Delirium 13484 13497;13510 13518	Mental status baseline
+A5	Negation T10
+T11	Constipation 17374 17386	constipation
+A6	Diagnosis T11 Implicit_mention
+T12	Lower_gastrointestinal_haemorrhage 20313 20319;20328 20334	bloody stools
+A7	Diagnosis T12 Implicit_mention
+T13	Upper_gastrointestinal_haemorrhage 20323 20334	dark stools
+A8	Diagnosis T13 Implicit_mention

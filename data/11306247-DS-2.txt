@@ -1,0 +1,81 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: ___  Attending: ___.  Chief Complaint: Abdominal distension, weight loss  Major Surgical or Invasive Procedure: Omental Biopsy Parcentesis x2 
+
+ History of Present Illness: Ms. ___ is a ___ year old female with a PMHx of hypertension who presents with urinary retention.
+
+The patient has multiple complaints and it is difficult to get a complete picture of what has been going on the last few days. She apparently went 2 days without being able to urinate. She also had severe worsening of her chronic back period over that time.
+
+Additionally, she reports trouble breathing for a couple of days, abdominal pain for several days (down the middle of her abdomen, not worse with food), abdominal swelling for a couple of months, weakness in her arms and legs, fever, a 55 lb weight loss in the past 1 month (though normal appetite), and says that she has fibroids in her uterus, a tumor in her pancreas, and her "bladder fell out." She also complains of her colon being blocked.
+
+She was taken to ___ before being transferred to ___. She had a CT abdomen/pelvis which showed a septated pelvic mass which had increased in size, new extensive ascites, new vaginal prolapse, new bilateral hydronephrosis, a poorly defined mass in the pancreatic body and tail, and a hypodensity in the liver. A Foley catheter was placed. Blood and urine cultures were sent. Her WBC was 22.4 (previously ___ per OSH records). Her Cr was 1.2 (baseline 0.8-1). She was given vancomycin and Zosyn prior to transfer.
+
+In the ___ ED, her initial vitals were T 98.8 (Tmax 102.4), HR 115, BP 104/95, RR 24, O2 97% on 3L. Her labs were notable for a WBC 31.2, INR 1.8, Cr 1.3, lactate 1.8, Lipase 258, Alb 2.8, UA with > 182 RBCs, 114 WBCs, 1 Epi, +Nitrites. Given urinary retention and back pain, a code cord was called. An MRI did not show evidence of cord or cauda equina compression. A CXR was unremarkable. The patient was given 1L NS and Zosyn. OB/GYN was consulted and recommended admission to medicine for sepsis. 
+
+ROS: Pertinent positives and negatives as noted in the HPI. Otherwise a 10-point ROS was reviewed and is negative.
+
+DATA: I have reviewed the relevant labs, radiology studies, tracings, and medical records. Notable findings are given below in the assessment and plan or in the HPI.
+
+SUMMARY/ASSESSMENT:
+
+Ms. ___ is a ___ female with a past medical history of hypertension and a large pelvic mass who presents with acute urinary retention and sepsis likely from a urinary tract infection.
+
+ Past Medical History: -Hypertension -Type 2 Diabetes (no longer requiring medication) -HLD -Schizoaffective disorder -Vertigo -Constipation -HCV -IBS -Pancreatic mass -Adjustment disorder with anxiety -Breast abscess
+
+ Social History: ___ Family History: Mother with TB, father with still alive  Physical Exam: ADMISSION EXAM: VITALS: ___ 0305 Temp: 97.5 PO BP: 101/62 HR: 64 RR: 20 O2 sat: 93% O2 delivery: 2L GENERAL: Alert and in no apparent distress; cachectic EYES: Anicteric, no conjunctival injection, pupils equally round ENT: Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesions, erythema or exudate. CV: Heart regular, no murmur, no S3, no S4. RESP: Lungs clear to auscultation with good air movement bilaterally. Breathing is non-labored GI: Abdomen soft, mild tenderness down the middle of the abdomen, distended. No rebound or guarding. GU: Foley in place. MSK: Moves all extremities, thin, warm and well perfused, no edema. SKIN: No rashes or ulcerations noted. NEURO: Alert, oriented, face symmetric, gaze conjugate with EOM, speech fluent, moves all limbs PSYCH: pleasant, appropriate mood and affect  Pertinent Results: Admission Labs ___ 05:50PM BLOOD WBC-31.2* RBC-4.52 Hgb-12.8 Hct-38.3 MCV-85 MCH-28.3 MCHC-33.4 RDW-16.2* RDWSD-50.0* Plt ___ ___ 05:50PM BLOOD ___ PTT-28.2 ___ ___ 05:50PM BLOOD Glucose-132* UreaN-31* Creat-1.3* Na-136 K-4.0 Cl-103 HCO3-16* AnGap-17 ___ 05:50PM BLOOD Albumin-2.8* Calcium-8.7 Phos-3.6 Mg-1.9 ___ 06:23AM BLOOD %HbA1c-6.1* eAG-128* ___ 05:17AM BLOOD CEA-19.4* CA125-48*
+
+  URINE CULTURE (Final ___:    ESCHERICHIA COLI.  >100,000 CFU/mL. PRESUMPTIVE IDENTIFICATION.      Cefazolin interpretative criteria are based on a dosage regimen of     2g every 8h.    YEAST.  10,000-100,000 CFU/mL. 
+
+               SENSITIVITIES: MIC expressed in MCG/ML            _________________________________________________________               ESCHERICHIA COLI               |  AMPICILLIN------------   4 S AMPICILLIN/SULBACTAM--   4 S CEFAZOLIN-------------  <=4 S CEFEPIME--------------  <=1 S CEFTAZIDIME-----------  <=1 S CEFTRIAXONE-----------  <=1 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------  <=1 S MEROPENEM-------------<=0.25 S NITROFURANTOIN-------- <=16 S PIPERACILLIN/TAZO-----  <=4 S TOBRAMYCIN------------  <=1 S TRIMETHOPRIM/SULFA----  <=1 S
+
+Blood Culture, Routine (Final ___:    ESCHERICHIA COLI.  FINAL SENSITIVITIES.      Cefazolin interpretative criteria are based on a dosage regimen of     2g every 8h.    ESCHERICHIA COLI.  ___ MORPHOLOGY. FINAL SENSITIVITIES. 
+
+     Cefazolin interpretative criteria are based on a dosage regimen of     2g every 8h. 
+
+               SENSITIVITIES: MIC expressed in MCG/ML            _________________________________________________________               ESCHERICHIA COLI               |     ESCHERICHIA COLI               |     |  AMPICILLIN------------   4 S    8 S AMPICILLIN/SULBACTAM--   4 S   <=2 S CEFAZOLIN-------------  <=4 S   <=4 S CEFEPIME--------------  <=1 S   <=1 S CEFTAZIDIME-----------  <=1 S   <=1 S CEFTRIAXONE-----------  <=1 S   <=1 S CIPROFLOXACIN---------<=0.25 S  <=0.25 S GENTAMICIN------------  <=1 S   <=1 S MEROPENEM-------------<=0.25 S  <=0.25 S PIPERACILLIN/TAZO-----  <=4 S   <=4 S TOBRAMYCIN------------  <=1 S   <=1 S TRIMETHOPRIM/SULFA----  <=1 S   <=1 S
+
+___ Blood culture NGTD
+
+# CXR (___): No definite acute cardiopulmonary process.
+
+# MRI Spine (___): . No evidence for epidural mass, collection, or abscess within limitations of a noncontrast examination. 2. Multilevel degenerative changes within the cervical spine are noted, most prominent at C4-C5 with moderate canal narrowing, moderate severe left and moderate right neural foraminal narrowing. 3. Multilevel degenerative changes within the lumbar spine are also noted, detailed above and without moderate/severe canal narrowing. 4. Subcentimeter T2 hypointense right renal cortical lesion, which may reflect a hemorrhagic cyst but is incompletely characterized. Initial evaluation by ultrasound could be considered if clinically indicated. 5. Large volume ascites and a small to moderate right pleural effusion with adjacent atelectasis. . # Abd/pelvic CTA (___): 1. Locally invasive pancreatic mass in the body and tail of the pancreas encasing multiple vessels (splenic artery, SMA, celiac trunk, proximal common hepatic artery, SMV at the porta hepatis confluence) and invades the retroperitoneum involving the left adrenal gland. Omental caking and peritoneal carcinomatosis with malignant ascites. 2. Large multi-septated pelvic mass could represent pseudomyxoma, ovarian primary or metastatic malignancy or primary peritoneal malignancy. 3. Stable prominence of the renal excretory system bilaterally. 4. Interval development of compressive subsegmental atelectasis at both bases of the lungs, likely secondary to ascites. 
+
+# Peritoneal fluid (___): cytology negative
+
+# Therapeutic paracentesis (___): 1. Technically successful ultrasound guided diagnostic and therapeutic paracentesis. 2. 5 L of fluid were removed. Cytology negative for malignancy . # U/S guided omental biopsy (___): Technically successful ultrasound-guided core needle biopsy of an omental plaque in the right mid abdomen. PATH: no malignant cell, adipose tissue  # EUS (___): Attempted but food in stomach # EUS bx (___): (Prelim) pancreatic mass supplanting pancreatic body/tail. Encasement of multiple vessels with thrombus vs. tumor extension into portal vein. Mult bxs obtained. 
+
+# Therapeutic paracentesis (___): 3.5 L. 
+
+ Brief Hospital Course: This is a ___ year old female admitted ___ with sepsis secondary to Ecoli bacteremia, found to have urinary retention, imaging also notable for new pancreatic mass, several pelvic masses, concerning new diagnosis of malignancy versus malignancies, now undergoing workup 
+
+# Ecoli Sepsis secondary # Ecoli Acute blood stream infection # Ecoli UTI Admitted with positive blood cultures showing Ecoli, pan-sensitive. He was treated with IV ceftriaxone, and then when clinically stable transitioned to PO cipro to complete a 14 day course for bacteremia course (last day ___. 
+
+# Cancer of unknown origin # Malignancy of pancreas # Malignant Ascites Presenting for a second opinion after both ___ and ___ told her she had likely cancer. On admission oncology was consulted and recommended a CTA pancreas protocol. This showed a locally invasive pancreatic tail mass that was invading many blood vessels. She was also found to have multiple areas of likely metastatic disease. Given multiple masses in abdomen, it was unclear if there was a single malignancy vs a second malignancy, prompting recommendation for additional workup with pathology/cytology. Given negative peritoneal fluid cytology x 2, she two underwent an omental biopsy ___ which was non-diagnostic. Ultimately, given the large pancreatic mass in the body/tail, the decision was to proceed with an EUS with biopsy on ___. She underwent the procedure without complication, but the final path, again, was non-diagnostic.  The pancreatic mass is largely necrotic and thus getting a solid sample can be technically difficult.   After much discussion, it was decided to repeat the EUS/bx as an outpt. She was informed that the risk of pancreatic cancer is really high, given the appearance of the pancreatic mass, the invasion of adjacent vessels, elevated ___ and exudative peritoneal fluid collection. It is unclear how much she absorbed this information and focused on the getting a hysterectomy for the large pelvic mass. However, she understood that no surgical procedure or chemotherapy is possible without a tissue diagnosis. She will return for this procedure as an outpt.  At the present, pancreatic CA remains highest on the differential, although it is unclear if diagnosis of single malignancy (e.g. pancreatic) vs 2 new malignancies (e.g. pancreatic + another cell origin involving the Ovaries).  
+
+# Bladder Neck Obstruction On admission patient was found to have bilateral hydronephrosis.  This was suspected to relate to pelvic mass obstructing the bladder neck. Patient had a foley placed with improvement in hydronephrosis. 
+
+# Cancer-related pain Patient had abdominal pain related to multiple masses and ascites. Patient was seen by palliative care and started on oxycodone with improvement in symptoms. 
+
+# Social issues Complex situation previously outlined by Dr. ___. During the hospital stay, it was not clear whether she understood the gravity of her situation. She expressed desire to go home after the hospitalization, and initially she was deemed unsafe for discharge. However, she was able to ambulate via walker and she was ultimately cleared by ___.  She appeared at the time of discharge, to absorb her situation, the high suspicion for cancer - and to have capacity to make medical decision. She does have a component of denial and avoiding difficult conversations - which makes conversations difficult, but was not considered justification for declaring lack of capacity. 
+
+She was discharged home with ___. She has existing home services. 
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Zolpidem Tartrate 10 mg PO QHS 2. Diltiazem Extended-Release 240 mg PO DAILY 3. TraMADol 50 mg PO Q8H:PRN Pain - Moderate 4. Lisinopril 40 mg PO DAILY 5. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First Line 6. Baclofen 10 mg PO DAILY 
+
+ Discharge Medications: 1. Lidocaine 5% Patch 1 PTCH TD QAM RX *lidocaine [Lidoderm] 5 % apply to back QAM Disp #*30 Patch Refills:*0 2. OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Moderate RX *oxycodone 5 mg 1 tablet(s) by mouth every eight (8) hours Disp #*20 Tablet Refills:*0 3. Baclofen 10 mg PO DAILY  4. Diltiazem Extended-Release 240 mg PO DAILY  5. Lisinopril 40 mg PO DAILY  6. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First Line  7. TraMADol 50 mg PO Q8H:PRN Pain - Moderate  8. Zolpidem Tartrate 10 mg PO QHS 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Urosepsis Likely pancreatic CA Pelvic Mass  Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).  Discharge Instructions: It was a pleasure caring for you at ___. 
+
+You were admitted to the hospital for worsening abdominal pain and swelling. You were found to have "sepsis", significant bacterial infection arising from the urinary system. You were treated with antibiotics with significant improvement. 
+
+You requested a second opinion of multiple masses in your abdomen. CAT scan showed signs of cancer in your pelvis and pancreas 
+
+You were seen by cancer specialists, gynecologists, radiologists. You under went multiple diagnostic tests, including peritoneal fluid removal x 3, ultrasound guided biopsy of an abdominal (omental) mass, and endoscopic ultrasound with biopsy. These tests did not yield a good sample to identify an existing cancer. The mass in the pancreas has a lot of necrotic content (non-viable cells) and thus can account for why the biopsy did not reveal an adequate sample. 
+
+However, given its location, we believe that the next best step would be to do a repeat endoscopic ultrasound procedure next week. You will be notified by the ___ team regarding the exact timing for this. 
+
+ As discussed, the suspicion for cancer is high given the appearance of the mass on ultrasound and CT scan, elevated cancer markers, and the evidence of invasion of surrounding vessels (in the pancreas). Finding the exact cancer type (assuming this is indeed the case) would be crucial to determine what is and what is not feasible. (For example, surgery, chemotreatments, etc..).
+
+  We wish you quick recovery and good health.
+
+Your ___ Team. 
+
+ Followup Instructions: ___ 

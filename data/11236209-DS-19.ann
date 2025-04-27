@@ -1,0 +1,7 @@
+T1	Falls 1624 1628	fall
+T2	Falls 521 525	fall
+T3	Has_carers 4854 4871	Home With Service
+T4	Delirium 4978 5011	Mental Status: Clear and coherent
+A1	Negation T4
+T5	Mobile_with_assistance 5077 5087;5099 5109	Ambulatory assistance
+T6	Mobile_with_aid 5077 5087;5113 5116	Ambulatory aid

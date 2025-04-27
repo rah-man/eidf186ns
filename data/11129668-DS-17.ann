@@ -1,0 +1,9 @@
+T1	Urinary_tract_infection 520 523	UTI
+T2	Delirium 2982 2986	AOx3
+A1	Negation T2
+T3	Constipation 12089 12101	Constipation
+A2	Diagnosis T3 Implicit_mention
+T4	Delirium 12991 13024	Mental Status: Clear and coherent
+A3	Negation T4
+T5	Mobile_with_assistance 13090 13100;13112 13122	Ambulatory assistance
+T6	Mobile_with_aid 13090 13100;13126 13129	Ambulatory aid

@@ -1,0 +1,43 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: weakness, decreased oral intake  Major Surgical or Invasive Procedure: None  History of Present Illness: ___ year old woman with diet-controlled Diabetes Mellitus, hypertension, recently diagnosed with UTI and now here feeling weak. 
+
+History obtained from patient and son in conjunction: The patient reports that about 1 week prior to admission, she began to have weakness, generalized with fatigue. She went to her PCP, found to have low K and started KCl 10meq supplements.  She continued to feel weak and also reported muscle aches, mild, in the B upper arms. She also began to have ___ edema, left more than right which is chronic for her. She had a UA checked and was +for UTI. Started on 3 day cipro course. Over the past few days she had decrease in appetite, decrease in energy. No urinary sx, no fever, no URI symptoms. Mild nausea. No leg pain, no SOB. She hasn't been cooking at all (which she usually does) and not walking around her home. On the day of admission, she noted worsening weakness with inability to get off the toliet. Son called pcp office and pt recommending for the patient to present to the ED. Pt and son were reassured that ED did not find a new condition to explain her weakness, but she was noted to be tired and easily fatigue when working with ___ and was admitted for further evaluation and to help develop a plan.
+
+10 systems reviewed and are neg except where noted in the HPI above. She denies dysuria either initially or currently. She notes limited oral intake in the week prior to admission.  Past Medical History: DM type 2 - borderline, reportedly diet control Hyperlipidemia Hypertension Hematuria-in the past Hypothyroidism Osteoporosis Hyponatremia--secondary to hctz, dose adjusted by PCP since ___ to poor po intake and stanidng for a long period of time Hx of benign breast mass Hx of aortic stenosis Hx of left leg more than right edema, many years
+
+ Social History: ___ Family History: No significant cardiac disease.  Physical Exam: Admission examination: Vitals: Cons: NAD, lying in bed, appears a little younger than stated age Eyes: PERRL, EOMI, no sclera icterus ENT: MMM Neck: nl ROM, no goiter Lymph: no cervical LAD Cardiovasc: rrr, iii/vi sem Resp: CTA B GI: +bs, soft,nt, nd MSK: mild kyphosis  OA changes of B hands Skin: no rashes chronic right more than left venostasis change,s but left with mild edema Neuro: no facial droop, hand grip equal, arm felx/ext equal, pt requires coaching to comply with tests Psych: normal range of affect, very pleasant
+
+Pertinent findings on discharge: 
+
+ Pertinent Results: ___ 11:05AM  PLT COUNT-309 ___ 11:05AM  NEUTS-77.9* LYMPHS-14.3* MONOS-6.7 EOS-0.6 BASOS-0.5 ___ 11:05AM  CALCIUM-9.4 PHOSPHATE-3.4 MAGNESIUM-1.8 ___ 11:05AM  WBC-7.1 RBC-3.75* HGB-11.5* HCT-34.5* MCV-92 MCH-30.7 MCHC-33.3 RDW-12.8 ___ 11:05AM  CK-MB-2 proBNP-611 ___ 11:05AM  cTropnT-0.02* ___ 11:05AM  GLUCOSE-138* UREA N-16 CREAT-0.7 SODIUM-134 POTASSIUM-3.9 CHLORIDE-92* TOTAL CO2-27 ANION GAP-19 ___ 11:30AM URINE MUCOUS-RARE ___ 11:30AM URINE RBC-1 WBC-2 BACTERIA-NONE YEAST-NONE EPI-<1 ___ 11:30AM URINE COLOR-Yellow APPEAR-Clear SP ___ ___ 11:30AM URINE COLOR-Yellow APPEAR-Clear SP ___ssessment: The patient is an ___ year old woman with known diet-controlled diabetes, hypertension, and a recent UTI. She is admitted for weakness and decreased appetite in the setting of the antibiotics and is now feeling better. The patient's son was at the bedside throughout her admission, and was updated frequently on her medical course.
+
+Active issues: # Deconditioning and weakness: No focal reversible etiology identified. She has responded to oral fluids and supplements and ___ evaluations suggest rehab for deconditioning and ongoing therapy. Her labs do not suggest an etiology of her weakness. Supplements were started for recent decreased oral intake.
+
+# Recent UTI: She completed her treatment, with 3 days ciprofloxacin. No evidence symptomatically of a new infection. Notes decreased appetite began in this context and is slowly improving.
+
+# Hypertension: Son reports labile BPs are typical for the patient, although she is slightly above her typical levels in the 130s-170s SBP. She did not have evidence of volume overload, and was on her home BP regimen during her admission. Given the patient's lack of symptoms of either volume overload or hypertension, we suggested seeing how her blood pressure adjusts itself as she heals. If her BP remains sustained above 180s, she would benefit from further treatment, potentially with an additional diuretic or anti-hypertensive.
+
+Chronic issues: # ___ edema, chronic improved some during admission. No DVT on US in ED. Son notes that HCTZ has a role in treating her ___ edema.
+
+# Hypokalemia and hyponatremia recently, not now. Sodium stable on HCTZ current regimen. Would consider alternative agent if sodium remains an issue, given prior hyponatremia reported.
+
+# Hypothyroidism-continue synthoid
+
+# Hyperlipidemia-continue statin and asa
+
+# Diet controlled DM-Did not require directed therapy
+
+Full code Son at bedside, HCP updated.  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Atorvastatin 10 mg PO DAILY 2. Hydrochlorothiazide 12.5 mg PO EVERY OTHER DAY next due ___. Levothyroxine Sodium 50 mcg PO DAILY 4. Potassium Chloride 10 mEq PO DAILY 5. Aspirin 81 mg PO ___ AND ___ 6. Os-Cal 500 + D *NF* (calcium carbonate-vitamin D3) 500 mg(1,250mg) -200 unit Oral daily 7. Quinapril 40 mg PO DAILY 
+
+ Discharge Medications: 1. Aspirin 81 mg PO ___ AND ___ 2. Atorvastatin 10 mg PO DAILY 3. Hydrochlorothiazide 12.5 mg PO EVERY OTHER DAY 4. Levothyroxine Sodium 50 mcg PO DAILY 5. Quinapril 40 mg PO DAILY 6. Potassium Chloride 10 mEq PO DAILY Hold for K > 7. Os-Cal 500 + D *NF* (calcium carbonate-vitamin D3) 500 mg(1,250mg) -200 unit Oral daily 8. Heparin 5000 UNIT SC TID 9. Acetaminophen 500 mg PO Q8H:PRN pain 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Deconditioning Recent urinary tract infection Hypertension Prior hyponatremia in setting of HCTZ
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: It was a pleasure to care for you during your admission. As you know, you were admitted due to feeling poorly in the setting of recent treatment for urinary tract infection. You were not found to have a new infection. 
+
+We did find that you were feeling weak, and the physical and occupational therapists felt that you would benefit from going to rehabilitation for help getting stronger.
+
+We noted that you were having blood pressures from 130-170s at times, but felt well during this. Given your dizziness and improving weakness and eating, we did not want to start any new medications during this admission. If your blood pressure remains elevated, as we discussed, you should speak with your doctor to see if another blood pressure medicine should be added.
+
+We checked your sodium while you were here, and your level was normal while on your home regimen of HCTZ.  Followup Instructions: ___ 

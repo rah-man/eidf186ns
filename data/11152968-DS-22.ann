@@ -1,0 +1,25 @@
+T1	Urinary_tract_infection 436 440	UTIs
+A1	Diagnosis T1 History_of
+T2	Has_carers 712 722	care giver
+T3	Lower_gastrointestinal_haemorrhage 933 938	BRBPR
+A2	Negation T3
+T4	Mobile_with_aid 1377 1387	wheelchair
+A3	Type_of_aid T4 Wheelchair
+T5	Bed_Chairbound 1377 1393	wheelchair bound
+T6	Weight_loss 1880 1891	weight loss
+A4	Negation T6
+T7	Urinary_tract_infection 2686 2690	UTIs
+A5	Diagnosis T7 History_of
+T8	Delirium 3940 3948	oriented
+A6	Negation T8
+T9	Urinary_tract_infection 10303 10307	UTIs
+A7	Diagnosis T9 History_of
+T10	Urinary_tract_infection 10700 10710;10732 10739	Bacteremia urinary
+A8	Diagnosis T10 Suspected
+T11	Urinary_tract_infection 12752 12755	UTI
+T12	Urinary_tract_infection 18016 18039	Urinary tract infection
+T13	Unspecified_cognitive_impairment 18264 18272	Confused
+T14	Bed_Chairbound 18363 18373;18377 18382	assistance chair
+T15	Mobile_with_aid 18386 18396	wheelchair
+A9	Type_of_aid T15 Wheelchair
+T16	Urinary_tract_infection 18511 18520;18569 18574	infection urine

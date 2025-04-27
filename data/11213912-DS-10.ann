@@ -1,0 +1,42 @@
+T1	Lower_respiratory_tract_infection 816 820	HCAP
+A1	In-hospital_event T1
+T2	Lower_respiratory_tract_infection 7642 7649;7703 7712	pleural infection
+A2	Diagnosis T2 Suspected
+T3	Lower_respiratory_tract_infection 8997 9006	pneumonia
+A3	In-hospital_event T2
+A4	In-hospital_event T3
+T4	Lower_respiratory_tract_infection 13250 13253	PNA
+A5	Diagnosis T4 Suspected
+T5	Lower_respiratory_tract_infection 13320 13324	HCAP
+A6	In-hospital_event T5
+A7	Diagnosis T5 History_of
+T6	Urinary_tract_infection 13488 13491	UTI
+T7	Lower_respiratory_tract_infection 13527 13530	PNA
+A8	Diagnosis T7 Suspected
+A9	Diagnosis T1 History_of
+A10	Diagnosis T3 Suspected
+T8	Lower_respiratory_tract_infection 13738 13742	HCAP
+A11	In-hospital_event T8
+A12	Diagnosis T8 Suspected
+T9	Urinary_tract_infection 13793 13796	UTI
+A13	Diagnosis T9 Suspected
+T10	Lower_respiratory_tract_infection 13826 13830	HCAP
+A14	In-hospital_event T10
+T11	Lower_respiratory_tract_infection 14748 14752	HCAP
+A15	In-hospital_event T11
+T12	Lower_gastrointestinal_haemorrhage 15002 15005	GIB
+A16	Diagnosis T12 Suspected
+T13	Upper_gastrointestinal_haemorrhage 15002 15005	GIB
+A17	Diagnosis T13 Suspected
+A18	Low_confidence T13
+A19	Low_confidence T12
+T14	Urinary_tract_infection 15268 15271	UTI
+A20	Diagnosis T14 Suspected
+T15	Constipation 16405 16417	constipation
+A21	Diagnosis T15 Implicit_mention
+T16	Lower_respiratory_tract_infection 16758 16767	pneumonia
+A22	In-hospital_event T16
+T17	Unspecified_cognitive_impairment 16942 16950	Confused
+T18	Bed_Chairbound 16981 16989	Bedbound
+T19	Lower_respiratory_tract_infection 17183 17192	pneumonia
+A23	In-hospital_event T19
