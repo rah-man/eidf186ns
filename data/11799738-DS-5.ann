@@ -1,0 +1,73 @@
+T1	Falls 240 244	Fall
+T2	Falls 435 439	fell
+T3	Delirium 651 659	confused
+A2	Low_confidence T2
+T4	Delirium 1520 1528	Oriented
+A1	Negation T4
+T5	Hearing_impairment 1984 1998	Hearing intact
+A3	Negation T5
+T6	Intracranial_haemorrhage 3977 3979;4010 4028	CT Intracranial bleed
+A4	Diagnosis T6 Suspected
+T7	Intracranial_haemorrhage 4163 4186;4225 4227	intracranial hemorrhage CT
+A5	Diagnosis T7 Suspected
+T8	Seizures 18352 18360	seizures
+A6	Diagnosis T8 Implicit_mention
+T9	Delirium 18366 18375	confusion
+A7	Diagnosis T9 Implicit_mention
+T10	Delirium 18379 18402	change in mental status
+A8	Diagnosis T10 Implicit_mention
+T11	Delirium 14080 14109	mental status waxed and waned
+T12	Falls 14185 14192	falling
+A9	Diagnosis T12 Implicit_mention
+T13	Delirium 13562 13570	agitated
+T14	Delirium 13572 13580	confused
+T15	Falls 13115 13122	falling
+A10	Low_confidence T15
+T16	Falls 6656 6660	fall
+T17	Intracranial_haemorrhage 6299 6301;6350 6373	MR intracranial hemorrhage
+A11	Diagnosis T17 Suspected
+T18	Intracranial_haemorrhage 6557 6580	intracranial hemorrhage
+A12	Diagnosis T18 Suspected
+T19	Falls 2898 2903	fall,
+T20	Falls 811 814	fal
+T21	Intracranial_haemorrhage 4606 4616;4624 4648;4663 4677	hemorrhage subependymal/ventricular occipital horn
+T22	Falls 4903 4907	fall
+T23	Intracranial_haemorrhage 5540 5550;5572 5586;5599 5616	hemorrhage posterior horn lateral ventricle
+T24	Falls 6463 6467	fall
+T25	Intracranial_haemorrhage 7936 7955;8070 8080	subependymal region hemorrhage
+T26	Intracranial_haemorrhage 9085 9108	subependymal hemorrhage
+T27	Falls 9367 9371	fall
+T28	Intracranial_haemorrhage 9424 9447;9486 9488	intracranial hemorrhage CT
+A13	Diagnosis T28 Suspected
+T29	Intracranial_haemorrhage 9867 9877;9885 9909	hemorrhage subependymal/ventricular
+T30	Falls 10164 10168	fall
+T31	Seizures 18160 18167	seizure
+A14	Diagnosis T31 Implicit_mention
+T32	Constipation 17986 17998	constipation
+A15	Diagnosis T32 Implicit_mention
+T33	Seizures 15608 15615	seizure
+A16	Diagnosis T33 Implicit_mention
+T34	Intracranial_haemorrhage 13630 13640;13653 13662	hemorrhage ventricle
+T35	Falls 13437 13441	fall
+T36	Falls 11687 11691	fall
+T37	Falls 11836 11840	fall
+T38	Intracranial_haemorrhage 10800 10810;10832 10846;10859 10876	hemorrhage posterior horn lateral ventricle
+T39	Falls 2753 2756	fal
+T40	Falls 3897 3901	fall
+T41	Falls 4106 4110	fall
+T42	Intracranial_haemorrhage 10206 10216;10222 10234	hemorrhage subependymal
+A17	Diagnosis T42 Suspected
+T43	Delirium 14864 14872;14873 14876	oriented x 3
+A18	Negation T43
+T44	Visual_impairment 1804 1817;1822 1826	Visual fields full
+A19	Negation T44
+T45	Intracranial_haemorrhage 2781 2799	cerebral contusion
+A20	Low_confidence T45
+T46	Intracranial_haemorrhage 2922 2940	cerebral contusion
+A21	Low_confidence T46
+T47	Intracranial_haemorrhage 3793 3795;3822 3840	CT Intracranial bleed
+A22	Diagnosis T47 Suspected
+T48	Intracranial_haemorrhage 6491 6509	cerebral contusion
+A23	Low_confidence T48
+T49	Intracranial_haemorrhage 4945 4955;4961 4972	hemorrhage subependyma
+A24	Diagnosis T49 Suspected

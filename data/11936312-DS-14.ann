@@ -1,0 +1,12 @@
+T1	Has_carers 4856 4863	Service
+T2	Delirium 4984 5002	Clear and coherent
+A1	Negation T2
+T3	Mobile_with_assistance 5068 5100	Ambulatory - requires assistance
+T4	Mobile_with_aid 5104 5107	aid
+A2	Type_of_aid T4 Two_sticks_or_frame
+T5	Lower_respiratory_tract_infection 1215 1224	pneumonia
+A3	Diagnosis T5 Implicit_mention
+T6	Delirium 1362 1366	AOx3
+A4	Negation T6
+T7	Lower_gastrointestinal_haemorrhage 5317 5325;5379 5385	bleeding bowels
+A5	Diagnosis T7 Implicit_mention

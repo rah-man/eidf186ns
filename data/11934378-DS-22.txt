@@ -1,0 +1,37 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: NSAIDS (Non-Steroidal Anti-Inflammatory Drug) / vancomycin  Attending: ___  Chief Complaint: elective admission for chemo  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: PRIMARY ONCOLOGIST: ___  ___ DIAGNOSIS: Stage IV DLBCL  TREATMENT REGIMEN: R-CHOP (s/p 3 cycles) + 1 cycle HD MTX  CHIEF COMPLAINT: Scheduled Chemotherapy
+
+HISTORY OF PRESENT ILLNESS:  ___ PMH of Crohns (asymptomatic since dx), Osteoporosis (c/b L2 compression fx), Bladder/Ureteral Ca (s/p surgery/mitomycin/BCG ___ yrs ago), Stage IV DLBCL (on R-CHOP) presented for cycle 2 of CNS ppx with high dose MTX
+
+Patient noted that felt well prior to this admission, and is eating, drinking, voiding, stooling without issue. He noted that he has not had fever or chills. Denied acute complaint. Noted that he took his bicarbonate tablets as directed prior to this admission.  Past Medical History: PAST ONCOLOGIC HISTORY:  As per last oncology note by Dr ___ "He has a very long history of osteoporosis for which he has been on multiple medications over the past ___ years. He developed worsening back pain with a new L2 compression fracture in ___. He subsequently has developed pains intermittently on both sides of his chest wall.  His appetite diminished approximately 2 months ago but has since improved a bit. He has lost 20 pounds compared to last fall and he has developed a new anemia associated with an elevated sedimentation rate and a polyclonal increase in his gammaglobulins. An MRI of his lumbar spine last week showed a diffusely abnormal bone marrow signal worrisome for malignancy or an erythropoietic disorder. He does have a history of bladder and ureteral cancer diagnosed ___ years ago and treated both surgically and with mitomycin-C and several infusions of BCG. Recent urologic evaluation has not shown any recurrent disease; however a CT urogram done in ___ did show 2 new round splenic lesions, the largest of which was 2.3 cm. There was no adenopathy or any other significant abnormality in his abdomen noted. He was briefly treated with prednisone when the possibility of polymyalgia was raised but this was stopped after obtaining the results of his MRI. His rib pains and back pains were much better while on the steroids. Physical examination was unremarkable other than very thin and kyphosis. No adenopathy or splenomegaly noted. Labs show mild anemia, elevated LDH (477).  BM performed - dry tap but core signed out as diffuse large B cell lymphoma.
+
+___: Repeat BM for cytogenetics with core sent in RPMI;  FISH on 4 cells showed 
+
+FISH: LOW POSITIVE for GAIN of BCL6 and MYC. 3-4% of the interphase bone marrow cells examined had an extra intact BCL6 signal and an extra intact MYC signal. These findings were in large cells and are likely due to trisomy or partial trisomy of chromosomes 3 and 8, which are common cytogenetic findings in lymphoma. There was no evidence of the IGH/BCL2 gene rearrangement or rearrangements of the BCL6 and MYC genes in this limited bone marrow aspirate and bone core sample.
+
+___: PET scan showed 1. Diffuse FDG avid osseous lesions involving the axial and appendicular skeleton, largest involving the left iliac bone with soft tissue extension through the cortical margin putting the patient at risk of pathologic fracture. In the spine, soft tissue extent is greatest at the T10 level. If neurologic symptoms, consider MRI to assess for canal narrowing/cord involvement.  2. Multiple splenic lesions and a single hepatic lesion concerning for lymphomatous involvement.  3. Incidental 4mm right lower lobe pulmonary nodule. Recommend attention 
+
+___: First cycle Rit/CHOP chemo with split dose Rituxan, plan for HD MTX day 14.
+
+.___: Hosp'd ___ x3d for fever, neutropenia with mild GI upset, neg CT scans. Counts recovered quickly. Sent home on Flagyl, cipro. The plan of day ___ MTX was therefore aborted. 
+
+___: cycle 2 R-CHOP, neulasta ___
+
+___: cycle 1 high dose methotrexate 3.5 g/m2 for CNS prophylaxis anticipated at ___
+
+___: C3 R-chop, with neulasta due ___.  Dev'd urticaria with adriamycin - resolved with steroids. 
+
+___: Brief admission to ___ for fever, neutropenia. Cults negative. Counts recovered quickly.
+
+___: Cycle 4 Rit/CHOP"  PAST MEDICAL HISTORY: -Osteoporosis -Crohn's -Gallbladder stones -L2 Compression fracture -History of bladder cancer and ureteral cancer: diagnosed ___ years ago and treated both surgically and with mitomycin-C and several infusions of BCG  Social History: ___ Family History: Alzheimer's in his mother; CAD/PVD in his father; CVA in his father; Cancer in his father and mother; ___ - Type II in his father and paternal grandfather; ___ in his mother; ___ in his mother.  Physical Exam: VITAL SIGNS: 0753 Temp: 98.3 PO BP: 124/61 HR: 72 RR: 18 O2 sat: 96% O2 delivery: RA General: NAD HEENT: MMM, no thrush, no OP lesions CV: RR, NL S1S2 no S3S4, no MRG PULM: CTAB, respirations unlabored ABD: BS+ SNT/ND LIMBS: No ___, WWP SKIN: No rashes on extremities NEURO: Speech fluent, strength grossly intact PSYCH: thought process logical, linear, future oriented ACCESS: chest port site intact w/o erythema  Pertinent Results: ___ 07:28PM BLOOD WBC-5.0 RBC-2.76* Hgb-8.0* Hct-25.9* MCV-94 MCH-29.0 MCHC-30.9* RDW-17.7* RDWSD-61.1* Plt ___ ___ 07:28PM BLOOD Glucose-130* UreaN-9 Creat-0.8 Na-143 K-4.3 Cl-102 HCO3-33* AnGap-8* ___ 07:28PM BLOOD ALT-21 AST-29 ___ 07:28PM BLOOD Calcium-8.1* Phos-2.6* Mg-1.8 ___ 07:28PM BLOOD mthotrx-0.14 ___ 07:00PM BLOOD mthotrx-1.8*  Brief Hospital Course: Dr ___ is a ___ Crohn's (asymptomatic since dx), Osteoporosis (c/b L2 compression fx), Bladder/Ureteral Ca (s/p surgery, mitomycin/BCG), Stage IV DLBCL (on R-CHOP) presented for C2 HD MTX for CNS ppx. He tolerated chemotherapy well w/o any AE. Had anticipated hypokalemia and hypophosphatemia which were repleted. No changes were made to his medications. His TCP/Anemia were stable. Discharged home w/o services. Will f/u in clinic for chemo as scheduled. >30 min spent coordinating care for discharge.  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. LORazepam 0.5 mg PO DAILY:PRN anxiety 2. Ondansetron 4 mg PO Q8H:PRN nausea 3. Prochlorperazine 10 mg PO Q6H:PRN nausea 4. Sodium Bicarbonate 1300 mg PO ASDIR 5. Sulfameth/Trimethoprim DS 1 TAB PO 3X/WEEK (___) 
+
+ Discharge Medications: 1. LORazepam 0.5 mg PO DAILY:PRN anxiety  2. Ondansetron 4 mg PO Q8H:PRN nausea  3. Prochlorperazine 10 mg PO Q6H:PRN nausea  4. Sodium Bicarbonate 1300 mg PO ASDIR  5. Sulfameth/Trimethoprim DS 1 TAB PO 3X/WEEK (___) 
+
+ Discharge Disposition: Home  Discharge Diagnosis: Stage IV DLBCL
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dr ___ tolerated your chemotherapy well. Please follow up with your oncology team as scheduled. 
+
+ Followup Instructions: ___ 

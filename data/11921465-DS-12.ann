@@ -1,0 +1,32 @@
+T1	Lower_respiratory_tract_infection 492 495	PNA
+A1	Diagnosis T1 History_of
+T2	Delirium 10993 11011	Clear and coherent
+A2	Negation T2
+T3	Independently_mobile 11077 11101	Ambulatory - Independent
+T4	Lower_respiratory_tract_infection 11240 11249	pneumonia
+T5	Lower_respiratory_tract_infection 11255 11269	lung infection
+T6	Lower_respiratory_tract_infection 10908 10917	Pneumonia
+T7	Lower_respiratory_tract_infection 8092 8101	pneumonia
+T8	Lower_respiratory_tract_infection 7507 7510	PNA
+A4	Diagnosis T8 Suspected
+T9	Lower_respiratory_tract_infection 7514 7523	Pneumonia
+T10	Lower_respiratory_tract_infection 7579 7582	PNA
+T11	Lower_respiratory_tract_infection 6905 6914	pneumonia
+T12	Lower_respiratory_tract_infection 7168 7177	pneumonia
+A3	Diagnosis T12 Suspected
+T13	Dementia 3091 3099	dementia
+A5	Diagnosis T13 Implicit_mention
+T14	Seizures 3171 3178	seizure
+A6	Negation T14
+A7	Diagnosis T14 Implicit_mention
+T15	Lower_respiratory_tract_infection 2148 2157	pneumonia
+A8	Diagnosis T15 Suspected
+T16	Lower_respiratory_tract_infection 1231 1241	pneumonias
+A9	Diagnosis T16 History_of
+T17	Lower_respiratory_tract_infection 1302 1311	pneumonia
+A10	Diagnosis T17 Implicit_mention
+T18	Constipation 1138 1150	constipation
+A11	Negation T18
+T19	Lower_respiratory_tract_infection 1885 1894	pneumonia
+T20	Lower_respiratory_tract_infection 395 398	MAC
+A12	Diagnosis T20 History_of

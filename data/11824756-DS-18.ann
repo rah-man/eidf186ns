@@ -1,0 +1,30 @@
+T1	Has_carers 6608 6615	Service
+T2	Delirium 678 690	'incoherent'
+A1	Diagnosis T2 Implicit_mention
+T3	Urinary_incontinence 1141 1153	incontinence
+A2	Negation T3
+T4	Faecal_incontinence 1141 1153	incontinence
+A3	Negation T4
+T5	Constipation 2411 2423	constipation
+A4	Negation T5
+T6	Visual_impairment 2139 2156	visual complaints
+A5	Negation T6
+T7	Delirium 6807 6815	Confused
+T8	Unspecified_cognitive_impairment 3927 3935;3963 3971	oriented not date
+T9	Dementia 991 999	dementia
+T10	Dementia 509 517	dementia
+T11	Visual_impairment 891 907	vision went dark
+T12	Falls 949 954	falls
+A6	Negation T12
+T13	Independently_mobile 6915 6940	Ambulatory - Independent.
+T14	Lower_respiratory_tract_infection 1941 1950	pneumonia
+A7	Diagnosis T14 Suspected
+T15	Visual_impairment 2991 2999	Cataract
+A8	Diagnosis T15 History_of
+T16	Dementia 2902 2910	Dementia
+A9	Diagnosis T16 History_of
+A10	Low_confidence T3
+A11	Low_confidence T4
+T17	Delirium 4760 4770	altered MS
+T18	Delirium 4846 4856	incoherent
+T19	Dementia 5344 5352	dementia

@@ -1,0 +1,65 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Morphine  Attending: ___.  Chief Complaint: Cough, dyspnea  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ with history of COPD, CHF presents with shortness of breath. Family reports the patient has been unwell for the past 2 days and has had a nonproductive cough. Today he was having more trouble breathing so they called EMS. Patient tachypneic on EMS arrival and febrile to 101. He denies any chest pain, chills, sweats, abdominal pain, nausea, vomiting. He has lower extremity edema that is slightly worse than baseline for the past several days. 
+
+In the ED intial vitals were: 101.1 60 180/64 20 100%  Labs significant for mild anemia, INR 2.7 (on coumadin), Cr 1.4 (up from baseline 1.0-1.2), and lactate of 2.5. 
+
+CXR: ED read concerning for pneumonia  Patient was given: ceftriaxone and azithromycin with nebs. 
+
+Vitals on transfer:99.6 67 ___ 99% RA 
+
+ Past Medical History: COPD - home inhalers ___ + steroid, no anticholinergic) CHF - on ___, BB, ASA, statin, diuretic atrial fibrillation - CHADS=3; dilt and carvedilol for rate control gout - on allopurinol Hypertension - CCB, BB, diuretic Hyperlipidemia - on statin
+
+ Social History: ___ Family History: No cardiac disease, HTN, DM in family.  Physical Exam: ADMISSION PE: Vitals- 98 134/60 62 18 100% RA wt 91.9 kg General- Alert, oriented, no acute distress  HEENT- Sclera anicteric, MMM, oropharynx clear  Neck- supple, JVP difficult to appreciate given body habitus, no cervical LAD  Lungs- good air movement. able to speak in full sentences. crackles noted over right base. otherwise clear to auscultation. no wheezing appreciated.  CV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  Abdomen- distended but soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding  GU- no foley  Ext- warm, well perfused, 2+ pulses, 2+ edema bilaterally  Neuro- CNs2-12 intact, motor function grossly normal 
+
+DISCHARGE PE: Vitals- 98 150/92 82 20 98% RA wt 206.6  General- Alert, oriented, no acute distress lying flat in bed HEENT: Sclera anicteric, MMM, oropharynx clear  Neck: JVP difficult at clavicle when at ~30 deg. Lungs: moderate air movement. Improved crackles over L base, minimal crackles over R lung base. No wheezes CV: RRR, normal S1 + S2, no murmurs, rubs, gallops  Abdomen: soft, non-tender, non-distended, no rebound tenderness or guarding  GU: no foley  Ext: warm, well perfused, 2+ pulses, 2mm pitting edema bilaterally in pretibial region  Neuro: CNs2-12 intact, ___ strength throughout, no pronator drift, normal gait though somewhat unsteady.  Pertinent Results: ADMISSION LABS: ___ 07:20PM BLOOD WBC-9.1# RBC-4.35* Hgb-9.8* Hct-32.4* MCV-75* MCH-22.6* MCHC-30.3* RDW-15.7* Plt ___ ___ 08:16PM BLOOD ___ PTT-40.8* ___ ___ 07:20PM BLOOD Glucose-174* UreaN-23* Creat-1.4* Na-137 K-3.6 Cl-97 HCO3-27 AnGap-17 ___ 06:39AM BLOOD Calcium-8.5 Phos-3.1 Mg-1.2* Iron-16*
+
+RELEVANT LABS: ___ 06:30AM BLOOD Ret Aut-1.5 ___ 06:39AM BLOOD cTropnT-<0.01 proBNP-43___* ___ 06:39AM BLOOD calTIBC-269 Ferritn-151 TRF-207
+
+DISCHARGE LABS ___ 06:30AM BLOOD WBC-6.9 RBC-4.93 Hgb-11.1* Hct-37.2* MCV-76* MCH-22.5* MCHC-29.8* RDW-15.5 Plt ___ ___ 06:30AM BLOOD ___ PTT-37.1* ___ ___ 04:20AM BLOOD Calcium-8.7 Phos-3.9 Mg-1.9 ___ 04:20AM BLOOD Glucose-138* UreaN-27* Creat-1.3* Na-136 K-4.2 Cl-99 HCO3-30 AnGap-11
+
+___ 07:44AM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+
+MICRO: Blood cx x2 ___: No growth to date Sputum cx: contaminated
+
+ECG ___: ASYMPTOMATIC AT TIME The rhythm is most likely atrial fibrillation with a slow ventricular response (HR 45). Occasional ventricular premature beats. Diffuse T wave flattening. Compared to the previous tracing of ___ the heart rate has significantly slowed. 
+
+IMAGING ___ CXR HISTORY: ___ male with shortness of breath, fever. COMPARISON: ___. FINDINGS: Frontal and lateral views of the chest. The lungs are hyperinflated but clear of focal consolidation. There is no effusion or pulmonary vascular congestion. Cardiomediastinal silhouette is stable.  Hypertrophic changes seen in the spine without acute osseous abnormality. IMPRESSION: No acute cardiopulmonary process. 
+
+CT Head w/o contrast ___: HISTORY: Unwitnessed fall, on Coumadin. Assess for intracranial hemorrhage. TECHNIQUE: Noncontrast axial images obtained through the brain.  Coronal and sagittal reformations provided. COMPARISON: No prior studies available comparison. FINDINGS: There is no evidence of hemorrhage, edema, large masses, mass-effect or acute infarcts. The ventricles and sulci are prominent with lateral and ___ ventricular dilatation appearing somewhat out of proportion to the degree of sulcal dilatation.  Findings may reflect age-related parenchymal involution, particularly in light of the absence of transependymal CSF flow.  However without prior studies for comparison cannot definitively exclude long-standing hydrocephalus. The mastoid air cells and middle ear cavities are clear. Bilateral mucous retention cysts are noted in the maxillary sinuses. No fracture identified. No soft tissue swelling noted.  IMPRESSION: No acute hemorrhage evident. Ventricles appear slightly dilated out of proportion to the ventricles. Findings may well reflect central volume loss due to age-related parenchymal atrophy, though communicating hydrocephalus cannot definitely be excluded. 
+
+ Brief Hospital Course: Mr. ___ is a ___ yo male with COPD, dCHF (TTE ___ largely normal), afib (CHADS=3, warfarin) who presented with new onset non-productive cough, dyspnea, worsened orthopnea and was found to be in decompensated heart failure with elevated BNP, crackles on exam and increased peripheral edema. His symptoms improved with diuresis and his final dry weight was ~206.5 lbs. 
+
+#decompensated heart failure- patient has a history of heart failure and per review of his recent office visit notes he had ___ having uptitrated diuretic. The precipitant to the decompensation is likely dietary indiscretion with increased salt in his diet. He was 2lbs over his dry weight on admission. 
+
+ While his CXR showed mild pulmonary edema it is likely that the 
+
+combination of his COPD makes him have less reserve for decompensation with increased pulmonary edema. He felt markedly 
+
+better with diuresis. Wt on discharge was 92.5. Nutrition was consulted to discuss low sodium diet with the patient's family. 
+
+He was also seen by physical therapy who felt that he would benefit from home ___.  -increased bumex from 1mg po qday to 1.5mg po qday -pt will have labs drawn on ___ by ___ and sent to his PCP -___ patient to weigh self daily and to call his PCP if his weight increases by 2lbs
+
+# COPD- he continued to require his inhalers during this admission and would sound tight on exam intermittently.  -no changes were made to his home regimen
+
+# afib- currently in fib, rate controlled. His coumadin was continued at his home dose. His iNR on the day of discharge was 3.1. He will have his INR checked with his lytes on ___ and this will be faxed to his PCP.
+
+# HTN- continue home regimen
+
+# Gout- continue allopurinol
+
+TRANSITIONAL ISSUES: -Found to have new anemia from a few months ago. Needs PCP follow ___ colonoscopy ___ recs ___ repeat for poor prep. -Needs BP & HR trended on lower dose diltiazem -Likely needs outpatient echocardiogram to see if change in EF, WMA, LVH 
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB, wheeze 2. Allopurinol ___ mg PO DAILY 3. Bumetanide 3 mg PO DAILY 4. Carvedilol 3.125 mg PO BID 5. Diltiazem Extended-Release 180 mg PO DAILY 6. Fluticasone Propionate 110mcg 2 PUFF IH BID 7. Pravastatin 40 mg PO DAILY 8. Valsartan 160 mg PO DAILY 9. Warfarin 5 mg PO 5X/WEEK (___) 10. Warfarin 2.5 mg PO 2X/WEEK (___) 11. Aspirin 325 mg PO DAILY 12. Acetaminophen ___ mg PO Q8H:PRN pain 13. Carbamide Peroxide 6.5% ___ DROP AD TID:PRN ear wax 
+
+ Discharge Medications: 1. Acetaminophen ___ mg PO Q8H:PRN pain 2. Allopurinol ___ mg PO DAILY 3. Aspirin 81 mg PO DAILY ___ can buy 'baby aspirin' in 81mg at any drug store. 4. Bumetanide 3 mg PO DAILY 5. Carvedilol 3.125 mg PO BID 6. Diltiazem Extended-Release 120 mg PO DAILY RX *diltiazem HCl 120 mg 1 capsule,extended release 24hr(s) by mouth daily Disp #*30 Capsule Refills:*1 7. Fluticasone Propionate 110mcg 2 PUFF IH BID 8. Pravastatin 40 mg PO DAILY 9. Valsartan 160 mg PO DAILY 10. Warfarin 5 mg PO 5X/WEEK (___) 11. Warfarin 2.5 mg PO 2X/WEEK (___) 12. Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB, wheeze 13. Carbamide Peroxide 6.5% ___ DROP AD TID:PRN ear wax 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Decompensated CHF
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr ___, It was a pleasure taking care of ___ at ___. ___ came in with shortness of breath and cough. We believe that this was from congestive heart failure. In this condition the body builds up fluid and the heart lets it back up into the lungs, making it hard to breathe. The treatment is a diuretic that makes ___ urinate more. We gave ___ a stronger version of your home medication bumetanide (Bumex). ___ lost ___ lbs in fluid during this hospital stay and your breathing improved. 
+
+It is important to take your home medications every day and to avoid salty food, which can cause another episode like this. We recommend that ___ weigh yourself every morning, and call your doctor if your weight goes up more than 3 lbs. 
+
+We decreased one of your medications for atrial fibrillation (diltiazem) because your heart rate was slightly slow. ___ will go home on a new dose of this medication. Otherwise your medications will stay the same. ___ should follow up with your primary care doctor after discharge.  Followup Instructions: ___ 

@@ -1,0 +1,11 @@
+T1	Delirium 8208 8226	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 8292 8316	Ambulatory - Independent
+T3	Delirium 2555 2560	A&Ox3
+A2	Negation T3
+T4	Lower_gastrointestinal_haemorrhage 1239 1251	hematochezia
+A3	Negation T4
+T5	Upper_gastrointestinal_haemorrhage 1253 1259	melena
+A4	Negation T5
+T6	Visual_impairment 1883 1890	catarac
+A5	Diagnosis T6 History_of

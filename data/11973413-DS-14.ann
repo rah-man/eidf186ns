@@ -1,0 +1,44 @@
+T1	Delirium 12803 12811	oriented
+A1	Negation T1
+T2	Dementia 12888 12909	visual hallucinations
+T3	Delirium 12715 12723	delirium
+T4	Constipation 12724 12736	Constipation
+T5	Pressure_injury 12742 12761	heal pressure ulcer
+T6	Constipation 14541 14553	constipation
+A2	Diagnosis T6 Implicit_mention
+T7	Constipation 14639 14651	constipation
+A3	Diagnosis T7 Implicit_mention
+T8	Constipation 13353 13365	constipation
+T9	Constipation 12110 12122	constipation
+A4	Diagnosis T9 Implicit_mention
+T10	Pressure_injury 8515 8525	HEAL ULCER
+T11	Pressure_injury 8555 8569;8582 8586	pressure ulcer heal
+T12	Pressure_injury 8649 8653	ulce
+T13	Dementia 346 366	Alzheimer's dementia
+T14	Constipation 1278 1290	constipation
+T15	Weight_loss 1338 1349	weight loss
+A5	Negation T15
+T16	Dementia 1713 1733	Alzheimer's dementia
+T17	Dementia 1735 1745	Alzheimers
+T18	Visual_impairment 1776 1797	visual hallucinations
+T19	Unspecified_cognitive_impairment 2003 2011;2012 2015	oriented x 1
+T20	Pressure_injury 2461 2475;2481 2485	pressure ulcer heel
+T21	Intracranial_haemorrhage 3443 3450;3464 3476	CT head intracranial
+A6	Negation T21
+T22	Intracranial_haemorrhage 3640 3649;3702 3712	MRI BRAIN hemorrhage
+A7	Negation T22
+T23	Dementia 8910 8918	dementia
+T24	Delirium 8923 8944	altered mental status
+T25	Dementia 14147 14156	agitation
+T26	Delirium 14103 14111	delirium
+T27	Dementia 383 391	paranoia
+A8	Low_confidence T27
+T28	Delirium 1691 1705	Encephalopathy
+T29	Dementia 1763 1771	paranoia
+A9	Low_confidence T29
+T30	Constipation 4820 4832	constipation
+T31	Constipation 5065 5077	constipation
+A10	Diagnosis T31 Implicit_mention
+T32	Delirium 6233 6241	delirium
+A11	Low_confidence T2
+T33	Delirium 5921 5944	change in mental status

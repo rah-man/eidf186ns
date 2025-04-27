@@ -1,0 +1,6 @@
+T1	Delirium 12495 12513	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 12579 12603	Ambulatory - Independent
+T3	Mobile_with_aid 2036 2040	cane
+A2	Type_of_aid T3 One_Stick
+T4	Has_carers 12314 12321	Service

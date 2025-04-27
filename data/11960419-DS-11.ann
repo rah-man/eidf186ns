@@ -1,0 +1,52 @@
+T1	Delirium 13490 13508	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 13572 13596	Ambulatory - Independent
+T3	Lower_respiratory_tract_infection 13844 13853	pneumonia
+A2	Diagnosis T3 Suspected
+T4	Constipation 13015 13027	constipation
+A3	Diagnosis T4 Implicit_mention
+T5	Lower_respiratory_tract_infection 13340 13368	community acquired pneumonia
+T6	Upper_gastrointestinal_haemorrhage 13423 13451	upper gastrointestinal bleed
+T7	Visual_impairment 3677 3686	Cataracts
+A4	Diagnosis T7 History_of
+T8	Visual_impairment 3726 3734	glaucoma
+A5	Diagnosis T8 History_of
+T9	Upper_gastrointestinal_haemorrhage 3129 3137;3174 3180	bleeding melena
+T10	Upper_gastrointestinal_haemorrhage 528 536	GI bleed
+A6	Diagnosis T10 History_of
+T11	Lower_gastrointestinal_haemorrhage 528 536	GI bleed
+A7	Diagnosis T11 History_of
+T12	Upper_gastrointestinal_haemorrhage 3558 3561	GIB
+A8	Diagnosis T12 History_of
+T13	Lower_gastrointestinal_haemorrhage 3558 3561	GIB
+A9	Diagnosis T13 History_of
+T14	Upper_gastrointestinal_haemorrhage 10426 10432	melena
+A10	Negation T14
+T15	Constipation 11573 11585	constipation
+A11	Diagnosis T15 Implicit_mention
+T16	Upper_gastrointestinal_haemorrhage 1958 1970	black stools
+A12	Negation T16
+T17	Lower_gastrointestinal_haemorrhage 1974 1984	red stools
+A13	Negation T17
+T18	Upper_gastrointestinal_haemorrhage 2663 2666	GIB
+A14	Diagnosis T18 History_of
+T19	Lower_gastrointestinal_haemorrhage 2663 2666	GIB
+A15	Diagnosis T19 History_of
+T20	Upper_gastrointestinal_haemorrhage 2684 2690	melena
+T21	Upper_gastrointestinal_haemorrhage 7256 7259	GIB
+A16	Diagnosis T21 History_of
+T22	Lower_gastrointestinal_haemorrhage 7256 7259	GIB
+A17	Diagnosis T22 History_of
+T23	Lower_respiratory_tract_infection 9791 9819	Community acquired pneumonia
+T24	Lower_respiratory_tract_infection 9875 9884	pneumonia
+A18	Diagnosis T24 Suspected
+A19	Low_confidence T18
+A20	Low_confidence T19
+A21	Low_confidence T10
+A22	Low_confidence T11
+A23	Low_confidence T12
+A24	Low_confidence T13
+A25	Low_confidence T21
+A26	Low_confidence T22
+T25	Lower_respiratory_tract_infection 10829 10838	pneumonia
+T26	Has_carers 13190 13197	Service

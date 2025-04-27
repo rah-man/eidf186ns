@@ -1,0 +1,27 @@
+T1	Has_carers 9970 9977	Service
+T2	Delirium 10103 10121	Clear and coherent
+A1	Negation T2
+T3	Independently_mobile 10187 10211	Ambulatory - Independent
+T4	Constipation 9769 9781	constipation
+A2	Diagnosis T4 Implicit_mention
+T5	Constipation 9493 9505	constipation
+A3	Diagnosis T5 Implicit_mention
+T6	Constipation 8708 8720	constipation
+A4	Diagnosis T6 Implicit_mention
+T7	Urinary_tract_infection 3664 3667	UTI
+T8	Urinary_tract_infection 3980 3983	UTI
+T9	Delirium 4502 4510	oriented
+A5	Negation T9
+T10	Urinary_tract_infection 1028 1031	UTI
+A6	Diagnosis T10 History_of
+T11	Seizures 4010 4017	Seizure
+A7	Diagnosis T11 History_of
+T12	Faecal_incontinence 4102 4120	Bowel incontinence
+A8	Diagnosis T12 History_of
+T13	Urinary_tract_infection 3265 3268	UTI
+T14	Delirium 4940 4948	Oriented
+A9	Negation T14
+T15	Urinary_tract_infection 7625 7639	pyelonephritis
+T16	Constipation 8526 8538	constipation
+A10	Diagnosis T16 Implicit_mention
+T17	Urinary_tract_infection 10039 10053	pyelonephritis

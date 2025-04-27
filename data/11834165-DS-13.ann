@@ -1,0 +1,11 @@
+T1	Delirium 13753 13770	Clear and coheren
+A1	Negation T1
+T2	Independently_mobile 13839 13863	Ambulatory - Independent
+T3	Constipation 11868 11880	constipation
+A2	Diagnosis T3 Implicit_mention
+T4	Weight_loss 2320 2331	weight loss
+A3	Negation T4
+T5	Constipation 2475 2487	constipation
+A4	Negation T5
+T6	Delirium 3191 3199	oriented
+A5	Negation T6

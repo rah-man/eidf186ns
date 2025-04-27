@@ -1,0 +1,15 @@
+T1	Independently_mobile 1217 1235	walk independently
+T2	Falls 1248 1255	falling
+A1	Negation T2
+T3	Falls 2927 2930	ell
+T4	Constipation 7691 7703	constipation
+A2	Diagnosis T4 Implicit_mention
+T5	Constipation 8563 8575	constipation
+A3	Diagnosis T5 Implicit_mention
+T6	Constipation 8454 8466	constipation
+A4	Diagnosis T6 Implicit_mention
+T7	Independently_mobile 5300 5322	ambulate independently
+A5	Negation T7
+T8	Mobile_with_aid 3085 3095	wheelchair
+A6	Type_of_aid T8 Wheelchair
+T9	Mobile_with_assistance 2735 2755	not stand on his own

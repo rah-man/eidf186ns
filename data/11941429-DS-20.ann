@@ -1,0 +1,41 @@
+T1	Delirium 12791 12799	Confused
+T2	Mobile_with_assistance 12877 12909	Ambulatory - requires assistance
+T3	Mobile_with_aid 12913 12916	aid
+A1	Type_of_aid T3 Two_sticks_or_frame
+T4	Weight_loss 11377 11388	weight loss
+T5	Dementia 11453 11461	dementia
+A2	Diagnosis T5 Implicit_mention
+T6	Intracranial_haemorrhage 5128 5135;5177 5189	CT HEAD intracranial
+A3	Negation T6
+T7	Vertebral_compression_fracture 5004 5009;5048 5056	SPINE fracture
+A4	Negation T7
+T8	Constipation 2358 2370	constipation
+A5	Negation T8
+T9	Falls 1333 1337	fall
+T10	Weight_loss 924 935	weight loss
+T11	Unspecified_cognitive_impairment 1557 1568;1573 1587	memory loss forgetfullness
+A6	Diagnosis T11 History_of
+T12	Lower_gastrointestinal_haemorrhage 832 846	blood in stool
+A7	Negation T12
+T13	Delirium 1385 1404	change in mentation
+T14	Visual_impairment 1660 1674	vision changes
+A8	Negation T14
+T15	Weight_loss 2160 2171	weight loss
+A9	Negation T15
+T16	Delirium 2946 2954	oriented
+A10	Negation T16
+T17	Delirium 3451 3459	oriented
+A11	Negation T17
+T18	Delirium 3694 3702	oriented
+A12	Negation T18
+T19	Delirium 4175 4183	oriented
+A13	Negation T19
+T20	Falls 8224 8228	FALL
+T21	Intracranial_haemorrhage 8332 8339;8350 8355	CT head bleed
+A14	Negation T21
+T22	Vertebral_compression_fracture 8365 8370;8381 8389	spine fracture
+A15	Negation T22
+T23	Falls 1769 1773	fall
+A16	Diagnosis T23 Implicit_mention
+T24	Falls 8254 8258	fall
+T25	Weight_loss 7514 7525	weight loss

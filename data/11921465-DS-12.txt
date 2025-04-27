@@ -1,0 +1,75 @@
+ Name: ___           Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Erythromycin Base / doxycycline / Cephalosporins  Attending: ___.  Chief Complaint: Fevers, chills, cough, shortness of breath  Major Surgical or Invasive Procedure: none  History of Present Illness: ___ is a ___ y/o wth a PMHx of bronchiectasis, MAC, and GERD who presented with fever, chills, cough, and SOB. 
+
+On ___, she was diagnosed with PNA ___ the outpatient setting, and was treated with 7 days of Levofloxacin. She reports becoming asymptomatic with this treatment. However, 5 days ago on ___, she began to experience fevers and cough once again. She saw her PCP yesterday, and he got a CXR which showed new R basal infiltrate, increased L sided infiltrate.
+
+Her symptoms are to some degree exertional. However, her activities do not appear to be significantly limited. She also endorses SOB after coughing. Her cough has been productive of yellow sputum, but she denies hemoptysis. This morning, she noted a temperature of 101.1. She denies nausea, vomiting, diarrhea and recent constipation. She endorses decreased appetite.
+
+Of note, while the patient has had recurrent pneumonias, she could not recall instances where she has had bilateral pneumonia. She also reports having experienced left arm and shoulder pain that started this past ___ and stopped today. 
+
+___ the ED, initial VS were T=98.2, HR-70, BP=133/86, RR=18, O2 Sat=100% on RA
+
+Exam was notable for the fact that though the full lung exam was limited due to frequent coughing with deep inspiration, no definitive focal findings were found. CV regular, no edema or JVD.
+
+Labs showed  ALT: 12 AST: 15 AP: 108 Tbili:.7 Alb: 4.0 WBC: 12.9 Hgb: 12.8 Hct: 40.0 Plt: 311
+
+Imaging showed ___ CHEST (PA & LAT): 1. Dense consolidation at the left base, compatible with pneumonia. Some of this opacification appears nodular, and should be followed up with a chest CT or a repeat chest radiograph ___ ___ weeks to ensure resolution. 2. Patchy opacification at the right base, concerning for an additional focus of early or developing pneumonia. 3. 4 mm nodule projecting over the retrosternal clear space, which should be followed up with a chest CT. 4. Hyperinflated lungs.
+
+Received IV CefePIME 2g. 
+
+Decision was made to admit to medicine for further management.  On arrival to the floor, the patient reports feeling chills otherwise breathing feels well.  Past Medical History: PAST MEDICAL HISTORY: Allergic rhinitis Depression Osteoporosis Basal cell carcinoma Esophageal reflux Bronchiectasis Chronic cough Mycobacterium avium-intracellulare infection, disseminated 
+
+PAST SURGICAL HISTORY: - lung biopsy - reported to be benign (___) - Right wrist removal of hardware, extensor tenolysis / tenosynovectomy x9, capsulectomy MCP joints digits 2 through 5 (___) - removal of a basal cell carcinoma located on the left nasal sidewall ___ - open reduction and internal fixation of right distal radius fracture dorsally ___
+
+ Social History: ___ Family History: positive for dementia (father), arterial disease (father died of ruptured AAA). negative for seizure, stroke 
+
+ Physical Exam: ADMISSION PHYSICAL EXAM:  VS - 98.2PO 129 / 68 86 18 93 RA GENERAL: NAD  HEENT: Normocephalic, atraumatic  NECK: no LAD  CARDIAC: normal S1/S2, no murmurs  LUNG: Decreased breath sounds at the base, absent tactile fremitus, egophony is present. No wheezes, rales, rhonchi, breathing without use of accessory muscles. Endorses point tenderness to palpation at the L mid axillary chest wall. She experiences a stabbing pain ___ this location exacerbated by deep breaths, and she rates the pain as a 5 out of 10. ABDOMEN: BS present, soft NTND  EXTREMITIES: No deformities noted, warm lower extremities, no edema. 2+ DP pulses NEURO: CN II-XII grossly intact, motor and sensory intact
+
+DISCHARGE EXAM VS- T= 97.9, BP=132/70, HR=72, RR=18, O2 Sat=97 on RA General: well appearing, NAD HEENT:  normocephalic, atraumatic Neck:  no supraclavicular or axillary LAD CV:  regular rhythm, no murmurs Lungs: Decreased breath sounds at the base of both lungs. Bibasilar mild inspiratory crackles stable from yesterday. Abdomen: Soft, nondistended, no HSM appreciated, bowel sounds present. GU: Deferred Ext: Warm, DP present bilaterally 2+, calves nontender. Neuro: Grossly intact 
+
+ Pertinent Results: ADMISSION LABS
+
+___ 01:40PM URINE BLOOD-TR NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG ___ 01:40PM URINE RBC-1 WBC-1 BACTERIA-NONE YEAST-NONE EPI-<1 ___ 01:40PM URINE COLOR-Straw APPEAR-Clear SP ___ ___ 01:40PM  WBC-12.9*# RBC-4.00 HGB-12.8 HCT-40.0 MCV-100* MCH-32.0 MCHC-32.0 RDW-12.5 RDWSD-45.8 ___ 01:40PM  NEUTS-72.9* LYMPHS-13.4* MONOS-8.0 EOS-5.0 BASOS-0.2 IM ___ AbsNeut-9.40* AbsLymp-1.73 AbsMono-1.03* AbsEos-0.65* AbsBaso-0.03 ___ 01:40PM  ALBUMIN-4.0 ___ 01:40PM  cTropnT-<0.01 ___ 01:40PM  ALT(SGPT)-12 AST(SGOT)-15 ALK PHOS-108* TOT BILI-0.7 ___ 01:40PM  GLUCOSE-90 UREA N-11 CREAT-0.8 SODIUM-138 POTASSIUM-4.1 CHLORIDE-101 TOTAL CO2-22 ANION GAP-19 ___ 01:56PM  LACTATE-0.9
+
+DISCHARGE LABS
+
+___ 07:45AM BLOOD WBC-5.4 RBC-3.77* Hgb-11.8 Hct-37.7 MCV-100* MCH-31.3 MCHC-31.3* RDW-12.3 RDWSD-45.2 Plt ___ ___ 07:45AM BLOOD Glucose-85 UreaN-7 Creat-0.8 Na-142 K-4.4 Cl-105 HCO3-24 AnGap-17 ___ 07:45AM BLOOD Mg-2.3
+
+MICRO: ___ SPUTUM:  GRAM STAIN (Final ___:    >25 PMNs and <10 epithelial cells/100X field.    2+  ___ per 1000X FIELD):  GRAM POSITIVE COCCI.                   ___ PAIRS, CHAINS, AND CLUSTERS.    1+  (<1 per 1000X FIELD):  GRAM NEGATIVE DIPLOCOCCI. 
+
+  RESPIRATORY CULTURE (Preliminary):   LEGIONELLA CULTURE (Preliminary):
+
+___ Legionella Urinary Antigen: NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+
+___ UCx: NO GROWTH.
+
+___ BCx: Blood Culture, Routine (Preliminary):    STAPHYLOCOCCUS, COAGULASE NEGATIVE.      Isolated from only one set ___ the previous five days.      SENSITIVITIES PERFORMED ON REQUEST.. Aerobic Bottle Gram Stain (Final ___:    GRAM POSITIVE COCCI ___ PAIRS AND CLUSTERS. 
+
+___ CT CHEST W/O CONTRAST Extensive bronchiectasis, bronchial wall thickening ___ the lower lungs, with mucous plugging peripherally ; scattered nodular opacities ___ the bilateral lungs, pattern consistent with atypical mycobacterial infection. Small left pleural effusion   Consolidation ___ the left lower ___ be from same etiology as above, however, consider typical bacterial pneumonitis and aspiration.   2 sub solid lung nodules ___ the right upper lung have different morphology compared with other findings described above, end while day may be infectious as well, follow CT chest without contrast ___ 3 months is recommended to exclude adenocarcinoma ___ situ or invasive adenocarcinoma.   Mediastinal adenopathy, indeterminate, may be reactive 
+
+___ CHEST (PA & LAT): 1. Dense consolidation at the left base, compatible with pneumonia. Some of this opacification appears nodular, and should be followed up with a chest CT or a repeat chest radiograph ___ ___ weeks to ensure resolution. 2. Patchy opacification at the right base, concerning for an additional focus of early or developing pneumonia. 3. 4 mm nodule projecting over the retrosternal clear space, which should be followed up with a chest CT. 4. Hyperinflated lungs.  Brief Hospital Course: Ms. ___ is a ___ year old female with a history of bronchiectasis and MAC, who presented with symptoms of cough and shortness of breath, found to have imaging concerning for PNA.
+
+#Pneumonia: The patient was diagnosed by PCP ___ ___ w/ left lobe PNA and treated ___ outpatient setting w/ 7d course of levofloxacin. Given her past use of levofloxacin, she was treated with Cefepime initially, then transitioned to Cefpodoxime. ___ the context of this, she developed a rash, which we believed likely due to a cephalosporin allergy, and her cephalosporin antibiotics were therefore discontinued. ID was consulted and recommended cessation of antibiotics for now. Chest CT on ___ suggested that the right lower lobe infiltration seen on chest x-ray was not a new pneumonia. She was afebrile throughout hospital stay. ___ sputum culture showed gram positive cocci ___ pairs, chains, and clusters and gram negative diplococcic, unclear if pathogenic or colonization, but given clinical stability antibiotics were withheld. Speech and Swallow eval showed no evidence of significant aspiration. We communicated with Dr. ___ pulmonologist, who will continue to follow the patient ___ the outpatient setting.
+
+# Positive blood culture: 1 bottle from admission grew Coag negative Staph, which was subsequently determined to be likely a contaminant. She was initially given Vancomycin, but this was discontinued given the low likelihood of bloodstream infection.
+
+Chronic: #GERD: The patient has a past medical history of GERD. We continued her Omeprazole 20 mg PO BID. #Depression: The patient has a past medical history of depression. She is doing well here without any antidepressants. #Osteoporosis: The patient has a past medical history of osteoporosis not on supplementation.
+
+============================= TRANSITIONAL ISSUES -Please consider giving PCV 13 vaccination if not done already -Pulmonary followup at ___ actively being arranged by outpatient Pulmonology Dr. ___ placed on cancellation list and will be called by Dr. ___ followup at ___ being arranged by Dr. ___ placed ___ Atrius system) - Recommend repeat noncon CT Scan of Chest ___ 3 months to r/o malignancy - Patient likely allergic to cephalosporins, would recommend adding to allergy list - Results pending at discharge: * Strep pneumo urine antigen * Sputum culture, legionella culture, and acid fast culture * MRSA screen * Blood cultures (no growth to date)  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Omeprazole 20 mg PO BID 2. Excedrin Extra Strength (aspirin-acetaminophen-caffeine) 250-250-65 mg oral QAM:PRN 3. melatonin 10 mg oral QHS 4. Cetirizine 10 mg PO DAILY 5. Multivitamins 1 TAB PO DAILY 6. PreserVision AREDS (vitamins A,C,E-zinc-copper) ___ unit-mg-unit oral DAILY 7. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN sob 
+
+ Discharge Medications: 1. Acetaminophen 650 mg PO Q8H:PRN Pain - Mild  2. Benzonatate 100 mg PO TID RX *benzonatate 100 mg 1 capsule(s) by mouth three times per day Disp #*15 Capsule Refills:*0 3. GuaiFENesin ___ mL PO Q6H:PRN cough RX *guaifenesin 100 mg/5 mL ___ ml by mouth four times per day as needed Refills:*0 4. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN sob  5. Cetirizine 10 mg PO DAILY  6. Excedrin Extra Strength (aspirin-acetaminophen-caffeine) 250-250-65 mg oral QAM:PRN  7. melatonin 10 mg oral QHS  8. Multivitamins 1 TAB PO DAILY  9. Omeprazole 20 mg PO BID  10. PreserVision AREDS (vitamins A,C,E-zinc-copper) ___ unit-mg-unit oral DAILY 
+
+ Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: Pneumonia
+
+Secondary diagnosis: bronchiectasis
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Ms. ___,
+
+It was a pleasure to take care of you at ___ ___. You had to stay ___ the hospital because of a pneumonia (aka lung infection). You were treated with antibiotics while here, and you developed what we believe was an allergic reaction to one of your medications (medication called "cephalosporin"). You were seen by the Infectious Disease team, who recommended stopping antibiotics at this time.
+
+We were ___ contact with Dr. ___ your hospital stay. Please follow up with her regarding further treatment of your lung issues. For now, we feel like you do not require any more antibiotics at this time.
+
+Please return to the hospital for fevers >100.4F, worsening shortness of breath, or chest pain.
+
+Sincerely, Your ___ Team  Followup Instructions: ___ 

@@ -1,0 +1,13 @@
+T1	Lives_in_carehome 9803 9810	Service
+T2	Delirium 9977 9995	Clear and coherent
+A1	Negation T2
+T3	Independently_mobile 10061 10085	Ambulatory - Independent
+T4	Delirium 3451 3454;3455 3457	A/O x3
+A2	Negation T4
+T5	Visual_impairment 2687 2695	glaucoma
+A3	Diagnosis T5 History_of
+T6	Visual_impairment 2696 2704	Cataract
+A4	Diagnosis T6 History_of
+T7	Visual_impairment 7547 7555	Glaucoma
+T8	Upper_gastrointestinal_haemorrhage 1233 1249	non-blood emesis
+A5	Negation T8

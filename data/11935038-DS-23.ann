@@ -1,0 +1,27 @@
+T1	Has_carers 7242 7249	Service
+T2	Delirium 7369 7387	Clear and coherent
+A1	Negation T2
+T3	Mobile_with_assistance 7453 7485	Ambulatory - requires assistance
+T4	Mobile_with_aid 7489 7492	aid
+A2	Type_of_aid T4 Two_sticks_or_frame
+T5	Lower_gastrointestinal_haemorrhage 5235 5241;5246 5256	stools non-bloody
+A3	Negation T5
+T6	Has_carers 4465 4473	services
+T7	Has_carers 5997 6006	Caregiver
+T8	Lower_gastrointestinal_haemorrhage 742 747;765 768	blood BMs
+A4	Negation T8
+T9	Delirium 2958 2963	A&Ox3
+A5	Negation T9
+T10	Visual_impairment 1927 1941	vision changes
+A6	Negation T10
+T11	Constipation 2054 2066	constipation
+A7	Negation T11
+T12	Lower_gastrointestinal_haemorrhage 2068 2073	BRBPR
+A8	Negation T12
+T13	Upper_gastrointestinal_haemorrhage 2075 2081	melena
+A9	Negation T13
+T14	Lower_gastrointestinal_haemorrhage 2083 2095	hematochezia
+A10	Negation T14
+T15	Lower_gastrointestinal_haemorrhage 3825 3844	non-bloody diarrhea
+A11	Negation T15
+T16	Falls 521 525	fall

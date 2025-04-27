@@ -1,0 +1,38 @@
+T1	Has_carers 17462 17469	Service
+T2	Delirium 17635 17653	Clear and coherent
+A1	Negation T2
+T3	Independently_mobile 17719 17743	Ambulatory - Independent
+T4	Falls 14922 14926	fall
+T5	Visual_impairment 1000 1021	changes in his vision
+A2	Negation T5
+T6	Faecal_incontinence 1076 1081;1093 1105	bowel incontinence
+A3	Negation T6
+T7	Urinary_incontinence 1085 1092;1093 1105	bladder incontinence
+A4	Negation T7
+T8	Urinary_incontinence 1136 1156	incontinent of urine
+A5	Diagnosis T8 Implicit_mention
+T9	Falls 2374 2378	fell
+T10	Falls 2294 2298	fall
+T11	Vertebral_compression_fracture 11083 11088;11113 11121	SPINE fracture
+A6	Negation T11
+T13	Visual_impairment 14373 14386	blurry vision
+A8	Diagnosis T13 Implicit_mention
+T14	Falls 2240 2244	fall
+T15	Falls 2281 2284	fal
+T16	Delirium 3953 3958	A&Ox3
+A9	Negation T16
+T17	Delirium 4677 4682	A&Ox3
+A10	Negation T17
+T18	Intracranial_haemorrhage 12534 12546;12585 12593	intracranial hematoma
+A11	Negation T18
+T19	Visual_impairment 18358 18371	blurry vision
+A12	Diagnosis T19 Implicit_mention
+T20	Vertebral_compression_fracture 1523 1528;1548 1556	spine fracture
+A13	Negation T20
+T21	Falls 3440 3444	fall
+T12	Intracranial_haemorrhage 11856 11863;11935 11958	CT HEAD intracranial hemorrhage
+A7	Negation T12
+T22	Lower_gastrointestinal_haemorrhage 16128 16140	rectal bleed
+T23	Falls 2093 2097	fall
+T24	Vertebral_compression_fracture 11426 11435;11793 11801	vertebrae fracture
+A14	Negation T24

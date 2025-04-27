@@ -1,0 +1,10 @@
+T1	Delirium 2099 2102	AAO
+A1	Negation T1
+T2	Delirium 10810 10828	Clear and coherent
+A2	Negation T2
+T3	Independently_mobile 10894 10918	Ambulatory - Independent
+T4	Mobile_with_assistance 9568 9595	ambulating with supervision
+T5	Delirium 9528 9536	oriented
+A3	Negation T5
+T6	Constipation 11033 11045	constipation
+A4	Diagnosis T6 Implicit_mention

@@ -1,0 +1,19 @@
+T1	Has_carers 3222 3229	Service
+T2	Delirium 3337 3355	Clear and coherent
+A1	Negation T2
+T3	Mobile_with_assistance 3421 3453	Ambulatory - requires assistance
+T4	Mobile_with_aid 3457 3460	aid
+A2	Type_of_aid T4 Two_sticks_or_frame
+T5	Visual_impairment 504 524	Macular degeneration
+A3	Diagnosis T5 History_of
+T6	Visual_impairment 526 534	cataract
+T7	Urinary_incontinence 634 646	incontinence
+T8	Faecal_incontinence 634 646	incontinence
+T9	Delirium 938 943	A&Ox3
+A4	Negation T9
+T10	Visual_impairment 695 707	Pseudophakia
+A5	Diagnosis T10 History_of
+T11	Malnutrition 901 915	well-nourished
+A6	Negation T11
+A7	Low_confidence T7
+A8	Low_confidence T8

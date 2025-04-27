@@ -1,0 +1,57 @@
+ Name: ___           Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: GI bleed  Major Surgical or Invasive Procedure: Upper endoscopy ___ Gastroduodenal artery embolization ___
+
+ History of Present Illness: Mr. ___ is a ___ male with pmhx of afib, CHF, CAD who presented with anemia, abdominal pain and found to have large, bleeding duodenal mass, omental and liver metastatic involvement. The patient was initially diagnosed with cancer involving his liver in ___, and was then found to have omental involvement. Both sites were biopsied but the pathology was undifferentiated cancer. He was found to have worsening anemia, with Hgb 9 and Hct 29 at OSH on ___. EGD revealed 3cm duodenal mass, which was injected with epinephrine and biopsied. The GI team consulted ___ for plan for gastroduodenal artery embolization planned for ___, and Dr ___ of surg onc was also made aware of the patient. He remained hemodynamically stable in the EGD suite. He was recommended to have BID IV PPI, PIV, T&C.
+
+In speaking to the patient, he reports that since ___, he has been feeling unwell. He had diarrhea, pain. In ___, he had EGD which was negative. US and CT scan of abdomen showed liver mets, and he was referred to ___.   Review of Systems:  (+) Per HPI bright light flashes when looking at bright lights (ie sun on snow) for 2 days, fatigue, abdominal pain, shoulder pain, night sweats, 30lb weight loss since ___ and 6 lbs in past few weeks, fever to 99 degrees a few nights ago, anorexia. Abd pain is controlled with 5mg/daily of oxycodone. Black stools, nausea initially but resolved in ___. No hematochezia. Urinary dripping, and nocturia. Rhinorrhea
+
+ Past Medical History: PAST ONCOLOGIC HISTORY:  - ___: liver mass on imaging done for abdominal pain - ___: liver biopsy shows undifferentiated neoplasm- differential includes lymphoma vs neuroendocrine tumor. - ___: OR for omental biopsy and port placement, omental biopsy still unrevealing. - ___: patient found to have worsening anemia (H/H ___ - ___: EGD done for persistent anemia and guaiac positive stool revealing bleeding duodenal mass; biopsy done.
+
+PAST MEDICAL HISTORY:  - CAD s/p stent ___ - CHF with ICD in place (EF was ___ per pt report) - AFib - DM - BPH - hyperlipidemia - HTN - colon polyps and diverticulosis - rotator cuff injury s/p repair (Dr. ___ - overweight - hx of cellulitis - sebaceous cyst - detached retina (right) - gastroparesis - infrarenal abdominal aortic anuerysm  Social History: ___ Family History: non contributory  Physical Exam: ADMISSION EXAM Vitals: HR 67 RR 20 BP 118/57 100% on RA  GENERAL: thin but generally well appearing. head tremor. CARDIAC: no m/r/g. RRR. ICD incision well healed. LUNG: CTAB. No wheezes ABDOMEN: NTTP. Non distended. No guarding. Very small incisions are well healed. EXTREMITIES: no pitting edema PULSES: 2+ in extremities
+
+DISCHARGE EXAM: VSS General: well appearing, NAD HEENT: MMM, NCAT Lungs: CTAB CV: RRR, no m/r/g Abd: mildly TTP diffusely, soft, non-distended, no rebound or guarding Ext: no pitting edema  Pertinent Results: ADMISSION LABS ___ 04:45PM BLOOD WBC-9.7 RBC-3.46* Hgb-8.2* Hct-26.9* MCV-78* MCH-23.7* MCHC-30.5* RDW-13.6 Plt ___ ___ 04:45PM BLOOD Neuts-83.3* Lymphs-8.4* Monos-6.0 Eos-1.7 Baso-0.6 ___ 04:45PM BLOOD ___ PTT-41.2* ___ ___ 04:45PM BLOOD Glucose-191* UreaN-30* Creat-1.8* Na-138 K-4.0 Cl-104 HCO3-23 AnGap-15 ___ 04:45PM BLOOD ALT-16 AST-26 AlkPhos-91 TotBili-0.2 ___ 04:45PM BLOOD Calcium-8.7 Phos-3.4 Mg-2.0 Iron-14* ___ 04:45PM BLOOD calTIBC-250* Ferritn-337 TRF-192*
+
+DISCHARGE LABS: ___ 06:05AM BLOOD WBC-15.9* RBC-4.21* Hgb-10.9* Hct-35.0* MCV-83 MCH-25.9* MCHC-31.2 RDW-16.0* Plt ___ ___ 06:05AM BLOOD ___ PTT-41.0* ___ ___ 06:05AM BLOOD Glucose-147* UreaN-20 Creat-1.4* Na-139 K-4.1 Cl-103 HCO3-24 AnGap-16 ___ 06:05AM BLOOD Calcium-8.4 Phos-3.4 Mg-1.8
+
+MICRO: none
+
+IMAGING/STUDIES:
+
+EGD ___ Impression: Erythema and granularity in the antrum Mass in the duodenal bulb with active oozing. Given the uncertainty regarding tissue type on prior biopsies, a small additional biopsy was taken of the mass Epinephrine was injected locally to help temporize bleeding.  However, endoscopic management of bleeding malignancy is generally not definitive because of the vascular/oozing surface of the mass. Cautery and clipping are unlikely to be effective. 
+
+Otherwise normal EGD to second part of the duodenum  Upper intestinal biopsy pathology ___: report pending
+
+___ embolization procedure ___: 1. Small branches arising from the gastroduodenal artery supplying the duodenal tumor.  2. Complete stasis in the gastroduodenal artery following embolization. 3. Questionable blood supply from an inferior pancreaticoduodenal branch arising off the proximal SMA. IMPRESSION: Embolization of the GDA supplying the duodenal mass. If bleeding continues, further selective embolization can be carried out in the proximal branches of the SMA.
+
+KUB ___: IMPRESSION: Unremarkable bowel gas pattern. No evidence of perforation or intraperitoneal free air.   Brief Hospital Course: ___ y/o male with recent diagnosis of metastatic poorly differentiated carcinoma with unknown primary presented with several days of melena ___ bleeding duodenal mass, s/p unsuccessful endoscopic control, with subsequent successful ___ embolization of gastroduodenal artery
+
+# GIB: Pt presented with melena and low hct. Had EGD ___ which showed a bleeding duodenal mass ___ portion), bx was taken for tissue analysis. Additionally, epi was injected in attempts to stem the bleeding but was unsuccessful. He underwent ___ embolizatin of GDA ___ without further episodes of melena. Pt had some expected post-procedure abdominal pain without signs of ischemia or perforation and this was improving at discharge. Hct uptrending at time of discharge as well. 
+
+# Unknown Malignancy: Pt s/p biopsies of liver mass and peritoneal implant showing undifferentiated cancer (stains negative for all epithelial, lymphoid, endothelial and melanoma or neuroendocrine markers). Pathology from duodenal mass pending. Per onc they are planning to start chemo, however are holding off for now given acute illness. Per surg-onc, they do not want to do any surigcal interventions at this time. The patient should follow up with medical and surgical oncology as an outpatient. 
+
+# Coagulopathy: pt with high INR on admission of 2.4, decreased with FFP and vitamin K. Likely due to liver dysfunction from metastatic cancer vs. poor nutrition. Should be monitored as an outpatient. 
+
+CHRONIC ISSUES:
+
+# Renal failure: pt with creatinine at baseline (around 1.7) during hospitalization. 
+
+# Atrial Fibrillation: Remained in sinus rhythm and normal rate during admission. Held his apixaban during admission due to GIB. Was not restarted at discharge. The patient should follow up with his PCP for further management. 
+
+# CAD s/p stent ___: Initially anticoagulation was held due to GIB; at discharge his aspirin was restarted, along with his carvedilol.  # CHF with ICD in place (EF was ___ per pt report): Held antihypertensives and diuretics during admission due to GIB. Carvedilol and bumex were restarted at discharge. He should follow up with his PCP for for further management. 
+
+# DM: Held home oral diabetes medications while admitted, was managed with sliding scale insulin. 
+
+TRANSITIONAL ISSUES: - Held the patient's anticoagulation at discharge. He should f/u with his PCP for further management - Patient's blood pressure medications were held during this admission and only carvedilol and bumex were restarted at discharge. Others should be restarted gradually as blood pressures tolerate. - Biospies from EGD are pending at discharge - Should get creatinine re-checked on ___ given recent contrast load and patient's baseline CKD - Patient should f/u with Hem/Onc for potential treatment of his metastatic malignancy  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Apixaban 5 mg PO BID 2. Bumetanide 0.5 mg PO DAILY 3. Carvedilol 25 mg PO HS 4. Carvedilol 12.5 mg PO QAM 5. fenofibrate 120 mg oral daily 6. Lisinopril 40 mg PO DAILY 7. MetFORMIN (Glucophage) 500 mg PO BID 8. OxycoDONE (Immediate Release) 2.5 mg PO BID:PRN pain 9. Pantoprazole 40 mg PO Q24H 10. Repaglinide 1 mg PO TIDAC 11. Rosuvastatin Calcium 40 mg PO DAILY 12. Spironolactone 12.5 mg PO DAILY 13. Tamsulosin 0.4 mg PO HS 14. Aspirin 81 mg PO DAILY 15. Multivitamins 1 TAB PO DAILY 
+
+ Discharge Medications: 1. Aspirin 81 mg PO DAILY 2. Docusate Sodium 100 mg PO BID RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day Disp #*60 Capsule Refills:*0 3. Senna 8.6 mg PO BID constipation RX *sennosides [senna] 8.6 mg 1 tab by mouth twice a day Disp #*30 Tablet Refills:*0 4. Pantoprazole 40 mg PO Q12H RX *pantoprazole 40 mg 1 tablet,delayed release (___) by mouth twice a day Disp #*60 Tablet Refills:*0 5. OxycoDONE (Immediate Release) ___ mg PO Q4H:PRN pain RX *oxycodone 5 mg 1 tablet(s) by mouth every 4 to 6 hours Disp #*20 Tablet Refills:*0 6. Multivitamins 1 TAB PO DAILY 7. Bumetanide 0.5 mg PO DAILY 8. Tamsulosin 0.4 mg PO HS 9. Carvedilol 25 mg PO HS 10. Carvedilol 12.5 mg PO QAM 11. fenofibrate 120 mg oral daily 12. Repaglinide 1 mg PO TIDAC 13. Rosuvastatin Calcium 40 mg PO DAILY 14. Ferrous Sulfate 325 mg PO DAILY RX *ferrous sulfate 325 mg (65 mg iron) 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0
+
+ Discharge Disposition: Home  Discharge Diagnosis: primary diagnosis: duodenal mass upper gastrointestinal bleed secondary diagnosis: congestive heart failure atrial fibrillation
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr. ___,
+
+It was a pleasure caring for you during your stay. You were admitted due GI bleeding, due to a mass in your small intestine. You underwent an artery embolization in order to stop the blood supply to the bleeding mass. Afterwards, your bleeding resolved and your blood counts remained stable. 
+
+Please continue to keep your appointments with your physicians. We wish you all the best.
+
+Your ___ medical team  Followup Instructions: ___ 

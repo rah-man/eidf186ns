@@ -1,0 +1,26 @@
+T1	Has_carers 8900 8907	Service
+T2	Delirium 9062 9080	Clear and coherent
+A1	Negation T2
+T3	Independently_mobile 9146 9170	Ambulatory - Independent
+T4	Weight_loss 1747 1758	Weight Loss
+T5	Visual_impairment 1767 1778	Photophobia
+T6	Visual_impairment 1782 1796	Visual Changes
+A2	Negation T4
+A3	Negation T5
+A4	Negation T6
+T7	Constipation 1946 1958	Constipation
+A5	Negation T7
+T8	Lower_gastrointestinal_haemorrhage 1962 1974	Hematochezia
+A6	Negation T8
+T9	Upper_gastrointestinal_haemorrhage 2014 2018;2022 2030	HEME Bleeding
+A7	Negation T9
+T10	Urinary_incontinence 2080 2092	Incontinence
+A8	Negation T10
+T11	Faecal_incontinence 2080 2092	Incontinence
+A9	Negation T11
+T12	Delirium 2482 2487	CAOx3
+A10	Negation T12
+T13	Lower_respiratory_tract_infection 4447 4456	pneumonia
+A11	Negation T13
+A12	Low_confidence T10
+A13	Low_confidence T11

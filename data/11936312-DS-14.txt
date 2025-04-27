@@ -1,0 +1,29 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: SURGERY  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: ESRD  Major Surgical or Invasive Procedure: ___ Laparoscopic insertion of peritoneal dialysis catheter on the left.
+
+ History of Present Illness: ___ man who recently started hemodialysis through a tunneled catheter. He prefers peritoneal dialysis as his ultimate modality. Risks, benefits, and alternatives to PD catheter placement were discussed in the office and appropriate consents were signed. The patient required cardiac risk stratification prior to the procedure which was obtained, and he was deemed to be an acceptable anesthetic risk with a moderate risk of perioperative cardiac event.
+
+ Past Medical History: -Type II DM with c/b kidney disease -CAD s/p CABG x 3 vessels at ___ in ___. -Cardiorenal syndrome -Congenital atrophic kidney -HTN -Hypercholesterolemia -History cardiac arrhythmia -Stage IV CKD -Ischemic cardiomyopathy (last EF 45-50%) ___ -Aortic Stenosis -BPH -Retinopathy, -Impingement syndrome -Cebellar Ataxia.  Social History: ___ Family History: Maternal GM: pneumonia Maternal GF: CVA Paternal GM: N/A Paternal GF: MI Father: CAD Mother: gastric cancer  Physical Exam: Discharge Physical Exam: Gen - NAD, AOx3 Heart - RRR Lungs - decreased breath sounds L lung base Abd - soft, NT, ND, PD catheter in place, no surrounding erythema or drainage GU - foley in place Extrem - warm, no edema  Pertinent Results: ___ 05:12AM BLOOD WBC-10.9* RBC-3.65* Hgb-10.9* Hct-35.6* MCV-98 MCH-29.9 MCHC-30.6* RDW-14.5 RDWSD-52.3* Plt ___
+
+___ 05:12AM BLOOD Glucose-202* UreaN-64* Creat-6.1* Na-138 K-5.7* Cl-100 HCO3-25 AnGap-19 ___ 05:12AM BLOOD Calcium-8.0* Phos-5.9* Mg-1.5* ___ 05:12AM BLOOD HBsAg-PND HBsAb-PND HBcAb-PND ___ 05:12AM BLOOD HCV Ab-PND  Brief Hospital Course: On ___, he underwent laparoscopic insertion of peritoneal dialysis catheter on the left. Surgeon was Dr. ___. Please refer to operative note for details. Postop course was notable for faiure to void, requiring st cath for 350cc. Flomax was started. On ___, he was only voiding a small amount and was straight cath'd for 500ml. Flomax was continued. He failed to void overnight after HD then a foley was placed for 250cc. ___ services was arranged to follow him as well as a urology f/u on ___ at ___. 
+
+On ___, he was noted to have multiple PVC on tele and EKG showed bigeminy. Magnesium was low at 1.5. Magnesium sulfate 2 grams was given and after discussion with nephrology, he underwent hemodialysis without event. 2 liters was ultra-filtrated. Post HD EKG demonstrated a normal sinus. His outpatient cardiologist, Dr. ___ was contacted regarding episode of bigeminy on ___ and sinus tachycardia on ___ with sbp in 90-130s without symptoms. The plan was to continue Toprol xl 25mg daily and f/u with the cardiology NP in the next week. An appointment was scheduled for ___. 
+
+ 
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Calcitriol 0.25 mcg PO 3X/WEEK (___) 2. Gabapentin 600 mg PO QHS 3. Metoprolol Succinate XL 50 mg PO 4X/WEEK (___) 4. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 5. Pantoprazole 40 mg PO Q24H 6. TraZODone 50 mg PO QHS:PRN insomnia 7. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 8. Lidocaine 5% Patch 1 PTCH TD QAM to lower back 9. Aspirin 81 mg PO DAILY takes at 2pm 10. Calcium Carbonate 200 mg PO TID 11. Vitamin D 1000 UNIT PO DAILY 12. Cyanocobalamin 1000 mcg PO DAILY 13. Atorvastatin 80 mg PO QPM 14. Nephrocaps 1 CAP PO DAILY 15. Docusate Sodium 100 mg PO BID 16. NPH 20 Units Breakfast 17. Fish Oil (Omega 3) 1000 mg PO BID 18. Senna 8.6 mg PO QHS 19. Lidocaine 5% Patch 1 PTCH TD QAM low back pain 
+
+ Discharge Medications: 1. OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - Moderate RX *oxycodone 5 mg ___ tablet(s) by mouth every six (6) hours Disp #*20 Tablet Refills:*0 2. Tamsulosin 0.4 mg PO QHS RX *tamsulosin 0.4 mg 1 capsule(s) by mouth once a day Disp #*5 Capsule Refills:*0 3. NPH 20 Units Breakfast 4. Metoprolol Succinate XL 25 mg PO ___  5. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  6. Aspirin 81 mg PO DAILY takes at 2pm  7. Atorvastatin 80 mg PO QPM  8. Calcitriol 0.25 mcg PO 3X/WEEK (___)  9. Calcium Carbonate 200 mg PO TID  10. Cyanocobalamin 1000 mcg PO DAILY  11. Docusate Sodium 100 mg PO BID  12. Fish Oil (Omega 3) 1000 mg PO BID  13. Gabapentin 600 mg PO QHS  14. Lidocaine 5% Patch 1 PTCH TD QAM low back pain  15. Lidocaine 5% Patch 1 PTCH TD QAM to lower back  16. Nephrocaps 1 CAP PO DAILY  17. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  18. Pantoprazole 40 mg PO Q24H  19. Senna 8.6 mg PO QHS  20. TraZODone 50 mg PO QHS:PRN insomnia  21. Vitamin D 1000 UNIT PO DAILY 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: ESRD DM urinary retention bigeminy, resolved
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Please call Dr. ___ office ___ if you have any of the following: fever, chills, nausea, vomiting, increased abdominal pain, abdominal incision dressing has drainage/bleeding, abdominal distension or you are unable to move your bowels. 
+
+Keep the abdominal dressing in place, and keep clean and dry
+
+No heavy lifting/straining. Do not lift anything heavier than 10 pounds. 
+
+Do sponge baths to keep dressing dry. No tub baths or swimming. 
+
+You have an appointment scheduled with ___ Dialysis for education about peritoneal dialysis  Followup Instructions: ___ 

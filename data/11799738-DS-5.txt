@@ -1,0 +1,167 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: NEUROSURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending: ___.  Chief Complaint: Fall  Major Surgical or Invasive Procedure: Third Ventriculostomy
+
+ History of Present Illness: HPI: Ms. ___ is a ___ y/o female who was running outside on ___. She stopped on a hard surface and fell forward resulting in hand lacerations, facial lacerations, and bilateral mandibular condyle fractures. She was taken to outside hospital where ___ CT suggested bilateraly posterior fossa hyperdensities. She was confused and amnestic to the event at that time, and she was transferred to ___ ER for higher level of care. At ___ she appeared to remember the details of the fall, and described a history of breast cancer with bilateral mastectomies. ___ CT from OSH was suspicious for mass lesions with effacement of fourth ventricle.
+
+ Past Medical History: PMHx: hypertension diabetes type 2 breast cancer
+
+PMHx: hypertension diabetes type 2 breast cancer
+
+PSHx: bilateral mastectomies ___ and ___
+
+ Social History: ___ Family History:  Family Hx: noncontributory
+
+ Physical Exam: on arrival
+
+PHYSICAL EXAM: Gen: WD/WN, comfortable, NAD. HEENT: Pupils: ___ bilaterally EOMs intact Neck: Supple. Lungs: CTA bilaterally. Cardiac: RRR. S1/S2. Abd: Soft, NT, BS+ Extrem: Warm and well-perfused. Neuro: Mental status: Awake and alert, cooperative with exam, normal affect. Orientation: Oriented to person, place, and date. Recall: ___ objects at 5 minutes. Language: Speech fluent with good comprehension and repetition. Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves: I: Not tested II: Pupils equally round and reactive to light, to mm bilaterally. Visual fields are full to confrontation. III, IV, VI: Extraocular movements intact bilaterally without nystagmus. V, VII: Facial strength and sensation intact and symmetric. VIII: Hearing intact to voice. IX, X: Palatal elevation symmetrical. XI: Sternocleidomastoid and trapezius normal bilaterally. XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements, tremors. Strength full power ___ throughout, but unable to test bilateral grip strenght effectively due to hand abrasions and dressing. No pronator drift
+
+Sensation: Intact to light touch, propioception, pinprick and vibration bilaterally.
+
+Toes downgoing bilaterally
+
+Coordination: normal on finger-nose-finger, rapid alternating movements, heel to shin
+
+ Pertinent Results: RADIOLOGY Final Report
+
+CHEST (PORTABLE AP) ___ 11:43 ___
+
+CHEST (PORTABLE AP)
+
+Reason: trauma series 
+
+UNDERLYING MEDICAL CONDITION: ___ transferred from ___ s/p fall, w facial fx, lip lac, cerebral contusion REASON FOR THIS EXAMINATION: trauma series INDICATION: ___ woman transferred from ___ status post fall, facial fractures, cerebral contusion.
+
+COMPARISON: None.
+
+AP UPRIGHT CHEST: The cardiac silhouette is at the upper limits of normal. The thoracic aorta is slightly unfolded. The lungs appear clear. There is mild cephalization of the pulmonary vasculature. No pleural effusions are seen. There are clips noted in the right axilla. No displaced rib fractures are seen.
+
+IMPRESSION: Mild cephalization of pulmonary vasculature without frank pulmonary edema.
+
+The study and the report were reviewed by the staff radiologist. ___. ___ ___. ___: TUE ___ 7:43 AM Cardiology Report ECG Study Date of ___ 11:35:44 ___    Sinus bradycardia. Non-specific junctional ST segment changes. Baseline artifact. No previous tracing available for comparison.    Read by: ___.   Intervals Axes Rate PR QRS QT/QTc P QRS T 58 150 84 452/448 99 -7 33    RADIOLOGY Final Report
+
+CT ___ W/O CONTRAST ___ 3:57 ___
+
+CT ___ W/O CONTRAST
+
+Reason: Intracranial bleed? 
+
+UNDERLYING MEDICAL CONDITION: ___ year old woman s/p fall with bilateral mandibular condyle fractures. Multiple cerebellar masses on CT. REASON FOR THIS EXAMINATION: Intracranial bleed? CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: ___ woman status post fall and multiple cerebellar masses. Please evaluate for intracranial hemorrhage.
+
+TECHNIQUE: Routine non-contrast ___ CT.
+
+COMPARISONS: MR ___ ___, and outside hospital CT dated ___.
+
+FINDINGS: As noted on the prior CT and MRI performed prior to this examination, there are multiple masses seen best in the posterior fossa with surrounding vasogenic edema and mass effect on the fourth ventricle. These masses were better evaluated on the MRI performed prior to the study. There is a small focus of hemorrhage in the subependymal/ventricular system in the occipital horn of the left lateral ventricle, which is increased in size since the outside hospital CT dated ___ at 18:49, approximately 24 hours earlier. This may represent evolution of post-traumatic hemorrhage given the patient's recent fall. Alternatively, this could represent hemorrhage of a subependymal metastasis although an enhancing lesion is not seen in this region on the MRI performed prior to this study. No other foci of hemorrhage are identified. There is no midline shift. Again noted is prominence of the ventricles and sulci. There is effacement of the fourth ventricle and prepontine cisterns. The surrounding osseous and soft tissue structures are otherwise unremarkable. The imaged paranasal sinuses are well aerated.
+
+IMPRESSION:
+
+1. In comparison to the outside hospital CT performed approximately 24 hours earlier, there has been interval increase in hemorrhage in the region of the posterior horn of the left lateral ventricle. This hemorrhage is not significantly changed in comparison to the MRI performed prior to this exam.
+
+2. Multiple mass lesions seen best in the posterior fossa with surrounding vasogenic edema are consistent with metastatic disease, which was better evaluated on the preceding MRI.
+
+3. Prominence of the ventricles and sulci may be related to age-related involutional change; however, given the mass effect on the fourth ventricle, obstructing hydrocephalus may be evolving and close clinical followup is recommended. The study and the report were reviewed by the staff radiologist. ___. ___ ___. ___: WED ___ 8:21 AM
+
+  RADIOLOGY Final Report
+
+MR ___ W & W/O CONTRAST ___ 2:06 AM
+
+MR ___ W & W/O CONTRAST
+
+Reason: further elucidate intracranial hemorrhage vs. mass Contrast: MAGNEVIST
+
+UNDERLYING MEDICAL CONDITION: ___ transferred from ___ s/p fall, w facial fx, lip lac, cerebral contusion REASON FOR THIS EXAMINATION: further elucidate intracranial hemorrhage vs. mass CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: Status post fall with facial fractures.
+
+TECHNIQUE: Multiplanar T1- and T2-weighted images were obtained through the ___ without and with intravenous contrast. Diffusion-weighted images were obtained.
+
+COMPARISONS: Outside hospital examination from ___.
+
+MR ___ WITHOUT AND WITH CONTRAST: There are multiple enhancing lesions throughout the brain, the largest of which are within the posterior fossa. The largest lesion measures 4.2 x 3.4 cm within the left cerebellar hemisphere. There is a 1.6 x 2.8 cm enhancing lesion within the right cerebellar hemisphere inferiorly and a 2.7 x 3.7 cm lesion in the right cerebellar hemisphere superiorly. There is a 1.5 x 1.9 cm lesion centered in the cerebellar vermis. There is a 1.0-mm lesion in the left temporal lobe inferiorly and multiple smaller subcentimeter lesions within the remainder of the temporal lobe. In the posterior right frontal lobe is a 1.1-cm enhancing lesion. Multiple smaller subcentimeter lesions are seen throughout the frontal lobe, many of which are rim-enhancing. All of these lesions demonstrate surrounding vasogenic edema. Multiple lesions within the posterior fossa are heterogeneous in signal intensity and enhancement characteristics which may reflect underlying necrosis or calcification. There is a lesion in the subependymal region of the left posterior occipital horn which demonstrates increased susceptibility on gradient echo consistent with hemorrhage.
+
+There is effacement of the prepontine cisterns. The fourth ventricle is narrow, however, there is no evidence for tonsillar herniation at this time. There is no subfalcine herniation.
+
+The ventricles and sulci are mildly prominent.
+
+There are scattered T2 hyperintense foci in the periventricular white matter consistent with small vessel ischemic changes.
+
+The surrounding osseous and soft tissue structures are unremarkable. The imaged paranasal sinuses are well aerated.
+
+IMPRESSION: 1. Multiple large enhancing masses throughout the brain parenchyma most consistent with metastatic disease. The largest lesion is in the left cerebellar hemisphere and measures up to 4.2 cm. There is effacement of the prepontine cisterns and the fourth ventricle, however, there is no evidence of tonsillar herniation at this time. Prominence of the ventricles and sulci may be related to age-related involutional change; however, close followup is recommended to exlude developing hydrocephalus. 2. Small focus of subependymal hemorrhage in the left posterior occipital horn may represent a hemorrhage within a metastasis. No other foci of hemorrhage are identified. This appears grossly similar in size when compared to the outside hospital CT from yesterday.
+
+INDICATION: ___ woman status post fall and multiple cerebellar masses. Please evaluate for intracranial hemorrhage.
+
+TECHNIQUE: Routine non-contrast ___ CT.
+
+COMPARISONS: MR ___ ___, and outside hospital CT dated ___.
+
+FINDINGS: As noted on the prior CT and MRI performed prior to this examination, there are multiple masses seen best in the posterior fossa with surrounding vasogenic edema and mass effect on the fourth ventricle. These masses were better evaluated on the MRI performed prior to the study. There is a small focus of hemorrhage in the subependymal/ventricular system in the occipital horn of the left lateral ventricle, which is increased in size since the outside hospital CT dated ___ at 18:49, approximately 24 hours earlier. This may represent evolution of post-traumatic hemorrhage given the patient's recent fall. Alternatively, this could represent hemorrhage of a subependymal metastasis although an enhancing lesion is not seen in this region on the MRI performed prior to this study. No other foci of hemorrhage are identified. There is no midline shift. Again noted is prominence of the ventricles and sulci. There is effacement of the fourth ventricle and prepontine cisterns. The surrounding osseous and soft tissue structures are otherwise unremarkable. The imaged paranasal sinuses are well aerated.
+
+IMPRESSION: 1. In comparison to the outside hospital CT performed approximately 24 hours earlier, there has been interval increase in hemorrhage in the region of the posterior horn of the left lateral ventricle. This hemorrhage is not significantly changed in comparison to the MRI performed prior to this exam.
+
+2. Multiple mass lesions seen best in the posterior fossa with surrounding vasogenic edema are consistent with metastatic disease, which was better evaluated on the preceding MRI.
+
+3. Prominence of the ventricles and sulci may be related to age-related involutional change; however, given the mass effect on the fourth ventricle, obstructing hydrocephalus may be evolving and close clinical followup is recommended.
+
+The study and the report were reviewed by the staff radiologist. ___. ___ ___. ___: TUE ___ 8:48 ___
+
+  RADIOLOGY Final Report
+
+HAND (AP, LAT & OBLIQUE) BILAT ___ 2:37 AM
+
+HAND (AP, LAT & OBLIQUE) BILAT
+
+Reason: eval for fractures 
+
+UNDERLYING MEDICAL CONDITION: ___ year old woman with s/p fall from standing, ttp diffusely over dorsum of hands bilaterally REASON FOR THIS EXAMINATION: eval for fractures INDICATION: ___ woman status post fall, diffusely tender to palpation over the dorsum of the hands bilaterally.
+
+BILATERAL HANDS, SIX VIEWS: On the left, the patient is unable to straighten the fourth digit at the PIP joint, subluxation/dislocation in this region cannot be excluded. No other area concerning for fracture or malalignment is identified. There is a well corticated osseous density along the volar region of the fourth middle phalanx, perhaps related to prior trauma, but incompletely evaluated.
+
+On the right, the patient is unable to straighten her third digit at the PIP joint, no other area concerning for fracture or dislocation is identified. There are vascular calcifications noted. The bones have a patchy appearance, which may relate to demineralization.
+
+IMPRESSION: At least subluxation of the PIP joints in the left fourth and right third digits. This suggests unopposed flexor muscles possibly due to extensor injury. The bilateral nature is peculiar. Please correlate with exam. No fracture identified.
+
+The study and the report were reviewed by the staff radiologist. ___. ___ ___. ___: TUE ___ 7:58 AM
+
+NOTE: TEAM NEUROSURGERY: NONE OF THE ___ AND LATER STUDIES WERE ADDED ___ NOT BEING FINALIZE
+
+ Brief Hospital Course: Ms. ___ was admitted to the neurosurgery service on ___ after falling while running outside. Her initial ___ CT showed masses in her posterior fossa. The patient initially had multiple bruises on her face, she sustained bilateral mandibular condyle fractures, and had lacerations on her hands. After being admitted to the ___, the patient was able to recall the events leading to her fall and was able to give a past medical history including bilateral mastectomies. Several hours after admission, she became agitated, confused and had a repeat ___ CT which showed a new small hemorrhage in the left ventricle. She received a low dose of haldol in order to allow her to tolerate the ___ CT. 
+
+On ___, a radiation oncology consult was obtained and they recommended whole brain radiation. On the same day OMF consult was obtained. They stated that there was no surgery needed at the time for her mandibular fractures and recommended keeping her NPO initially.
+
+On ___ the patient was transferred to the neuro step-down unit. Her mental status waxed and waned and she required some additional doses of haldol in order to keep her from falling out of bed. Her sister in ___ was contacted and she gave consent over the phone for the patient to have a ___ ventriculostomy placed. 
+
+On ___ the patient had a CT chest which showed a 3-cm right lower lobe mass lesion and extensive associated lymphadenopathy, which was likely primary lung CA. There were also two liver masses and extensive abdominal lymphadenopathy found. She had a bone scan which showed no evidence of osseous metastatic disease.
+
+On ___ the patient went to the OR for a ___ ventriculostomy which went well without complication. She was transferred back to the step-down unit after recovering in the PACU. Her mental status was improving and she was oriented x 3 post-operatively.
+
+On ___ the patient was transferred out of step-down to the floor. Her diet was advanced to purred solids and thickened liquids, which she tolerated well. Her mental status continued to improve and she had a physical therapy evaluation. They recommended rehab.
+
+The patient was seen by social work to facilitate completing health care proxy paperwork and to help deal with coping with her illness.
+
+On ___ the patient continued to do well neurologically and she was scheduled to begin radiation the following day. OMF was contacted again and they recommended increasing her diet to soft solids and thin liquids. She will remain on this diet until they see her in follow-up. 
+
+On ___ she was started on Keppra for seizure prophylaxis. She also started XRT that day. The following day, she had been scheduled for a lung biopsy to evaluate her multiple lesions, however she then declined both the biopsy and radiation. These were therefore canceled and there were extensive conversations with the patient about her goals of care. She stated that she did not want hospice and did not want further treatment, however after discussion explaining that these interventions were intended to provide her with additional comfort and care, she agreed to continue with radiation. She stated she would also consider the biopsy. On the ___ and ___, she had radiation, after which she was discharged to rehabilitation to continue with her radiation, therapy and further discussion of possible lung biopsy.
+
+ Medications on Admission: glyburide toprol XL ASA
+
+ Discharge Medications: 1. Insulin Lispro 100 unit/mL Solution Sig: One (1)  Subcutaneous ASDIR (AS DIRECTED).  2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).  3. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily).  4. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  6. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).  7. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)  Injection TID (3 times a day).  8. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for Fever/pain.  9. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  10. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day).  11. Dexamethasone 4 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours). 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Metastatic Brain Tumors
+
+ Discharge Condition: neurologically stable
+
+ Discharge Instructions: DISCHARGE INSTRUCTIONS FOR ___ INJURY
+
+Have a family member check your incision daily for signs of infection Take your pain medicine as prescribed Exercise should be limited to walking; no lifting, straining, excessive bending You may wash your hair only after sutures have been removed You may shower before this time with assistance and use of a shower cap Increase your intake of fluids and fiber as pain medicine (narcotics) can cause constipation Unless directed by your doctor, do not take any anti-inflammatory medicines such as Motrin, aspirin, Advil, Ibuprofen etc. If you have been prescribed an anti-seizure medicine, take it as prescribed and follow up with laboratory blood drawing as ordered
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE FOLLOWING:
+
+New onset of tremors or seizures Any confusion or change in mental status Any numbness, tingling, weakness in your extremities Pain or headache that is continually increasing or not relieved by pain medication Any signs of infection at the wound site: redness, swelling, tenderness, drainage Fever greater than or equal to 101° F
+
+ Followup Instructions: ___ 

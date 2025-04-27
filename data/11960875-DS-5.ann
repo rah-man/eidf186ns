@@ -1,0 +1,59 @@
+T1	Delirium 7205 7213	Confused
+T2	Bed_Chairbound 7322 7330	Bedbound
+T3	Upper_gastrointestinal_haemorrhage 6948 6956	GI bleed
+A1	Low_confidence T3
+T4	Lower_gastrointestinal_haemorrhage 6948 6956	GI bleed
+A2	Low_confidence T4
+T5	Upper_gastrointestinal_haemorrhage 7400 7408	GI bleed
+A3	Low_confidence T5
+T6	Lower_gastrointestinal_haemorrhage 7400 7408	GI bleed
+A4	Low_confidence T6
+T7	Dementia 7630 7638	dementia
+A5	Low_confidence T7
+T8	Upper_gastrointestinal_haemorrhage 5115 5123	GI bleed
+A6	Low_confidence T8
+T9	Lower_gastrointestinal_haemorrhage 5115 5123	GI bleed
+A7	Low_confidence T9
+T10	Upper_gastrointestinal_haemorrhage 4966 4974	GI bleed
+A8	Low_confidence T10
+T11	Lower_gastrointestinal_haemorrhage 4966 4974	GI bleed
+A9	Low_confidence T11
+T12	Upper_gastrointestinal_haemorrhage 4266 4275	GI bleeds
+A10	Diagnosis T12 Implicit_mention
+A11	Low_confidence T12
+T13	Lower_gastrointestinal_haemorrhage 4266 4275	GI bleeds
+A12	Diagnosis T13 Implicit_mention
+A13	Low_confidence T13
+T14	Lives_in_carehome 4612 4624	nursing home
+T15	Constipation 6106 6118	constipation
+A14	Diagnosis T15 Implicit_mention
+T16	Constipation 6627 6639	constipation
+A15	Diagnosis T16 Implicit_mention
+T17	Upper_gastrointestinal_haemorrhage 3650 3658	GI bleed
+A16	Low_confidence T17
+T18	Lower_gastrointestinal_haemorrhage 3650 3658	GI bleed
+A17	Low_confidence T18
+T19	Lives_in_carehome 3660 3672	nursing home
+T20	Lower_gastrointestinal_haemorrhage 3682 3687	BRBPR
+T21	Lower_gastrointestinal_haemorrhage 3703 3717	lower GI bleed
+T22	Lives_in_carehome 3596 3608	nursing home
+T23	Lower_gastrointestinal_haemorrhage 3618 3623	BRBPR
+T24	Intracranial_haemorrhage 2808 2815;2907 2917	CT HEAD hemorrhage
+A18	Negation T24
+T25	Lives_in_carehome 1238 1250	nursing home
+T26	Dementia 1262 1270	dementia
+T27	Dementia 1272 1282	Alzheimers
+T28	Visual_impairment 1603 1612	cataracts
+A19	Diagnosis T28 History_of
+A20	Diagnosis T26 History_of
+A21	Diagnosis T27 History_of
+T29	Lives_in_carehome 506 518	nursing home
+T30	Lower_gastrointestinal_haemorrhage 532 543	bloody stoo
+A22	Diagnosis T30 Implicit_mention
+T31	Dementia 329 349	Alzheimer's dementia
+T32	Lives_in_carehome 423 435	nursing home
+T33	Lower_gastrointestinal_haemorrhage 445 450	BRBPR
+T34	Lower_gastrointestinal_haemorrhage 226 231	BRBPR
+T35	Dementia 3465 3485	Alzheimer's dementia
+T36	Lives_in_carehome 4166 4178	nursing home
+T37	Urinary_tract_infection 4788 4791	UTI

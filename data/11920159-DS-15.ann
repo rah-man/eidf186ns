@@ -1,0 +1,25 @@
+T1	Delirium 9066 9084	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 9150 9174	Ambulatory - Independent
+T3	Faecal_incontinence 8989 9007	Fecal incontinence
+T4	Urinary_tract_infection 9352 9375	Urinary tract infection
+T5	Urinary_tract_infection 8724 8747	Urinary Tract Infection
+T6	Urinary_tract_infection 6523 6526	UTI
+T7	Urinary_tract_infection 4928 4931	UTI
+T8	Urinary_tract_infection 5085 5088	UTI
+T9	Falls 632 636	fall
+A2	Negation T9
+T10	Delirium 733 742	confusion
+A3	Negation T10
+T11	Urinary_incontinence 744 777	loss of bowel or bladder function
+A4	Negation T11
+T12	Faecal_incontinence 744 777	loss of bowel or bladder function
+A5	Negation T12
+T13	Weight_loss 1286 1297	weight loss
+A6	Negation T13
+T14	Faecal_incontinence 1923 1941	fecal incontinence
+A7	Diagnosis T14 History_of
+T15	Visual_impairment 2093 2101	cataract
+A8	Diagnosis T15 History_of
+T16	Delirium 2541 2549	oriented
+A9	Negation T16

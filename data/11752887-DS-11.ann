@@ -1,0 +1,33 @@
+T1	Seizures 9737 9744	seizure
+T2	Seizures 9441 9448	Seizure
+T3	Delirium 9549 9567	Clear and coherent
+A1	Negation T3
+T4	Independently_mobile 9633 9657	Ambulatory - Independent
+T5	Seizures 8312 8319	seizure
+A2	Diagnosis T5 Suspected
+T6	Seizures 227 234	seizure
+A3	Diagnosis T6 Suspected
+T7	Faecal_incontinence 1863 1868;1877 1889	bowel incontinence
+A4	Negation T7
+T8	Urinary_incontinence 1869 1876;1877 1889	bladder incontinence
+A5	Negation T8
+T9	Visual_impairment 1911 1925	visual changes
+A6	Negation T9
+T10	Hearing_impairment 4821 4835	Hearing intact
+A7	Negation T10
+T11	Seizures 9876 9884	seizures
+A8	Diagnosis T11 Implicit_mention
+T12	Seizures 3366 3373	seizure
+A9	Negation T12
+A10	Diagnosis T12 Implicit_mention
+T13	Delirium 3923 3931	oriented
+A11	Negation T13
+T14	Intracranial_haemorrhage 7428 7435;7549 7559	CT HEAD Hemorrhage
+A12	Diagnosis T14 Suspected
+T15	Seizures 8777 8784	seizure
+A13	Diagnosis T15 Implicit_mention
+T16	Seizures 8914 8922	seizures
+A14	Diagnosis T16 Implicit_mention
+T17	Seizures 10204 10211	seizure
+A15	Diagnosis T17 Implicit_mention
+T18	Seizures 8343 8350	seizure

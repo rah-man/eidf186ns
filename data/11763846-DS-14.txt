@@ -1,0 +1,19 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: Abdominal pain  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: Ms. ___ is a ___ yo lady with progressive metastatic urothelial cancer complicated by pulmonary embolism and colovaginal fistula who was sent from ___ clinic with lethargy and tachycardia and found to have severe hypercalcemia.  After initial management of her hypercalcemia, her hospital course was complicated by worsening leukocytosis, sinus tachycardia, anion gap metabolic acidosis (lactic acidosis) with worsening tachycardia, hypotension, and pain. On ___, family meeting was held with the patient, her sister, her husband, her oncologist Dr. ___, ___ care NP ___, and primary team. The patient ultimately decided to pursue comfort measures and DNR/DNI status. She was in increased pain on ___, so started a morphine drip. Per discussion with her family and hospice on ___, they decided to pursue hospice care, so she was discharged from acute care and admitted to inpatient hospice at ___ at that time, with ___ Hospice following.   Past Medical History: PAST ONCOLOGIC HISTORY:  ___: C1D1 gem/cis (cisplatin dose reduced 25% for renal function) ___: C1D8 (gem) (gemcitabine reduced 25% for ANC 880) ___: C2D1 gem/cis (cisplatin dose reduced 15% for renal function, gemcitabine dose reduced 10% for recent low ANC) ___: C2D8 (gem) (gemcitabine reduced 25% for ANC 1000) ___: C3D1 gem/cis (both reduced 15%)
+
+___: CT shows incidental PEs, started on apixaban ___: C4D1 gem/cis ___: C4D8 gem held ___: Chemotherapy held for fatigue ___: C1 pembrolizumab ___: C2 pembro ___: C3 pembro ___: C1 pemetrexed ___: C2 pemetrexed ___: C3 pemetrexed
+
+PAST MEDICAL HISTORY:  Urothelial carcinoma (left nephroureterectomy ___ - Spinal stenosis - Uterine fibroids status post total hysterectomy and bilateral salpingo-oophorectomy ___ ___) - Depression - Prediabetes -Pulmonary embolism
+
+ Social History: ___ Family History: Sister had breast cancer in her mid-___
+
+ Physical Exam: ON ADMISSION TO HOSPICE: GENERAL: Alert and in no apparent distress, appeared comfortable laying in bed, fatigued, responds verbally to questions, soft spoken EYES: Anicteric RESP: Breathing is non-labored on room air. GU: No GU catheter present NEURO: Alert, conversant; face symmetric, speech fluent but slow PSYCH: Pleasant, appropriate affect, calm, cooperative
+
+Patient expired on ___.  Pertinent Results: None. No labs or imaging were pursued since the patient was on hospice care.  Brief Hospital Course: Ms. ___ is a ___ yo lady with progressive metastatic urothelial cancer complicated by pulmonary embolism and colovaginal fistula who was sent from ___ clinic with lethargy and tachycardia and found to have severe hypercalcemia.  Due to worsening metastatic disease with complications, she opted to pursue hospice care with ___.  She was treated with morphine infusion with boluses for persistent abdominal pain secondary to her cancer, as well as PRN medications for anxiety and secretions. She was surrounded by a very large, extended family. She was followed by ___ care, ___, and her primary oncologist Dr. ___ ___ ultimately expired on ___.
+
+ Medications on Admission: Morphine infusion  Discharge Medications: Expired  Discharge Disposition: Expired  Discharge Diagnosis: Metastatic urothelial cancer 
+
+ Discharge Condition: Expired
+
+ Discharge Instructions: You were admitted to inpatient hospice care for ongoing management of your pain and other symptoms. You were followed by Seasons Hospice and palliative care. It was a pleasure to care for you and your family.  Followup Instructions: ___ 

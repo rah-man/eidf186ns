@@ -1,0 +1,33 @@
+T1	Dementia 8989 8997	dementia
+T2	Intracranial_haemorrhage 1646 1653;1677 1689	Head CT intracranial
+A1	Negation T2
+T3	Dementia 2047 2055	Dementia
+T4	Visual_impairment 2083 2091	cataract
+A2	Diagnosis T4 History_of
+T5	Visual_impairment 2100 2108	glaucoma
+A3	Diagnosis T5 History_of
+T6	Unspecified_cognitive_impairment 3174 3178	A0x1
+T7	Intracranial_haemorrhage 3554 3561;3590 3602	head CT intracranial
+A4	Negation T7
+T8	Dementia 7470 7478	Dementia
+T9	Dementia 7497 7505	dementia
+A5	Diagnosis T9 History_of
+T10	Unspecified_cognitive_impairment 7568 7572	AOx1
+T11	Delirium 7573 7581	confused
+T12	Unspecified_cognitive_impairment 2762 2783	oriented only to self
+T13	Lower_respiratory_tract_infection 1627 1644	COPD exacerbation
+T14	Unspecified_cognitive_impairment 8935 8943	Oriented
+T15	Falls 2011 2016	falls
+A6	Diagnosis T15 History_of
+T16	Delirium 1165 1174	confusion
+T17	Falls 7080 7085	falls
+A7	Diagnosis T17 History_of
+T18	Upper_gastrointestinal_haemorrhage 7138 7146	GI bleed
+A8	Diagnosis T18 History_of
+A9	Low_confidence T18
+T19	Lower_gastrointestinal_haemorrhage 7138 7146	GI bleed
+A10	Diagnosis T19 History_of
+A11	Low_confidence T19
+T20	Falls 7931 7936	falls
+A12	Diagnosis T20 History_of
+T21	Lower_respiratory_tract_infection 5336 5353	COPD exacerbation

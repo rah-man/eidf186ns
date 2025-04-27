@@ -1,0 +1,34 @@
+T1	Delirium 9389 9407	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 9473 9505	Ambulatory - requires assistance
+T3	Mobile_with_aid 9509 9512	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Lower_respiratory_tract_infection 9668 9677	pneumonia
+T5	Lower_respiratory_tract_infection 9715 9724	pneumonia
+T6	Lower_respiratory_tract_infection 9276 9285	Pneumonia
+T7	Constipation 8775 8787	constipation
+A3	Diagnosis T7 Implicit_mention
+T8	Constipation 8730 8742	constipation
+A4	Diagnosis T8 Implicit_mention
+T9	Constipation 8326 8338	constipation
+A5	Diagnosis T9 Implicit_mention
+T10	Constipation 7984 7996	constipation
+A6	Diagnosis T10 Implicit_mention
+T11	Lower_respiratory_tract_infection 4703 4712	pneumonia
+T12	Lower_respiratory_tract_infection 4717 4734	COPD exacerbation
+T13	Delirium 3146 3151	AAOx4
+A7	Negation T13
+T14	Lower_respiratory_tract_infection 1766 1775	pneumonia
+T15	Delirium 3034 3039	A&Ox3
+A8	Negation T15
+T16	Lower_respiratory_tract_infection 4783 4792	Pneumonia
+T17	Lower_respiratory_tract_infection 4971 4975	HCAP
+T18	Lower_respiratory_tract_infection 4817 4845	community acquired pneumonia
+T19	Lower_respiratory_tract_infection 9308 9325	COPD exacerbation
+T20	Lower_respiratory_tract_infection 7097 7114	COPD exacerbation
+T21	Lower_respiratory_tract_infection 6820 6837	COPD exacerbation
+T22	Lower_respiratory_tract_infection 5523 5532	pneumonia
+T23	Constipation 2383 2395	Constipation
+A9	Diagnosis T23 History_of
+T24	Lower_respiratory_tract_infection 4054 4071;4099 4108	upper lobe apical infection
+A10	Low_confidence T24

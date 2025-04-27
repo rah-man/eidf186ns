@@ -1,0 +1,34 @@
+T1	Urinary_tract_infection 274 283	urosepsis
+T2	Seizures 562 569	seizure
+A1	Diagnosis T2 Implicit_mention
+T3	Intracranial_haemorrhage 898 905;927 932	Head CT bleed
+A3	Negation T3
+T4	Urinary_tract_infection 1078 1081	UTI
+A4	Diagnosis T4 History_of
+T5	Urinary_tract_infection 1674 1697	urinary tract infection
+A5	Diagnosis T5 History_of
+T6	Mobile_with_aid 2825 2835	wheelchair
+A6	Type_of_aid T6 Wheelchair
+T7	Lives_in_carehome 2858 2870	nursing home
+T8	Urinary_tract_infection 2971 2974	UTI
+A7	Diagnosis T8 History_of
+T9	Urinary_tract_infection 3168 3177	Urosepsis
+A8	Diagnosis T9 History_of
+T10	Constipation 12132 12144	Constipation
+A9	Diagnosis T10 Implicit_mention
+T11	Delirium 13423 13431	Confused
+T12	Bed_Chairbound 13398 13406	Bedbound
+T13	Urinary_tract_infection 13701 13724	urinary tract infection
+T14	Urinary_tract_infection 13083 13089;13097 13104	Sepsis urinary
+T15	Pressure_injury 3883 3889;3903 3911;3933 3936	sacral buttocks hip
+T16	Seizures 998 1005	seizure
+A10	Diagnosis T16 Suspected
+T17	Delirium 8380 8401	altered mental status
+T18	Constipation 10379 10391	constipation
+A11	Diagnosis T18 Implicit_mention
+T19	Delirium 219 226	altered
+A12	Low_confidence T19
+T20	Urinary_tract_infection 7180 7189	urosepsis
+T21	Urinary_tract_infection 8953 8962	urosepsis
+A2	Diagnosis T21 History_of
+T22	Urinary_tract_infection 7268 7277	Urosepsis

@@ -1,0 +1,16 @@
+T1	Has_carers 5401 5408	Service
+T2	Delirium 5513 5531	Clear and coherent
+A1	Negation T2
+T3	Independently_mobile 5597 5621	Ambulatory - Independent
+T4	Seizures 7990 7998	Seizures
+A2	Diagnosis T4 Implicit_mention
+T5	Visual_impairment 8009 8017;8028 8034	problems vision
+A3	Diagnosis T5 Implicit_mention
+T6	Delirium 8268 8277	confusion
+A4	Diagnosis T6 Implicit_mention
+T7	Delirium 2274 2285	Orientation
+A5	Negation T7
+T8	Constipation 7520 7532	Constipation
+A6	Diagnosis T8 Implicit_mention
+T9	Seizures 6509 6516	seizure
+A7	Diagnosis T9 Implicit_mention

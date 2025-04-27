@@ -1,0 +1,89 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: BRBPR  Major Surgical or Invasive Procedure: None  History of Present Illness: ___ year old female hx. Alzheimer's dementia, COPD, HTN, LLE DVT, multiple CVAs nonverbal at baseline presenting from nursing home with c/o BRBPR. Patient is nonverbal at baseline.
+
+As per report from nursing home, patient had bloody stool this afternoon. Labs drawn showed hematocrit of 21, INR of 6.5.  Patient recieved 5mg IM vitamin K and was transferred to ___ ED. 
+
+In the ED, initial VS: 96.6 72 100/42 (153/78 on next read) 18 97%. Labs were notable for H/H of 7.1/___.2, chem-7 notable for BUN/Cr of 60/1.4, trop t 0.03. u/a showed large leuks and nitrite pos. Patient was started on pantoprazole drip, was ordered for 2u pRBCs, 2u FFP, given ceftriaxone x1. GI was consulted. Patient is being transferred to the MICU for close monitoring. 
+
+On arrival to the MICU, patient remains nonverbal. 
+
+Review of systems:  unable to be obtained
+
+ Past Medical History: Past Medical History (as per prior dc summ and discussion with nursing home):  - mixed dementia (Alzheimers and Ischemic Vascular Disease) - T2DM, on insulin - HTN - s/p multiple CVAs - left leg DVT on coumadin (dx ___ - CKD (baseline Cr 1.2)  Social History: ___ Family History: unable to obtain  Physical Exam: ADMISSION EXAM 97.1 77 148/74 16 98% RA General- eyes closed, lying in bed, not interactive HEENT- pupils with b/l cataracts  Neck- supple  Lungs- mild wheezing anteriorly CV- RRR, no m/r/g Abdomen- soft, nontender, BS+  GU- foley in place Ext- WWP, no c/c/e Neuro- uncooperative
+
+DISCHARGE EXAM afebrile, VSS Lungs clear to auscultation bilaterally Foley catheter removed Remainder of exam unchanged  Pertinent Results: ADMISSION LABS ___
+
+PLT COUNT-263 NEUTS-37.6* LYMPHS-51.7* MONOS-6.9 EOS-3.3 BASOS-0.5 WBC-6.3 RBC-2.72* HGB-7.1* HCT-23.2* MCV-86# MCH-26.1*# MCHC-30.5*# RDW-13.4
+
+CALCIUM-9.4 PHOSPHATE-4.2 MAGNESIUM-1.8
+
+cTropnT-0.03*
+
+GLUCOSE-107* UREA N-60* CREAT-1.4* SODIUM-143 POTASSIUM-5.4* CHLORIDE-108 TOTAL CO2-24 ANION GAP-16
+
+HGB-7.3* calcHCT-22
+
+LACTATE-1.6
+
+K+-4.8
+
+URINE RBC-<1 WBC-34* BACTERIA-MANY YEAST-NONE EPI-<1
+
+___ PTT-70.2* ___
+
+WBC-6.5 RBC-2.60* HGB-6.7* HCT-22.1* MCV-85 MCH-26.0* MCHC-30.5* RDW-13.3
+
+cTropnT-0.03*
+
+GLUCOSE-108* UREA N-56* CREAT-1.3* SODIUM-143 POTASSIUM-5.4* CHLORIDE-110* TOTAL CO2-21* ANION GAP-17
+
+DISCHARGE LABS ___:
+
+Hematocrit 29
+
+ferritin 17
+
+MICRO
+
+___ blood culture- coagulase negative Staph, thought to be contaminant, as all other blood cultures are negative or pending, and there were no signs of infection
+
+urine culture- mixed flora
+
+REPORTS
+
+___  Imaging CT HEAD W/O CONTRAST
+
+FINDINGS: Study is somewhat motion limited; however, there is no evidence of hemorrhage, mass effect, shift of normally midline structures, or infarction. Ventricles and sulci are enlarged consistent with age-related atrophy. This atrophy has progressed substantially since the study of ___. Gray-white matter differentiation is preserved throughout. The sinuses are clear. Carotid siphon as well as vertebral artery calcifications are noted.  IMPRESSION: No evidence hemorrhage or infarction. Marked progression of atrophy since ___.
+
+left ___: no DVT in left lower extremity  Brief Hospital Course: ___ year old female with advanced Alzheimer's dementia/cerebrovascular disease (aphasic and non-verbal at baseline), COPD, HTN, remote left ___ DVT, presenting from nursing home with c/o BRBPR in setting of INR 6.9.
+
+# GI bleed: nursing home reported BRBPR concerning for lower GI bleed. Patient's initial hematocrit was 21, down from baseline of 28 according to ___ home labs. Received total of 3 units of PRBCs and 2u FFP for elevated INR, with good response. No recurrence of bleeding during admission, and discharge hematocrit 29. Coumadin and plavix were held, and Plavix restarted prior to discharge. Discussed case with HCP, daughter ___, and Dr. ___, who is the physician who has been caring for patient over past ___ years at nursing home, and decision was made to discontinue warfarin, as DVT was remote, and risks of future GI bleeds outweighed benefit of ongoing anticoagulation. GI was consulted, recommended trending hematocrit and conservative management, continuing PPI for 2 weeks total, and to monitor CBC once per week for the next 2 weeks to ensure stable hematocrit. Defer to Dr. ___ whether to start DVT prophylaxis for patient in the future.
+
+# Hx. DVT: per nursing home, dx in ___. On warfarin prior to admission, with supratherapeutic IRN. As noted above, will discontinue warfarin. Left ___ prior to discharge negative for DVT.
+
+# UTI: patient with positive u/a in ED. Was treated with empiric course of ceftriaxone, and will finish with Bactrim on ___. 
+
+# Cerebrovascular disease- held Plavix in setting of GI bleed, restarted prior to discharge
+
+# HTN: held home antihypertensives including diltiazem, metoprolol, lisinopril, and furosemide in setting of GI bleed, all restarted prior to discharge
+
+# T2DM: continued home lantus regimen 30u QAM + ISS
+
+# COPD: continued albuterol
+
+TRANSITIONAL ISSUES - check CBC once per week with results to Dr. ___, to ensure stable hematocrit - cont pantoprazole for 2 more weeks, then discontinue - stop warfarin - stop enoxaparin- defer to Dr. ___ starting DVT prophylaxis in the future - please resume all nursing care provided at ___ ___ and ___ that was provided prior to admission
+
+Daughter ___, HCP, at ___ was updated daily and of day of discharge, agreed with plan, and did not have any questions or concerns.  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Clopidogrel 75 mg PO DAILY 2. Lisinopril 20 mg PO DAILY 3. Metoprolol Tartrate 25 mg PO BID 4. Docusate Sodium 200 mg PO DAILY 5. Diltiazem 60 mg PO Q8H 6. Furosemide 20 mg PO DAILY 7. Enoxaparin Sodium 60 mg SC DAILY Start: ___, First Dose: Next Routine Administration Time 8. Senna 2 TAB PO BID:PRN constipation 9. Albuterol Inhaler 2 PUFF IH Q4H:PRN wheeze 10. Warfarin 7.5 mg PO DAILY16 11. Glargine 30 Units Breakfast Insulin SC Sliding Scale using REG Insulin
+
+ Discharge Medications: 1. Albuterol Inhaler 2 PUFF IH Q4H:PRN wheeze 2. Clopidogrel 75 mg PO DAILY 3. Diltiazem 60 mg PO Q8H 4. Docusate Sodium 200 mg PO DAILY 5. Furosemide 20 mg PO DAILY 6. Glargine 30 Units Breakfast Insulin SC Sliding Scale using HUM Insulin 7. Lisinopril 20 mg PO DAILY 8. Metoprolol Tartrate 25 mg PO BID 9. Senna 2 TAB PO BID:PRN constipation 10. Outpatient Lab Work please check CBC on ___ and ___ and contact Dr. ___ with results. 11. Pantoprazole 40 mg PO Q24H Duration: 2 Weeks 12. Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 3 Days last day ___ 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Primary diagnoses: GI bleed, likely lower in etiology, in setting of supratherapeutic INR (6.9) Cerebrovascular disease, chronic, with aphasia (patient non-verbal at baseline)
+
+Secondary diagnoses: insulin-dependent diabetes hypertension
+
+ Discharge Condition: Mental Status: Confused - always. Level of Consciousness: non-verbal at baseline, interactive at times with family Activity Status: Bedbound.
+
+ Discharge Instructions: Patient admitted to ICU for management of GI bleed in setting of supratherapeutic INR (6.9). Received FFP for reversal, and total of 3 units of PRBCs, with good response. Patient evaluated by GI, and given no recurrence of bleeding throughout hospitalization and advanced dementia, conservative approach was pursued, and colonoscopy deferred. Hematocrit at discharge was 29.
+
+Discussed case with Dr. ___ has been caring for patient at ___ home for past ___ years, and decision was made to discontinue warfarin, as DVT was over six months ago, and risks of future bleeding outweigh risks of new DVT. Left ___ negative for DVT prior to discharge.
+
+See below for medication list and recommendations for follow up lab work.  Followup Instructions: ___ 

@@ -1,0 +1,53 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Desipramine / simvastatin  Attending: ___.  Chief Complaint: Shortness of breath, dyspnea  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ with Gold Stage IV COPD (FEV1 19% of predicted) on 2L of home O2, prostate CA, who presents with one week of malaise low grade fevers, productive cough and dyspnea on exertion. 
+
+The patient reported that approximately 12 days prior to admission he was feeling overall weakness without being able to pinpoint exactly what other symptoms he was having witht he exception of low grade fevers of ___. At that time, he did not have a cough. He visited his pcp who believed he was having a viral syndrome and he was recommended supportive care. The patient then 5 days prior to admission developed a productive cough of first yellowish then greenish sputum along with being febrile to 101. At that time he was also found to have dyspnea on exertion. At his baseline he reports that he is on 2L NC 24 hours per day with O2 sat in the mid ___ and he is able to walk up a flight of stairs. However, for the past 5 days he has been having DOE such that he can only walk up a couple of stairs prior to becoming SOB and needing to increase his O2 to 4L NC on exertion. He went for an epi visit for this cough for which he had a CXR. He was started on amoxicillin and prednisone, but he did not take these because he was instructed to go to the ED after the results of his CXR.
+
+The patient reported that he took 7 days of levofloxacin in ___. Otherwise he has not been treated since ___.   In the ED, initial VS were: 5 98.2 103 123/52 24 96% 2L NC CXR showed LUL pneumonia. His labs were notable for K 7.5 hemolyzed with repeat 5.3. WBC was notable for 10.2 with H&H 9.8, 31.8 and thrombocytosis to 949. He was started on ceftriaxone, azithromycin 500 mg, and 1 L IVF. VS on transfer: 98.2 93 120/57 20 97% Nasal Cannula 
+
+On the floor, VS: 98.1 121/61 105 20 99% 2LNC. He felt otherwise well and was still continuing to have a productive cough. Pt continued on home medications in addition to prednisone, azithromycin, and cetriaxone.
+
+ Past Medical History: End stage COPD- Gold stage IV  h/o Asbestosis  HTN  Multifocal Tachycardia  Hyperlipidemia  Prostate CA on Lupron  ADD  Constipation  Osteoporosis 
+
+ Social History: ___ Family History: FAMILY HISTORY: Mother had colon cancer, father had pancreatic cancer.  Physical Exam: ADMISSION PHYSICAL EXAM:  VS: 98.1 121/61 105 20 99% 2LNC GENERAL: Able to speak in full sentences Appears comfortable at rest, frequent coughing,NAD HEENT: NC/AT, EOMI, slightly dry MMM  NECK: supple, no LAD  LUNGS: Accessory muscle use Very poor air movement b/l, few expiratory wheezes, crackles in L upper lung field.  HEART: RRR, Nl S1, S2, no murmurs/rubs/gallops  ABDOMEN: normal bowel sounds, soft, ___, no rebound or guarding  EXTREMITIES: no edema, 1+ pulses radial and dp  NEURO: awake, A&Ox3, CNs ___ grossly intact
+
+DISCHARGE PHYSICAL EXAM: Vitals: Tm: 98.4 Tc:97.3 BP: ___ O2: 99% 1.5L  General: AAOx4, sitting comfortably in bed, no respiratory distress  HEENT: normocephalic, atraumatic, telangiectasis on nose and erythematous cheeks, oropharynx clear, PERRL, EOMI, sclera anicteric Lungs: diminished chest sounds throughout, slight improvement compared to yesterday, no wheezes CV: tachycardic, regular rhythm, normal S1 and S2, no MRG Abdomen: soft, normal bowel sounds, nontender to palpation, no masses Ext: 2+ upper and lower extremity pulses, no edema, no cyanosis, <2 sec cap refill, no clubbing Skin: no rashes or petechiae Neuro: CN ___ grossly intact, sensation intact, able to move arms and legs in bed  Pertinent Results: ADMISSION LABS ___ 07:57PM  ___ K+-5.3* ___ 07:40PM  ___ UREA ___ ___ TOTAL ___ ANION ___ ___ 07:40PM  ___ this ___ 07:40PM  ___ ___ 07:40PM  ___ ___ ___ 07:40PM  ___ ___ ___ 07:40PM  PLT ___
+
+IMAGES CXR: Marked local progression of parenchymal densities in the left upper lobe apical area consistent with acute infection. 
+
+___ 9:49 am SPUTUM   Source: Expectorated. 
+
+              **FINAL REPORT ___
+
+  GRAM STAIN (Final ___:    >25 PMNs and >10 epithelial cells/100X field.    Gram stain indicates extensive contamination with upper respiratory    secretions. Bacterial culture results are invalid.
+
+DISCHARGE LABS
+
+___ 08:15AM BLOOD ___ ___ Plt ___ ___ 08:15AM BLOOD ___ ___  Brief Hospital Course: Mr. ___ is a ___ with Gold Stage IV COPD (FEV1 19% of predicted) on 2L of home O2, prostate CA, who presented with one week of malaise low grade fevers, productive cough and dyspnea on exertion, admitted for LUL pneumonia and COPD exacerbation.  Active Issues: ======================== # LUL Pneumonia: Diagnosed patient with community acquired pneumonia based on clinical history and CXR. The patient has not been hospitalized in last ___ days and does not require treatment for HCAP at this time. Had an increased O2 requirement at home to 4LNC. Was at baseline O2 2L NC during hospitalization. Placed patient on 5 day course of azithromycin 250 mg PO daily (end date ___. Initially received ceftriaxone 1 gm IV and then transitioned to PO cefpodoxime 200 mg q12h for a total of 7 days (end date ___. Patient was discharged on 2L NC.  
+
+# COPD Gold stage IV: Patient chronically on 2L NC at home. Had increased O2 requirement to 4L NC with dyspnea on exertion and increased sputum production. Treated patient with antibiotics for pneumonia as above. Placed patient on prednisone 30 mg daily x 4 days with taper. Continued home advair and theophylline continued as well as 2L O2. Placed on scheduled ipratropium and albuterol while inpatient. Ambulatory oxygenation saturation was in the ___ on 3L NC. Will discharge patient on home meds including antibiotics and prednisone taper.
+
+# Reactive thrombocytosis: Has history of thrombocytosis. Admission platelets 949K. Discharge platelets 1114K. Most likely reactive in the setting of infection. ___ CBC at outpatient.
+
+# Tachycardia: History of multifocal atrial tachycardia. HR ___ during admission. Patient received scheduled albuterol nebs. Also patient was hypovolemic as he was not taking adequate PO intake. Patient clinically improved on antibiotic regimen and thus tachycardia was not thought to be due to worsening infection. Oxygen requirement improved and had ___ probability for PE. HR increased to ___ with exercise. EKG showed sinus tachycardia with no variation in P waves. Discharge HR ___.
+
+# Atypical chest pain: Patient complained of chest pain on admission. Initially described the pain as tightness, worse with deep inspiration. Was unable to localize the pain as the location would change. Lung sounds were diminished throughout and initially attributed to COPD exacerbation. The morning of discharge, patient complained of substernal chest pain at rest that radiated to the back. Denied radiation to arm or neck, denied diaphoresis. Worse with breathing treatments. EKG was unchanged from prior EKG. Chest pain could be secondary to COPD exacerbation v. GERD. ACS unlikely, however can consider stress testing as outpatient given CAD risk factors. Patient was hemodynamically stable and chest pain resolved without interventions.   Chronic Issues: ==================================== # Hypertension: Pt continued on home mediations: valsartan and verapamil. # Depression: Pt continued on home medication: venlafaxine. 
+
+Transitional Issues: ==================================== - ___ in ___ clinic at ___ - continue cefpodoxime until ___ - ___ pending blood cultures (___) - CBC at PCP visit - ___ chest pain symptoms and consider outpatient stress testing given risk factors for CAD 
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Albuterol Inhaler 2 PUFF IH Q4H:PRN SOB 2. Alendronate Sodium 70 mg PO QSUN 3. ___ Diskus (250/50) 1 INH IH BID 4. Lactulose 15 mL PO DAILY:PRN constipation 5. Theophylline SR 300 mg PO BID 6. Tiotropium Bromide 1 CAP IH DAILY 7. Valsartan 40 mg PO DAILY hold for sBP<100 8. Venlafaxine XR 75 mg PO DAILY 9. Verapamil SR 360 mg PO Q24H hold for SBP<100, HR<50 10. Aspirin 81 mg PO DAILY 11. Vitamin D 1000 UNIT PO DAILY 12. Docusate Sodium 100 mg PO BID 13. Psyllium 1 PKT PO DAILY:PRN constipation 
+
+ Discharge Medications: 1. Albuterol Inhaler 2 PUFF IH Q4H:PRN SOB 2. Alendronate Sodium 70 mg PO QSUN 3. Aspirin 81 mg PO DAILY 4. Docusate Sodium 100 mg PO BID 5. ___ Diskus (250/50) 1 INH IH BID 6. Theophylline SR 300 mg PO BID 7. Valsartan 40 mg PO DAILY 8. Venlafaxine XR 75 mg PO DAILY 9. Verapamil SR 360 mg PO Q24H 10. Vitamin D 1000 UNIT PO DAILY 11. Lactulose 15 mL PO DAILY:PRN constipation 12. Psyllium 1 PKT PO DAILY:PRN constipation 13. Tiotropium Bromide 1 CAP IH DAILY 14. Cefpodoxime Proxetil 200 mg PO Q12H End date ___ RX *cefpodoxime 200 mg 1 tablet(s) by mouth 1 tablet by mouth every 12 hours Disp #*6 Tablet Refills:*0 15. PredniSONE MD to order daily dose PO DAILY Duration: 10 Days 2 tabs (20 mg) for 3 days. Then 1 tab (10 mg) for 2 days. RX *prednisone 10 mg 2 tablet(s) by mouth Follow instructions for taper Disp #*8 Tablet Refills:*0
+
+ Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: Pneumonia
+
+Secondary diagnosis: COPD exacerbation, reactive thrombocytosis
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane)- baseline.
+
+ Discharge Instructions: Mr ___, 
+
+ It was a pleasure treating you at ___ ___. You were admitted on ___ for treatment of your pneumonia. You were given antibiotics for your pneumonia. You were also treated with prednisone. While here you were kept on your other home medications and 2L of O2. You will be discharged on oral antibiotics. You will finish the azithromycin on ___. You will finish the cefpodoxime on ___. You will do a prednisone taper. Instructions are on your prescriptions. You will follow up in clinic on ___ (appointment below). 
+
+While you were here we noticed you had elevated platelets (clotting factors). This is called reactive thrombocytosis, which can happen during an infection. Please have your PCP check ___ CBC to look at your platelets.  Followup Instructions: ___ 

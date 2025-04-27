@@ -1,0 +1,18 @@
+T1	Urinary_tract_infection 10010 10033	urinary tract infection
+T2	Delirium 10164 10172	oriented
+A1	Negation T2
+T3	Intracranial_haemorrhage 4452 4459;4481 4493	CT head intracranial
+A2	Negation T3
+T4	Weight_loss 795 802	wt loss
+A3	Negation T4
+T5	Urinary_incontinence 886 906	incontinent of urine
+T6	Hearing_impairment 1855 1867	hearing loss
+T7	Lower_respiratory_tract_infection 1940 1949	Pneumonia
+A4	Diagnosis T7 History_of
+A5	Diagnosis T6 History_of
+T8	Urinary_incontinence 2051 2071	urinary incontinence
+T9	Delirium 2324 2332	oriented
+A6	Negation T9
+T10	Urinary_tract_infection 5260 5263	UTI
+T11	Urinary_tract_infection 10341 10364	urinary tract infection
+T12	Urinary_tract_infection 5569 5572	UTI

@@ -1,0 +1,21 @@
+T1	Delirium 7894 7912	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 7978 8002	Ambulatory - Independent
+T3	Visual_impairment 1222 1241	visual disturbances
+T4	Urinary_incontinence 1252 1272	bladder incontinence
+T5	Constipation 1894 1906	constipation
+A2	Negation T5
+T6	Upper_gastrointestinal_haemorrhage 1908 1914	melena
+A3	Negation T6
+T7	Lower_gastrointestinal_haemorrhage 1916 1921	brbpr
+A4	Negation T7
+T8	Urinary_incontinence 1943 1955	incontinence
+A5	Negation T8
+T9	Faecal_incontinence 1944 1955	ncontinence
+A6	Negation T9
+T10	Lower_respiratory_tract_infection 5223 5232	pneumonia
+A7	Negation T10
+A8	Low_confidence T8
+A9	Low_confidence T9
+T11	Intracranial_haemorrhage 3930 3937;3963 3975	CT head intracranial
+A10	Negation T11

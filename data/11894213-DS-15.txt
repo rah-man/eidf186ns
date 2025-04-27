@@ -1,0 +1,65 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: lisinopril  Attending: ___.  Chief Complaint: shortness of breath/CHF  Major Surgical or Invasive Procedure: right heart cath (___)
+
+ History of Present Illness: ___ yo male with history of CABG ___ with known ischemic cardiomyopathy EF 30%, PVD s/p right fem bypass presenting from OSH for CHF exacerbation. Patient was admitted to OSH on ___ with c/o exertional dyspnea, weight gain, and ___ edema. He originally presented to his cardiologist's office with these complaints who recognized he was in HR and recommended he go straight to ___. At ___, patient was started on IV bumex diuresis. After 2 days of diuresis he developed ___ with Cr peaking at 3.8 from 1.8 on admission. His ___ was held and creatinine slowly improved to 2.6. His hospital course was also complicated by a.flutter to the 110s/120s, for which he was given adenosine and amiodarone. He is being transferred to ___ for further treatment of heart failure and a right heart catheterization. 
+
+On arrival to the floor he has no complaints and feels well.  Says his breathing is improved from orignial presentation but not quite back to baseline.
+
+On review of systems, he denies any fevers/chills or cough, no nausea/vomiting/diarrhea. Cardiac review of systems is notable for absence of chest pain, paroxysmal nocturnal dyspnea, orthopnea, palpitations, syncope or presyncope. 
+
+ Past Medical History: -Cardiomyopathy with EF of 30% in ___. -AICD dual-chamber biventricular placed in ___ with no subsequent manipulation. -History of old MI. -CABG, ___ (left internal mammary artery bypass to the LAD; left internal mammary artery to first obtuse marginal to second obtuse marginal radial artery graft; aortocoronary saphenous bypass graft to the third obtuse marginal, (left PDA) artery. -Possible endocarditis in ___. -Right heel ulcer, now healing. -Insulin dependent-dependent diabetes mellitus. -Impaired gait, or cane. -PVD. -History of MSSA sepsis -History of likely vertebral osteomyelitis with MSSA. right femoral above-knee popliteal artery bypass performed with a prosthetic graft on ___. The graft required a stent placement postoperatively. Ultimately, he developed an open wound at the level of the popliteal exposure, a graft infection with severe Staphylococcus bacteremia, and developed multisystem organ failure of sepsis with subsequent recovery -___: Removal of infected right graft, and replacement with right common femoral to below-knee popliteal artery bypass with non-reversed left greater saphenous vein and angioscopy non healing ulcer on right foot x ___ years sp skin graft ___ Foreign bodies: 1. Right leg PTFE graft, 4 inches remaining, originally placed on ___. 2. Intracardiac device dual-chamber biventricular ICD, placed ___. 3. Sternal wires placed after CABG.
+
+ Social History: ___ Family History: Significant for CAD and CHF in his father and brother.   Physical Exam: ADMISSION EXAM VS: T= 97.1 BP= 117/59 HR= 74 RR=22 O2 sat= 100% RA  GENERAL: awake, alert, obese individual, in NAD HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthelasma. 
+
+NECK: Supple, JVP at 4cm above clavicle while lying at 30 degrees CARDIAC: RRR, s1/s2, ___ systolic murmur at LUSB, no r/g LUNGS: poor air entry, no wheezes/crackles or rales  ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominal bruits.  EXTREMITIES: 1+ PE in ___ to kneews bilaterally SKIN: multiple shallow skin ulcers well scabbed over throughout body, right heal diabetic ulcer with dressing c/d/i NEURO: grossly intact
+
+DISCHARGE EXAM VS: T= 97.6 Tm 98.2 106/66 (100-105/53-78) 80 (53-80) 20 97% RA 
+
+I/O: ___ (8h); ___ yesterday weight: 111.2 -> 107.3 -> 100.2 -> 100.8 ->100.2 GENERAL: awake, alert, obese individual, in NAD HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthelasma. 
+
+NECK: Supple, JVP not elevated, postive hepatojugular reflux CARDIAC: RRR, s1/s2, ___ systolic murmur at LUSB, no r/g LUNGS: good air entry, no wheezes/crackles or rales  ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominal bruits.  EXTREMITIES: trace to no edema in ___ bilaterally SKIN: multiple shallow skin ulcers well scabbed over throughout body, some draining visible blood, right heal diabetic ulcer with dressing c/d/i NEURO: grossly intact  Pertinent Results: ADMISSION LABS ___ 07:20AM BLOOD WBC-4.5# RBC-3.62* Hgb-10.5* Hct-33.0* MCV-91 MCH-29.0 MCHC-31.9 RDW-15.6* Plt ___ ___ 07:20AM BLOOD ___ PTT-40.5* ___ ___ 07:20AM BLOOD Glucose-89 UreaN-60* Creat-2.0* Na-139 K-4.5 Cl-102 HCO3-29 AnGap-13 ___ 07:20AM BLOOD Calcium-8.9 Phos-3.5 Mg-2.0
+
+DISCHARGE LABS ___ 07:10AM BLOOD WBC-4.9 RBC-4.50* Hgb-12.9* Hct-40.5 MCV-90 MCH-28.7 MCHC-31.9 RDW-15.3 Plt ___ ___ 07:35AM BLOOD ___ PTT-56.5* ___ ___ 07:35AM BLOOD Glucose-208* UreaN-54* Creat-1.9* Na-137 K-3.8 Cl-89* HCO3-36* AnGap-16 ___ 07:35AM BLOOD Calcium-9.3 Phos-3.5 Mg-1.7
+
+MICRO
+
+NONE
+
+REPORTS
+
+ECGStudy Date of ___ 9:40:26 ___
+
+Sinus rhythm with atrial sensed and ventricular paced rhythm with capture. Compared to the previous tracing of ___ the rate has slowed. Otherwise, no diagnostic interim change.
+
+Cardiac CathStudy Date of ___ 
+
+COMMENTS:   1. Right heart catheterization revealed severely elevated right and left sided filling pressures. The mean RA pressure was severely elevated at 17 mmHg, and the RVEDP was severely elevated at 19 mmHg. There was moderate to severe pulmonary arterial hypertension with a PA pressure of 52/19 mmHg and a mean PA pressure of 36 mmHg. The mean wedge pressure was severely elevated at 22 mmHg with large V-waves to 38 mmHg. 2. The cardiac output and index as calculated by the Fick method were low-normal at 4.8 L/min and 2.2 L/min/m2. 3. The PVR was mildly elevated at 233 dyne-sec/cm5.  FINAL DIAGNOSIS:   1. Severely elevated right and left sided filling pressures. 2. Large V waves on the PCWP tracing. 3. Moderate to severe pulmonary hypertension. 4. Mildly elevated pulmonary vascular resistance. 5. After discussion with CHF attending Dr. ___ remove PA catheter and transfer the patient to the CHF service for diuresis assisted by dobutamine.
+
+___  Cardiovascular ECHO
+
+The left atrium is mildly dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity is moderately dilated. There is an inferoposterobasal left ventricular aneurysm. Overall left ventricular systolic function is severely depressed (LVEF = 20 %) secondary to akinesis of the entire inferior and posterior walls, and severe hypokinesis of the rest of the left ventricle. A left ventricular mass/thrombus cannot be excluded. Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg). The right ventricular free wall thickness is normal. The right ventricular cavity is dilated with severe global free wall hypokinesis. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. The mitral valve leaflets are mildly thickened. Mild to moderate (___) mitral regurgitation is seen (may be significantly underestimated due to technical factors). Severe [4+] tricuspid regurgitation is seen. The septal leaflet of the tricuspid valve is tethered to the defibrillator coil. There is moderate pulmonary artery systolic hypertension. [In the setting of at least moderate to severe tricuspid regurgitation, the estimated pulmonary artery systolic pressure may be underestimated due to a very high right atrial pressure.] There is no pericardial effusion.
+
+ Brief Hospital Course: ___ year old male with hx. CAD, ischemic cardiomyopathy (EF 30% in ___, CHF s/p biventricular ICD placement in ___, T2DM, PVD s/p ___ bypass grafts c/b MSSA infection presenting with c/o CHF exacerbation, trasnferred from OSH after diuresis with bumex complicated by ___.
+
+# Acute on chronic systolic CHF exacerbation: EF reportedly 30% in ___. patient endorsed subacute decline in exertional capacity over last several months, starting with the death of his wife in ___. s/p attempted bumex diuresis limited by ___ Cr -> 3.8 at OSH. Right heart cath here demonstrated elevated biventricular pressure suggesting volume overload.  ECHO on ___ showed severly depressed LV function with EF 20%.  Patient was started on Lasix bolus with drip on ___ and responded well. He was symptomatically improved with diuresis.  Kidney function remained stable and Cr returned to baseline of 1.9/1.8. He was diuresed down from an admission weight of 111 kg to a discharge weight of 100.2 kg. His home lasix regimen was discontinued. He was placed on torsemide 40 mg BID and remained euvolemic on this regimen before discharge. His valsartan was also restarted and he tolerated this well. 
+
+# Atrial flutter: patient with reported episodes of flutter to the 130s at OSH, was started on amiodarone. Given CHADS-2 score of at least 3 anticoagulation is in his favor. He was started on rivaroxaban as patient was intolerant of coumadin in the past. He will continue on aspirin and plavix as well. Patient had no further episodes of atrial flutter while in house.
+
+# CAD: s/p CABG in ___, cath in ___ with results showing high grade disease in LMCA and RCA, patent LIMA-LAD graft, patient LIMA to OM, and patency of LCX, with occlusion of SVG to diagonal branch and RCA. Patient did not endorse chest pain on admission, EKG was unchanged and enzymes negative x3 at OSH. He was continued on carvedilol, aspirin, and plavix. IMDUR as discontinued due to low blood pressures. 
+
+# multiple skin unclers: patient believes these are due to his MSSA bacteremia, have persisted for years since. Unclear whether they are simply due to pruritis, infection, or more significant derm process. Derm service was consulted and believed it was due to pruritis. Patient's hydroxyzne was increased to 25mg at night and he has follow-up with dermatology to continue to discuss this issue. 
+
+# T2DM: not currently requiring insulin. Patient had actual episodes of hypoglycemia at OSH. Oral home regimen was held in house and he was placed on ISS. Wound care was consulted for right diabetic foot ulcer, which remained stable. 
+
+# PVD: s/p right leg bypass in ___ c/b MSSA infection of graft.  Wound care was consulted for diabetic foot ulcer. Patient was continued on aspirin/plavix as well as doxycycline prophylaxis for MSSA.
+
+TRANSITIONAL ISSUES 1. Patient needs chem-7 drawn in 1 week post discharge given new diuretic regimen 2. Patient was diuresed to a discharge weight of 100.2 kg 3. Patient remained full code  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Carvedilol 25 mg PO BID 2. Clopidogrel 75 mg PO DAILY 3. Doxycycline Hyclate 100 mg PO Q12H 4. Famotidine 20 mg PO BID 5. Furosemide 80 mg PO QAM 6. Furosemide 40 mg PO QPM 7. GlipiZIDE 10 mg PO BID 8. HydrOXYzine 25 mg PO BID:PRN itch 9. MetFORMIN (Glucophage) 1000 mg PO BID 10. Simvastatin 40 mg PO DAILY 11. Januvia *NF* (sitaGLIPtin) 100 mg Oral daily 12. Spironolactone 50 mg PO DAILY 13. Tamsulosin 0.4 mg PO HS 14. Valsartan 40 mg PO DAILY 15. Aspirin 81 mg PO DAILY 16. Isosorbide Mononitrate (Extended Release) 15 mg PO DAILY 
+
+ Discharge Medications: 1. Aspirin 81 mg PO DAILY 2. Carvedilol 25 mg PO BID 3. Clopidogrel 75 mg PO DAILY 4. Doxycycline Hyclate 100 mg PO Q12H 5. Famotidine 20 mg PO BID 6. Simvastatin 40 mg PO DAILY 7. Tamsulosin 0.4 mg PO HS 8. Valsartan 40 mg PO DAILY 9. Amiodarone 200 mg PO DAILY RX *amiodarone 200 mg 1 tablet(s) by mouth once daily Disp #*30 Tablet Refills:*3 10. Rivaroxaban 15 mg PO DAILY RX *rivaroxaban [Xarelto] 15 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*3 11. Torsemide 40 mg PO BID RX *torsemide 20 mg 2 tablet(s) by mouth twice per day Disp #*120 Tablet Refills:*3 12. GlipiZIDE 10 mg PO BID 13. HydrOXYzine 25 mg PO BID:PRN itch 14. Januvia *NF* (sitaGLIPtin) 100 mg Oral daily 15. MetFORMIN (Glucophage) 1000 mg PO BID 16. Outpatient Lab Work ICD9: ___, ___
+
+Please draw sodium, potassium, chloride, bicarbonate, BUN, creatinine, glucose, PTT, INR with results faxed to Dr ___ ___: ___ 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: PRIMARY: Systolic congestive heart failure exacerbation Atrial flutter
+
+SECONDARY: DM2 HTN HLP CAD  Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.  Discharge Instructions: You were admitted for heart failure. We gave you medications to remove the fluid from your body successfully. We also started a few new medications for your heart, including a blood thinner.
+
+Please ensure to follow a low salt diet as this will prevent you from reaccumulating fluid in your body.   Followup Instructions: ___ 

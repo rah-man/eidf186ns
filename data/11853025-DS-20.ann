@@ -1,0 +1,42 @@
+T1	Upper_gastrointestinal_haemorrhage 9964 9975;9999 10014	GI bleeding small intestine
+T2	Delirium 9740 9758	Clear and coherent
+A1	Negation T2
+T3	Independently_mobile 9824 9848	Ambulatory - Independent
+T4	Upper_gastrointestinal_haemorrhage 9607 9635	upper gastrointestinal bleed
+T5	Upper_gastrointestinal_haemorrhage 5758 5764	melena
+A2	Negation T5
+T6	Upper_gastrointestinal_haemorrhage 5533 5550	bleeding duodenal
+T7	Upper_gastrointestinal_haemorrhage 5330 5347	bleeding duodenal
+T8	Upper_gastrointestinal_haemorrhage 2231 2248	bleeding duodenal
+T9	Lower_gastrointestinal_haemorrhage 1751 1763	hematochezia
+A3	Negation T9
+T10	Weight_loss 1545 1556	weight loss
+T11	Upper_gastrointestinal_haemorrhage 481 497	bleeding duodena
+T12	Upper_gastrointestinal_haemorrhage 7043 7046	GIB
+A4	Low_confidence T12
+T13	Lower_gastrointestinal_haemorrhage 7043 7046	GIB
+A5	Low_confidence T13
+T14	Visual_impairment 2531 2546	detached retina
+A6	Diagnosis T14 History_of
+T15	Upper_gastrointestinal_haemorrhage 1696 1708	Black stools
+T16	Visual_impairment 1419 1456	flashes when looking at bright lights
+T17	Upper_gastrointestinal_haemorrhage 227 235	GI bleed
+A9	Low_confidence T17
+T18	Lower_gastrointestinal_haemorrhage 227 235	GI bleed
+A10	Low_confidence T18
+T19	Upper_gastrointestinal_haemorrhage 5463 5466	GIB
+A11	Low_confidence T19
+T20	Lower_gastrointestinal_haemorrhage 5463 5466	GIB
+A12	Low_confidence T20
+T21	Malnutrition 6591 6605	poor nutrition
+T22	Upper_gastrointestinal_haemorrhage 4079 4087;4275 4283	duodenal bleeding
+T23	Upper_gastrointestinal_haemorrhage 6875 6878	GIB
+A7	Low_confidence T23
+T24	Lower_gastrointestinal_haemorrhage 6875 6878	GIB
+A8	Low_confidence T24
+T25	Upper_gastrointestinal_haemorrhage 7229 7232	GIB
+A13	Low_confidence T25
+T26	Lower_gastrointestinal_haemorrhage 7229 7232	GIB
+A14	Low_confidence T26
+T27	Upper_gastrointestinal_haemorrhage 5319 5325	melena
+T28	Upper_gastrointestinal_haemorrhage 5486 5492	melena

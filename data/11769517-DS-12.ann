@@ -1,0 +1,24 @@
+T1	Vertebral_compression_fracture 638 656	T12 compression fx
+T2	Constipation 10450 10462	constipation
+A1	Diagnosis T2 Implicit_mention
+T3	Constipation 10340 10352	constipation
+A2	Diagnosis T3 Implicit_mention
+T4	Delirium 11555 11573	Clear and coherent
+A3	Negation T4
+T5	Independently_mobile 11639 11663	Ambulatory - Independent
+T6	Delirium 6029 6034	A&Ox4
+A4	Negation T6
+T7	Constipation 10766 10778	constipation
+A5	Diagnosis T7 Implicit_mention
+T8	Constipation 11155 11167	constipation
+A6	Diagnosis T8 Implicit_mention
+T9	Vertebral_compression_fracture 11453 11477	t10 compression fracture
+T10	Urinary_tract_infection 11493 11516	urinary tract infection
+T11	Vertebral_compression_fracture 11940 11970;11974 11977	vertebral compression fracture T10
+A7	Diagnosis T11 Suspected
+T12	Vertebral_compression_fracture 7456 7470;7475 7481	Compression fx spinal
+T13	Vertebral_compression_fracture 7760 7778	T10 compression fx
+T14	Vertebral_compression_fracture 12158 12188	vertebral compression fracture
+T15	Delirium 6232 6240	oriented
+A8	Negation T15
+T16	Vertebral_compression_fracture 7552 7558;7569 7583	spinal compression fx

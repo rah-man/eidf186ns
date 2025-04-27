@@ -1,0 +1,27 @@
+T1	Delirium 9832 9850	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 9916 9940	Ambulatory - Independent
+T3	Visual_impairment 1704 1718	loss of vision
+A2	Negation T3
+T4	Visual_impairment 1720 1734	blurred vision
+A3	Negation T4
+T5	Visual_impairment 1736 1744	diplopia
+A4	Negation T5
+T6	Hearing_impairment 1783 1791	tinnitus
+A5	Negation T6
+T7	Hearing_impairment 1795 1813	hearing difficulty
+A6	Negation T7
+T8	Delirium 3441 3449;3450 3453	oriented x 3
+A7	Negation T8
+T9	Faecal_incontinence 1865 1870;1882 1894	bowel incontinence
+A8	Negation T9
+T10	Urinary_incontinence 1874 1881;1882 1894	bladder incontinence
+A9	Negation T10
+T11	Constipation 2216 2228	constipation
+A10	Negation T11
+T12	Intracranial_haemorrhage 5900 5903;6250 6260	MRI hemorrhage
+A11	Negation T12
+T13	Hearing_impairment 4265 4281	Hearing intact t
+A12	Negation T13
+T14	Visual_impairment 4003 4016	Visual fields
+A13	Negation T14

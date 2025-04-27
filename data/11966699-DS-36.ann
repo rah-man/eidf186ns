@@ -1,0 +1,13 @@
+T1	Delirium 8318 8336	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 8402 8426	Ambulatory - Independent
+T3	Constipation 7510 7522	constipation
+A2	Diagnosis T3 Implicit_mention
+T4	Upper_gastrointestinal_haemorrhage 2680 2688	GI bleed
+A3	Low_confidence T4
+T5	Lower_gastrointestinal_haemorrhage 2680 2688	GI bleed
+A4	Diagnosis T5 History_of
+A5	Low_confidence T5
+A6	Diagnosis T4 History_of
+T6	Constipation 8082 8094	constipation
+A7	Diagnosis T6 Implicit_mention

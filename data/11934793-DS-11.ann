@@ -1,0 +1,7 @@
+T1	Constipation 3726 3738	constipation
+A1	Diagnosis T1 Implicit_mention
+T2	Constipation 3743 3755	constipation
+A2	Diagnosis T2 Implicit_mention
+T3	Delirium 3133 3141	oriented
+A3	Negation T3
+T4	Independently_mobile 1697 1726	ambulating without assistance

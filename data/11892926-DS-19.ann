@@ -1,0 +1,71 @@
+T1	Delirium 21758 21781	change in mental status
+T2	Delirium 543 567	fluctuating mental statu
+T3	Falls 600 604	fall
+T4	Falls 642 646	fall
+T5	Falls 2091 2100	fall risk
+A1	Diagnosis T5 Implicit_mention
+T6	Intracranial_haemorrhage 5180 5187;5203 5226	HEAD CT intracranial hemorrhage
+A2	Negation T6
+T7	Intracranial_haemorrhage 6115 6127;6165 6175	intracranial hemorrhage
+A3	Negation T7
+T8	Delirium 10790 10793	AMS
+T9	Delirium 11049 11056	delirum
+T10	Urinary_tract_infection 11063 11066	UTI
+T11	Urinary_tract_infection 11141 11144	UTI
+T12	Urinary_tract_infection 11407 11410	UTI
+T13	Urinary_tract_infection 11995 11998	UTI
+T14	Urinary_tract_infection 12065 12068	UTI
+T15	Urinary_tract_infection 12159 12162	UTI
+T16	Upper_gastrointestinal_haemorrhage 14853 14870;14913 14919	dark tarry stools bloody
+T17	Upper_gastrointestinal_haemorrhage 17261 17269	GI Bleed
+A4	Low_confidence T17
+T18	Lower_gastrointestinal_haemorrhage 17261 17269	GI Bleed
+A5	Low_confidence T18
+T19	Urinary_tract_infection 17855 17858	UTI
+T20	Urinary_tract_infection 17908 17911	UTI
+T21	Urinary_tract_infection 18404 18407	UTI
+T22	Delirium 18901 18909	delerium
+T23	Constipation 19888 19900	constipation
+A6	Diagnosis T23 Implicit_mention
+T24	Constipation 19785 19797	constipation
+A7	Diagnosis T24 Implicit_mention
+T25	Constipation 20231 20243	constipation
+A8	Diagnosis T25 Implicit_mention
+T26	Upper_gastrointestinal_haemorrhage 21057 21065	GI bleed
+A9	Low_confidence T26
+T27	Lower_gastrointestinal_haemorrhage 21057 21065	GI bleed
+A10	Low_confidence T27
+T28	Upper_gastrointestinal_haemorrhage 14698 14706	GI bleed
+A11	Low_confidence T28
+T29	Lower_gastrointestinal_haemorrhage 14698 14706	GI bleed
+A12	Low_confidence T29
+T30	Urinary_tract_infection 11876 11879	UTI
+T31	Delirium 238 247	MS change
+T32	Upper_gastrointestinal_haemorrhage 22269 22292	gastrointenstinal bleed
+A13	Low_confidence T32
+T33	Lower_gastrointestinal_haemorrhage 22269 22292	gastrointenstinal bleed
+A14	Low_confidence T33
+T34	Constipation 19316 19328	constipation
+A15	Diagnosis T34 Implicit_mention
+T35	Delirium 2935 2946	orientation
+A16	Low_confidence T35
+T36	Vertebral_compression_fracture 6451 6459;6509 6514	fracture spine
+A17	Negation T36
+T37	Upper_gastrointestinal_haemorrhage 8638 8646;8664 8671	bleeding stomach
+A18	Negation T37
+T38	Upper_gastrointestinal_haemorrhage 8733 8753	coffee-ground liquid
+A19	Negation T38
+T39	Upper_gastrointestinal_haemorrhage 8763 8768;8776 8783	blood stomach
+A20	Negation T39
+T40	Intracranial_haemorrhage 10111 10134	intracranial hemorrhage
+A21	Negation T40
+T41	Delirium 10687 10712	fluctuating mental status
+T42	Independently_mobile 10898 10919	walking independently
+T43	Delirium 10993 11001	delirium
+A22	Diagnosis T43 Suspected
+T44	Upper_gastrointestinal_haemorrhage 15153 15160;15242 15247	duodena bleed
+T45	Urinary_tract_infection 21849 21854;21865 21874	urine infection
+T46	Intracranial_haemorrhage 5328 5330;5702 5712	CT hemorrhage
+A23	Negation T46
+A24	Diagnosis T28 Suspected
+A25	Diagnosis T29 Suspected

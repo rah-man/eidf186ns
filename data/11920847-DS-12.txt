@@ -1,0 +1,71 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: diarrhea  Major Surgical or Invasive Procedure: None  History of Present Illness: The patient is a ___ yo woman with PMH notable for CHF (EF30%), Afib and dementia who presents with diarrhea. Pt unable to provide reliable history (because of dementia) and thus history was obtained from the pt's son and assisted living facility.  The son reports that pt was recently admitted to a ___ hospital for falls and discharged on ciprofloxacin (unclear indication) to a rehab facility. While in the rehab facility, she developed C.diff colitis and was treated with an antibiotic (possibly Flagyl). Per the son, he thought the diarrhea resolved by the time she was moved on ___ to an assisted living facility in ___ (to be closer to the son). Per the facility, the diarrhea never resolved and she was changed to PO Vancomycin beginning ___. This course was finished on ___ and with what they thought was resolution of the diarrhea on ___.  Unfortunately, it recurred within a day and she was brought to the ED for assessment.  In the ED, initial VS: 97.9 81 126/97 18 100% RA. Exam notable for guaiac positive stool and possible complaints of shortness of breath. EKG showed AF, LAD, RBBB, no ischemic changes. CXR showed findings suggestive of congestive failure with small left pleural effusion and mild pulmonary edema. Non-contrast head CT showed no acute process. Labs notable for BNP 32685, TroT 0.06, Na 131, WBC 10.8 with 85%N, Hct 35 (baseline). She was given 500mL NS, ASA 325mg. Vitals prior to transfer: 98.1 124/71 79 20 96% RA.   Currently, she is without complaints except sleepiness. Denies SOB, fever, abdominal pain, CP.  Past Medical History: -HTN  -atrial fibrillation  -breast cancer s/p lumpectomy  -dementia  -Hyponatremia  -Cataracts  -CHF (EF 30%) 
+
+ Social History: ___ Family History: noncontributory  Physical Exam: Admission PE: VS - 96.8F, BP 109/79, HR 60, R 18, O2-sat 100% RA ___ - oriented to hospital, not year; can say the days of the week forward and backwards with some coaching and hesitation GENERAL - elderly female in NAD, comfortable LUNGS - mild bibasilar crackles L>R HEART - irregularly irregular, no MRG ABDOMEN - NABS, soft/NT/ND EXTREMITIES - WWP, 2+ pitting edema to mid calf b/l
+
+Discharge PE: VS - 97.4F, BP 140/86, HR 90, R 18, O2-sat 98% RA GENERAL - elderly female in NAD LUNGS - clear to auscultation bilaterally HEART - irregularly irregular, no MRG ABDOMEN - NABS, soft/NT/ND EXTREMITIES - WWP, 1+ pitting edema to mid calf b/l
+
+ Pertinent Results: Admission Labs:
+
+___ 04:30PM BLOOD WBC-10.8# RBC-3.90* Hgb-11.9* Hct-35.1* MCV-90 MCH-30.6 MCHC-34.0 RDW-13.2 Plt ___ ___ 04:30PM BLOOD Neuts-85.0* Lymphs-10.9* Monos-3.0 Eos-0.9 Baso-0.3 ___ 04:30PM BLOOD Glucose-75 UreaN-14 Creat-0.9 Na-131* K-4.2 Cl-96 HCO3-25 AnGap-14 ___ 04:30PM BLOOD ALT-10 AST-15 AlkPhos-73 TotBili-1.0 ___ 04:30PM BLOOD cTropnT-0.06* ___ ___ 04:30PM BLOOD Albumin-3.3* Calcium-9.6 Phos-2.5* Mg-1.7 ___ 07:00PM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+
+Discharge Labs: ___ 06:15AM BLOOD WBC-5.1 RBC-3.67* Hgb-11.1* Hct-32.7* MCV-89 MCH-30.3 MCHC-34.0 RDW-13.2 Plt ___ ___ 06:15AM BLOOD Glucose-57* UreaN-15 Creat-1.4* Na-129* K-4.6 Cl-92* HCO3-24 AnGap-18 ___ 06:15AM BLOOD Calcium-9.3 Phos-3.1 Mg-1.8
+
+Microbiology: --___ STOOL    MICROSPORIDIA STAIN (Preliminary): PENDING CYCLOSPORA STAIN (Final ___:  NO CYCLOSPORA SEEN. C. difficile DNA amplification assay (Final ___:      Positive for toxigenic C. difficile by the Illumigene DNA     amplification.      (Reference Range-Negative). FECAL CULTURE (Final ___:  NO SALMONELLA OR SHIGELLA FOUND. CAMPYLOBACTER CULTURE (Final ___:  NO CAMPYLOBACTER FOUND. FECAL CULTURE - R/O VIBRIO (Final ___:  NO VIBRIO FOUND. 
+
+FECAL CULTURE - R/O YERSINIA (Final ___:  NO YERSINIA FOUND. FECAL CULTURE - R/O E.COLI 0157:H7 (Final ___: NO E.COLI 0157:H7 FOUND. Cryptosporidium/Giardia (DFA) (Final ___: NO CRYPTOSPORIDIUM OR GIARDIA SEEN. 
+
+--URINE CULTURE (Final ___:    KLEBSIELLA PNEUMONIAE.  >100,000 ORGANISMS/ML..    Cefazolin interpretative criteria are based on a dosage regimen of     2g every 8h.    Piperacillin/tazobactam sensitivity testing available on request. 
+
+SENSITIVITIES: MIC expressed in MCG/ML   KLEBSIELLA PNEUMONIAE               |  AMPICILLIN/SULBACTAM--   4 S CEFAZOLIN-------------  <=4 S CEFEPIME--------------  <=1 S CEFTAZIDIME-----------  <=1 S CEFTRIAXONE-----------  <=1 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------  <=1 S MEROPENEM-------------<=0.25 S NITROFURANTOIN-------- <=16 S TOBRAMYCIN------------  <=1 S TRIMETHOPRIM/SULFA----  <=1 S
+
+EKG ___: Atrial fibrillation with a controlled ventricular response rate of 77 beats per minute. Right bundle-branch block with left anterior fascicular block. Probable prior inferior myocardial infarction. Compared to the previous tracing of ___ the ventricular response rate is faster. 
+
+Radiology: ___ CT Head w/o contrast: IMPRESSION: No acute intracranial process. ___ CXR (PA and Lateral):IMPRESSION: Findings suggestive of congestive failure with small left pleural effusion and mild pulmonary edema. Hyperinflation. ___ CXR (Portable AP): IMPRESSION: Slight interval increase in mild to moderate pulmonary edema, with a small to moderate left pleural effusion. The cardiac silhouette remains enlarged. 
+
+  Brief Hospital Course: ___ with chronic systolic CHF, recurrent C. diff infection, AFib who presents with continued diarrhea, dyspnea, and pedal edema. 
+
+ Acute issues:
+
+# C. diff. colitis - The patient was treated with a full course of Flagyl PO without resolution of diarrhea/C. diff colitis and just finished a 3 week course of Vancomycin 250mg PO q6hrs when diarrhea recurred, for which pt was admitted. C. diff was positive again on this admission. GI was consulted who recommended prolonged taper of Vancomycin PO which was started at 500mg PO q6hrs. Pt had ___ BM / day at start of admission which decreased by discharge.
+
+# Acute on chronic congestive heart failure - Pt intermittently complained of shortness of breath during admission. Her home PO lasix was held and she was given IV Lasix for diuresis. Pt was discharged on a higher dose of PO lasix (40mg PO) as current home regimen (20mg) was insufficient to maintain her euvolemic.  She maintained an O2 sat >95% throughout the admission. Her home spironolactone and ASA were continued. Pt was started on Lisinopril 2.5mg PO daily.
+
+# UTI - Pt had asymptomatic bacturia which was treated due to concern for a morning of altered mental status. Pt received Bactrim DS 1 tab BID x 3 days. Her course was completed prior to discharge.
+
+# Hyponatremia: Had been hyponatremic on previous admission. Initially thought to be hypervolemic hyponatremia from CHF. Pt was kept on 1500mL fluid restriction. However, while Na initially started to improve with diuresis it failed to return to normal. Pt was discharged with Na 129. This was thought to be over-diuresis vs. heart failure.
+
+Chronic issues:
+
+# Atrial fibrillation: CHADS2 of 3, but not on Coumadin due to fall risk. Rate controlled. Pt experienced bradycardia on b-blocker during previous admission and so it was not added to her regimen. We continued ASA 325mg PO daily. Pt is not on Coumadin due to fall risk.
+
+# Anemia: Per previous admission, iron studies were consistent with anemia of chronic disease. Pt was found to be guaiac positive in ED at this admission. Hct was trended (stable) and pt was stable.
+
+# Dementia: Stable througout admission. Oriented to person, "hospital", not oriented to year. Able to recite days of week forward and backward with significant prompting and hesitation. Continued home Donepezil and mirtazapine. 
+
+Transitional issues:
+
+# Electrolytes: Lasix dose increased and ACEI added this admission. Should get electrolytes checked ___ and continued every other day. 
+
+# Risk for readmission: Pt with significant dementia requiring 24hr care.  
+
+ Medications on Admission: Preadmission medications listed are correct and complete.  Information was obtained from Pharmacy. 1. Furosemide 20 mg PO DAILY 2. Aspirin 325 mg PO DAILY 3. Vancomycin Oral Liquid ___ mg PO QID 4. Spironolactone 25 mg PO DAILY Hold for SBP<100 5. saccharomyces boulardii *NF* 250 mg Oral BID 6. Oyst-Cal-D 500 *NF* (calcium carbonate-vitamin D3) 500 mg(1,250mg) -200 unit Oral daily 7. Mirtazapine 7.5 mg PO HS 8. Donepezil 5 mg PO HS 
+
+ Discharge Medications: 1. Aspirin 325 mg PO DAILY 2. Donepezil 5 mg PO HS 3. Mirtazapine 7.5 mg PO HS 4. Spironolactone 25 mg PO DAILY Hold for SBP<100 5. Vancomycin Oral Liquid ___ mg PO Q6H 6. Oyst-Cal-D 500 *NF* (calcium carbonate-vitamin D3) 500 mg(1,250mg) -200 unit Oral daily 7. Vancomycin Taper Regimen Please continue Vancomycin Oral Liquid ___ mg PO q6hrs x 7 days. Then, decrease to 250mg PO q6hrs x 7 days Then, decrease to 125mg PO q6hrs x 7 days Then, decrease to 125mg PO q12hrs x 7 days Then, decrease to 125mg PO q24hrs x 7 days Then, decrease to 125mg PO every other day x 7 days Then, decrease to 125mg PO every 3 days x 14 days 8. Probiotic Please start Saccharomyces boulardii 500 mg orally twice daily to be overlapped with the final week of the taper and continued for two additional weeks in the absence of antibiotics. 
+
+9. Furosemide 40 mg PO DAILY 10. Lisinopril 2.5 mg PO DAILY Hold for SBP<100 or HR<60 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: C. difile colitis Dementia Congestive heart failure Atrial fibrillation Hyponatremia
+
+ Discharge Condition: Stable. Oriented to person and 'hospital', not year. Able to say days of the weeks forward and backward with significant prompting. 
+
+ Discharge Instructions: Dear Ms. ___,
+
+You were admitted with diarrhea and found to have recurrent C. diffile colitis. Gastroenterology was consulted who recommended a long taper of an antibiotic called Vancomycin. We also had physical therapy see you and they recommended either rehab or 24 hour care to help with your activities of daily living and medical care. We also noted you had some bacteria in your urine.  We treated you with antibiotics and you completed a full course.
+
+Please weigh yourself every morning, call MD if weight goes up more than 3 lbs.
+
+It is very important that you get your electrolytes checked on ___. We increased your daily dose of lasix and this can affect the salt balance in your blood.
+
+INCREASE Lasix PO to 40mg daily START Vancomycin Oral Liquid ___ PO q6hrs and follow long taper as listed.
+
+We expect that you will stay in the extended care facility for <30 days.  Followup Instructions: ___ 

@@ -1,0 +1,31 @@
+T1	Delirium 11907 11925	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 11991 12023	Ambulatory - requires assistance
+T3	Mobile_with_aid 12027 12030	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Lower_respiratory_tract_infection 8215 8224	pneumonia
+A3	Negation T4
+T5	Delirium 6435 6440	AAOx3
+A4	Negation T5
+T6	Constipation 1883 1895	constipation
+A5	Negation T6
+T7	Upper_gastrointestinal_haemorrhage 1913 1919	melena
+A6	Negation T7
+T8	Upper_gastrointestinal_haemorrhage 1921 1932	hematemesis
+A7	Negation T8
+T9	Lower_gastrointestinal_haemorrhage 1934 1946	hematochezia
+A8	Negation T9
+T10	Faecal_incontinence 1964 1969;1979 1991	stool incontinence
+A9	Negation T10
+T11	Urinary_incontinence 1973 1978;1979 1991	urine incontinence
+A10	Negation T11
+T12	Visual_impairment 1753 1766	blurry vision
+A11	Negation T12
+T13	Visual_impairment 1768 1776	diplopia
+A12	Negation T13
+T14	Visual_impairment 1778 1792	loss of vision
+A13	Negation T14
+T15	Visual_impairment 1794 1805	photophobia
+A14	Negation T15
+T16	Weight_loss 1725 1736	weight loss
+A15	Negation T16

@@ -1,0 +1,12 @@
+T1	Delirium 8928 8946	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 9012 9036	Ambulatory - Independent
+T3	Has_carers 8827 8834	Service
+T4	Intracranial_haemorrhage 4366 4373;4443 4466	CT Head intracranial hemorrhage
+A2	Diagnosis T4 Suspected
+T5	Lower_respiratory_tract_infection 928 937	pneumonia
+A3	Diagnosis T5 Suspected
+T6	Delirium 1475 1483	oriented
+A4	Negation T6
+T7	Delirium 2165 2173	oriented
+A5	Negation T7

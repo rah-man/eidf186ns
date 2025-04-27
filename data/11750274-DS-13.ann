@@ -1,0 +1,47 @@
+T1	Delirium 10609 10627	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 10693 10725	Ambulatory - requires assistance
+T3	Mobile_with_aid 10729 10732	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Constipation 9749 9761	constipation
+A3	Diagnosis T4 Implicit_mention
+T5	Urinary_tract_infection 7986 7989	UTI
+A4	Negation T5
+T6	Delirium 4067 4075;4076 4079	oriented x 3
+A5	Negation T6
+T7	Seizures 2491 2499	Seizures
+A6	Negation T7
+T8	Constipation 2096 2108	Constipation
+A7	Negation T8
+T9	Weight_loss 1355 1366	weight loss
+A8	Negation T9
+T10	Visual_impairment 1457 1468	Photophobia
+A9	Negation T10
+T11	Hearing_impairment 1586 1603	Decreased hearing
+A10	Negation T11
+T12	Hearing_impairment 1608 1616	Tinnitus
+A11	Negation T12
+T13	Lower_gastrointestinal_haemorrhage 1938 1952	Blood in stool
+A12	Negation T13
+T14	Upper_gastrointestinal_haemorrhage 1959 1970	Hematemesis
+A13	Negation T14
+T15	Visual_impairment 2412 2428	Visual changes  
+A14	Negation T15
+T16	Delirium 2450 2459	Confusion
+A15	Negation T16
+T17	Urinary_tract_infection 7930 7936	pyuria
+T18	Urinary_tract_infection 7936 7960	/urinary tract infection
+A16	Diagnosis T5 Implicit_mention
+T19	Visual_impairment 1423 1437	Blurred vision
+A17	Negation T19
+T20	Visual_impairment 1443 1452	Blindness
+A18	Negation T20
+T21	Hearing_impairment 1573 1581	Tinnitus
+A19	Negation T21
+T22	Visual_impairment 1473 1489	Decreased acuity
+A20	Negation T22
+T23	Pressure_injury 3862 3876	pressure ulcer
+A21	Negation T23
+T24	Urinary_tract_infection 11132 11155	urinary tract infection
+T25	Urinary_tract_infection 1086 1089	UTI
+A22	Diagnosis T25 Suspected

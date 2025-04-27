@@ -1,0 +1,25 @@
+T1	Delirium 11469 11487	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 11553 11585	Ambulatory - requires assistance
+T3	Mobile_with_aid 11589 11592	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Has_carers 11327 11334	Service
+T5	Constipation 10980 10992	constipation
+A3	Diagnosis T5 Implicit_mention
+T6	Constipation 10819 10831	constipation
+A4	Diagnosis T6 Implicit_mention
+T7	Constipation 9325 9337	constipation
+A5	Diagnosis T7 Implicit_mention
+T8	Constipation 711 723	constipation
+A6	Negation T8
+T9	Lower_respiratory_tract_infection 3015 3019;3049 3062	COPD exacerbations
+A7	Diagnosis T9 History_of
+T10	Lower_respiratory_tract_infection 3063 3073	pneumonias
+A8	Diagnosis T10 History_of
+T11	Constipation 10275 10287	constipation
+A9	Diagnosis T11 Implicit_mention
+T12	Constipation 9413 9425	constipation
+A10	Diagnosis T12 Implicit_mention
+T13	Constipation 9621 9633	constipation
+A11	Diagnosis T13 Implicit_mention
+T14	Constipation 8200 8212	Constipation

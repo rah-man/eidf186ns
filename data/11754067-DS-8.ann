@@ -1,0 +1,25 @@
+T1	Delirium 2005 2013	Oriented
+A1	Negation T1
+T2	Faecal_incontinence 1089 1096;1100 1105	No loss bowel
+A2	Negation T2
+T3	Urinary_incontinence 1089 1096;1109 1116	No loss bladder
+A3	Negation T3
+T4	Visual_impairment 2161 2175	Reading intact
+A4	Negation T4
+T5	Delirium 2232 2241	confusion
+A5	Negation T5
+T6	Seizures 372 379	seizure
+A6	Diagnosis T6 History_of
+T7	Seizures 1402 1409	Seizure
+A7	Diagnosis T7 History_of
+T8	Seizures 1424 1431	seizure
+A8	Diagnosis T8 History_of
+T9	Visual_impairment 2443 2456;2461 2465	Visual fields full
+A9	Negation T9
+T10	Hearing_impairment 2595 2609	Hearing intact
+A10	Negation T10
+T11	Seizures 5969 5976	seizure
+A11	Diagnosis T11 Implicit_mention
+T12	Falls 635 639	fell
+T13	Intracranial_haemorrhage 3438 3446;3466 3469;3493 3519	cerebral MRA hemorrhagic transformation
+A12	Negation T13

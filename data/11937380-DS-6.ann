@@ -1,0 +1,14 @@
+T1	Delirium 6925 6943	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 7009 7035	Out of Bed with assistance
+T3	Mobile_with_assistance 7048 7058	wheelchair
+T4	Constipation 6341 6353	constipation
+A2	Diagnosis T4 Implicit_mention
+T5	Dementia 2230 2238	Dementia
+A3	Diagnosis T5 History_of
+T6	Unspecified_cognitive_impairment 2545 2548	A&O
+T7	Delirium 6749 6758	agitation
+T8	Constipation 651 663	constipation
+T9	Delirium 3384 3392;3393 3396	oriented x 3
+A4	Negation T9
+T10	Weight_loss 896 900;912 918	lost pounds

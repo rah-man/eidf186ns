@@ -1,0 +1,47 @@
+T1	Weight_loss 1708 1719	weight loss
+A1	Negation T1
+T2	Urinary_tract_infection 12078 12081	UTI
+T3	Constipation 12638 12650	constipation
+A2	Diagnosis T3 Implicit_mention
+T4	Constipation 12414 12426	constipating
+A3	Diagnosis T4 Implicit_mention
+T5	Urinary_tract_infection 12289 12312	urinary tract infection
+T6	Constipation 11638 11650	constipation
+T7	Constipation 11835 11847	constipation
+T8	Urinary_tract_infection 9741 9744	UTI
+T9	Constipation 8852 8864	constipation
+T10	Constipation 8958 8970	constipation
+T11	Constipation 8237 8249	constipation
+T12	Constipation 8321 8333	constipation
+T13	Constipation 8429 8441	Constipation
+T14	Constipation 7266 7280	impacted feces
+T15	Delirium 2343 2351	oriented
+A4	Negation T15
+T16	Unspecified_cognitive_impairment 2910 2914	AOx1
+T17	Constipation 2210 2222	constipation
+T18	Dementia 2072 2080	Dementia
+A5	Diagnosis T18 History_of
+T19	Visual_impairment 2085 2094	Cataracts
+A6	Diagnosis T19 History_of
+T20	Constipation 1906 1918	constipation
+A7	Negation T20
+T21	Constipation 662 673	constipated
+T22	Constipation 839 851	constipation
+T23	Constipation 509 521	constipation
+T24	Constipation 561 573	constipation
+T25	Constipation 235 247	Constipation
+T26	Constipation 421 433	constipation
+A8	Diagnosis T26 History_of
+T27	Constipation 8048 8063	Fecal impaction
+T28	Urinary_tract_infection 9539 9542	UTI
+T29	Urinary_tract_infection 9544 9550	Pyuria
+T30	Constipation 4681 4695	impacted feces
+T31	Weight_loss 9215 9226	weight loss
+T32	Constipation 11203 11215	constipation
+A9	Diagnosis T32 Implicit_mention
+T33	Independently_mobile 8766 8790	ambulate with assistance
+T34	Constipation 1373 1378;1465 1476	stool disimpacted
+T35	Constipation 958 963;976 988	bowel disimpaction
+T36	Constipation 729 741;778 783	disimpaction Bowel
+T37	Constipation 6160 6166;6203 6215	rectum disimpaction
+T38	Constipation 4757 4771	impacted stool

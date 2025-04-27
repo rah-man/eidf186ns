@@ -1,0 +1,27 @@
+T1	Constipation 4944 4956	Constipation
+A1	Diagnosis T1 Implicit_mention
+T2	Seizures 5134 5142	Seizures
+A2	Diagnosis T2 Implicit_mention
+T3	Lower_gastrointestinal_haemorrhage 4962 4967;4976 4981	Blood stool
+A3	Diagnosis T3 Implicit_mention
+T4	Constipation 4593 4605	Constipation
+A4	Diagnosis T4 Implicit_mention
+T5	Seizures 700 708	Seizures
+A5	Diagnosis T5 History_of
+T6	Constipation 2210 2222	constipation
+A6	Diagnosis T6 Implicit_mention
+T7	Delirium 2780 2798	Clear and coherent
+A7	Negation T7
+T8	Independently_mobile 2864 2888	Ambulatory - Independent
+T9	Visual_impairment 1107 1126	ophthalmic aneurysm
+A8	Low_confidence T9
+T10	Visual_impairment 1248 1274	ophthalmic artery aneurysm
+A9	Low_confidence T10
+T11	Visual_impairment 331 357	ophthalmic artery aneurysm
+A10	Low_confidence T11
+T12	Visual_impairment 592 626	ICA-paraopthalamic artery aneurysm
+A11	Low_confidence T12
+T13	Intracranial_haemorrhage 450 464	unruptured ICA
+A12	Negation T13
+T14	Visual_impairment 5175 5181	vision
+A13	Diagnosis T14 Implicit_mention

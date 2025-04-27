@@ -1,0 +1,11 @@
+T1	Delirium 4693 4711	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 4777 4801	Ambulatory - Independent
+T3	Upper_gastrointestinal_haemorrhage 1192 1203	hematemesis
+A2	Negation T3
+T4	Upper_gastrointestinal_haemorrhage 1225 1231	melena
+A3	Negation T4
+T5	Lower_gastrointestinal_haemorrhage 1233 1238	BRBPR
+A4	Negation T5
+T6	Weight_loss 978 989	weight loss
+A5	Negation T6

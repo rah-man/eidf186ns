@@ -1,0 +1,48 @@
+T1	Delirium 10026 10044	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 10110 10136	Out of Bed with assistance
+T3	Mobile_with_aid 10149 10159	wheelchair
+A2	Type_of_aid T3 Wheelchair
+T4	Constipation 8845 8857	constipation
+A3	Diagnosis T4 Implicit_mention
+T5	Lower_respiratory_tract_infection 705 708	PNA
+A4	Diagnosis T5 History_of
+T6	Lower_respiratory_tract_infection 713 720	empyema
+A5	Diagnosis T6 History_of
+T7	Visual_impairment 1626 1640	vision changes
+A6	Negation T7
+T8	Constipation 1710 1722	constipation
+A7	Negation T8
+T9	Lower_gastrointestinal_haemorrhage 1724 1729	BRBPR
+A8	Negation T9
+T10	Upper_gastrointestinal_haemorrhage 1731 1737	melena
+A9	Negation T10
+T11	Lower_gastrointestinal_haemorrhage 1739 1751	hematochezia
+A10	Negation T11
+T12	Upper_gastrointestinal_haemorrhage 1970 1973	GIB
+T13	Lower_gastrointestinal_haemorrhage 1970 1973	GIB
+T14	Delirium 2544 2549	AAOx3
+T15	Lower_respiratory_tract_infection 4779 4782	PNA
+A11	Diagnosis T15 History_of
+T16	Lower_respiratory_tract_infection 4791 4798	empyema
+T17	Lower_respiratory_tract_infection 5216 5219	PNA
+A12	Diagnosis T17 Suspected
+T18	Lower_respiratory_tract_infection 5258 5261	PNA
+A13	Negation T18
+T19	Lower_respiratory_tract_infection 5287 5290	PNA
+A14	Negation T19
+T20	Delirium 7557 7565	delirium
+A15	Diagnosis T20 Implicit_mention
+T21	Delirium 7566 7580	encephalopathy
+A16	Diagnosis T21 Implicit_mention
+T22	Falls 7605 7614	fall risk
+A17	Diagnosis T22 Implicit_mention
+T23	Constipation 7984 7996	constipation
+A18	Diagnosis T23 Implicit_mention
+T24	Lower_respiratory_tract_infection 10346 10355	pneumonia
+T25	Lower_respiratory_tract_infection 10415 10422	empyema
+T26	Delirium 2744 2748	AOx3
+A19	Negation T26
+T27	Lower_respiratory_tract_infection 6289 6306	COPD exacerbation
+A20	Low_confidence T12
+A21	Low_confidence T13

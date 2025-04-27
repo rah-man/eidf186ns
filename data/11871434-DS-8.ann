@@ -1,0 +1,16 @@
+T1	Delirium 14315 14333	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 14399 14431	Ambulatory - requires assistance
+T3	Mobile_with_aid 14435 14438	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Constipation 12850 12862	constipation
+A3	Diagnosis T4 Implicit_mention
+T5	Delirium 2461 2466	AAOx3
+A4	Negation T5
+T6	Lower_respiratory_tract_infection 5325 5334	pneumonia
+A5	Negation T6
+T7	Constipation 13522 13534	constipation
+A6	Diagnosis T7 Implicit_mention
+T8	Lower_respiratory_tract_infection 8963 8972	pneumonia
+T9	Lower_respiratory_tract_infection 10223 10232	pneumonia
+T10	Lower_respiratory_tract_infection 14128 14137	pneumonia

@@ -1,0 +1,59 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Zosyn  Attending: ___.  Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ yo F w/ h/o reactive airway disease on 3L NC O2 recently while in rehab, alcohol abuse and a degree of cirrhotic liver injury, and hypertension who presents w/ worsening dyspnea from rehab (___. Per pt and son ___, has been in and out of hospital multiple times during past few months dating back to ___, most recently got out about 1 week ago and has been in rehab since. Per recent encounter note dated ___, pt has h/o aspiration PNA and empyema and is s/p chest tube removed on ___ from the right side. Pt states breathing is worse over the past few days. Was started on levofloxacin last ___ per rehab notes. Was on steroids last week. CP only with coughing, no fevers/chills, leg swelling, orthopnea, ___ pain, additional complaints. 
+
+In the ED, initial vital signs were: 13:23 0 97.6 73 116/45 94% RA. Exam notable for cough, obesity, mild lower extremity pitting edema, O2 requirement, no crackles, decreased breath sounds b/l. Labs were notable for normal weight count, anemia, normal lactate, neg influenza screen, hyperkalemia to 6 down to 5.3, sCr at 1.2, AST slight elevation, AP slight elevation. Patient was given ___ L NC for oxygen desaturation to the ___, prednisone 50 mg, a dose of Zosyn, a dose of levofloxacin, and a dose of vancomycin and two DuoNebs.  
+
+REVIEW OF SYSTEMS:  (+) per HPI (-) fever, chills, night sweats, headache, vision changes, rhinorrhea, congestion, abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, hematuria.  Past Medical History: - Reactive airway disease - Alcohol abuse - Cirrhosis - Depression - Hypertension - Hyperlipidemia - Hypothyroidism - Insomnia - Erosive esophagitis - Peptic ulcer disease - GIB - Dysphagia  Social History: ___ Family History: Sister has melanoma; Mother died of breast cancer; GF/GM both died of same "pulmonary disease." 
+
+ Physical Exam: ON ADMISSION: Vitals: 99.1, 129/53, 85, 18, 97 on 5L General: Obese, NAD, occasional cough, nasal canula in place HEENT: NCAT, EOMI, MMM, PERRL Neck: Extensive soft tissue  Lymph: No LAD appreciated cervical, axillary CV: RRR, no MRG Lungs: Decreased breath sounds at bases b/l, no crackles, occasional cough, no splinting Abdomen: Obese, not TTP, BS present, soft Ext: WWP, trace pitting edema Neuro: NFD, AAOx3, strength and sensation upper/lower extremities intact Skin: No rash, no breakdown
+
+ON DISCHARGE: Vitals: T (97.5), BP (125/60), HR (66), RR (18), O2 sat (98) on 3L. General: Pleasant, NAD, and AOx3. Patient states she feels "great" today. HEENT: NCAT, PERRL, sclera anicteric, moist mucus membranes Neck: no LAD, no JVP Lungs: CTAB, dreceased breath sounds bilaterally, no WRR. CV: faint S1/S2, no rubs, murmurs, or gallops. In/out: 240 mL / 450 mL
+
+ Pertinent Results: ADMISSION: ___ 02:30PM BLOOD WBC-10.5 RBC-3.33* Hgb-9.6* Hct-29.1* MCV-87 MCH-28.7 MCHC-32.8 RDW-16.5* Plt ___ ___ 02:30PM BLOOD Neuts-74.0* Lymphs-10.9* Monos-9.3 Eos-5.5* Baso-0.3 ___ 02:30PM BLOOD Plt ___ ___ 08:00AM BLOOD ___ PTT-28.6 ___ ___ 02:30PM BLOOD Glucose-106* UreaN-24* Creat-1.2* Na-134 K-5.9* Cl-94* HCO3-29 AnGap-17 ___ 02:30PM BLOOD ALT-22 AST-54* AlkPhos-114* TotBili-0.5 ___ 02:30PM BLOOD Lipase-20 ___ 02:30PM BLOOD Albumin-3.2* ___ 08:00AM BLOOD Calcium-8.5 Phos-4.1 Mg-1.5* Iron-20*
+
+DISCHARGE: ___ 07:55AM BLOOD WBC-9.2 RBC-3.37* Hgb-9.4* Hct-29.5* MCV-88 MCH-28.0 MCHC-31.9 RDW-16.1* Plt ___ ___ 07:55AM BLOOD Plt ___ ___ 07:55AM BLOOD Glucose-91 UreaN-39* Creat-1.2* Na-134 K-5.3* Cl-95* HCO3-29 AnGap-15 ___ 07:55AM BLOOD Calcium-8.9 Phos-4.1 Mg-2.2
+
+PERTINENT: ___ 08:00AM BLOOD calTIBC-361 Ferritn-85 TRF-278 ___ 08:00AM BLOOD proBNP-829* ___ 08:00AM BLOOD ALT-15 AST-19 LD(LDH)-176 AlkPhos-102 TotBili-0.5
+
+IMAGING/STUDIES:
+
+___ ECG Sinus rhythm. Normal ECG. No previous tracing available for comparison. 
+
+___ CXR IMPRESSION:  Bilateral regions of consolidation which at the bases may be secondary to atelectasis although more superiorly, superimposed infection would certainly be be possible. Small bilateral pleural effusions. 
+
+MICRO: ___ SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL INPATIENT ___ URINE Legionella Urinary Antigen -FINAL INPATIENT ___ BLOOD CULTURE Blood Culture, Routine-PENDING EMERGENCY WARD ___ BLOOD CULTURE Blood Culture, Routine-PENDING EMERGENCY WARD OTHER BODY FLUID VIRAL, MOLECULAR FluAPCR FluBPCR ___ 03:24PM  NEGATIVE NEGATIVE Import Result 
+
+ Brief Hospital Course: ___ with history of reactive airway disease, alcoholic cirrhosis with multiple hospitalizations in the past 6 months for PNA with an empyema in ___ that required a chest tube p/w dyspnea and cough likely ___ reactive airway disease exacerbation/bronchitis in the setting of possible aspiration events leading to pneumonitis/inflammation in the lungs (process is more right-predominant), improved inpatient on steroids along with azithromycin and breathing treatments.  # SHORTNESS OF BREATH: Due to COPD/asthma. CXR with aspiration and possible superimposed PNA however given no clinical evidence of PNA, she was not treated for PNA. She improved on abx/steroids for COPD. Legionella urine negative. Respiratory sputum sample oral flora, no culture done. Treated with prednisone x 5 days, azithromycin x 5 days, fluticasone/salmeterol, albuterol and ipatropium nebs Q6H and prn albuterol. Lasix not robustly efficacious. On aspiration precautions; patient refuses nectar-thickened liquids.
+
+# ___: Baseline creatinine of 0.8 elevated to 1.2, possibly ___ due to medication usage, hypovolemia, or fluid shifts in setting of cirrhosis. BUN/creatinine ratio is >20, which may indicate prerenal disease, with BUN increase from 31 to 39 after Lasix 20 mg IV x1. Held spironolactone.
+
+# HYPERKALEMIA: ___ be secondary to acute kidney injury. Was 5.3 at discharge, ECG on admission normal. Held spironolactone. 
+
+# ANXIETY: Patient was receiving 0.5 mg lorazepam Q8H and 1mg lorazepam QHS for anxiety and insomnia. Lorazepam discontinued upon admission, restarted 1 mg QHS, holding the remainder. Anxiety could be contributing to current COPD exacerbation and shortness of breath symptoms.
+
+# CIRRHOSIS: Chronic EtOH cirrhosis, appears well compensated. From documentation, appears to be dx based on alcohol history plus CT scan. No SBP history, no ascites, no high ___, no grade 2 varices/no varices at all just erosive esophagitis, gastritis. Slight LFT elevation normalized in house. Held spironolactone. Continued nadolol (but given reactive airway disease may be advisable to discontinue the medication if not receiving benefit from hepatology point of view). Counseled on importance of reduced alcohol intake. Na limit to ___ g, fluid restrict to ___ mL, heart-healthy choices.
+
+# HTN: Well controlled HTN. Held spironolactone. Only on nadolol 80 mg PO QD (which is more for her cirrhosis) along with amlodipine 5 mg PO QD.
+
+# CODE: Full code  # CONTACT: ___ (son) ___
+
+Transitional Issues: - Pulm: PFTs - GI: She has anemia, needs colonoscopy - Hepatology: CT scan at OSH with cirrhosis, has significant drinking history, no SBP/ascites, no high ___, no varices by EGD ___ only gastritis/erosive esophagitis, but she is on spironolactone and nadolol. Needs formal assessment, does she really need to be on those medications? - PCP: ___ to reduce Ativan and uptitrate citalopram. Could contribute to delirium/encephalopathy and makes her more of a fall risk; Encourage alcohol cessation, AA, resources, support. ___ need ferrous sulfate and vitamin C s/p colonoscopy to supplement iron.  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Acetaminophen 650 mg PO Q6H:PRN pain 2. Amlodipine 5 mg PO DAILY 3. biotin (biotin-calcium carbonate) 1000 mcg oral QD 4. Bisacodyl 10 mg PO DAILY:PRN constipation 5. Vitamin D ___ UNIT PO DAILY 6. Citalopram 10 mg PO DAILY 7. B-12 DOTS (cyanocobalamin (vitamin B-12)) ___ mcg oral QD 8. Fluticasone Propionate 110mcg 2 PUFF IH BID 9. Lorazepam 0.5 mg PO Q8H:PRN anxiety 10. Lorazepam 1 mg PO QHS 11. Lactobacillus acidoph-L. bifid 1 billion cell oral DAILY 12. Levothyroxine Sodium 75 mcg PO DAILY 13. melatonin 3 mg oral QHS 14. Multivitamins 1 TAB PO DAILY 15. Nadolol 80 mg PO DAILY 16. Fish Oil (Omega 3) 1000 mg PO BID 17. PredniSONE Dose is Unknown PO DAILY 18. RISperidone 0.5 mg PO QHS 19. Spironolactone 12.5 mg PO DAILY 20. Tiotropium Bromide 1 CAP IH DAILY 21. TraMADOL (Ultram) 25 mg PO Q6H:PRN pain 22. TraZODone 150 mg PO QHS:PRN insomnia 23. Levofloxacin 750 mg PO Q24H 
+
+ Discharge Medications: 1. Acetaminophen 650 mg PO Q6H:PRN pain 2. Amlodipine 5 mg PO DAILY 3. Bisacodyl 10 mg PO DAILY:PRN constipation 4. Citalopram 20 mg PO DAILY 5. Fish Oil (Omega 3) 1000 mg PO BID 6. Levothyroxine Sodium 75 mcg PO DAILY 7. Lorazepam 1 mg PO QHS 8. Multivitamins 1 TAB PO DAILY 9. Nadolol 80 mg PO DAILY 10. PredniSONE 40 mg PO DAILY Duration: 4 Days LAST DAY: ___. TraZODone 150 mg PO QHS:PRN insomnia 12. Vitamin D ___ UNIT PO DAILY 13. Albuterol 0.083% Neb Soln 1 NEB IH Q2H:PRN wheeze, SOB 14. Azithromycin 250 mg PO Q24H Duration: 3 Days LAST DAY ___. Fluticasone-Salmeterol Diskus (250/50) 1 INH IH BID Replaces fluticasone inhaler. 16. Guaifenesin ER 1200 mg PO Q12H 17. Miconazole Powder 2% 1 Appl TP BID:PRN wetness between folds 
+
+18. Omeprazole 40 mg PO BID 19. B-12 DOTS (cyanocobalamin (vitamin B-12)) ___ mcg oral QD 20. biotin (biotin-calcium carbonate) 1000 mcg oral QD 21. Lactobacillus acidoph-L. bifid 1 billion cell oral DAILY 22. melatonin 3 mg oral QHS 23. Tiotropium Bromide 1 CAP IH DAILY 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: PRIMARY: 1). Reactive airway disease exacerbation 2). Bronchitis 3). Acute kidney injury 4). Hyperkalemia 5). Anemia 6). Anxiety
+
+SECONDARY: 1). Cirrhosis
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Out of Bed with assistance to chair or wheelchair.
+
+ Discharge Instructions: Mrs. ___,
+
+___ was our pleasure caring for you during your inpatient time at ___. You were admitted to the hospital with shortness of breath in the setting of pneumonia episodes in the past along with a chest tube placement for empyema. You were found to have a likely exacerbation of reactive airway disease and bronchitis due to inflammation in your lungs. You were started on medications to improve your breathing and improved while with us. You will finish a course of antibiotics and steroids when you leave the hospital.
+
+It is very important for you to follow up with doctors as ___ outpatient to assess your pulmonary function status (how you move air), low blood counts, kidney function, and cirrhosis.
+
+Best wishes, Your ___ Medicine Team  Followup Instructions: ___ 
