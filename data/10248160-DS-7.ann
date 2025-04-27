@@ -1,0 +1,19 @@
+T1	Vertebral_compression_fracture 1082 1097	stress fracture
+A1	Low_confidence T1
+A2	Diagnosis T1 History_of
+T2	Malnutrition 2405 2414	Cachectic
+T3	Malnutrition 3810 3822	malnutrition
+T4	Upper_gastrointestinal_haemorrhage 8789 8797	bleeding
+A3	Diagnosis T4 Implicit_mention
+A4	Low_confidence T4
+T5	Malnutrition 13292 13304	MALNUTRITION
+T6	Weight_loss 13305 13316	Weight loss
+T7	Malnutrition 13401 13413	malnutrition
+T8	Weight_loss 13633 13644	weight loss
+T9	Weight_loss 13781 13792	weight loss
+T11	Weight_loss 14207 14213;14226 14230	weight fall
+T10	Delirium 15410 15443	Mental Status: Clear and coherent
+A5	Negation T10
+T12	Mobile_with_assistance 15509 15519;15531 15541	Ambulatory assistance
+T13	Mobile_with_aid 15509 15519;15545 15548	Ambulatory aid
+T14	Weight_loss 15917 15928	weight loss

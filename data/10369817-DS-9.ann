@@ -1,0 +1,9 @@
+T1	Urinary_incontinence 4765 4785	urinary incontinence
+T2	Has_carers 6512 6529	Home With Service
+T3	Delirium 6655 6688	Mental Status: Clear and coherent
+A1	Negation T3
+T4	Independently_mobile 6754 6778	Ambulatory - Independent
+T5	Constipation 7795 7807	constipation
+A2	Diagnosis T5 Implicit_mention
+T6	Constipation 8223 8234	constipated
+A3	Diagnosis T6 Implicit_mention

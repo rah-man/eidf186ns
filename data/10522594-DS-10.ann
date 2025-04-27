@@ -1,0 +1,8 @@
+T1	Lower_respiratory_tract_infection 1355 1362	CXR wnl
+A1	Negation T1
+T2	Lower_respiratory_tract_infection 1503 1512	pneumonia
+T3	Seizures 1756 1764	seizures
+A2	Negation T3
+T4	Lower_respiratory_tract_infection 3292 3313	intrathoracic process
+A3	Negation T4
+T5	Lower_respiratory_tract_infection 1543 1552;1572 1575	infection RUL

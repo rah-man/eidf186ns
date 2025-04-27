@@ -1,0 +1,99 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Lisinopril / IV Dye, Iodine Containing Contrast Media / vancomycin / Nafcillin / Bumex  Attending: ___.  Chief Complaint: dyspnea, weight gain, ___ edema  Major Surgical or Invasive Procedure: ___ EMR of 3cm duodenal adenoma - 2 clips placed ___ Temp HD line placement ___ R thoracentesis ___ L thoracentesis
+
+ History of Present Illness: Mr. ___ is a ___ y.o. male patient with HFpEF (EF 57% ___, CAD, HTN, PVD (s/p b/l femoral bypass ___, IDDM c/b neuropathy + L plantar foot ulcer, and Stage 3 CKD with recent admission ___ for CHF exacerbation who presented to ED on ___ for dyspnea, reported weight gain, lower extremity edema and was subsequently admitted to Inpatient HF Service on ___ for acute decompensated HFrEF and ___ on Stage 3 CKD. 
+
+Over the past ___ days, he reports worsening dyspnea (not on home O2), lower extremity swelling, poor appetite, fatigue, and weight gain of ~8 lbs (232 > 240 lbs). On ___, he took metolazone 2.5mg as directed by Cardiology. On ___, he began taking metolazone 5mg + KCl 30mEq x1 per Dr ___ on ___ in conjunction with his torsemide to address his weight gain. Despite taking diuretics, he reported decreased urination. Usually he voids ___ he continued voiding as much, but noticed he was making ~5cc urine with each void.
+
+Notably, he was recently admitted and prior to this on ___ for ADHFpEF (Diuresed with IV boluses 160mg bid, Lasix gtt@10mg/hr > d/c weight: 259lbs on PO Torsemide 80mg qd). Discharge weight was 106.9 kg (235.67 lb) (dry weight thought to be ~133 lbs) and discharge Cr was 2.7. 
+
+Additionally, he reports ___ loose stools over the past few days. Grandkids have been sick, but no recent GI illnesses or travel history. Reports brown stools recently, though had melena while on Eliquis (started at last hospitalization for Afib). EGD at that time was notable for multiple gastric polyps (2-5mm) in fundus and body of stomach and ___ + bleeding 4cm duodenal adenoma. He is scheduled to have repeat endoscopy with removal of duodenal adenoma in ___.
+
+ED Course: =============== In the ED initial vitals were: T 97.1, HR 52, BP 96/23, HR 22, SpO2 96% RA. Exam was notable for: 2+ ___ b/l. Guiaic + brown stool on rectal exam. 
+
+Labs notable for: 1. CBC: WBC 6.1, Hgb 7.0, Plt 211. 2. BMP: Cr 4.4 (last Cr 2.5 on ___. 3. LFTs: AP elevated 137, otherwise nml. 4. ___: 19051 5. Lactate: 0.7
+
+Studies notable for: EKG ___ (my read): HR 56 (Sinus brady), nml axis, ___ degree block (PR 266msec), LBBB though w/ positive V1 deflection(QRS: 125msec). 
+
+___ CXR: Worsening moderate bilateral pleural effusions with associated compressive atelectasis. No focal consolidation in remaining visualized lungs. No frank pulmonary edema.  Patient was given: Nothing. 
+
+Vitals on transfer: 97.4, HR 52, BP 132/48, RR 20, SpO2 94% 2L NC
+
+ Past Medical History: CORONARY ARTERY DISEASE  ANEMIA  CONGESTIVE HEART FAILURE, DIASTOLIC  HYPERLIPIDEMIA  HYPERTENSION  DIABETES TYPE II  DIABETIC NEUROPATHY  DIABETIC NEPHROPATHY  DIABETIC RETINOPATHY OBESITY  PERIPHERAL VASCULAR DISEASE    Social History: ___ Family History: His mother died in her ___. HIs father died at about ___ of an aneurysm. He had type II diabetes. He has a brother and sister, both of whom have type II diabetes. 
+
+ Physical Exam: ADMISSION PHYSICAL EXAM: ======================== VS: 97.4, 121/66, HR 61, RR 20, ___ NCL  GENERAL: Mildly uncomfortable, on 2L NC. HEENT: NCAT. NECK: Supple. JVP of 15cm H2O (at mandible) CARDIAC: Normal S1, S2. No murmurs, rubs, or gallops.  LUNGS: 2L NC. Decreased bibasilar breath sounds. ABDOMEN: Soft, non-tender, non-distended.  EXTREMITIES: Warm, well perfused. ___ ___ up to knees b/l (worse on L > R, pt reports this is chronic). L foot bandaged (ulcer on plantar aspect of L. foot) SKIN: Chronic venous stasis changes with b/l longtidunal surgical scars along the medial aspect of the calves (s/p fem-pop bypass x2) 
+
+DISCHARGE PHYSICAL EXAM: ======================== 24 HR Data   Temp: 98.2 (Tm 99.0), BP: 123/64 (105-153/58-73), HR: 72 (72-86), RR: 18 (___), O2 sat: 93% (93-96), O2 delivery: Ra, Wt: 208.33 lb/94.5 kg  Fluid Balance  Last 24 hours Total cumulative 130ml   IN: Total 430ml, PO Amt 430ml   OUT: Total 300ml, Urine Amt 300ml, L Chest tube 0ml  GENERAL: NAD. HEENT: JVD 8cm H20 CARDIAC: Normal rate, regular rhythm. No m/r/g  LUNGS: Decreased breath sounds R base. ABDOMEN: Soft, non-tender, non-distended. EXTREMITIES: 1+ non-pitting ___ edema b/l to knees, WWP. L forearm edematous with ecchymosis.  Pertinent Results: ADMISSION LABS: =============== ___ 04:36PM BLOOD WBC-6.1 RBC-2.62* Hgb-7.0* Hct-22.1* MCV-84 MCH-26.7 MCHC-31.7* RDW-17.0* RDWSD-51.8* Plt ___ ___ 04:36PM BLOOD Neuts-81.3* Lymphs-8.8* Monos-7.4 Eos-1.8 Baso-0.2 Im ___ AbsNeut-4.92 AbsLymp-0.53* AbsMono-0.45 AbsEos-0.11 AbsBaso-0.01 ___ 04:36PM BLOOD Plt ___ ___ 04:36PM BLOOD Glucose-181* UreaN-117* Creat-4.4*# Na-136 K-4.0 Cl-98 HCO3-22 AnGap-16 ___ 04:36PM BLOOD estGFR-Using this ___ 04:36PM BLOOD ALT-27 AST-29 AlkPhos-137* TotBili-0.6 ___ 04:36PM BLOOD Lipase-32 ___ 04:36PM BLOOD CK-MB-3 cTropnT-0.04* ___ ___ 04:36PM BLOOD Albumin-3.7 Calcium-9.1 Phos-6.5* Mg-2.5 ___ 07:10PM BLOOD Lactate-0.7
+
+INTERVAL LABS: ============== ___ 03:18AM BLOOD calTIBC-269 Ferritn-183 TRF-207 ___ 04:08PM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG ___ 03:35PM BLOOD C3-116 C4-15 ___ 04:08PM BLOOD HIV Ab-NEG ___ 04:08PM BLOOD HCV Ab-NEG
+
+DISCHARGE LABS: =============== ___ 06:28AM BLOOD WBC-10.7* RBC-3.61* Hgb-9.8* Hct-30.3* MCV-84 MCH-27.1 MCHC-32.3 RDW-16.4* RDWSD-50.5* Plt ___ ___ 06:28AM BLOOD ___ PTT-27.7 ___ ___ 06:28AM BLOOD Glucose-341* UreaN-41* Creat-2.4* Na-133* K-4.1 Cl-94* HCO3-27 AnGap-12 ___ 06:28AM BLOOD Calcium-8.2* Phos-2.0* Mg-2.0
+
+MICROBIOLOGY: ============= L pleural fluid       GRAM STAIN (Final ___:    NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.    NO MICROORGANISMS SEEN. 
+
+R pleural fluid    GRAM STAIN (Final ___:    NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.    NO MICROORGANISMS SEEN. 
+
+___: S. aureus Negative; MRSA Negative. 
+
+STUDIES/IMAGING: ================ CXR ___: Worsening moderate bilateral pleural effusions with associated compressive atelectasis. No focal consolidation in remaining visualized lungs. No frank pulmonary edema. 
+
+pMIBI ___: 1. Fixed, medium sized, moderate severity perfusion defect. 2. Increased left ventricular cavity size. Mid and basal inferior hypokinesis with preserved systolic function. 
+
+EUS ___: Normal mucosa in esophagus, erythema in the stomach compatible with gastritis, 3cm polyp in second part of the duodenum. EUS with no evidence of invasive disease. Successful EMR and clipping.
+
+GI pathology ___: Adenoma, low-grade with focal high-grade dysplasia, with focal erosion. -No adenomatous epithelium seen at the inked, cauterized tissue margin.
+
+VENOUS DUP UPPER EXT BILATERAL Study Date of ___  Patent right cephalic vein from the antecubital fossa distally, and basilic vein from the antecubital fossa proximally with measurements as above. Patent left cephalic vein with measurements as above. Patent basilic vein proximal to the antecubital fossa with mild wall thickening in the mid arm. Calcification of the bilateral radial arteries with normal peak systolic velocities. Minimal calcification of the bilateral brachial arteries. 
+
+UNILAT UP EXT VEINS US LEFT Study Date of ___  No evidence of deep vein thrombosis in the left upper extremity. There is edema in the soft tissues of the upper left arm. 
+
+CT CHEST W/O CONTRAST Study Date of ___  1. Status post placement of a catheter in the right pleural space. New moderate right hydropneumothorax. 2. Moderate left pleural effusion. 3. Few ground-glass opacities and atelectasis in the right lower lobe that could be related to focal aspiration or pulmonary edema. 
+
+ Brief Hospital Course: Mr. ___ is a ___ y.o. male patient with HFpEF (EF 57% ___, CAD, HTN, PVD, IDDM c/b L plantar foot ulcer, and Stage 3 CKD with recent admission ___ for CHF exacerbation who presented to ED on ___ for dyspnea, reported weight gain, lower extremity edema and was subsequently admitted to Inpatient HF Service on ___ for acute decompensated HFrEF and ___ on Stage 3 CKD. Hospital course was complicated by persistent volume overload and dyspnea requiring initiation of hemodialysis. 
+
+=============== ACTIVE ISSUES: =============== # Acute Decompensated HFpEF Presented with acute on chronic dyspnea and weight gain - last discharge weight: 106.9 kg (235.67lbs) (___). Presented with dyspnea on exertion, weight gain, and lower extremity swelling c/w ADHFpEF. Unclear etiology for this admission, though suspect fluid overload may be ___ ___ on CKD (Cr 4.4 at admission (___), compared to Cr 2.5 on ___. Trop peaked @0.04 on ___, CKMB 3. BNP: 19051 (13113 at last admission). ___ pMIBI: Fixed medium sized moderate severity perfusion defect. Cath was not performed given ___. Actively diuresed with Bumex gtt, though was discontinued due to diffuse myalgias and instead given Lasix + started HD for volume removal. 
+
+On ___, pt was triggered for dyspnea and hypoxemia, and was sent to the CCU for BiPAP. In the CCU he was continued on a Lasix drip and was continued with daily HD. Lasix drip was discontinued on ___ due to inadequate response. His afterload regimen was titrated to the following: labetalol 600 TID was discontinued and he was started on metoprolol succinate 50mg daily; hydralazine was held; amlodipine 10 mg daily was continued.
+
+# Acute on chronic Anemia # ___ esophagus # Duodenal Mass Hgb 7.0 at admission ___ in past year). Likely mixed with AoCD ___ CKD and iron deficiency based on prior iron studies. ___ EGD notable for multiple gastric polyps (2-5mm) in fundus and body of stomach and ___ + bleeding 4cm duodenal adenoma. s/p EGD ___ with removal of duodenal adenoma. s/p 1U pRBC on ___ for Hgb 6.8, 1U pRBC on ___. GI followed closely given concern for reported melena 48 hours after EGD/duodenal adenoma removal and low Hgb ~7. Hep gtt (for Afib) was briefly paused for 24 hours after EGD due to concern for ongoing bleeding, but was restarted given stable H/H and hemodynamic stability. Otherwise, continued on Protonix bid, and received ferrlecit 125mg x 8 doses (per Renal - ___. On arrival to the CCU patient's hemoglobin was noted to be downtrending in the setting of melanic stool. He remained hemodynamically stable but required 2 transfusion (___). His heparin drip (started for Afib) was held and repeat EGD was performed on ___ which showed clot at site where adenoma was removed, no active bleeding. Epi was injected and clips were placed. Patient's hemoglobin stabilized and he had no further episodes of melena.
+
+# pAF (CHADS2VASC 6). Diagnosed at last admission (___) and spontaneously converted to NSR. Started Eliquis 5mg bid at last admission; however, this was c/b GI bleed (melena). Per GI recs, hep gtt was started 48 hours after duodenal adenoma removal on ___ (see below). Hep gtt was briefly held due to concern for ongoing GI bleeding, then restarted, but held again when he developed further transfusion requirements in the CCU as described above. Once patient's hemoglobin stabilized, he was started on warfarin without a bridge due to recent GI bleeding. For rate control, he was transitioned from home labetalol 600mg tid to metoprolol succinate 50mg daily.
+
+# Hypertension Initaially continued home labetalol 600 mg TID, amlodipine 10 mg daily, hydralazine to 50 mg TID. In the CCU labetalol was discontinued and hydralazine held due to low blood pressures. In place of labetalol he was started on metoprolol as above. 
+
+# ___ on Stage III CKD p/w Cr 4.4 at admission (___), compared to Cr 2.5 on ___. Suspected cardiorenal at this time, though may have pre-renal component as well based on reported h/o poor intake and diarrhea ___ BMs in the past few days prior to admission). Baseline creatinine has fluctuated significantly in the last year iso of multiple heart failure exacerbations. Recent low was 1.9 in ___. Given persistent volume overload/dyspnea despite aggressive diuresis, HD was initiated on ___. PPD was placed/read (no induration) and hepatitis serologies were obtained; Hep B booster was administered. Discharged on Sevelamer 800mg TID. Patient did not have adequate recovery of his renal function during this admission. A tunneled dialysis catheter was placed and he will be continuing dialysis as an outpatient on a TuThSat schedule.
+
+# IDDM Has a h/o poorly controlled blood sugars. At his last admission, FSBG up to 300s for which ___ was c/s. Triggered on morning of ___ for AMS ___ hypoglycemia (evening prior, pt had FSBG>500). ___ was consulted. Final recs were as follows: lantus 15U qAM, lantus 10U qPM, Humalog 6U with meals.
+
+#Pleural effusions Patient had bilateral pleural effusions leading to shortness of breath and hypoxia, though to be secondary to CHF and volume overload. He underwent R thoracentesis on ___ and L thoracentesis on ___ after which he no long had a supplemental oxygen requirement. He will follow up with interventional pulmonology to monitor for re-accumulation.
+
+# Urinary retention Started Flomax 0.4mg qhs
+
+=============== RESOLVED ISSUES: =============== # Diffuse joint pain Reported diffuse joint pain shortly after starting Bumex gtt which was subsequently stopped in favor of Lasix gtt due to his pain. Resolved off Bumex. 
+
+# Diarrhea At admission, reported ___ per day for the past few days prior to admission. Resolved. 
+
+=============== CHRONIC ISSUES: =============== # Left diabetic medial plantar foot ulcer Left foot has ~1.5cm ulcer on medial plantar surface of left foot. Followed by outpatient Podiatry. Seen by Inpatient Wound Care who agreed with outpatient Wound Care ___ recs (___): NSW to left foot wound, pat dry and apply Aquacel AG to wound bed and covered by 3x3 silicone bordered foam 3 x weekly. Apply removable felted foam. Dressing changes every other day.
+
+# CAD # PVD s/p femoral bypass x2 Continued home ASA 81mg qd + Atorvastatin 80mg qhs. 
+
+# Gout Continued allopurinol ___ qod
+
+TRANSITIONAL ISSUES =================== - EGD pathology (___) showing low grade dysplasia with focal high-grade dysplasia, recommend repeat EGD in 6 months for surveillance. - continue hepatitis B vaccination series (s/p first dose ___ - consider cMRI to further evaluate possible AR - 10 cm intramuscular lipoma in the right posterior chest wall. Given its size, a dedicated MRI could be considered. - IP follow up / further management of large pleural effusion / chest tube - follow up pleural fluid cytology results - Blood sugars remained above goal prior to discharge. Continue close glucose monitoring and insulin titration. []DISCHARGE WEIGHT: 208 lbs. []DISCHARGE CR: 2.4 []DISCHARGE Hgb: 9.8 
+
+# LANGUAGE: ___ # CODE STATUS: Full Code (confirmed with pt on ___ # HCP: Mairetta ___, ___  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Allopurinol ___ mg PO EVERY OTHER DAY 2. amLODIPine 10 mg PO DAILY 3. Aspirin 81 mg PO DAILY 4. Atorvastatin 80 mg PO QPM 5. Bisacodyl 10 mg PO DAILY:PRN Constipation - Second Line 6. Brimonidine Tartrate 0.15% Ophth. 1 DROP LEFT EYE Q8H 7. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP LEFT EYE BID 8. Fluticasone Propionate NASAL 1 SPRY NU BID 9. HydrALAZINE 50 mg PO TID 10. Pantoprazole 40 mg PO Q12H 11. Travoprost 0.004 % Ophth Soln (*NF*) 0.004 % Other QPM 12. Labetalol 600 mg PO TID 13. Torsemide 80 mg PO BID 14. Ferrous Sulfate 325 mg PO DAILY 15. Glargine 21 Units Breakfast Glargine 21 Units Bedtime Humalog 10 Units Breakfast Humalog 10 Units Lunch Humalog 10 Units Dinner Insulin SC Sliding Scale using HUM Insulin 16. Metolazone Dose is Unknown PO Frequency is Unknown 
+
+ Discharge Medications: 1. Metoprolol Succinate XL 50 mg PO DAILY RX *metoprolol succinate [Toprol XL] 50 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet Refills:*1 2. Nephrocaps 1 CAP PO DAILY RX *B complex with C#20-folic acid [Nephrocaps] 1 mg 1 capsule(s) by mouth Daily Disp #*30 Capsule Refills:*3 3. sevelamer CARBONATE 800 mg PO TID W/MEALS RX *sevelamer carbonate 800 mg 1 tablet(s) by mouth Three times a day, with meals Disp #*90 Tablet Refills:*3 4. Tamsulosin 0.4 mg PO QHS RX *tamsulosin 0.4 mg 1 capsule(s) by mouth At bedtime Disp #*30 Capsule Refills:*3 5. Warfarin 6 mg PO DAILY16 RX *warfarin [Coumadin] 2 mg 3 tablet(s) by mouth Daily Disp #*90 Tablet Refills:*0 6. Glargine 15 Units Breakfast Glargine 10 Units Bedtime Humalog 6 Units Breakfast Humalog 6 Units Lunch Humalog 6 Units Dinner 7. Allopurinol ___ mg PO EVERY OTHER DAY  8. amLODIPine 10 mg PO DAILY  9. Aspirin 81 mg PO DAILY  10. Atorvastatin 80 mg PO QPM  11. Bisacodyl 10 mg PO DAILY:PRN Constipation - Second Line  12. Brimonidine Tartrate 0.15% Ophth. 1 DROP LEFT EYE Q8H  13. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP LEFT EYE BID  14. Ferrous Sulfate 325 mg PO DAILY  15. Fluticasone Propionate NASAL 1 SPRY NU BID  16. Pantoprazole 40 mg PO Q12H  17. Travoprost 0.004 % Ophth Soln (*NF*) 0.004 % Other QPM 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Acute on chronic diastolic heart failure Acute kidney injury Atrial fibrillation Bilateral pleural effusions Acute on chronic anemia Hypertension Insulin dependent diabetes mellitus Coronary artery disease Gout
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr. ___,
+
+WHY WAS I ADMITTED? ================== You were admitted to the hospital because you were feeling short of breath, had worsening lower leg swelling, and increased weight gain despite taking medications to remove the additional fluid off your body. 
+
+WHAT HAPPENED WHILE I WAS HOSPITALIZED? =================================== - We gave you IV medications to remove fluid from your lungs and body. - We started you on dialysis to remove the fluid, since you were not getting rid of the fluid on IV medications alone. - You had the fluid around your lungs drained. - You were improved significantly and were ready to leave the hospital.
+
+WHAT SHOULD I DO AFTER LEAVING THE HOSPITAL? ======================================== - Please take your medications as listed in discharge summary and follow up at the listed appointments. - Your weight at discharge is 208 lbs. Please weigh yourself today at home and use this as your new baseline weight. - Please weigh yourself every day in the morning. Call your doctor if your weight goes up by more than 3 lbs in one day or 5 lbs in three days.  We wish you the best! - Your ___ Healthcare Team 
+
+ Followup Instructions: ___ 

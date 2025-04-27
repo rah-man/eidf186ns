@@ -1,0 +1,99 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: No Known Allergies / levofloxacin  Attending: ___.  Chief Complaint: Confusion  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: Ms. ___ is a ___ year old woman with PMHx of CAD, DM2, HTN, who presented with NSTEMI on ___ s/p CABG x 4(LIMA-LAD seq to ___ on ___, complicated by sternal wound dehiscence and drainage with vac ___ presenting with confusion and agitation.
+
+She initially presented to ___ on ___ following an episode of intractable chest pain and shortness of breath, found to have an NSTEMI. She was started on a heparin drip and cardiac catheterization showed 3VD for which she was transferred to ___ for CABG evaluation. 
+
+The patient was brought to the OR on ___ where the patient underwent coronary artery bypass graft x 4. Admitted ___ and discharged to rehab.
+
+She re-presented ___ with sternal wound dehiscence and drainage. She went to OR on ___ for sternal debridement with vac placement. 
+
+In the OR, the inferior sternal wound was open and there was loosening of the wires. There was some tunneling that probed to bone, so the presumptive diagnosis of osteomyelitis was made, but it was unclear if the infection truly went deep and was just more superficial. 
+
+OR swab was positive for Klebsiella and mixed organisms, which were corynebacterium and CoNS per micro lab. She was treated with meropenem given resistance profile and later switched to ertapenem (confirmed ertapenem sensitive).
+
+Of note, her ___ chest CT, she was incidentally noted to have probable right lower lobe and left upper lobe subsegmental pulmonary emboli, and she has been started on warfarin (goal INR ___.
+
+This admission, patient comes as a transfer from rehab with new onset delusions and hallucinations x ___ days. Per report from nurse at rehab patient has had some loose stools, urinary and fecal incontinence, nausea/vomiting, and decreased PO intake. Arrived via ___ due to concern for safety.
+
+Notably, the patient's most recent OPAT visit was on ___. There, patient reported overall doing well until the prior ___ days when she has noticed increased pain in her chest wall and back. She denied any shortness of breath or fever although the notes from the rehab suggested that she was started on levofloxacin for treatment of possible pneumonia as CXR showed "lower lobe infiltrate vs. atelectasis."
+
+Her symptoms included: - Hallucinations which include children running around the room, thinking that her mother died recently even though she died ___ years ago - Paranoia, feeling that people are talking about her, accusatory behavior - Poor safety awareness, rinsing wound with toilet water
+
+Usually ambulates with 1 x assist. No recent falls.
+
+ Past Medical History: Past Medical History: - Coronary artery disease (CABG x ___ - Hypertension - T2DM - Hyperlipidemia - Osteoporosis - Dementia
+
+PSH: ___ at ___ 1. Coronary artery bypass graft x 4 2. Skeletonized left internal mammary artery sequential grafting to the diagonal and the left anterior descending artery. 3. Skeletonized in situ right internal mammary artery graft to the obtuse marginal artery. 4. Long saphenous vein graft to posterior descending artery.  -tonsillectomy, aged ___
+
+ Social History: ___ Family History: -No family history of cardiac disease.
+
+ Physical Exam: ADMISSION PHYSICAL EXAM:  ======================== VITALS: 97.4 109/58 99 17 92Ra  ___: Sleeping but rousable to touch, unable to respond to questions HEENT: Sclerae anicteric CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  Lungs: Clear to auscultation bilaterally although diminished at left base Abdomen: Soft, non-tender, non-distended GU: No foley  Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Skin: Warm, dry; large wound on anterior chest with wound vac in place, no surrounding purulence or erythema Neuro: Moving all limbs equally and well 
+
+DISCHARGE PHYSICAL EXAM:  ======================== VITALS:24 HR Data (last updated ___ @ 1146)   Temp: 98.5 (Tm 98.5), BP: 128/73 (120-166/73-91), HR: 71 (71-82), RR: 18 (___), O2 sat: 97% (95-100), O2 delivery: Ra, Wt: 140 lb/63.5 kg   ___: Lying in bed; calm and attentive HEENT: PERRL, no rhinorrhea CV/Pulm: Breathing symmetric and non-labored; no abnormal work of breathing  Wound: Pink granulation tissue throughout with the exception of ~1cm area on inferior sternum, which is whiter in color; no purulent discharge or surrounding erythema (assessed on ___. Abdomen: Soft, non-tender, non-distended Ext: wwp Skin: Warm, dry; Neuro: AAOx3. EOM grossly intact. Moving all limbs equally.  Pertinent Results: ADMISSION LABS: ================ ___ 01:40AM BLOOD WBC-7.9 RBC-2.99* Hgb-8.1* Hct-26.1* MCV-87 MCH-27.1 MCHC-31.0* RDW-16.2* RDWSD-51.5* Plt ___ ___ 01:40AM BLOOD Neuts-54.5 ___ Monos-12.0 Eos-7.2* Baso-0.4 Im ___ AbsNeut-4.32 AbsLymp-2.02 AbsMono-0.95* AbsEos-0.57* AbsBaso-0.03 ___ 01:40AM BLOOD ___ PTT-33.7 ___ ___ 01:40AM BLOOD Plt ___ ___ 01:40AM BLOOD Glucose-90 UreaN-9 Creat-0.7 Na-140 K-5.0 Cl-109* HCO3-21* AnGap-10 ___ 01:40AM BLOOD ALT-8 AST-17 AlkPhos-77 TotBili-0.2 ___ 01:40AM BLOOD Albumin-3.4* ___ 01:40AM BLOOD Lactate-1.8
+
+IMAGING: ======== ___ Imaging CHEST (SINGLE VIEW) Right PICC line tip is difficult to definitively visualized, however appears to be in the lower SVC.   Worsening retrocardiac opacity may represent worsening atelectasis or superimposed pneumonia in appropriate clinical setting.   Persistent moderate left pleural effusion, which may be loculated. 
+
+___ Imaging CT HEAD W/O CONTRAST No evidence for acute intracranial abnormalities. 
+
+___HEST W/CONTRAST   IMPRESSION:  Multifocal demineralization of the postoperative sternum, suggesting osteomyelitis. MRI recommended for more precise localization.   Trace left pleural effusion, minimally larger compared to prior study, however still very small, with no evidence of loculations. This is likely secondary to the persistent left lower lobe atelectasis which, in association with persistent elevation of the left hemidiaphragm could be due to left phrenic nerve dysfunction. Consider ultrasound evaluation for better assessment.   No current filling defects in the left upper lobe and right lower lobes. Stable 3 mm nodule in the left apex. Follow-up as recommended below.   RECOMMENDATION(S): MRI of the sternum.   Phrenic ultrasound.   For incidentally detected single solid pulmonary nodule smaller than 6 mm, no CT follow-up is recommended in a low-risk patient, and an optional CT in 12 months is recommended in a high-risk patient.   See the ___ ___ Guidelines for the Management of Pulmonary Nodules Incidentally Detected on CT" for comments and reference: ___ 
+
+___ Imaging MRI CHEST ___ W&W/O CON IMPRESSION: 1. Severely limited study. Within the limitation, there is edema in the distal sternum, deep to the skin incision site. Proximal sternum is not well visualized. Interpretation is difficult due to severe technical limitation, however findings are suspicious for osteomyelitis. 2. Small fluid-filled bony gap is identified in the distal sternum measuring 1.8 cm in length and 0.4 cm in width. 3. Within the limitation, soft tissue edema and enhancement is identified along the deep surface of the sternum in the anterior mediastinum. No fluid collection is identified. 
+
+DISCHARGE LABS: =============== ___ 06:35AM BLOOD WBC-9.7 RBC-3.80* Hgb-10.1* Hct-33.1* MCV-87 MCH-26.6 MCHC-30.5* RDW-16.2* RDWSD-51.1* Plt ___ ___ 07:40AM BLOOD Glucose-131* UreaN-9 Creat-0.7 Na-144 K-4.5 Cl-106 HCO3-25 AnGap-13 ___ 07:40AM BLOOD Calcium-9.3 Phos-2.5* Mg-1.9  Brief Hospital Course: ================= HOSPITAL COURSE: ================= Ms. ___ is a ___ year old woman with PMHx of CAD, DM2, HTN, NSTEMI (___) s/p CABG x 4(LIMA-LAD seq to ___, ___ ___, complicated ___ by sternal wound dehiscence w/ probable osteo (on ertopenem) s/p drainage & vac presenting with confusion and agitation consistent with delirium (now improving) found by imaging to have probable worsening of sternal osteomyelitis.
+
+ACUTE/ACTIVE PROBLEMS: ====================== # Sternal wound infection # Klebsiella osteomyelitis: S/p debridement ___, followed by OPAT, on ertapenem outpt with projected end date ___. CT chest (___) showed "multifocal demineralization of the postoperative sternum"; MR sternum was done to give more information on whether this represented natural remodeling of bone in the setting of sternal osteo vs worsening or uncontrolled osteomyelitis, but was a limited study given sternal wires. Radiology opinion is that CT and MRI imaging suggest osteomyelitis that appears worse than before. However, per ID and Cardiac Surgery, imaging is consistent with remodeling and not necessarily evidence of worsening infection. Per ID, still early for the abx to see significant changes as well. Wound swabbed with vac change ___ (NGTD). Per Cardiac Surgery, wound was healing well with no visual evidence of infection. She was started on meropenum 500mg IV Q6H while inpatient and switched back to ertapenum upon discharge. S/p vac change ___. Wound vac to be changed q3 days. Next wound vac change to be changed on ___. 
+
+# Delirium: - improving Patient presented with waxing and waning attention, paranoia,hallucinations, which developed 1 wk ago and worsened 3 days ago in context of reduced sleep. Symptoms improved during hospital course. Likely multifactorial iso ?infxn, dehydration, polypharmacy. 1)Polypharmacy (onset of subacute confusion near to when started on levofloxacin 10 days ago, was on multiple potentially delirium exacerbating drugs including oxycodone, amytripyline, metoclopramide, furosemide) 2) infection (known wound infection with osteo radiologically worsening [CT ___, CRP elevated (50) but downtrending and esr wnl at 19, reports of poor wound hygiene) 3) dehydration/metabolic iso of Lasix use and diarrhea (currently wnl). Per ID, they suspect that the primary inciting factor was the Levofloxacin use. This medication was added to her medication adverse reaction list. See bellow for the list of medications held. We continued her home donepezil and started her on Remelteon during her hospital course. 
+
+# Polypharmacy - Held Amitriptyline 25 mg PO QHS:PRN agitation - Held OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Moderate - Held Metoclopramide 5 mg PO QIDACHS - Held Pantoprazole 
+
+# Retrocardiac opacity # Left pleural effusion Both present > 1 month. Effusion is likely secondary to the persistent left lower lobe atelectasis which, in association with persistent elevation of the left hemidiaphragm could be due to left phrenic nerve dysfunction. Possibly from the surgery. 
+
+# Anemia: Hct this admission 26.1 down from 37.1 on ___. likely baseline as Hgb similar last admission at ___. No clear signs of bleeding such as GI or from wound. Iron studies show iron deficiency anemia. Hgb improving (9.3 on ___ up from 8.1 on admission). She was started on Ferrous Sulfate 325 mg PO/NG EVERY OTHER DAY (better effect than daily). Her discharge Hb was: 10.1.
+
+# CAD s/p CABG - Continued Aspirin EC 81 mg PO DAILY - Continued Atorvastatin 40 mg PO QPM - Continued Metoprolol Tartrate 75 mg PO TID - Continued Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY
+
+# Subsegmental PE: On ___ chest CT incidentally noted to have probable right lower lobe and left upper lobe subsegmental pulmonary emboli, and she was started on warfarin (goal INR ___. Anticoagulation may not be necessary for subsegmental PE but continue as this is a home med. ***********
+
+# Thrombocytosis Patient presented with platelet count of 283 and during her hospital course, her platelet counted steadily increased in absence of any other additional lab values or new clinical symptoms. Please continue to monitor. 
+
+CHRONIC/STABLE PROBLEMS: ======================== # HTN - Held Furosemide 20 mg PO DAILY (suspect dehydration) - Continued Losartan Potassium 100 mg PO DAILY 
+
+# GERD - Held Pantoprazole 20 mg PO Q24H - Continue Sucralfate 1 gm PO QHS 
+
+# T2DM - ISS - Hold home metformin
+
+TRANSITIONAL ISSUES: ===================== [ ] Wound vac to be changed q3 days. Next wound vac change to be changed on ___. Pressure at -125 mmHG. [ ] Please avoid deliriogenic medications or try to start them gradually if needed. Can consider pre-medication with oxycodone 2.5mg before her wound vac changes. Her pain was otherwise controlled with acetaminophen in the interim. [ ] Please avoid levofloxacin in the future for this patient. ___ have been a precipitating factor for her delerium [ ] Please follow up her iron deficiency anemia. [ ] Please follow up her thrombocytosis [ ] Please follow up her INR, it has been low during this hospital course and we had to adjust her warfarin dose. Goal INR ___. First draw day after discharge. Then please do INR checks ___, and ___ for 2 weeks then decrease as per rehab [ ] She will continue her warfarin for a minimum of 3 months (last day ___ [ ] Note we stopped her Furosemide. Monitor weights/volume status. Can restart if weight increases by >3 lbs. Discharge wt: 140. [ ] OPAT Antimicrobial Regimen and Projected Duration:  - Agent & Dose: Ertapenem 1g q 24 hours - Start Date: ___ - Projected End Date: ___ [ ] WEEKLY: CBC with differential, BUN, Cr, AST, ALT, Total Bili, ALK PHOS, CRP
+
+[ ] For incidentally detected single solid pulmonary nodule smaller than 6 mm found on chest CT, no CT follow-up is recommended in a low-risk patient, and an optional CT in 12 months is recommended in a high-risk patient.  ALL LAB RESULTS SHOULD BE SENT TO: ATTN: ___ CLINIC - FAX: ___
+
+**Medications Started - Ferrous Sulfate 325 mg PO/NG EVERY OTHER DAY (better effect than daily)
+
+**Medications Changed - Acetaminophen 1000 mg PO/NG TID 
+
+**Medications Stopped - Amitriptyline 25 mg PO QHS:PRN agitation - Furosemide 20 mg PO DAILY --- Can restart if wt >3 lbs. - Metoclopramide 5 mg PO QIDACHS - Pantoprazole 20 mg PO Q24H - Potassium Chloride 10mq PO daily - Ondansetron 4 mg IV Q8H:PRN Nausea/Vomiting - Acidophilus (Lactobacillus acidophilus) oral BID 
+
+This patient was prescribed, or continued on, an opioid pain medication at the time of discharge (please see the attached medication list for details). As part of our safe opioid prescribing process, all patients are provided with an opioid risks and treatment resource education sheet and encouraged to discuss this therapy with their outpatient providers to determine if opioid pain medication is still indicated.
+
+>30 min spent on discharge planning including face to face time  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Albuterol Inhaler ___ PUFF IH Q6H 2. Aspirin EC 81 mg PO DAILY 3. Atorvastatin 40 mg PO QPM 4. Furosemide 20 mg PO DAILY 5. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY skeletonized arterial grafts 6. Losartan Potassium 100 mg PO DAILY 7. MetFORMIN (Glucophage) 1000 mg PO BID 8. Metoprolol Tartrate 75 mg PO TID 9. Potassium Chloride 10 mEq PO DAILY 10. Docusate Sodium 100 mg PO BID 11. Ondansetron 4 mg IV Q8H:PRN Nausea/Vomiting - First Line 12. Pantoprazole 20 mg PO Q24H 13. Warfarin 2.5 mg PO DAILY16 pulmonary emboli 14. Ertapenem Sodium 1 g IV 1X Klebsiella osteomyelitis 15. Acidophilus (Lactobacillus acidophilus)  oral BID 16. Amitriptyline 25 mg PO QHS:PRN agitation 17. Donepezil 10 mg PO QHS 18. Bisacodyl 10 mg PR QHS:PRN Constipation - Second Line 19. Sucralfate 1 gm PO QHS 20. Multivitamins 1 TAB PO DAILY 21. OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Moderate 22. Albuterol Inhaler 2 PUFF IH Q6H 23. Metoclopramide 5 mg PO QIDACHS 24. Guaifenesin-Dextromethorphan 15 mL PO Q6H:PRN cough 25. TraZODone 100 mg PO QHS 26. Acetaminophen 1000 mg PO Q6H 
+
+ Discharge Medications: 1. Ferrous Sulfate 325 mg PO EVERY OTHER DAY  2. OxyCODONE (Immediate Release) 2.5 mg PO ASDIR Dressing changes If needed, can give for dressing change RX *oxycodone 5 mg 0.5 (One half) tablet(s) by mouth ASDIR Disp #*15 Tablet Refills:*0 3. Acetaminophen 1000 mg PO TID  4. Albuterol Inhaler ___ PUFF IH Q6H  5. Albuterol Inhaler 2 PUFF IH Q6H  6. Aspirin EC 81 mg PO DAILY  7. Atorvastatin 40 mg PO QPM  8. Bisacodyl 10 mg PR QHS:PRN Constipation - Second Line  9. Docusate Sodium 100 mg PO BID  10. Donepezil 10 mg PO QHS  11. Ertapenem Sodium 1 g IV 1X Klebsiella osteomyelitis Duration: 1 Dose  12. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY skeletonized arterial grafts  13. Losartan Potassium 100 mg PO DAILY  14. MetFORMIN (Glucophage) 1000 mg PO BID  15. Metoprolol Tartrate 75 mg PO TID  16. Multivitamins 1 TAB PO DAILY  17. Sucralfate 1 gm PO QHS  18. Warfarin 2.5 mg PO DAILY16 pulmonary emboli  19. HELD- Acidophilus (Lactobacillus acidophilus)  oral BID  This medication was held. Do not restart Acidophilus until restarted by a doctor 20. HELD- Furosemide 20 mg PO DAILY This medication was held. Do not restart Furosemide until restarted by a doctor 21. HELD- Guaifenesin-Dextromethorphan 15 mL PO Q6H:PRN cough  This medication was held. Do not restart Guaifenesin-Dextromethorphan until restarted by a doctor 22. HELD- Metoclopramide 5 mg PO QIDACHS This medication was held. Do not restart Metoclopramide until restarted by a doctor 23. HELD- Ondansetron 4 mg IV Q8H:PRN Nausea/Vomiting - First Line This medication was held. Do not restart Ondansetron until restarted by a doctor 24. HELD- Pantoprazole 20 mg PO Q24H This medication was held. Do not restart Pantoprazole until restarted by your docotr 25. HELD- Potassium Chloride 10 mEq PO DAILY This medication was held. Do not restart Potassium Chloride until restarted by a doctor ___ when lasix restarted) 26. HELD- TraZODone 100 mg PO QHS This medication was held. Do not restart TraZODone until restarted by a doctor
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: PRIMARY: ========= Osteomyelitis Delirium on Dementia Iron deficiency anemia
+
+SECONDARY: =========== Left pleural effusion Sub-segmental PE
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Ms. ___, It was a privilege caring for you at ___ ___. 
+
+WHY WAS I IN THE HOSPITAL?  - You came to the hospital because your acting very confused.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  - We watched you closely and stopped any medication that may have caused this confusion. - We gave you some IV fluids to help with some dehydration. - We confirmed that your bone infection was not getting any worse.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  - Continue to take all your medicines and keep your appointments. 
+
+We wish you the best! 
+
+Sincerely,  Your ___ Team   Followup Instructions: ___ 

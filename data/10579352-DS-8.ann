@@ -1,0 +1,28 @@
+T1	Dementia 370 378	dementia
+A1	Diagnosis T1 History_of
+T2	Lower_respiratory_tract_infection 539 548	pneumonia
+T3	Lower_respiratory_tract_infection 597 606	pneumonia
+T4	Lower_respiratory_tract_infection 1015 1018	PNA
+T5	Dementia 1123 1131	dementia
+A2	Diagnosis T5 History_of
+T6	Dementia 1569 1577	Dementia
+T7	Urinary_incontinence 1584 1604	Urinary Incontinenct
+A3	Diagnosis T7 History_of
+T8	Faecal_incontinence 1605 1623	Stool Incontinence
+A4	Diagnosis T8 History_of
+T9	Delirium 3273 3281	Agitated
+A5	Negation T9
+T10	Lower_respiratory_tract_infection 4323 4332	pneumonia
+T11	Intracranial_haemorrhage 4380 4384;4443 4453	head hemorrhage
+A6	Negation T11
+T12	Dementia 4887 4895	dementia
+T13	Lower_respiratory_tract_infection 5045 5054	pneumonia
+T14	Lower_respiratory_tract_infection 5069 5078	PNEUMONIA
+T15	Lower_respiratory_tract_infection 5113 5116	pna
+T16	Dementia 6457 6465	DEMENTIA
+A7	Diagnosis T16 History_of
+T17	Lower_respiratory_tract_infection 7784 7793	pneumonia
+T18	Dementia 7855 7863	Confused
+T19	Bed_Chairbound 7938 7946	Bedbound
+A8	Diagnosis T18 History_of
+T20	Lower_respiratory_tract_infection 7996 8005	pneumonia

@@ -1,0 +1,10 @@
+T1	Upper_gastrointestinal_haemorrhage 2821 2829	GI Bleed
+A1	Low_confidence T1
+A2	Diagnosis T1 History_of
+T2	Lower_gastrointestinal_haemorrhage 2821 2829	GI Bleed
+A3	Diagnosis T2 History_of
+T3	Delirium 10951 10959	oriented
+A4	Negation T3
+T4	Delirium 10961 10979	clear and coherent
+A5	Negation T4
+T5	Independently_mobile 10981 11005	ambulating independently

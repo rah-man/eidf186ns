@@ -1,0 +1,24 @@
+T1	Falls 200 206	fall  
+T2	Falls 352 356	fall
+T3	Falls 450 454	fell
+T4	Delirium 1837 1842	A&Ox3
+A1	Negation T4
+T5	Hip_fracture 2703 2706;2720 2728	HIP fracture
+A2	Negation T5
+T6	Hip_fracture 2749 2755;2839 2847	pelvis fracture
+A3	Negation T6
+T7	Hip_fracture 2935 2941;3027 3035	PELVIS fracture
+T8	Hip_fracture 2935 2941;3502 3510	PELVIS fracture
+A4	Negation T8
+T9	Falls 4246 4250	Fall
+T10	Falls 4256 4260	fall
+T11	Hip_fracture 4509 4518	fractures
+A5	Negation T11
+A6	Low_confidence T11
+T12	Falls 4643 4647	fall
+T13	Falls 7190 7194	fall
+T14	Has_carers 7109 7126	Home With Service
+T15	Falls 7277 7281	fall
+T16	Hip_fracture 7306 7315	fractures
+A7	Negation T16
+A8	Low_confidence T16

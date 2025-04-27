@@ -1,0 +1,52 @@
+T1	Delirium 514 523	confusion
+T2	Delirium 528 537	agitation
+T3	Delirium 1847 1856	delusions
+A1	Low_confidence T3
+T4	Delirium 1861 1875	hallucinations
+A2	Low_confidence T4
+T5	Urinary_incontinence 1954 1961;1972 1984	urinary incontinence
+T6	Faecal_incontinence 1966 1984	fecal incontinence
+T7	Lower_respiratory_tract_infection 2413 2422	pneumonia
+A3	Diagnosis T7 Suspected
+T8	Delirium 2504 2518	Hallucinations
+A4	Low_confidence T8
+T9	Mobile_with_assistance 2782 2791;2801 2807	ambulates assist
+T10	Dementia 2966 2974	Dementia
+A5	Diagnosis T10 History_of
+T11	Delirium 4659 4664	AAOx3
+A6	Negation T11
+T12	Lower_respiratory_tract_infection 5511 5520	pneumonia
+A7	Diagnosis T12 Suspected
+T13	Intracranial_haemorrhage 5680 5706	intracranial abnormalities
+A8	Negation T13
+T14	Delirium 7995 8004	confusion
+T15	Delirium 8009 8018	agitation
+T16	Delirium 8035 8043	delirium
+T17	Delirium 9246 9254	Delirium
+T18	Delirium 2643 2651	Paranoia
+A9	Low_confidence T18
+T19	Delirium 9320 9328	paranoia
+A10	Low_confidence T19
+T20	Delirium 9329 9343	hallucinations
+A11	Low_confidence T20
+T21	Delirium 9560 9569	confusion
+T22	Delirium 9648 9656	delirium
+A12	Diagnosis T22 Implicit_mention
+T23	Delirium 10313 10322	agitation
+A13	Diagnosis T23 Implicit_mention
+T24	Delirium 12300 12312	deliriogenic
+A14	Diagnosis T24 Implicit_mention
+T25	Delirium 12622 12630	delerium
+T26	Delirium 15396 15405	agitation
+A15	Diagnosis T26 Implicit_mention
+T27	Constipation 15464 15476	Constipation
+A16	Diagnosis T27 Implicit_mention
+T28	Constipation 16267 16279	Constipation
+A17	Diagnosis T28 Implicit_mention
+T29	Delirium 17949 17957	Delirium
+T30	Dementia 17961 17969	Dementia
+A18	Diagnosis T30 History_of
+T31	Delirium 18079 18112	Mental Status: Clear and coherent
+A19	Negation T31
+T32	Independently_mobile 18178 18202	Ambulatory - Independent
+T33	Delirium 18499 18508	confusion

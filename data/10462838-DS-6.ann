@@ -1,0 +1,5 @@
+T1	Delirium 2150 2155	A&Ox3
+A1	Negation T1
+T2	Delirium 7210 7243	Mental Status: Clear and coherent
+A2	Negation T2
+T3	Independently_mobile 7309 7333	Ambulatory - Independent

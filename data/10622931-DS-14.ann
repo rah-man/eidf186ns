@@ -1,0 +1,13 @@
+T1	Visual_impairment 497 502	blind
+T2	Independently_mobile 1937 1966	ambulating without assistance
+T3	Delirium 3301 3334	Mental Status: Clear and coherent
+A1	Negation T3
+T4	Independently_mobile 3400 3424	Ambulatory - Independent
+T5	Constipation 3737 3748	constipated
+A2	Diagnosis T5 Implicit_mention
+T6	Constipation 5429 5441	constipation
+T7	Constipation 5446 5458	constipation
+A4	Diagnosis T7 Implicit_mention
+A3	Diagnosis T6 Implicit_mention
+T8	Constipation 5700 5712	constipating
+A5	Diagnosis T8 Implicit_mention

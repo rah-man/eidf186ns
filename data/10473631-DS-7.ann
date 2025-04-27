@@ -1,0 +1,14 @@
+T1	Constipation 551 560	normal BM
+A1	Negation T1
+T2	Independently_mobile 2964 2988	ambulating independently
+T3	Delirium 4073 4106	Mental Status: Clear and coherent
+A2	Negation T3
+T4	Independently_mobile 4172 4196	Ambulatory - Independent
+T5	Upper_gastrointestinal_haemorrhage 4962 4967;5000 5005	blood vomit
+A3	Diagnosis T5 Implicit_mention
+T6	Upper_gastrointestinal_haemorrhage 4971 4981;5000 5005	dark/black vomit
+A4	Diagnosis T6 Implicit_mention
+T7	Upper_gastrointestinal_haemorrhage 4971 4981;5017 5022	dark/black bowel
+A5	Diagnosis T7 Implicit_mention
+T8	Lower_gastrointestinal_haemorrhage 4962 4967;5017 5022	blood bowel
+A6	Diagnosis T8 Implicit_mention

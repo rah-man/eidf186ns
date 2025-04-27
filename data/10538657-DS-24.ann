@@ -1,0 +1,17 @@
+T1	Lower_gastrointestinal_haemorrhage 2347 2355	GI Bleed
+A1	Low_confidence T1
+A2	Diagnosis T1 History_of
+T2	Lower_gastrointestinal_haemorrhage 2347 2355	GI Bleed
+A3	Diagnosis T2 History_of
+A4	Low_confidence T2
+T3	Independently_mobile 7588 7605	ambulating freely
+T4	Has_carers 8961 8970	Service  
+T5	Lower_gastrointestinal_haemorrhage 10238 10246	GI Bleed
+A5	Diagnosis T5 History_of
+A6	Low_confidence T5
+T6	Upper_gastrointestinal_haemorrhage 10238 10246	GI Bleed
+A7	Diagnosis T6 History_of
+A8	Low_confidence T6
+T7	Delirium 10508 10519	oriented x3
+A9	Negation T7
+T8	Independently_mobile 10529 10539	Ambulating

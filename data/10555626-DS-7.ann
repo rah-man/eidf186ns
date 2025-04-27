@@ -1,0 +1,5 @@
+T1	Delirium 3877 3885	oriented
+A1	Negation T1
+T2	Independently_mobile 9442 9452	ambulatory
+T3	Malnutrition 9551 9565	well-nourished
+A2	Negation T3

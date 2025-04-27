@@ -1,0 +1,39 @@
+T1	Falls 227 232	Falls
+T2	Falls 449 454	falls
+T3	Lower_respiratory_tract_infection 1009 1012	PNA
+A1	Negation T3
+T4	Falls 1245 1250	falls
+T5	Falls 1276 1280	fall
+T6	Falls 1582 1586	fall
+A2	Diagnosis T6 Implicit_mention
+T7	Falls 1657 1662	falls
+T8	Falls 2557 2564	falling
+A3	Diagnosis T8 Implicit_mention
+T9	Mobile_with_aid 2569 2574;2599 2608	walks furniture
+T10	Constipation 3131 3143	constipation
+A4	Diagnosis T10 History_of
+T11	Urinary_incontinence 3167 3187	bladder incontinence
+A5	Negation T11
+T12	Faecal_incontinence 3158 3163;3175 3187	bowel incontinence
+A6	Negation T12
+T13	Delirium 3760 3768	oriented
+A7	Negation T13
+T14	Delirium 4810 4815	AAOx3
+A8	Negation T14
+T15	Falls 6207 6212	falls
+T16	Constipation 12564 12576	CONSTIPATION
+T17	Constipation 12582 12594	constipation
+T18	Urinary_incontinence 12648 12666	urine incontinence
+A9	Negation T18
+T19	Faecal_incontinence 12680 12698	fecal incontinence
+A10	Negation T19
+T20	Constipation 13636 13648	constipation
+A11	Diagnosis T20 Implicit_mention
+T21	Falls 13978 13983	falls
+T22	Delirium 14046 14079	Mental Status: Clear and coherent
+A12	Negation T22
+T23	Mobile_with_assistance 14145 14155;14167 14177	Ambulatory assistance
+T24	Mobile_with_aid 14145 14155;14181 14184	Ambulatory aid
+T25	Falls 14326 14330	fell
+T26	Intracranial_haemorrhage 14495 14499;14510 14516	head normal
+A13	Negation T26

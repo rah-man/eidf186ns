@@ -1,0 +1,39 @@
+T1	Hip_fracture 1527 1539	hip fracture
+A1	Diagnosis T1 History_of
+T2	Weight_loss 1972 1976;1987 1993	lost weight
+T3	Lives_in_carehome 2007 2019	nursing home
+T4	Hip_fracture 2034 2046	hip fracture
+A2	Diagnosis T4 History_of
+T5	Dementia 2431 2439	Dementia
+T6	Hip_fracture 2500 2508	hip ORIF
+A3	Diagnosis T6 History_of
+T7	Dementia 2688 2706	oriented to person
+T8	Dementia 2787 2795	dementia
+T9	Intracranial_haemorrhage 5235 5255	intracranial process
+A4	Negation T9
+T10	Constipation 5387 5400	fecal loading
+T11	Vertebral_compression_fracture 5453 5461;5465 5467	fracture L3
+A5	Diagnosis T11 History_of
+T12	Constipation 5619 5632	fecal loading
+T13	Vertebral_compression_fracture 5685 5693;5697 5699	fracture L3
+A6	Diagnosis T13 History_of
+T14	Hip_fracture 5851 5867	femoral fracture
+A7	Diagnosis T14 History_of
+T15	Hip_fracture 5827 5831	ORIF
+A8	Diagnosis T15 History_of
+T16	Hip_fracture 5851 5858;5925 5933	femoral fracture
+A9	Negation T16
+T17	Lives_in_carehome 6211 6223	nursing home
+T19	Dementia 9825 9833	Dementia
+T20	Hip_fracture 11095 11107	hip fracture
+A11	Diagnosis T20 History_of
+T21	Has_carers 12020 12037	Home With Service
+A12	Low_confidence T21
+T22	Dementia 12107 12115	dementia
+T23	Hip_fracture 12150 12162	hip fracture
+A13	Diagnosis T23 History_of
+T24	Hip_fracture 8354 8358	ORIF
+A14	Diagnosis T24 History_of
+T18	Delirium 12218 12251	Mental Status: Clear and coherent
+A10	Negation T18
+T25	Independently_mobile 12317 12341	Ambulatory - Independent

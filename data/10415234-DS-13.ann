@@ -1,0 +1,13 @@
+T2	Delirium 2468 2476	oriented
+A1	Negation T2
+T3	Intracranial_haemorrhage 5046 5050;5108 5113	head blood
+A2	Diagnosis T3 Suspected
+T4	Intracranial_haemorrhage 5852 5860;5882 5893	thalamus hemorrhagic
+T5	Constipation 7683 7695	Constipation
+A3	Diagnosis T5 Implicit_mention
+T6	Constipation 7823 7835	constipation
+A4	Diagnosis T6 Implicit_mention
+T7	Delirium 8322 8355	Mental Status: Clear and coherent
+A5	Negation T7
+T8	Mobile_with_assistance 8421 8431;8443 8453	Ambulatory assistance
+T9	Mobile_with_aid 8421 8431;8457 8460	Ambulatory aid

@@ -1,0 +1,12 @@
+T1	Falls 425 429	fall
+T2	Falls 855 862;870 875	woke up floor
+T3	Urinary_incontinence 892 899;906 918	bladder incontinence
+A1	Negation T3
+T4	Faecal_incontinence 900 905;906 918	bowel incontinence
+T5	Hearing_impairment 1999 2010	hearing aid
+A2	Diagnosis T5 History_of
+T6	Delirium 2503 2508	A&Ox3
+A3	Negation T6
+T7	Falls 4285 4289	fall
+T8	Lives_in_carehome 5815 5831	nursing facility
+T9	Has_carers 6233 6250	Home With Service

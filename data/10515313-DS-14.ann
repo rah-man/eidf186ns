@@ -1,0 +1,7 @@
+T1	Delirium 1536 1544	oriented
+A1	Negation T1
+T2	Delirium 3723 3756	Mental Status: Clear and coherent
+A2	Negation T2
+T3	Independently_mobile 3822 3846	Ambulatory - Independent
+T4	Constipation 4900 4912	constipation
+A3	Diagnosis T4 Implicit_mention

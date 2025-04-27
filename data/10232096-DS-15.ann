@@ -1,0 +1,30 @@
+T1	Urinary_tract_infection 500 503	UTI
+A1	Diagnosis T1 History_of
+T2	Weight_loss 1182 1193	weight loss
+A2	Negation T2
+T3	Constipation 1475 1487	constipation
+A3	Negation T3
+T4	Lower_gastrointestinal_haemorrhage 1489 1494	BRBPR
+A4	Negation T4
+T5	Upper_gastrointestinal_haemorrhage 1496 1502	melena
+A5	Negation T5
+T6	Seizures 1617 1625	seizures
+A6	Negation T6
+T7	Urinary_tract_infection 2588 2593	UTI's
+A7	Diagnosis T7 History_of
+T8	Dementia 2953 2975	difficulty with recall
+T9	Dementia 3338 3360	difficulty with recall
+T10	Lower_respiratory_tract_infection 4447 4454	opacity
+T11	Lower_respiratory_tract_infection 4664 4671	opacity
+T12	Lower_respiratory_tract_infection 4698 4707	pneumonia
+T13	Lower_respiratory_tract_infection 5664 5673	pneumonia
+T14	Lower_respiratory_tract_infection 5703 5712	Pneumonia
+T15	Dementia 7624 7632	Dementia
+T16	Constipation 8972 8984	constipation
+A8	Diagnosis T16 Implicit_mention
+T17	Lower_respiratory_tract_infection 9729 9738	pneumonia
+T18	Delirium 9761 9794	Mental Status: Clear and coherent
+A9	Negation T18
+T19	Mobile_with_assistance 9860 9870;9882 9892	Ambulatory assistance
+T20	Mobile_with_aid 9860 9870;9896 9899	Ambulatory aid
+T21	Lower_respiratory_tract_infection 10089 10098	pneumonia

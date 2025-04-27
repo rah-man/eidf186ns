@@ -1,0 +1,4 @@
+T1	Has_carers 7296 7313	Home With Service
+T2	Delirium 7398 7431	Mental Status: Clear and coherent
+A1	Negation T2
+T3	Independently_mobile 7497 7521	Ambulatory - Independent

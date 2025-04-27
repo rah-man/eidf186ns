@@ -1,0 +1,7 @@
+T1	Malnutrition 12118 12129	Low albumin
+T2	Malnutrition 12221 12236	Repleting lytes
+T3	Delirium 14152 14185	Mental Status: Clear and coherent
+A1	Negation T3
+T4	Mobile_with_assistance 14251 14261;14273 14283	Ambulatory assistance
+T5	Mobile_with_aid 14287 14290	aid
+T6	Mobile_with_aid 14251 14261	Ambulatory

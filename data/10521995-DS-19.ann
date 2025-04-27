@@ -1,0 +1,11 @@
+T1	Delirium 1082 1087	AAOx3
+A1	Negation T1
+T2	Upper_gastrointestinal_haemorrhage 3650 3655;3688 3693	blood vomit
+T3	Lower_gastrointestinal_haemorrhage 3650 3655	blood
+T4	Lower_gastrointestinal_haemorrhage 3704 3709	bowel
+T5	Upper_gastrointestinal_haemorrhage 3659 3669;3688 3693	dark/black vomit
+T6	Upper_gastrointestinal_haemorrhage 3659 3669;3704 3709	dark/black bowel
+A2	Diagnosis T3 Implicit_mention
+A3	Diagnosis T2 Implicit_mention
+A4	Diagnosis T5 Implicit_mention
+A5	Diagnosis T6 Implicit_mention

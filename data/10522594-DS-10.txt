@@ -1,0 +1,49 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Penicillins  Attending: ___.  Chief Complaint: Shortness of breath    
+
+ Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ yo female with h/o HTN, GERD and arthritis who presents with episode of SOB this morning. Patient was sitting at home and became SOB, denies any history of SOB. Episode this morning was associated with Nausea. She denies any chest pain, palpitations, radiating pain, diaphoresis. She decided to come into the ED as she did not feel well. She reports one episode of small emesis in the ED. Symtpoms have now resolved. 
+
+She denies any history of SOB or chest pain. She has stairs at home and denies CP or SOB with stairs. She reports a normal stress test 6 months ago. On further questioning, she does report +white sputum production for 2 weeks which is associated with nasal congestion. She denies cough, fevers, chills, abdominal pain, or diarrhea. She does report sick contacts recently with some guests who had a 'cold'. She was seen by her PCP for her 'sputum production' who prescribed fluticasone, tussin and Allegra for treatment of these symptoms.
+
+In ED, afebrile, VSS. No elevated in WBC. LFTs wnl. U/A negative, D-dimer 886, CTA negative for PE. CXR wnl. EKG with no acute ST/T changes and CE negative x2.
+
+Pt given famotidine, zofran in ED for nausea. Also received 1 dose of Levofloxacin for pneumonia as CT showed a small focus of infection or inflammation in RUL.  
+
+ Past Medical History: PMH:  HTN  GERD  Arthritis  h/o hypokalemia 
+
+ Social History: ___ Family History: Mother with stroke in her ___, sister with stroke also in old ___. No seizures, migraines, DM, MI, cancer.   Physical Exam: T 98.8 BP 166/70 HR 84  RR 20  O2 sat 99% 2LNC Gen - NAD, lying comfortably in bed, HEENT - PERRLA, EOMI, MMM, NCAT Neck - No LAD, no JVD CV - +S1, +S2, no M/R/G, RRR Lungs - CTAB, no wheezes, crackles or ronchi Abd - +BS, NT/ND, no hsm Ext - no C/C/E, +2 distal pulses Neuro - CN II-XII intact, moving all extremities voluntarily
+
+ Pertinent Results: ___ 04:30AM BLOOD WBC-9.8 RBC-3.88* Hgb-12.2 Hct-35.5* MCV-92 MCH-31.5 MCHC-34.4 RDW-12.6 Plt ___ ___ 07:35AM BLOOD WBC-10.7 RBC-3.73* Hgb-11.6* Hct-34.8* MCV-93 MCH-31.1 MCHC-33.4 RDW-12.8 Plt ___ ___ 08:50AM BLOOD D-Dimer-886* ___ 04:30AM BLOOD Glucose-108* UreaN-21* Creat-1.0 Na-135 K-3.6 Cl-95* HCO3-23 AnGap-21* ___ 07:35AM BLOOD Glucose-95 UreaN-15 Creat-1.1 Na-139 K-3.6 Cl-100 HCO3-29 AnGap-14 ___ 04:30AM BLOOD ALT-19 AST-30 CK(CPK)-56 AlkPhos-99 TotBili-0.2 ___ 12:35PM BLOOD CK(CPK)-53 ___ 10:05PM BLOOD CK(CPK)-90 ___ 04:30AM BLOOD CK-MB-NotDone cTropnT-<0.01 ___ 12:35PM BLOOD CK-MB-NotDone cTropnT-<0.01 ___ 10:05PM BLOOD CK-MB-4 cTropnT-<0.01
+
+Micro:  Influenza DFA negative 
+
+STUDIES:
+
+EKG - NSR @ 77 bpm, nl axis, nl intervals, no ST elevations or depressions, no TWI, poor R wave progression. Unchanged from prior on ___.   CXR - The heart size and mediastinal contours are stable and within normal limits. The lungs are grossly clear without evidence of  consolidation. Stable mild leftward tracheal deviation is likely caused by goiter, unchanged. There is no subdiaphragmatic free air.  IMPRESSION: No acute intrathoracic process.   CTA chest - No PE. Moderate atheroma within aortic arch and descending aorta. Small focus of infection or inflammation in RUL. 
+
+ Brief Hospital Course: ___ yo female with h/o HTN, GERD and arthritis who presents with episode of SOB this morning associated with Nausea.
+
+#Nausea- Likely related to GERD; patient had gastric emptying study ___ which showed slowed gastric emptying time (followed by GI as outpt). Patient has no history of CAD, but concern was that nausea could be cardiac in nature. She was admitted and ruled out for myocardial infarction with Cardiac enzymes negative x 3. Her Nausea and Vomiting resolved and she was discharged home with follow up with her PCP. She was continued on her home Reglan, PPI and Ranitidine. She was told to use Maalox as needed. 
+
+___- Ms. ___ has no history of CAD. She had a normal pMIBI in ___. Current symptoms were thought to be unlikely ___ to MI. She was ruled out for Myocardial Infarction as above.
+
+#URI- Patient reports sputum production assoicated with nasal congestion x 2 weeks. Likely ___ URI. She has ruled out for flu, and is afebrile. She is to continue her home fluticasone, allegra, and tussin.
+
+#HTN-Continue Norvasc, HCTZ
+
+ Medications on Admission: HCTZ 12.5mg daily Norvasc 2.5mg daily Potassium 20mEq daily asa 81mg daily MVI Nexium 40mg BID Allegra Tussin Fluticasone  Discharge Medications: 1. Nexium 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO twice a day.  2. Potassium Chloride 20 mEq Packet Sig: One (1) PO once a day.  3. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  4. Mylanta 311-232 mg Tablet Sig: One (1) Tablet PO once a day. 
+
+5. Amlodipine 2.5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  6. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).  7. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).  8. Hexavitamin   Tablet Sig: One (1) Cap PO DAILY (Daily).  9. Os-Cal 500 + D Oral 10. Fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  11. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: ___ Sprays Nasal DAILY (Daily).  12. Tussin Oral
+
+ Discharge Disposition: Home  Discharge Diagnosis: Shortness of breath
+
+ Discharge Condition: Stable, 97% ambulatory oxygen saturation, improved overall. Tolerating diet.
+
+ Discharge Instructions: You were admitted into the hospital for evaluation of your shortness of breath and nausea. You did not have a heart attack. A Chest X-ray was done and was normal. Your symptoms may be related to GERD. You are to continue on your regular GERD medications. 
+
+Please continue with your regular medications as instructed.
+
+If you experience worsening shortness of breath, chest pain, fevers, chills, nausea, vomiting, diarrhea or any other concerning symptoms then please call your doctor or report to the nearest emergency room.
+
+ Followup Instructions: ___ 

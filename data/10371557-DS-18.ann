@@ -1,0 +1,11 @@
+T1	Urinary_incontinence 418 438	urinary incontinence
+A1	Diagnosis T1 History_of
+T2	Delirium 1507 1515	oriented
+A2	Negation T2
+T3	Delirium 2272 2280	oriented
+A3	Negation T3
+T4	Urinary_incontinence 6954 6974	Urinary incontinence
+A4	Diagnosis T4 History_of
+T5	Delirium 8768 8801	Mental Status: Clear and coherent
+A5	Negation T5
+T6	Independently_mobile 8867 8891	Ambulatory - Independent

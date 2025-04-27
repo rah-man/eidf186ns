@@ -1,0 +1,51 @@
+ Name: ___       Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: cortisone  Attending: ___.  Chief Complaint: post TACE  Major Surgical or Invasive Procedure: TACE ___
+
+ History of Present Illness: Patient is a ___ year old man with segment 6 lesion 4.4cm meeting OPTN criteria for ___ who is s/p TACE, admitted for observation.
+
+Prior to recent months, patient had no known history of liver disease, and initially presented to his PCP with ___ pain and was sent for an ultrasound which showed an echogenic liver and indeterminate liver lesion. An MRI on ___ showed evidence of cirrhosis including portal vein hypertension and splenomegaly. A 4.4cm lesion in segment 6 was concerning for ___ as was a nonspecific sub-cm focus in segment 6. A CT-duided liver biopsy at OSH was not performed given suboptimal visualization of the lesion. However evaluation of the lesion by radiology here demonstrated it to meet OPTN criteria for HCC; therfore it did not require a biopsy. 
+
+Today, he underwent TACE via left radial artery access with CT-guided chemoembolization delivered to the segment 6 lesion, followed by gel foam. He had headache post procedure, given oxycodone.
+
+On arrival to floor, denies any sxs.
+
+ Past Medical History: Hepatocellular Carcinoma CKD stage III DM diabetic retinopathy HTN hyperlipidemia gastric ulcer (___) nephrolithiasis
+
+ Social History: ___ Family History: Family Liver History: maternal uncles X3 with liver disease of unknown origin   Physical Exam: ADMISSION Gen: NAD, lying in bed Eyes: EOMI, sclerae anicteric  ENT: MMM, OP clear Cardiovasc: RRR, no MRG, full pulses, no edema  Resp: normal effort, no accessory muscle use, lungs CTA ___. GI: soft, NT, ND, BS+ MSK: No significant kyphosis. No palpable synovitis. Skin: No visible rash. No jaundice. Neuro: AAOx3. No facial droop. Psych: Full range of affect
+
+DISCHARGE VS: 98.7 PO 94 / 57 80 18 95 Ra ___: ___ Gen: sitting up in bed, comfortable appearing Eyes - EOMI ENT - OP clear, MMM Heart - RRR no mrg Lungs - CTA bilaterally Abd - soft nontender, normoactive bowel sounds Ext - no edema Skin - no rashes Vasc - 2+ DP/radial pulses; radial site with small superficial ecchymosis; no pulsatile mass; Neuro - AOx3; no cogwheel rigidity, ___ strength in lower extremities; gait observed, much more steady than day prior with RN assistance Psych - appropriate
+
+ Pertinent Results: ADMISSION ___ 12:30AM BLOOD WBC-10.5* RBC-3.43*# Hgb-11.0*# Hct-31.9*# MCV-93 MCH-32.1* MCHC-34.5 RDW-13.6 RDWSD-45.7 Plt Ct-75* ___ 07:15AM BLOOD Glucose-294* UreaN-27* Creat-1.3* Na-139 K-3.9 Cl-102 HCO3-23 AnGap-18 ___ 10:50AM BLOOD ALT-45* AST-46* AlkPhos-92 TotBili-1.0
+
+DISCHARGE ___ 07:00AM BLOOD WBC-9.3 RBC-3.12* Hgb-10.0* Hct-29.1* MCV-93 MCH-32.1* MCHC-34.4 RDW-13.5 RDWSD-45.5 Plt Ct-58* ___ 07:00AM BLOOD Glucose-97 UreaN-23* Creat-1.2 Na-137 K-3.8 Cl-102 HCO3-26 AnGap-13 ___ 07:00AM BLOOD ALT-118* AST-104* AlkPhos-68 TotBili-1.3
+
+___ - CHEMO EMBOLIZATION 1. Variant hepatic arterial anatomy with a trifurcation at the level of the celiac ; the right hepatic artery arises directly from the proximal celiac artery. 2. Pre-embolization right hepatic arteriogram showing tumor blush in segment 6. 3. Cone-beam CT showing small tumor feeding vessels arising from the posterior branch of the right hepatic artery. 4. Post-embolization showing mi staining of tumor in segment 6. 5. Post embolization cone beam CT showing staining of the majority of the posterior right hepatic lobe, including the segment 6 lesion. 
+
+ Brief Hospital Course: This is a ___ year old male with past medical history of CKD stage 3, diabetes type 2 complicated by retinopathy, hepatocellular carcinoma, admitted following elective trans-arterial chemoembolization, course complicated by gait instability and hyperglycemia, resolved and able to be discharged home
+
+# Hepatocellular Carcinoma status post TACE - On ___, patient underwent chemoembolization of segment VI lesion. His discharge LFTs were ALT 118, AST 104, AP 68, Tbili 1.3. Could consider recheck at follow-up to ensure normalization to his baseline
+
+# Type 2 diabetes complicated by hyperglycemia - Patient course notable for post-procedure hyperglycemia. Patient also reported chronically elevated fingersticks at home, which his wife attributed to poor dietary compliance. Given ___, patient remained in the hospital for 1 extra day for glucose control optimization. No modifications were necessary to home regimen--just dietary. Continued home insulin regimen and patient and wife received counseling from nutritionist re: diabetic diet. ___ < 180 prior to discharge. Continued home ___ (received glargine while inpatient), standing humalog and glipizide. Held metformin x 72 hours post embolization. 
+
+# Gait instability - Patient was noted to be quite deconditioned with gait instability. Wife reported recent falls at home.  Patient was seen by ___ and after 2 visits he was cleared for home with services and a rolling walker. Patient provided with rolling walker prior to discharge. Discharged with home ___.
+
+# Thrombocytopenia - During this admisison, patient noted to have thrombocytopenia. On review of prior records from ___ and ___, it appears this has been noted previously.  Suspect this is secondary to his chronic liver disease. Plt at discharge were 58k. 
+
+# Hypertension # Hyperlipidemia Continued Lisinopril, statin, HCtz 
+
+# Depression - Continued Venlafaxine 
+
+Transitional Issues - Reported poorly controlled fingersticks at home as high as 300; here immediately post-procedure he was hyperglycemic, but improved to < 180 after re-initiation of his home regimen; was seen by nutritional counselor given concern for dietary compliance at home--would consider further dietary counseling as an outpatient; - Recommended to hold metformin x 72 hours after his TACE - Thrombocytopenia noted during admission, thought to relate to his chronic liver disease; would consider recheck at follow-up (discharge platelets = 58) - Discharged with rolling walker and home physical therapy - Scheduled for ___ and ___ follow-up - LFTs at discharge were ALT 118, AST 104, AP 68, Tbili 1.3; could consider recheck at follow-up to ensure normalization to his baseline
+
+>30 minutes spent on this discharge  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Atorvastatin 40 mg PO QPM 2. GlipiZIDE 10 mg PO DAILY 3. HumaLOG (insulin lispro) 30 units subcutaneous BID 4. Glargine 70 Units Bedtime 5. Lisinopril 40 mg PO DAILY 6. Hydrochlorothiazide 25 mg PO DAILY 7. MetFORMIN (Glucophage) 1000 mg PO BID 8. Venlafaxine 37.5 mg PO BID 9. Cyanocobalamin 1000 mcg PO DAILY 
+
+ Discharge Medications: 1. Atorvastatin 40 mg PO QPM  2. Cyanocobalamin 1000 mcg PO DAILY  3. GlipiZIDE 10 mg PO DAILY  4. HumaLOG (insulin lispro) 30 units subcutaneous BID  5. Hydrochlorothiazide 25 mg PO DAILY  6. Toujeo 70 Units Bedtime 7. Lisinopril 40 mg PO DAILY  8. Venlafaxine 37.5 mg PO BID  9. HELD- MetFORMIN (Glucophage) 1000 mg PO BID This medication was held. Do not restart MetFORMIN (Glucophage) until evening of ___ 10.___ Rolling Walker Prognosis: Good Length of Need: 13 months Diagnosis: R26.9 gait instability
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: # Hepatocellular Carcinoma status post TACE # Type 2 diabetes complicated by hyperglycemia # Gait instability # Thrombocytopenia # Hypertension # Hyperlipidemia # Depression 
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Mr. ___: 
+
+It was a pleasure caring for you at ___. You were admitted after a TACE (trans-arterial chemoembolization). While you were here you were seen by a physical therapist who recommended a rolling walker and home physical therapy. You are now ready for discharge.
+
+Please do not take your metformin until 72 hours after your TACE procedure. It will be important for you to follow-up with your primary care doctor ___ help manage your diabetes), as well as the radiologists and liver doctors ___ your hepatocellular carcinoma)  Followup Instructions: ___ 

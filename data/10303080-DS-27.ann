@@ -1,0 +1,35 @@
+T1	Pressure_injury 618 628	foot ulcer
+A1	Diagnosis T1 History_of
+T2	Pressure_injury 3850 3855;3880 3884	ulcer foot
+T3	Pressure_injury 7990 8000	foot ulcer
+A2	Diagnosis T3 History_of
+A3	Diagnosis T2 History_of
+T4	Upper_gastrointestinal_haemorrhage 1875 1881	melena
+A4	Diagnosis T4 History_of
+T5	Upper_gastrointestinal_haemorrhage 2048 2056;2061 2069	bleeding duodenal
+A5	Diagnosis T5 History_of
+T6	Upper_gastrointestinal_haemorrhage 9811 9819;9824 9832	bleeding duodenal
+A6	Diagnosis T6 History_of
+T7	Upper_gastrointestinal_haemorrhage 9983 9989	melena
+T8	Upper_gastrointestinal_haemorrhage 10107 10110;10138 10146	EGD bleeding
+T9	Upper_gastrointestinal_haemorrhage 10395 10402	melanic
+T10	Upper_gastrointestinal_haemorrhage 10535 10538;10616 10631	EGD active bleeding
+A7	Negation T10
+T11	Upper_gastrointestinal_haemorrhage 10739 10745	melena
+A8	Negation T11
+T12	Upper_gastrointestinal_haemorrhage 10905 10913	GI bleed
+A9	Diagnosis T12 History_of
+T13	Upper_gastrointestinal_haemorrhage 10915 10921	melena
+A10	Diagnosis T13 History_of
+T14	Upper_gastrointestinal_haemorrhage 11069 11080	GI bleeding
+T15	Upper_gastrointestinal_haemorrhage 11291 11302	GI bleeding
+T16	Pressure_injury 13617 13627	foot ulcer
+A11	Diagnosis T16 History_of
+T17	Pressure_injury 13633 13637;13649 13654	foot ulcer
+A12	Diagnosis T17 History_of
+T18	Pressure_injury 13823 13833	foot wound
+A13	Diagnosis T18 History_of
+T19	Has_carers 17110 17127	Home With Service
+T20	Delirium 17399 17432	Mental Status: Clear and coherent
+A14	Negation T20
+T21	Independently_mobile 17498 17522	Ambulatory - Independent

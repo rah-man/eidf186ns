@@ -1,0 +1,18 @@
+T1	Delirium 1870 1875	AAOx3
+A1	Negation T1
+T2	Delirium 2276 2280	AOx3
+A2	Negation T2
+T3	Falls 4912 4917	falls
+A3	Diagnosis T3 History_of
+T4	Mobile_with_aid 5023 5029	walker
+A4	Type_of_aid T4 Two_sticks_or_frame
+T5	Mobile_with_aid 5061 5067	walker
+A5	Type_of_aid T5 Two_sticks_or_frame
+T6	Delirium 7519 7552	Mental Status: Clear and coherent
+A6	Negation T6
+T7	Mobile_with_aid 7618 7628;7654 7657	Ambulatory aid
+A7	Type_of_aid T7 Two_sticks_or_frame
+T8	Mobile_with_assistance 7618 7628;7640 7650	Ambulatory assistance
+A8	Low_confidence T8
+T9	Mobile_with_aid 7905 7911	walker
+A9	Type_of_aid T9 Two_sticks_or_frame

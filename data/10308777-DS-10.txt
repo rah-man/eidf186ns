@@ -1,0 +1,23 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: ketoconazole  Attending: ___.  Chief Complaint: Diarrhea  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: This is a ___ yo F with h/o diverticulitis s/p partial colectomy who recently traveled to ___ presenting with fever, diarrhea, and abdominal pain ___ infectious pancolitis.  Past Medical History: PMH: Anxiety, Bilateral Oopherectomy (Benign Ovarian Tumor, Colonoscopy ___, Repeat ___ ___, Diarrhea, Fibromyalgia: Seen by Rheum ___, GERD, Hyperlipidemia, Bilateral knee arthroscopic surgery for meniscus, Loss of Vision Left Eye, Low Back Pain, Osteoporosis, Thrombocytopenia
+
+PSH: bilateral Arthroscopic knee, meniscus surgery, Total Abdominal Hysterectomy/Bilateral, Salpingo-Oophorectomy ___ ___ ___, Colost for Divertic @ FH: Cand for reversal, GB
+
+ Social History: ___ Family History: FAMILY HISTORY: No h/o diverticulitis or colon cancer  Physical Exam: Discharge Exam: Vitals: T 99 PO 125 / 65 80 18 94 RA  Gen: NAD, lying in bed Eyes: EOMI, sclerae anicteric  ENT: MMM, OP clear Cardiovasc: RRR, no MRG, full pulses, no edema  Resp: normal effort, no accessory muscle use, lungs CTA ___. GI: multiple healed surgical scars, soft, NT, ND, BS+ MSK: No significant kyphosis. No palpable synovitis. Skin: No visible rash. No jaundice. Neuro: AAOx3. No facial droop. Psych: Full range of affect  Pertinent Results: ___ 08:30AM BLOOD WBC-5.0 RBC-4.45 Hgb-12.5 Hct-37.2 MCV-84 MCH-28.1 MCHC-33.6 RDW-14.6 RDWSD-44.2 Plt ___ ___ 08:30AM BLOOD Glucose-95 UreaN-7 Creat-0.6 Na-144 K-3.8 Cl-105 HCO3-28 AnGap-11 ___ 07:31PM BLOOD ALT-26 AST-20 AlkPhos-91 TotBili-1.1 ___ 07:31PM BLOOD Lipase-28  Brief Hospital Course: This is a ___ yo F with h/o diverticulitis s/p partial colectomy who recently traveled to ___ presenting with fever, diarrhea, and abdominal pain ___ infectious pancolitis. 
+
+# fever # diarrhea # abdominal pain # pancolitis # Concern for diverticulitis - Patient improved steadily through hospital course and was tolerating regular diet at the time of discharge. CTAP showed pancolitis. Likely ___ infectious diarrhea (particularly given recent travel to ___ though initially placed on cipro/flagyl for diverticulitis. Improvement may be related or unrelated to administration of antibiotics. C. diff negative. Other stool studies negative or pending at the time of discharge. Discharged to complete PO cipro/flagyl.
+
+#Plan for Abdominal Wall Surgery- Will defer to surgery about appropriate timing. Patient has pre-op appointment scheduled.
+
+# GERD - cont PPI # depression - cont SSRI # HLD - cont statin  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Atorvastatin 80 mg PO QPM 2. Citalopram 20 mg PO DAILY 3. Erythromycin 0.5% Ophth Oint 0.5 in BOTH EYES QHS 4. Gabapentin 300 mg PO TID 5. Ibuprofen 600 mg PO Q8H:PRN Pain - Mild 6. LOPERamide 2 mg PO BID 7. Omeprazole 20 mg PO DAILY 8. OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Severe 9. Aspirin 81 mg PO DAILY 10. Calcium Carbonate 500 mg PO BID 11. Vitamin D 1000 UNIT PO DAILY 
+
+ Discharge Medications: 1. Ciprofloxacin HCl 500 mg PO Q12H RX *ciprofloxacin HCl [Cipro] 500 mg 1 tablet(s) by mouth q12 Disp #*6 Tablet Refills:*0 2. MetroNIDAZOLE 500 mg PO Q8H RX *metronidazole [Flagyl] 500 mg 1 tablet(s) by mouth every eight (8) hours Disp #*9 Tablet Refills:*0 3. Aspirin 81 mg PO DAILY  4. Atorvastatin 80 mg PO QPM  5. Calcium Carbonate 500 mg PO BID  6. Citalopram 20 mg PO DAILY  7. Erythromycin 0.5% Ophth Oint 0.5 in BOTH EYES QHS  8. Gabapentin 300 mg PO TID  9. Ibuprofen 600 mg PO Q8H:PRN Pain - Mild  10. LOPERamide 2 mg PO BID  11. Omeprazole 20 mg PO DAILY  12. OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Severe  13. Vitamin D 1000 UNIT PO DAILY 
+
+ Discharge Disposition: Home  Discharge Diagnosis: -Infectious Diarrhea -Diverticulitis -Hypovolemia 
+
+ Discharge Condition: Good Alert and Oriented x 3 Ambulatory without assistance 
+
+ Discharge Instructions: Dear ___,
+
+___ were admitted to the hospital with fever, diarrhea, nausea, vomiting, and abdominal pain. This was likely from an infectious diarrhea ___ acquired while traveling in ___. ___ improved with antibiotics that were to treat the possibility of diverticulitis and colitis ___ had on your CT scan. When ___ leave the hospital ___ should continue antibiotics for an additional three days after discharge. ___ should follow up with your primary care doctors and ___ as planned for consideration of your abdominal wall reconstruction  Followup Instructions: ___ 

@@ -1,0 +1,14 @@
+T1	Weight_loss 842 853	weight loss
+T2	Delirium 1252 1273	mental status changes
+A1	Negation T2
+T3	Delirium 3777 3781	AOx3
+A2	Negation T3
+T4	Delirium 4634 4638	AOx3
+A3	Negation T4
+T5	Lower_respiratory_tract_infection 7292 7301	pneumonia
+A4	Negation T5
+T6	Delirium 10313 10334	mental status changes
+A5	Negation T6
+T7	Delirium 13380 13413	Mental Status: Clear and coherent
+A6	Negation T7
+T8	Independently_mobile 13479 13503	Ambulatory - Independent

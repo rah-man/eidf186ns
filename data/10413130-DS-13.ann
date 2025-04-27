@@ -1,0 +1,15 @@
+T1	Lives_alone 1441 1453;1473 1484	husband died no children
+T2	Delirium 1596 1605	orienteX3
+A1	Negation T2
+T3	Mobile_with_assistance 1633 1642;1656 1662	Ambulated assist
+T4	Delirium 1825 1830	A&OX3
+A2	Negation T4
+T5	Urinary_incontinence 5604 5607	UTI
+A3	Negation T5
+T6	Lower_respiratory_tract_infection 5643 5648;5658 5663	lungs clear
+A4	Negation T6
+T7	Delirium 7722 7755	Mental Status: Clear and coherent
+A5	Negation T7
+T8	Independently_mobile 7821 7845	Ambulatory - Independent
+T9	Constipation 8871 8882	constipated
+A6	Diagnosis T9 Implicit_mention

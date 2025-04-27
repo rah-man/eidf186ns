@@ -1,0 +1,24 @@
+T1	Lives_alone 332 336	wife
+A1	Negation T1
+T2	Dementia 448 456	dementia
+A2	Diagnosis T2 History_of
+T3	Lower_respiratory_tract_infection 697 717	Chest X-ray negative
+A3	Negation T3
+T4	Mobile_with_assistance 1109 1119	assistance
+T5	Bed_Chairbound 1270 1278	immobile
+T6	Dementia 2293 2301	dementia
+T7	Lower_respiratory_tract_infection 4662 4691	acute cardiopulmonary process
+A4	Negation T7
+T8	Intracranial_haemorrhage 4732 4755	intracranial hemorrhage
+A5	Negation T8
+T9	Intracranial_haemorrhage 5352 5372	intracranial process
+A6	Negation T9
+T10	Dementia 6346 6354	dementia
+A7	Diagnosis T10 History_of
+A8	Diagnosis T6 History_of
+T11	Dementia 7640 7648	dementia
+T12	Dementia 9996 10004	dementia
+T13	Bed_Chairbound 10165 10173	bedbound
+T14	Urinary_tract_infection 9977 9980	UTI
+T15	Urinary_tract_infection 10325 10330;10335 10344	urine infection
+A9	Diagnosis T15 Suspected

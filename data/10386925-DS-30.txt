@@ -1,0 +1,47 @@
+ Name: ___       Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Cipro  Attending: ___.  Chief Complaint: nausea and 3 episodes of bloody diarrhea
+
+ Major Surgical or Invasive Procedure: endoscopy/colonoscopy ___
+
+ History of Present Illness: ___ female with history of cholangiocarcinoma s/p hepatic lobe resection, commob bile duct excision, hepaticojejunostomy with Roux-en-Y, multiple admissions for biliary sepsis w/ placement of biliary drainage tubes, and recurrent C.diff, became nauseated last evening around 8:30 pm after eating custard and had some diarrhea. She woke this morning and had 3 episodes of diarrhea with significant amount of blood (colored the water "cherry red") since 6 am. Pt has hx of chronic C.Diff and reports vanco stopped about 1.5 weeks ago per pt (last ___ per prio notes). 
+
+In the ED, initial vital signs were 98.8 96 105/62 15 100% RA. Patient was noted to have periumbilical tenderness to palpation, a large reducible hernia. She was also noted to have black stools, and had an episode of dizziness. Her Hct went from 32 (on ___ to 26 (today), thus pt was transfused 1 u pRBCs in setting of symptomatic anemia and black stools. Transplant surgery was consulted who evaluated the patient and felt that she had no acute surgical issue at this time. C. diff cultures were sent, BCx were sent.  On the floor, VS were 98.1 124/71 74 rr 16 100RA WT 52.2kg. She is in no acute distress. C/o intermittent RLQ pain, but is no pain currently. 
+
+Review of Systems:  (+) chills, nausea, diarrhea, blood in toilet, dark stools with blood (-) fever, sore throat, cough, shortness of breath, chest pain, abdominal pain, constipation, dysuria, foul smelling urine.   
+
+ Past Medical History: -Presumed cholangiocarcinoma (partially resected with HA encasement) -Endometrial cancer s/p XRT -HTN -HLD -Hypothyroidism -Recurrent UTIs -Right anterior portal vein thrombosis seen on CT ___ -Enterococcal bacteremia (___) -Clostridium Difficile (___) 
+
+PSH: - ___ s/p removal of percutaneous biliary drains, drains were placed in ___ via Roux limb for occluded biliary stents -A common bile duct excision, left lateral segmentectomy and Roux-en-Y hepaticojejunostomy on ___, for what was presumed to be a cholangiocarcinoma (no tissue dx) -multiple biliary stents placed PTC's with R post duct drain & RBD stent -FNA right duct (___) -lap cholecystectomy -Hysterectomy -___ ERCP/stent removal x1 -___ PTC with 2 ___ PTBD's in right ant system -Pullback cholangiogram/removal of external PTBDs (___) -Exchange of internal/external ___ BD (___) 
+
+ Social History: ___ Family History: Mother died of ovarian cancer at age ___, Father, hx HTN and DM, died of stroke at age ___
+
+ Physical Exam: ADMIT PE: Vitals- 98.1 124/71 74 rr 16 100RA WT 52.2kg General- Alert, oriented, no acute distress  HEENT- Sclera anicteric, MM dry, oropharynx clear  Neck- supple, JVP not elevated, no LAD  Lungs- Clear to auscultation bilaterally decreased BS right side, no wheezes, rales, ronchi  CV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  Abdomen- soft, reducible epigastric hernia tender to deep palp, tender in RLQ, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  GU- no foley  Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro- CNs2-12 intact, motor function grossly normal  Rectal exam: no stool in rectal vault, guaiac negative
+
+DISCHARGE PE: Vitals- Tm 98.2 ___ ___ 18 96-97%RA General- Alert, oriented, no acute distress  HEENT- Sclera anicteric, MM dry, oropharynx clear  Neck- supple, JVP not elevated, no LAD  Lungs- Clear to auscultation bilaterally, no wheezes, rales, ronchi  CV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  Abdomen- soft, reducible epigastric hernia tender to deep palp, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  GU- no foley  Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro- CNs2-12 intact, motor function grossly normal 
+
+ Pertinent Results: ADMIT LABS: ___ 12:20PM BLOOD WBC-6.9 RBC-2.85* Hgb-8.3* Hct-26.5* MCV-93 MCH-29.2 MCHC-31.4 RDW-16.0* Plt ___ ___ 12:20PM BLOOD Neuts-77.0* ___ Monos-3.9 Eos-0.3 Baso-0.3 ___ 12:48PM BLOOD ___ PTT-30.5 ___ ___ 12:20PM BLOOD Plt ___ ___ 12:20PM BLOOD Glucose-99 UreaN-27* Creat-0.8 Na-140 K-3.9 Cl-106 HCO3-26 AnGap-12 ___ 12:20PM BLOOD ALT-16 AST-26 AlkPhos-147* TotBili-0.4 ___ 12:20PM BLOOD Lipase-26 ___ 12:20PM BLOOD Albumin-3.4* ___ 12:33PM BLOOD Lactate-1.6
+
+DISCHARGE LABS: ___ 06:10AM BLOOD WBC-4.5 RBC-3.28* Hgb-9.6* Hct-29.2* MCV-89 MCH-29.4 MCHC-33.0 RDW-16.5* Plt ___ ___ 06:10AM BLOOD Glucose-89 UreaN-17 Creat-0.7 Na-138 K-3.8 Cl-106 HCO3-27 AnGap-9 ___ 06:10AM BLOOD LD(LDH)-144 AlkPhos-192* ___ 06:10AM BLOOD Calcium-8.1* Phos-3.4 Mg-1.9
+
+MICRO: Time Taken Not Noted   Log-In Date/Time: ___ 12:57 pm    STOOL   CONSISTENCY: NOT APPLICABLE   Source: Stool. 
+
+              **FINAL REPORT ___
+
+  C. difficile DNA amplification assay (Final ___:    Negative for toxigenic C. difficile by the Illumigene DNA    amplification assay.       (Reference Range-Negative). 
+
+STUDIES: Colonoscopy ___: Internal hemorrhoids, Polyp in the sigmoid colon Otherwise normal colonoscopy to cecum . Endoscopy ___: Follow up biopsies; will ultimately need EUS for submucosal mass, -Given unclear etiology of stricture and history of presumed cholangiocarcinoma, would procede with further imaging of this area including SBFT and MRCP ___ gastric biopsy: pending . MRCP ___: Pending  Brief Hospital Course: ___ with ___ recent C diff having completed PO vanc ~ 1 wk prior to presentation, presumed cholangiocarcinoma s/p common bile duct excision, left lateral segmentectomy and Roux-en-Y hepaticojejunostomy (___) presents with acute nausea, bloody diarrhea, and black stools in the ED blood transfusion, symptoms now resolved. . # Anemia: Patient presented to hospital with bright red blood in the toilet and a hct decrease from ___ to from 32 to 26 on presentation. Per report, patient may have had black stools in the ED, however, pt denied any ETOH or NSAID consumption. She received a total of 2 units PRBCs during her hospital stay. She had no BRBPR while in the hospital. High dose PPI was started initially and discontinued upon dicharge. On colonoscopy, patient was found to have hemorrhoids and single polyp, likely cause of bleeding thought to be from hemorrhoids. On endoscopy, she was noted to have gastric mass which was biopsied and duodenal stricture through which the scope was unable to pass. MRCP was done to better evaluate this area, and in the setting of mild elevation of alk phos, though chronic, there is concern for recurrence of malignancy. Final read is pending upon discharge. She will follow up with GI for biopsy results and MRCP final, plans for future workup. . # Nausea/diarrhea: Patient presented with an episode of nausea and diarrhea after eating custard and recently completing course of antibiotics for C. diff. C. diff assay was negative and symptoms resolved without further intervention.  . CHRONIC ISSUES: # Elevated alk phos: Patient has had elevated alkaline phosphatases since ___ when she was diagnosed with presumed cholangiocarcinoma. Alk phos levels were relatively low during this hospitalization. . # Hypothyroidism: Patient continued on home regimen. - Levothyroxine Sodium 100 mcg PO 5X/WEEK (___) - Levothyroxine Sodium 50 mcg PO 2X/WEEK (___) . # Gallstones / occlusions of bile ducts: Patient continued home regimen - cont ursodiol 300 mg PO TID per home . TRANSITION ISSUES: # Code: Full (discussed with patient)  # Communication: Patient and daughter ___ (daughter) ___ cell ___ (home) # Follow up with GI, biopsies pending # Follow up with Oncology # Follow up with Transplant surgery  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Levothyroxine Sodium 100 mcg PO MTUWETHFRI 2. Levothyroxine Sodium 50 mcg PO SASUN 3. Ursodiol 300 mg PO TID 4. Acetaminophen Dose is Unknown PO Frequency is Unknown 5. OxycoDONE (Immediate Release) 2.5 mg PO Q4H:PRN pain hold for sedation adn rr<10 
+
+ Discharge Medications: 1. Levothyroxine Sodium 100 mcg PO MTUWETHFRI 2. Levothyroxine Sodium 50 mcg PO SASUN 3. OxycoDONE (Immediate Release) 2.5 mg PO Q4H:PRN pain hold for sedation adn rr<10 4. Ursodiol 300 mg PO TID 5. Acetaminophen 325 mg PO Q6H:PRN pain 
+
+ Discharge Disposition: Home  Discharge Diagnosis: duodenal stricture
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Ms ___,
+
+It was a pleasure taking care of you at ___. You were admitted because of your nausea and bloody stools. Your hematocrit was found to be low and you were given two units of blood. You had a colonoscopy that showed hemorrhoids. You also had an endoscopy that showed a narrowing of the first part of your small intestine, and you had an MRCP done to better evaluate this finding. You were also found to have a mass in your stomach, and a biopsy was taken. 
+
+It is very important for your health that you follow up with your outpatient providers. 
+
+Please see the attached sheet for your updated medication list.
+
+ Followup Instructions: ___ 

@@ -1,0 +1,8 @@
+T1	Delirium 1039 1044	A&Ox4
+A1	Negation T1
+T2	Delirium 2109 2114	A&Ox4
+A2	Negation T2
+T3	Delirium 5240 5273	Mental Status: Clear and coherent
+A3	Negation T3
+T4	Mobile_with_aid 5339 5349;5375 5378	Ambulatory aid
+T5	Mobile_with_assistance 5339 5349;5361 5371	Ambulatory assistance

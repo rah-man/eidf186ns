@@ -1,0 +1,13 @@
+T1	Lower_respiratory_tract_infection 895 904	pneumonia
+T2	Lower_respiratory_tract_infection 2592 2605	consolidation
+T3	Lower_respiratory_tract_infection 2646 2655	pneumonia
+T4	Delirium 4354 4362	oriented
+A1	Negation T4
+T5	Lower_respiratory_tract_infection 5975 5988	consolidation
+T6	Lower_respiratory_tract_infection 6029 6038	pneumonia
+T7	Lower_respiratory_tract_infection 7635 7644	pneumonia
+A2	In-hospital_event T7
+A3	In-hospital_event T5
+A4	In-hospital_event T6
+A5	In-hospital_event T3
+A6	In-hospital_event T2

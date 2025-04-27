@@ -1,0 +1,24 @@
+T1	Upper_gastrointestinal_haemorrhage 1071 1083	black stools
+A1	Diagnosis T1 Suspected
+T2	Upper_gastrointestinal_haemorrhage 1232 1244	black stools
+A2	Diagnosis T2 Suspected
+T4	Upper_gastrointestinal_haemorrhage 1620 1631	dark stools
+A4	Diagnosis T4 Suspected
+T3	Constipation 1723 1735	constipation
+A3	Negation T3
+T5	Urinary_tract_infection 1928 1932	UTIs
+A5	Diagnosis T5 History_of
+T6	Delirium 2857 2865	oriented
+A6	Negation T6
+T7	Delirium 3568 3576	oriented
+T8	Upper_gastrointestinal_haemorrhage 5898 5910	black stools
+A7	Diagnosis T8 Suspected
+T9	Lower_gastrointestinal_haemorrhage 5877 5892	bloody diarrhea
+T10	Upper_gastrointestinal_haemorrhage 6136 6148	black stools
+A8	Diagnosis T10 Suspected
+T11	Lower_gastrointestinal_haemorrhage 6285 6290	BRBPR
+A9	Negation T11
+T12	Delirium 8576 8609	Mental Status: Clear and coherent
+T13	Independently_mobile 8675 8699	Ambulatory - Independent
+T14	Lower_gastrointestinal_haemorrhage 8831 8844	bloody stools
+T15	Lower_gastrointestinal_haemorrhage 1625 1642	stools with blood

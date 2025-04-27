@@ -1,0 +1,29 @@
+T1	Constipation 744 756	constipation
+A1	Negation T1
+T2	Constipation 1290 1302	constipation
+T3	Constipation 1575 1587	stool burden
+A2	Low_confidence T3
+T4	Intracranial_haemorrhage 2207 2224	cerebral aneurysm
+A3	Diagnosis T4 Implicit_mention
+A4	Low_confidence T4
+T5	Delirium 3051 3059	oriented
+A5	Negation T5
+T6	Delirium 3845 3853	oriented
+A6	Negation T6
+T7	Lower_respiratory_tract_infection 4642 4651	pneumonia
+A7	Negation T7
+T8	Constipation 4923 4935	stool burden
+A8	Low_confidence T8
+T9	Constipation 5136 5148	stool burden
+A9	Low_confidence T9
+T10	Constipation 8512 8524	constipation
+T11	Constipation 8640 8652	constipation
+T12	Constipation 8654 8666	constipation
+T13	Has_carers 13276 13285	Service  
+T14	Constipation 13382 13394	Constipation
+T15	Delirium 13426 13459	Mental Status: Clear and coherent
+A10	Negation T15
+T16	Mobile_with_assistance 13525 13535;13547 13557	Ambulatory assistance
+T17	Mobile_with_aid 13525 13535;13561 13564	Ambulatory aid
+T18	Constipation 11711 11723	constipation
+A11	Diagnosis T18 Implicit_mention

@@ -1,0 +1,5 @@
+T1	Delirium 1423 1428	AAOx3
+A1	Negation T1
+T2	Delirium 4015 4023	Oriented
+A2	Negation T2
+T3	Independently_mobile 4028 4057	Ambulatory without assistance

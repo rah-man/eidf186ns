@@ -1,0 +1,14 @@
+T1	Delirium 3164 3197	Mental Status: Clear and coherent
+A1	Negation T1
+T2	Mobile_with_aid 3263 3273;3299 3302	Ambulatory aid
+T3	Mobile_with_assistance 3263 3273;3285 3295	Ambulatory assistance
+T4	Constipation 4099 4111	constipation
+A2	Diagnosis T4 Implicit_mention
+T5	Upper_gastrointestinal_haemorrhage 4124 4129;4162 4166	stool dark
+A3	Diagnosis T5 Implicit_mention
+T6	Lower_gastrointestinal_haemorrhage 4256 4261;4267 4272	blood bowel
+A4	Diagnosis T6 Implicit_mention
+T7	Constipation 4516 4528	constipation
+A5	Diagnosis T7 Implicit_mention
+T8	Constipation 4905 4917	constipation
+A6	Diagnosis T8 Implicit_mention

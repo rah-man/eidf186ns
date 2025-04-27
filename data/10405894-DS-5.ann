@@ -1,0 +1,15 @@
+T1	Dementia 2255 2266	Memory loss
+A1	Diagnosis T1 History_of
+T2	Delirium 3089 3097	oriented
+A2	Negation T2
+T3	Delirium 4042 4050	oriented
+A3	Negation T3
+T4	Lower_respiratory_tract_infection 6210 6219	pneumonia
+A4	Negation T4
+T5	Dementia 8780 8788	Dementia
+A5	Diagnosis T5 History_of
+T6	Has_carers 10464 10471	Service
+T7	Dementia 10615 10623	Dementia
+A6	Diagnosis T7 History_of
+T8	Dementia 10667 10675	Confused
+T9	Independently_mobile 10753 10777	Ambulatory - Independent

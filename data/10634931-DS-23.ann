@@ -1,0 +1,11 @@
+T1	Seizures 1275 1283	seizures
+A1	Negation T1
+A2	Diagnosis T1 Implicit_mention
+T2	Delirium 2664 2669	A&Ox3
+T3	Has_carers 3887 3895	services
+T4	Has_carers 4795 4804	Service  
+T5	Delirium 4892 4925	Mental Status: Clear and coherent
+A3	Negation T5
+T6	Independently_mobile 4991 5015	Ambulatory - Independent
+T7	Constipation 6037 6049	constipation
+A4	Diagnosis T7 Implicit_mention

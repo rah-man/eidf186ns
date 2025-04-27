@@ -1,0 +1,4 @@
+T1	Delirium 2607 2613	A/O x3
+T2	Mobile_with_assistance 8581 8591;8597 8607	ambulating assistance
+T3	Delirium 11004 11012	oriented
+A1	Negation T3

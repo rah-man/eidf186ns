@@ -1,0 +1,32 @@
+T1	Constipation 237 249	constipation
+T2	Falls 681 685	fell
+A1	Diagnosis T2 History_of
+T3	Visual_impairment 1246 1260	Loss of vision
+T4	Delirium 1565 1570	A+Ox3
+A2	Negation T4
+T5	Constipation 2117 2129	constipation
+T6	Lower_respiratory_tract_infection 3055 3064	pneumonia
+T7	Falls 3178 3182	fall
+T8	Independently_mobile 3624 3648	ambulating independently
+T9	Urinary_tract_infection 4016 4019	UTI
+A3	Diagnosis T9 Implicit_mention
+T10	Lower_respiratory_tract_infection 4263 4272	Pneumonia
+T11	Has_carers 6971 6988	Home With Service
+T12	Lower_respiratory_tract_infection 7066 7075	pneumonia
+A4	In-hospital_event T12
+A6	In-hospital_event T6
+T13	Delirium 7098 7131	Mental Status: Clear and coherent
+A7	Negation T13
+T14	Independently_mobile 7197 7221	Ambulatory - Independent
+T15	Constipation 7300 7312	constipation
+T16	Lower_respiratory_tract_infection 7380 7389	pneumonia
+A8	In-hospital_event T16
+T17	Lower_gastrointestinal_haemorrhage 7914 7919;7925 7930	blood bowel
+A9	Diagnosis T17 Implicit_mention
+T18	Constipation 8146 8158	constipation
+A10	Diagnosis T18 Implicit_mention
+A5	Diagnosis T10 Implicit_mention
+T19	Constipation 8610 8622	constipation
+A11	Diagnosis T19 Implicit_mention
+T20	Falls 8679 8683	fall
+A12	Diagnosis T20 History_of

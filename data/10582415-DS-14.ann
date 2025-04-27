@@ -1,0 +1,20 @@
+T1	Delirium 226 237	Confusion  
+T2	Intracranial_haemorrhage 595 598	IVH
+T3	Intracranial_haemorrhage 2021 2044	subarachnoid hemorrhage
+T4	Mobile_with_aid 2211 2215	cane
+A1	Type_of_aid T4 One_Stick
+T5	Mobile_with_aid 2219 2225	walker
+A2	Type_of_aid T5 Two_sticks_or_frame
+T6	Lives_in_carehome 2243 2270	independent living facility
+T7	Intracranial_haemorrhage 5068 5091	subarachnoid hemorrhage
+T8	Intracranial_haemorrhage 5125 5142	ventricular blood
+T9	Intracranial_haemorrhage 5602 5625	intracranial hemorrhage
+A3	Negation T9
+T10	Delirium 8604 8612	delirium
+A4	Diagnosis T10 Implicit_mention
+T11	Intracranial_haemorrhage 8728 8751	Subarachnoid Hemorrhage
+T12	Delirium 8790 8798	Confused
+T13	Mobile_with_aid 8878 8888;8914 8917	Ambulatory aid
+T14	Mobile_with_assistance 8878 8888;8900 8910	Ambulatory assistance
+T15	Delirium 9014 9023	confusion
+T16	Intracranial_haemorrhage 9048 9071	subarachnoid hemorrhage

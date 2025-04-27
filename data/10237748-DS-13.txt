@@ -1,0 +1,67 @@
+ Name: ___       Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: fluoxetine / metoclopramide / warfarin / cephalexin / cephalexin / NSAIDS (Non-Steroidal Anti-Inflammatory Drug) / Sulfa (Sulfonamide Antibiotics) / cefaclor / levofloxacin  Attending: ___.  Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: thoracentesis ___ chest tube placement ___  History of Present Illness: ___ year old male with h/o C. diff colitis, h/o CHF, HTN, afib on eliquis, R BKA d/t gout, CKD, spinal fusion surgery presenting from ___ for respiratory distress d/t CHF exacberation and PNA on BIPAP. 
+
+Patient developed gradual onset dyspnea and wheezing over the past several days. He is currently at a rehab facility where he is being treated for C. diff colitis, currently on PO vanco. CXR done at ___) shows bilateral pneumonia, L sided pleural effusion. 
+
+Labs at ___ ED were notable for WBC 9.8 (up from baseline in the 3s, neutrophilic predominance), Hgb 9.3 (stable), platelets 103 (stable). Chem panel largely unremarkable except for CO2 20 (baseline), Cr 1.1. TropT 0.05, BNP 18495 and lactate 2.6. LFTs with AST 44, ALT 21, Tp 6.2, Alb 3.2, Tbili 1.2 (DBili 0.5), AP 177. Patient was reportedly given levofloxacin, vancomycin and unasyn. He has had O2 sats in ___, not on O2 at baseline. Given stacked albuterol nebs with minimal improvement. He was started on a nitro gtt for his pulmonary edema. The patient had BiPAP placed and was going to go to the ICU however ___ ICU was full, so he was transferred to ___. On Medflight arrival, the patient was not tolerating the BiPAP so placed on 6L NC. Lasix 40mg IV - put out 500cc; refused foley. 
+
+Vitals on transfer: BP 110/60, HR 92., 99% on BIPAP. 
+
+The patient was recently hospitalized at ___ from ___ to ___ with generalized weakness. He was found to have Campylobacter infection (treated with azithromycin) with course complicated by transudative pleural effusion c/p 1.6L thoracentesis, and CKD. Campylobacter was treated with azithromycin which should continue for three weeks.
+
+In ED initial VS: T97.8, HR 88, BP 119/82, RR 26, 94% Nasal Cannula on 6L.  Exam: Tachypneic to ___ Intermittent desats to ___ on 6L NC Diffuse crackles, rhonchi L lung to apex Abd soft, nonTTP R AKA
+
+Repeat troponin was 0.05, and VBG was 7.39/34 with lactate 1.7. Otherwise unremarkable. 
+
+Patient was given: Nitro SL x1, started on nitro gtt, and furosemide 40mg IV x1 to which he put out 500cc, reportedly. 
+
+Imaging notable for: CXR with large left lower lobe airspace consolidation with air bronchograms is concerning for pneumonia. Probable associated left-sided pleural effusion. Cardiomegaly with moderate interstitial pulmonary edema.
+
+Consults: None  On arrival to the MICU, the patient reports that he is feeling well but short of breath. He denies other symptoms such as pain, cough, chest pain, fever, sweats, nausea, abdominal pain, diarrhea. He has urinary incontinence. He noticed increased leg swelling at ___. He reports that he was previously taking 60 mg furosemide a couple of times a week and 20 mg the other days, but that he recently has not been taking any, it was possibly making him hypotensive and dehydrated. He reports that his diarrhea is on and off, and he stopped taking PO vanc "a while ago." He has chronic pain from gout and had a BKA for this. 
+
+REVIEW OF SYSTEMS: + per HPI 
+
+ Past Medical History: HFpEF 65%(Dr. ___ as an outpatient). Atrial fibrillation on Eliquis. Chronic Campylobacter infection on azithromycin. Peripheral arterial disease. Gout. Possible rheumatoid arthritis. Hypertension with hyperlipidemia. Benign prostatic hypertrophy. Psoriatic arthritis. Spinal stenosis. Left pleural effusion status post thoracentesis. Coronary artery disease. Chronic diastolic heart failure. Pulmonary hypertension. GERD. Left Charcot foot. Stage III chronic kidney disease with baseline creatinine of 1.3. Status post cholecystectomy. Status post right below-knee amputation. Bilateral inguinal herniorrhaphy. Resection of oral neoplasm. Right mastoid surgery. Cataract surgery. Spinal stenosis surgery  Social History: ___ Family History: unknown  
+
+ Physical Exam: ADMISSION PHYSICAL EXAM:  ========================== VITALS: afebrile, BP 120/60s, HR ___, RR ___, 93% on 5 L NC GENERAL: Alert, oriented, no acute distress  HEENT: Sclera anicteric, MMM, oropharynx clear  NECK: supple, JVP elevated to the earlobe sitting upright, no LAD  LUNGS: Clear to auscultation in the upper lung fields with decreased breath sounds especially in the left lateral position, no wheezes, rales, rhonchi CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, gallops  ABD: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  EXT: Cool, 1+ pulse in the LLE, R BKA, 2+ pitting edema to the upper thighs b/l SKIN: no rash, ecchymoses around IV sites NEURO: grossly intact, moving all extremities sponateneously, no tremor  
+
+DISCHARGE PHYSICAL EXAM: ========================= patient died  Pertinent Results: ADMISSION LABS: ==================
+
+___ 03:46AM BLOOD WBC-8.9 RBC-2.98* Hgb-9.3* Hct-27.9* MCV-94 MCH-31.2 MCHC-33.3 RDW-16.5* RDWSD-55.3* Plt Ct-90* ___ 03:46AM BLOOD Glucose-141* UreaN-41* Creat-0.9 Na-136 K-4.5 Cl-104 HCO3-16* AnGap-21* ___ 08:15AM BLOOD Calcium-8.7 Phos-4.3 Mg-1.2* ___ 03:46AM BLOOD CK(CPK)-34* ___ 04:44AM BLOOD ___ pO2-44* pCO2-34* pH-7.39 calTCO2-21 Base XS--3 ___ 03:51AM BLOOD Lactate-1.7 ___ 01:34PM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+
+MICRO: ========== ___ 7:07 am BLOOD CULTURE
+
+  Blood Culture, Routine (Pending): 
+
+___ 1:34 pm URINE   Source: ___. 
+
+  URINE CULTURE (Pending): 
+
+ Legionella Urinary Antigen (Final ___:    NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.       (Reference Range-Negative). 
+
+IMAGING: ========== ___ CXR Large left lower lobe airspace consolidation with air bronchograms is concerning for pneumonia. Associated left-sided pleural effusion. Cardiomegaly with moderate interstitial pulmonary edema. Possible pericardial effusion. 
+
+ Brief Hospital Course: ___ year old male with C. diff colitis, CHF, HTN, afib on eliquis, R BKA d/t gout, CKD, spinal fusion surgery presenting from ___ for respiratory distress d/t CHF exacerbation and PNA on BIPAP. 
+
+# GOC: after being re-transferred back to the MICU in respiratory distress, a ___ conversation was held during which he expressed his wishes to be made comfortable, without escalating treatment. This is confirmed with his HCP ___, who has discussed with ___ on multiple occasions that he would not want further invasive procedures. He was given morphine for air hunger, and died peacefully at 13:55. His friend ___ ___ came to visit the body. 
+
+# CHF exacerbation: appeared volume overloaded on exam. EF 65%, had stopped taking Lasix prior to admission, but received IV Lasix since admission with good output. However on ___ he had worsening SOB, likely secondary to reaccumulating pleural effusion as below, and was transferred back to the MICU where he decided to focus his care on comfort. He died on ___. 
+
+# Pleural effusion: # Pneumothorax: Had recurrent transudative pleural effusion consistent with CHF, tapped most recently on ___ at ___. On ___ in the setting of worsening respiratory distress, a ___ was repeated with 1L fluid removed, and unfortunately he developed a pneumothorax requiring chest tube placement. On arrival to the MICU, GOC conversation as above and patient died peacefully that afternoon. 
+
+# Healthcare associated pneumonia: Treated with vanc/cefepime/azithromycin starting ___. 
+
+# Afib: remained rate controlled on home dose metoprolol, with home Eliquis for anticoagulation. 
+
+# CKD: continued home calcitriol 
+
+# h/o gout: continued home allopurinol ___ mg BID 
+
+# Anemia and thrombocytopenia: Per OMR: "He has had chronic thrombocytopenia dating back ___ years, chronic anemia for the same duration, and his white blood cell count has occasionally been low from 3.5 to 3.8. This is also for the past year or 2."
+
+# Depression: continued home sertraline
+
+# Communication: HCP: ___ ___, cell- ___ # Code: DNR/DNI
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Sarna Lotion 1 Appl TP TID:PRN itching 2. PredniSONE 20 mg PO DAILY 3. Sertraline 50 mg PO DAILY 4. Allopurinol ___ mg PO BID 5. Omeprazole 20 mg PO DAILY 6. Systane (PF) (peg 400-propylene glycol (PF)) 0.4-0.3 % ophthalmic BID 7. Calcitriol 0.25 mcg PO DAILY 8. Ferrous Sulfate 325 mg PO DAILY 9. Tamsulosin 0.8 mg PO QHS 10. Magnesium Oxide 400 mg PO DAILY 11. Apixaban 2.5 mg PO BID 12. Cal-Citrate (calcium citrate-vitamin D2) 250-100 mg-unit oral DAILY 13. Cyanocobalamin 1000 mcg PO DAILY 14. TraMADol 25 mg PO Q8H PRN Pain - Moderate 15. melatonin-pyridoxine (vit B6) ___ mg oral DAILY 16. Metoprolol Tartrate 50 mg PO BID 17. Lidocaine 5% Ointment 1 Appl TP DAILY 18. Azithromycin 250 mg PO Q24H 
+
+ Discharge Medications: patient died  Discharge Disposition: Expired  Discharge Diagnosis: patient died  Discharge Condition: patient died  Discharge Instructions: patient died  Followup Instructions: ___ 

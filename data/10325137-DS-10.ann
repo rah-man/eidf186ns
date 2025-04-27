@@ -1,0 +1,9 @@
+T1	Delirium 1472 1480	oriented
+A1	Negation T1
+T2	Has_carers 7823 7840	Home With Service
+T3	Delirium 7952 7985	Mental Status: Clear and coherent
+A2	Negation T3
+T4	Mobile_with_assistance 8051 8061;8073 8083	Ambulatory assistance
+T5	Mobile_with_aid 8051 8061;8087 8090	Ambulatory aid
+T6	Constipation 9012 9024	constipation
+A3	Diagnosis T6 Implicit_mention

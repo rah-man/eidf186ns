@@ -1,0 +1,10 @@
+T1	Falls 744 748	fall
+A1	Diagnosis T1 History_of
+T2	Delirium 2104 2110	A&O x3
+A2	Negation T2
+T3	Independently_mobile 4818 4840	ambulate independently
+T4	Has_carers 6454 6471	Home With Service
+T5	Delirium 6601 6634	Mental Status: Clear and coherent
+T6	Mobile_with_assistance 6700 6710;6722 6732	Ambulatory assistance
+T7	Mobile_with_aid 6700 6710;6736 6739	Ambulatory aid
+A3	Low_confidence T3

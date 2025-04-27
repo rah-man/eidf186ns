@@ -1,0 +1,103 @@
+T1	Falls 244 248	fall
+T2	Wrist_fracture 225 239	Wrist fracture
+T3	Delirium 250 260	delirium  
+T4	Wrist_fracture 318 332	wrist fracture
+T5	Weight_loss 486 497	weight gain
+A1	Negation T5
+T6	Weight_loss 787 799	weighted 136
+A2	Negation T6
+T7	Weight_loss 823 838	weighed 148 lbs
+A3	Negation T7
+T8	Vertebral_compression_fracture 1061 1069;1088 1091	fracture T11
+A4	Diagnosis T8 History_of
+T9	Faecal_incontinence 1529 1534;1541 1553	stool incontinence
+A5	Negation T9
+T10	Urinary_incontinence 1535 1553	urine incontinence
+A6	Negation T10
+T11	Lower_gastrointestinal_haemorrhage 1613 1628	bloody diarrhea
+A7	Diagnosis T11 History_of
+T12	Weight_loss 2393 2404	weight gain
+A8	Negation T12
+T13	Weight_loss 3315 3326	weight gain
+A9	Negation T13
+T14	Constipation 3587 3599	constipation
+A10	Negation T14
+T15	Lower_gastrointestinal_haemorrhage 3604 3609	BRBPR
+A11	Negation T15
+T16	Upper_gastrointestinal_haemorrhage 3611 3617	melena
+A12	Negation T16
+T17	Lower_gastrointestinal_haemorrhage 3619 3631	hematochezia
+A13	Negation T17
+T18	Delirium 4630 4638	confused
+T19	Hearing_impairment 4858 4862	deaf
+A14	Diagnosis T19 History_of
+T20	Delirium 4890 4901	orientation
+A15	Diagnosis T20 Implicit_mention
+T21	Delirium 5276 5284	Confused
+T22	Hearing_impairment 5359 5363	deaf
+A16	Diagnosis T22 History_of
+T23	Intracranial_haemorrhage 7271 7295	intracranial abnormality
+A17	Negation T23
+T24	Hip_fracture 8300 8303;8319 8327	HIP fracture
+A18	Negation T24
+T25	Wrist_fracture 8439 8447;8455 8468	fracture distal radius
+T26	Wrist_fracture 8462 8468;8499 8514	radius distal fracture
+T27	Wrist_fracture 8525 8531;8538 8546	Colles fracture
+T28	Wrist_fracture 8666 8688	ulnar styloid fracture
+T29	Wrist_fracture 9047 9055;9063 9076	fracture distal radius
+T30	Wrist_fracture 9063 9076;9100 9109	distal radius fractured
+T31	Wrist_fracture 9063 9076;9147 9156	distal radius fractures
+T32	Falls 9594 9598	fall
+T33	Wrist_fracture 9617 9639	distal radius fracture
+T34	Delirium 9641 9650	delirious
+T35	Wrist_fracture 9617 9630;9676 9684	distal radius fracture
+T36	Wrist_fracture 9711 9717;9720 9735	Distal Radius Fracture
+T37	Wrist_fracture 9720 9735;9788 9796	Radius Fracture fracture
+T38	Delirium 9902 9910	delirium
+T39	Urinary_tract_infection 10225 10228	UTI
+T40	Urinary_tract_infection 10258 10261	UTI
+T41	Dementia 10377 10385	dementia
+A19	Diagnosis T41 History_of
+T42	Delirium 10416 10424	Delirium
+T43	Urinary_tract_infection 10447 10450	UTI
+T44	Falls 10496 10500	fall
+T45	Urinary_tract_infection 10539 10542	UTI
+T46	Delirium 10597 10605	Delirium
+T47	Dementia 10622 10630	dementia
+A20	Diagnosis T47 History_of
+T48	Urinary_tract_infection 10978 10986	cystitis
+T49	Delirium 11214 11222	Delirium
+T50	Delirium 11230 11238	delirium
+T51	Dementia 11259 11267	dementia
+A21	Diagnosis T51 History_of
+T52	Delirium 11269 11273	AOx1
+T53	Delirium 11287 11296	delirious
+T54	Delirium 11444 11456;11460 11473	exacerbation mental status
+T55	Urinary_tract_infection 11547 11550	UTI
+T56	Urinary_tract_infection 11668 11671	UTI
+T57	Lives_in_carehome 12553 12568	assisted living
+T58	Delirium 13107 13115	Delirium
+T59	Wrist_fracture 13353 13367	wrist fracture
+T60	Falls 13397 13401	fall
+A22	Diagnosis T60 Implicit_mention
+T61	Constipation 15855 15867	constipation
+A23	Diagnosis T61 Implicit_mention
+T62	Wrist_fracture 16056 16070	Wrist fracture
+T63	Delirium 16071 16079	Delirium
+T64	Urinary_tract_infection 16080 16103	Urinary Tract Infection
+T65	Delirium 16142 16150	Confused
+T66	Mobile_with_aid 16230 16240;16266 16269	Ambulatory aid
+T67	Mobile_with_assistance 16230 16240;16252 16262	Ambulatory assistance
+T68	Falls 16417 16421	fall
+T69	Wrist_fracture 16434 16442	fracture
+T70	Wrist_fracture 16451 16456	wrist
+T71	Delirium 16469 16477	confused
+T72	Delirium 16537 16546	Confusion
+T73	Urinary_tract_infection 16599 16622	urinary tract infection
+T74	Urinary_tract_infection 16676 16699	urinary tract infection
+T75	Delirium 16726 16735	confusion
+T76	Delirium 17049 17058	confusion
+A24	Diagnosis T76 Implicit_mention
+T77	Weight_loss 17330 17344	weight goes up
+A25	Negation T77
+A26	Diagnosis T77 Implicit_mention

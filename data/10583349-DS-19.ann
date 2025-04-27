@@ -1,0 +1,29 @@
+T1	Intracranial_haemorrhage 206 209	SAH
+T2	Falls 214 218	fall
+T3	Falls 410 417	tripped
+T4	Falls 436 443	falling
+T5	Intracranial_haemorrhage 548 551	SAH
+T6	Urinary_incontinence 1388 1408	Urinary incontinence
+A1	Diagnosis T6 History_of
+T7	Delirium 2004 2012	Oriented
+A2	Negation T7
+T8	Intracranial_haemorrhage 2791 2814	subarachnoid hemorrhage
+T9	Intracranial_haemorrhage 3066 3089	subarachnoid hemorrhage
+T10	Intracranial_haemorrhage 3066 3078;3114 3124	subarachnoid hemorrhage
+A3	Negation T10
+T11	Constipation 4464 4476	constipation
+A4	Diagnosis T11 Implicit_mention
+T12	Delirium 4969 5002	Mental Status: Clear and coherent
+A5	Negation T12
+T13	Mobile_with_assistance 5068 5078;5090 5100	Ambulatory assistance
+T14	Mobile_with_aid 5068 5078;5104 5107	Ambulatory aid
+T15	Seizures 5523 5530	seizure
+A6	Diagnosis T15 Implicit_mention
+T16	Seizures 5744 5752	seizures
+A7	Diagnosis T16 Implicit_mention
+T17	Constipation 6279 6291	Constipation
+A8	Diagnosis T17 Implicit_mention
+T18	Intracranial_haemorrhage 6529 6540	brain bleed
+A9	Diagnosis T18 Implicit_mention
+T19	Seizures 7344 7352	Seizures
+A10	Diagnosis T19 Implicit_mention

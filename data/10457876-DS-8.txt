@@ -1,0 +1,93 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: Cytoxan  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: Ms. ___ is a ___ woman with kappa anaplastic plasma cell myeloma diagnosed in ___ with extensive skull, pelvic, and hip involvement as well as trace B-J proteinuria, 30% plasma cell involvement and unfavorable cytogenetics s/p radiation to skull and iliac masses, and Velcade/dex with significant FLC and BM response, s/p 6 autoSCT (___) who was on ___ maintenance but has a recent relapse with bony disease and iliac mass now presenting for Cytoxan
+
+ Past Medical History: ONCOLOGIC HISTORY:
+
+Ms. ___ developed sudden-onset right lateral hip pain in ___. She had a similar episode ___ years prior that resolved with physical therapy. She was initially diagnosed with bursitis and was referred to physical therapy, with which her pain only slightly improved. She had difficulty walking normally. Plain films of the hips on ___ showed a possible lucent lesion within the right iliac bone. Follow-up MRI reportedly was consistent with a large destructive right iliac mass with soft tissue components, additional lesion in the femoral neck shaft, pelvis and sacrum.
+
+She was evaluated by Dr. ___ on ___, who felt the imaging was most consistent with multiple myeloma with some extra-skeletal soft tissue component versus lymphoma. She underwent CT torso on ___ (see below) followed by U/S-guided biopsy of the soft tissue mass in the right iliac bone on ___. A bone scan was obtained on ___. This showed concerning findings in the skull, for which the patient was referred to the ED and admitted.
+
+While she was hospitalized, head MRI was obtained which showed numerous calvarial masses, with the largest invading the dura and compressing the occipital lobe. Neurosurgery and Neuro-Onc (Dr. ___ were consulted, and felt that she was safe for discharge with close outpatient follow-up. Kappa LCs returned significantly elevated. Immunoglobulins were all reduced. She had no other end-organ dysfunction, but we did recommend holding NSAIDs and starting opiates instead for hip pain to prevent renal dysfunction. She was discharged on ___. In the meantime, pathology was reviewed and confirmed an anaplastic plasma cell myeloma.
+
+She was readmitted ___ to begin C1 Velcade/dex with concurrent radiation of her head. BM biopsy that day showed a subset of plasma cells with anaplastic features comprising 30% of the marrow cellularity. Hip MRI on ___ showed diffuse metastatic disease throughout the pelvic bones and proximal femurs with a dominant lesion in the right iliac bone extending into the right acetabulum and the adjacent soft tissues; overall, these lesions appeared unchanged in number and mildly increased in size from the ___ exam; the degree of involvement of the right supra-acetabular iliac bone, likely poses is a risk for pathologic fracture of the acetabular roof. Skeletal survey showed extensive disease in calvarium and R pelvis. Facial CT on ___ showed a large lytic lesion in the body of the right mandible with erosion into the adjacent soft tissue, and additional lesions involving the right mandibular condyle and ramus.
+
+She was given dex ___ mg daily x 4 days and Velcade 1.3 mg/m2 IV. She was discharged ___. Her free kappa decreased from 350.9 to 23.8 after one cycle with Velcade/dex and radiation therapy. She completed 3500 cGy radiation on ___. 
+
+BM biopsy ___ showed 30% plasma cells and complex karyotype including gain of odd number chromosomes, monosomy 13, and der(14)t(11;14). At least two related neoplastic clones were detected, indicative of cytogenetic evolution. Concurrent FISH showed monosomy 13 and partial deletion of IGH, likely resulted from der(14)t(11;14).
+
+SUMMARY OF RADIATION THERAPY: ___
+
+TREATMENT SITE: Posterior Skull. TECHNIQUE FIELD / SIZE (CM): 2-field/ L LAT, 11.6 x 14 cm; ___ 95, 11.6 x 14 cm. BEAM ENERGY: ___ MV DOSE PER FRACTION (cGy): 250 NUMBER OF FRACTIONS: 14 TOTAL TIME (DAYS): 18 (inclusive) DATES FROM-TO: ___ to ___ TOTAL DOSE (cGy): 3500
+
+TREATMENT SITE: Right Hip. TECHNIQUE FIELD / SIZE (CM): APPA/ AP 180, 18.1 x 25.5 cm; PA 0, 16.8 x 25 cm BEAM ENERGY: ___ MV DOSE PER FRACTION (cGy): 250 NUMBER OF FRACTIONS: 14 TOTAL TIME (DAYS): 18 (inclusive) DATES FROM-TO: ___ to ___ TOTAL DOSE (cGy): 3500
+
+ONCOLOGIC TREATMENT HISTORY: -C1 VD + RT as above -___: C2D1 CVD + Zometa -___: C3D1 CVD -___: C4D1 CVD -___: C5D1 CVD -___: C6D1 CVD + Zometa -___: CTX 1000 mg/m2 for stem cell mobilization
+
+We performed a repeat BM biopsy on ___ to evaluate response, which showed <5% plasma cells and normal karyotype (unlike previous complex karyotype).
+
+-___: D0 AutoSCT with melphalan conditioning (3 bags infused ___ CD34/kg = 5.11e6). Post-transplant course was complicated by febrile neutropenia (cultures negative), dysphagia, nausea/vomiting/diarrhea. She subsequently had tachycardia but V/Q scan ___ was low-probability for PE. TTE ___ was normal and unchanged.
+
+-___: Slight trend upwards in free kappa, late ___ was started prior to d100 to try to prevent disease progression.
+
+-___: Started second cycle of ___ (21 days on, 7 days off), slight fatigue
+
+-___: Increasing R hip pain over a week, plain films negative, MRI ___ showed recurrent ___ disease at previous site in pelvis and L femur at risk for fracture, admitted for pain control and to initiate XRT and velcade dex (___)
+
+-___ Bone marrow: 10% kappa restricted plasma cells wtih t(1;11)(p22;q12) which was previously reported c/w recurrence.  -___ velcade dex C1
+
+-___ completed XRT to L femur/hip/sacrum to prevent pathologic fracture
+
+-___ biopsy of R gluteal mass, poorly differentiated neoplasm, immunostains pending
+
+OTHER PAST MEDICAL HISTORY: -History of mild osteoporosis, has been on bisphosphonate for ___ years and stopped.
+
+-Recurrent right breast atypical ductal hyperplasia in ___ and in ___, s/p biopsies by Dr. ___. Was on raloxifene for ___ years (___), then saw Dr. ___ at ___ and was switched to alendronate ___, stopped 1 month ago). Has had annual mammograms since then, no further abnormalities.
+
+-Last Pap a few years ago. One abnormal Pap decades ago, thinks she had a colposcopy which was normal.
+
+-Colonoscopy ___: A single sessile 10 mm polyp of benign appearance was found in the sigmoid colon at 30cm. Path: normal mucosa.
+
+PAST SURGICAL HISTORY: -Excision of right breast ductal hyperplasia in ___ and ___. -Excision of pilonidal sinus. -Right clavicle fracture in ___.  Social History: ___ Family History: ___. Maternal aunt had breast cancer in her ___, no known genetic testing. Multiple other female relatives have not had any breast, ovarian, or GI malignancies. No known hematologic malignancies.
+
+ Physical Exam: ADMISSION PHYSICAL EXAM: GEN: NAD. pale, non-toxic. Speaking full sentences VS: 98.1 100/56 80 18 99%RA PAIN: ___ LOCATION: Right hip HEENT: PERRL, EOMI, MMM, clear oropharynx, no mucositis, good dentition. Posterior skull lesions have resolved leaving indentations. L frontal bony prominence on skull, painful to palpation. LYMPH: No supraclavicular, axillary, pre/post auricular LAD CV: S1, S2, RRR. No M/R/G PULM: Non-labored. No rales, wheezing or rhonchi. CTAB ABD: Soft, NT, ND, BS+, no HSM. EXT: WWP. No edema Skin: No rash, new bruising or breakdown MSK: Pain with palpation on R iliac crest, and pain with internal and external rotation (passive or active) at R hip, improved since yesterday. Full ROM on left leg/hip. Gait is antalgic. Strength is ___ hip flexion on R hip. PSYCH: Teary and sad about relapse disease.
+
+DISCHARGE PHYSICAL EXAM: GEN: NAD. pale, non-toxic. Speaking full sentences VS: REFER TO FLOWSHEET PAIN: ___ LOCATION: Right hip HEENT: PERRL, EOMI, MMM, clear oropharynx, no mucositis, good dentition. Posterior skull lesions have resolved leaving indentations. L frontal bony prominence on skull, painful to palpation. LYMPH: No supraclavicular, axillary, pre/post auricular LAD CV: S1, S2, RRR. No M/R/G PULM: Non-labored. No rales, wheezing or rhonchi. CTAB ABD: Soft, NT, ND, BS+, no HSM. EXT: WWP. No edema Skin: No rash, new bruising or breakdown MSK: Pain with palpation on R iliac crest, and pain with internal and external rotation (passive or active) at R hip, improved. Full ROM on left leg/hip. Gait is antalgic. Strength is ___ hip flexion on R hip. PSYCH: Teary and sad about relapse disease.  Pertinent Results: LABS:
+
+___ 07:20AM BLOOD WBC-2.5* RBC-2.92* Hgb-8.9* Hct-27.1* MCV-93 MCH-30.5 MCHC-32.8 RDW-18.6* RDWSD-61.7* Plt Ct-74* ___ 09:55AM BLOOD WBC-4.8# RBC-3.13* Hgb-9.5* Hct-29.7* MCV-95 MCH-30.4 MCHC-32.0 RDW-17.0* RDWSD-57.8* Plt ___ ___ 07:20AM BLOOD Neuts-80* Bands-0 Lymphs-5* Monos-11 Eos-2 Baso-0 Atyps-2* ___ Myelos-0 AbsNeut-2.00 AbsLymp-0.18* AbsMono-0.28 AbsEos-0.05 AbsBaso-0.00* ___ 09:55AM BLOOD Neuts-80* Bands-0 Lymphs-7* Monos-11 Eos-2 Baso-0 ___ Myelos-0 AbsNeut-3.84 AbsLymp-0.34* AbsMono-0.53 AbsEos-0.10 AbsBaso-0.00* ___ 07:20AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL Macrocy-1+ Microcy-NORMAL Polychr-NORMAL ___ 09:55AM BLOOD Hypochr-NORMAL Anisocy-NORMAL Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL ___ 07:20AM BLOOD Plt Smr-VERY LOW Plt Ct-74* ___ 09:55AM BLOOD Plt Smr-LOW Plt ___ ___ 07:20AM BLOOD Glucose-106* UreaN-11 Creat-0.3* Na-139 K-3.7 Cl-110* HCO3-25 AnGap-8 ___ 09:55AM BLOOD UreaN-17 Creat-0.4 Na-136 K-3.3 Cl-102 HCO3-25 AnGap-12 ___ 07:20AM BLOOD ALT-52* AST-23 LD(LDH)-361* AlkPhos-229* TotBili-0.2 ___ 09:55AM BLOOD ALT-43* AST-28 AlkPhos-214* TotBili-0.2 ___ 07:20AM BLOOD Albumin-2.6* Calcium-7.6* Phos-1.5* Mg-2.5 UricAcd-2.5 ___ 09:55AM BLOOD TotProt-5.3* Albumin-3.2* Globuln-2.1 Calcium-8.6 Phos-2.5* Mg-2.1 ___ 09:55AM BLOOD PEP-PND ___ Fr K/L-0.89 IgG-333* IgA-68* IgM-13*
+
+IMAGING: MRI PELVIS ___
+
+IMPRESSION:   No significant interval change compared to most recent prior study with multiple enhancing lesions seen from the pelvis, the largest within the right iliac bone and acetabulum which demonstrates complete replacement of the marrow with lesion, post treatment changes, and a large soft tissue component with extensive peritumoral edema. There is no evidence of pathologic fracture. 
+
+  Slight increase in the right hip effusion 
+
+ Brief Hospital Course: ASSESSMENT/PLAN: ___ woman with kappa anaplastic plasma cell myeloma diagnosed in ___ with extensive skull, pelvic, and hip involvement as well as trace B-J proteinuria, 30% plasma cell involvement and unfavorable cytogenetics, s/p radiation to skull and iliac masses, and Velcade/dex with significant FLC and BM response, s/p autoSCT (___) who was on maintenance lenalidomide, found to have recent relapse with bone disease and R gluteal mass, now s/p one cycle velcade/dex and recently completed XRT to the L femur/pelvis here for Cytoxan. 
+
+#Anaplastic plasma cell myeloma s/p autoSCT: D0 ___ with recent relapse of disease as noted above. -Bortezomib 2 mg SC Days 1, 4, 8 and ___, ___ and ___ mg/m2) -Dexamethasone 20 mg PO D1, 4, 8, 11 with bortezomib. Will also receive on D2 and D3 per protocol    -Cyclophosphamide 1500 mg IV Day 1. ___ mg/m2) -Antiemetics and hydration per protocol -UA stable, w/o hematuria -Continue infectious prophy -MR ___ w/o evidence of pathologic fracture but no significant interval change compared to the most recent study -Plan to follow up outpatient ___ for XRT and further management of care 
+
+#Pain: On Oxycodone 5mg q4hrs PRN for breakthrough and Oxycontin 10mg Q8hrs. However, increased oxycontin to 20mg TID ___ to better control pain. Patient was unable to tolerate XRT due to pain prior to admission. The plan is to continue with XRT in hopes that it will help control her pain better in addition to the therapy she is receiving. 
+
+#Anemia: Likely due to hemodilution, received 500ml NS bolus prior to admission in addition to NS boluses pre and post cytoxan with maintenance hydration. Transfuse if Hgb < 7 and/or symptomatic. Received 1 unit prbcs ___ as hgb trending down.
+
+#Nutrition. Low albumin and phos, slightly tachycardic on admission and has not been eating/drinking well at home. Repleting lytes PRN. Ensure TID with meals while in house and continue at home. Received 500cc bolus of NS in clinic prior to admission. 
+
+#Mood: Anxious, depressed due to relapse in disease. Continues to be very tearful and emotional. This is contributing to low appetite and a 6lb weight loss in last few months. Initiated mirtazapine on admission. Monitoring closely for serotonin syndrome
+
+#Infectious prophylaxis: - PCP: ___ - HSV/VZV: Acyclovir  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Acyclovir 400 mg PO Q8H 2. Lidocaine-Prilocaine 1 Appl TP ONCE 3. Lorazepam 0.5-1 mg PO TID PRN anxiety prior to IV placement 4. Mirtazapine 7.5 mg PO QHS 5. Omeprazole 20 mg PO DAILY 6. OxycoDONE (Immediate Release) 5 mg PO Q4H:PRN pain 7. OxyCODONE SR (OxyconTIN) 10 mg PO Q8H 8. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 9. Docusate Sodium 100 mg PO BID 10. Multivitamins 1 TAB PO DAILY 11. Ibuprofen 200 mg PO Q6H:PRN pain 12. FoLIC Acid 0.8 mg PO DAILY 13. Vitamin D3 (cholecalciferol (vitamin D3)) 1,000 unit oral DAILY 
+
+ Discharge Medications: 1. Acyclovir 400 mg PO Q8H 2. Docusate Sodium 100 mg PO BID 3. FoLIC Acid 0.8 mg PO DAILY 4. Lorazepam 0.5-1 mg PO TID PRN anxiety prior to IV placement 5. Mirtazapine 7.5 mg PO QHS 6. Multivitamins 1 TAB PO DAILY 7. Omeprazole 20 mg PO DAILY 8. OxycoDONE (Immediate Release) 5 mg PO Q4H:PRN pain 9. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 10. Vitamin D3 (cholecalciferol (vitamin D3)) 1,000 unit oral DAILY 11. Lidocaine-Prilocaine 1 Appl TP ONCE 12. OxyCODONE SR (OxyconTIN) 20 mg PO Q8H RX *oxycodone [OxyContin] 20 mg 1 tablet(s) by mouth Q8hrs Disp #*90 Tablet Refills:*0 13. Dexamethasone 20 mg PO DAILY Duration: 1 Dose Just take on ___ RX *dexamethasone 4 mg 5 tablet(s) by mouth Once Disp #*5 Tablet Refills:*0
+
+ Discharge Disposition: Home  Discharge Diagnosis: Anaplastic Plasma Cell Myeloma, s/p Cytoxan
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Mrs. ___,
+
+___ were admitted due to concern that your myeloma has relapsed. We started ___ on a new chemotherapy to help treat your myeloma in hopes that your hip pain will also improve. We did an MRI of your Pelvis and the study showed no evidence of a pathologic fracture. Overall, ___ tolerated this chemotherapy well and will be discharged today. Please take dexamethasone 20 mg on ___.
+
+___ will follow up with your outpatient provider as listed below. In addition to this, ___ also have appointments with Dr. ___ oncologist) for radiation therapy. 
+
+Please do not hesistate to contact us if ___ have any questions or concerns about your care.
+
+Sincerely, Your ___ Team  Followup Instructions: ___ 

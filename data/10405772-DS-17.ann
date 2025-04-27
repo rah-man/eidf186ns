@@ -1,0 +1,17 @@
+T1	Mobile_with_aid 497 503	walker
+A1	Type_of_aid T1 Two_sticks_or_frame
+T2	Urinary_incontinence 886 906	urinary incontinence
+A2	Negation T2
+T3	Constipation 1189 1201	constipation
+A3	Negation T3
+T4	Delirium 1737 1740	A&O
+A4	Negation T4
+T5	Vertebral_compression_fracture 2722 2724;2794 2802	L1 fracture
+A5	Negation T5
+T6	Has_carers 4040 4048	services
+T7	Has_carers 5598 5605	Service
+T8	Visual_impairment 5711 5731	macular degeneration
+T9	Urinary_incontinence 6920 6927;6934 6946	urinary incontinence
+A6	Diagnosis T9 Implicit_mention
+T10	Faecal_incontinence 6928 6946	bowel incontinence
+A7	Diagnosis T10 Implicit_mention

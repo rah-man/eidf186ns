@@ -1,0 +1,38 @@
+T1	Upper_gastrointestinal_haemorrhage 490 504	upper GI bleed
+A1	Diagnosis T1 History_of
+T2	Weight_loss 915 925	too skinny
+A2	Diagnosis T2 Suspected
+T3	Upper_gastrointestinal_haemorrhage 1041 1055	upper GI bleed
+A3	Diagnosis T3 History_of
+T4	Upper_gastrointestinal_haemorrhage 1167 1175	bleeding
+A4	Negation T4
+T5	Lower_respiratory_tract_infection 1572 1575	PNA
+A5	Negation T5
+T6	Upper_gastrointestinal_haemorrhage 2017 2034	Upper GI bleeding
+A6	Diagnosis T6 History_of
+T7	Malnutrition 2252 2261	Cachectic
+T8	Malnutrition 3039 3048	Cachectic
+T9	Lower_respiratory_tract_infection 5349 5352	PNA
+A7	Negation T9
+T10	Upper_gastrointestinal_haemorrhage 5591 5605	upper GI bleed
+A8	Diagnosis T10 History_of
+T11	Urinary_tract_infection 5674 5697	URINARY TRACT INFECTION
+T12	Lives_alone 973 985	husband died
+A9	Low_confidence T12
+T13	Malnutrition 7747 7761	poor nutrition
+T14	Mobile_with_aid 7938 7944	walker
+A10	Type_of_aid T14 Two_sticks_or_frame
+T15	Has_carers 7967 7975	services
+A11	Negation T15
+T16	Has_carers 8010 8018	services
+T17	Has_carers 8144 8156	home support
+A12	Negation T17
+T18	Upper_gastrointestinal_haemorrhage 9081 9095	UPPER GI BLEED
+A13	Diagnosis T18 History_of
+T19	Mobile_with_aid 11274 11280	walker
+A14	Type_of_aid T19 Two_sticks_or_frame
+T20	Urinary_tract_infection 11421 11444	Urinary tract infection
+T21	Delirium 11511 11544	Mental Status: Clear and coherent
+T22	Mobile_with_aid 11610 11620;11646 11649	Ambulatory aid
+T23	Mobile_with_assistance 11610 11620;11632 11642	Ambulatory assistance
+T24	Urinary_tract_infection 11868 11891	urinary tract infection

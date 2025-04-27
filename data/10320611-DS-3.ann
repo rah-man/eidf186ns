@@ -1,0 +1,11 @@
+T1	Delirium 1219 1227	oriented
+A1	Negation T1
+T2	Urinary_tract_infection 2554 2557	UTI
+T3	Urinary_tract_infection 3022 3025	UTI
+T4	Delirium 6125 6158	Mental Status: Clear and coherent
+A2	Negation T4
+T5	Independently_mobile 6224 6248	Ambulatory - Independent
+T6	Upper_gastrointestinal_haemorrhage 6738 6743;6776 6781	blood vomit
+A3	Diagnosis T6 Implicit_mention
+T7	Lower_gastrointestinal_haemorrhage 6738 6743;6792 6797	blood bowel
+A4	Diagnosis T7 Implicit_mention

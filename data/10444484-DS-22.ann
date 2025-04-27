@@ -1,0 +1,9 @@
+T1	Falls 358 362	fall
+T2	Constipation 5988 6000	Constipation
+A1	Diagnosis T2 Implicit_mention
+T3	Constipation 7520 7532	Constipation
+A2	Diagnosis T3 Implicit_mention
+T4	Delirium 7895 7928	Mental Status: Clear and coherent
+A3	Negation T4
+T5	Mobile_with_assistance 7994 8004;8016 8026	Ambulatory assistance
+T6	Mobile_with_aid 7994 8004;8030 8033	Ambulatory aid
