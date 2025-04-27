@@ -1,0 +1,56 @@
+T1	Delirium 591 594	AMS
+T2	Falls 694 699	falls
+A1	Diagnosis T2 History_of
+T4	Constipation 25017 25029	Constipation
+A3	Diagnosis T4 Implicit_mention
+T5	Delirium 21772 21786	encephalopathy
+T8	Seizures 3648 3656	Seizures
+A6	Diagnosis T8 History_of
+T9	Delirium 16237 16240	AMS
+T10	Mobile_with_aid 1447 1457	wheelchair
+A7	Type_of_aid T10 Wheelchair
+T11	Seizures 1597 1604	seizure
+A8	Negation T11
+T12	Urinary_incontinence 1637 1649	incontinence
+A9	Negation T12
+T13	Faecal_incontinence 1637 1649	incontinence
+A10	Negation T13
+T15	Urinary_tract_infection 3184 3204	urinary incontinence
+T16	Faecal_incontinence 3216 3234	bowel incontinence
+A12	Diagnosis T16 Implicit_mention
+T17	Delirium 13715 13728;13733 13741	mental status adequate
+A13	Negation T17
+T18	Urinary_tract_infection 15280 15294	pyelonephritis
+A14	Diagnosis T18 Suspected
+T19	Urinary_tract_infection 15349 15363	pyelonephritis
+A15	Diagnosis T19 Suspected
+T20	Seizures 16201 16209	seizures
+A16	Diagnosis T20 History_of
+T21	Urinary_tract_infection 16530 16544	pyelonephritis
+T22	Urinary_incontinence 16963 16975	incontinence
+T23	Urinary_tract_infection 18646 18660	pyelonephritis
+T24	Urinary_tract_infection 20737 20751	pyelonephritis
+T25	Seizures 21226 21233	seizure
+A17	Diagnosis T25 Suspected
+T26	Seizures 21265 21273	seizures
+A18	Diagnosis T26 History_of
+T27	Seizures 23094 23101	Seizure
+A19	Diagnosis T27 History_of
+T28	Urinary_tract_infection 26856 26870	Pyelonephritis
+T29	Seizures 27077 27084	Seizure
+T30	Bed_Chairbound 27215 27223	Bedbound
+T31	Urinary_tract_infection 27940 27956	kidney infection
+T32	Seizures 555 563	seizures
+A20	Diagnosis T32 History_of
+T33	Delirium 26916 26924	Delirium
+T34	Lower_gastrointestinal_haemorrhage 21898 21906	GI bleed
+A21	Low_confidence T12
+A22	Low_confidence T13
+T35	Delirium 21477 21485	Delirium
+T36	Delirium 21511 21519	delirium
+T7	Delirium 4540 4551	oriented x3
+A5	Negation T7
+T6	Delirium 5594 5600	A&O x3
+A4	Negation T6
+T3	Delirium 27116 27149	Mental Status: Clear and coherent
+A2	Negation T3

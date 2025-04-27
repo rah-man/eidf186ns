@@ -1,0 +1,20 @@
+T2	Constipation 10912 10924	constipation
+A2	Diagnosis T2 Implicit_mention
+T3	Constipation 2306 2318	constipation
+A3	Negation T3
+T4	Weight_loss 2657 2668	weight loss
+A4	Diagnosis T4 History_of
+T5	Hearing_impairment 3518 3530	Hearing loss
+A5	Diagnosis T5 History_of
+T6	Delirium 4355 4360	AAOx3
+A6	Negation T6
+T7	Lower_respiratory_tract_infection 8756 8765	pneumonia
+A7	Negation T7
+T8	Malnutrition 9869 9881	malnutrition
+T9	Constipation 11127 11139	constipation
+A8	Diagnosis T9 Implicit_mention
+T12	Lower_respiratory_tract_infection 9004 9025	respiratory infection
+T18	Has_carers 11605 11612	Service
+T10	Independently_mobile 11860 11884	Ambulatory - Independent
+T1	Delirium 11761 11794	Mental Status: Clear and coherent
+A1	Negation T1

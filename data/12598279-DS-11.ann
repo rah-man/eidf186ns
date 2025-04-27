@@ -1,0 +1,13 @@
+T1	Urinary_tract_infection 6368 6371	UTI
+T2	Delirium 6424 6442	Clear and coherent
+A1	Negation T2
+T3	Independently_mobile 6508 6532	Ambulatory - Independent
+T4	Urinary_tract_infection 6668 6691	urinary tract infection
+T5	Weight_loss 535 546	weight loss
+T6	Urinary_tract_infection 473 476	UTI
+T7	Delirium 2155 2158;2159 2162	A&O x 3
+A2	Negation T7
+T8	Urinary_tract_infection 3933 3936	UTI
+T9	Delirium 4324 4332	oriented
+A3	Negation T9
+T10	Urinary_tract_infection 234 237	UTI

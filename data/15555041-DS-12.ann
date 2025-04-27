@@ -1,0 +1,15 @@
+T3	Constipation 11852 11864	constipation
+A2	Diagnosis T3 Implicit_mention
+T4	Constipation 11659 11671	constipation
+A3	Diagnosis T4 Implicit_mention
+T5	Delirium 2897 2902	A+Ox3
+A4	Negation T5
+T10	Unspecified_cognitive_impairment 8651 8680	deficits in short term memory
+T11	Unspecified_cognitive_impairment 9207 9222	memory deficits
+T12	Unspecified_cognitive_impairment 10706 10721	memory deficits
+A9	Diagnosis T12 Implicit_mention
+T2	Independently_mobile 12696 12720	Ambulatory - Independent
+T7	Intracranial_haemorrhage 7360 7381;7443 7447	intracranial aneurysm head
+A6	Negation T7
+T1	Delirium 12597 12630	Mental Status: Clear and coherent
+T8	Has_carers 12400 12407	Service

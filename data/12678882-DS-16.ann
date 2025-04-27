@@ -1,0 +1,21 @@
+T1	Delirium 225 246	altered mental status
+T2	Has_carers 13419 13426	Service
+T3	Delirium 13512 13530	Clear and coherent
+A1	Negation T3
+T4	Independently_mobile 13596 13620	Ambulatory - Independent
+T5	Delirium 512 533	altered mental status
+T6	Upper_gastrointestinal_haemorrhage 1276 1286;1300 1309	non-bloody vomitting
+A2	Negation T6
+T7	Weight_loss 1465 1469;1475 1481	lost weight
+T8	Constipation 3520 3532	constipation
+A3	Negation T8
+T9	Dementia 3985 3993	dementia
+T10	Upper_gastrointestinal_haemorrhage 4026 4040	Upper GI bleed
+T11	Unspecified_cognitive_impairment 4916 4919	AAO
+T12	Unspecified_cognitive_impairment 6013 6016	AAO
+T13	Delirium 3271 3288;3296 3309	waxing and waning mental status
+T14	Delirium 8325 8356	waxing and waning mental status
+T15	Delirium 8545 8566	mental status changes
+T16	Delirium 9599 9613	encephalopathy
+T17	Delirium 9632 9653	altered mental status
+T18	Delirium 13886 13899;13904 13911	mental status changed

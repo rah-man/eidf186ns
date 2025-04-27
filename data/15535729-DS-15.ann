@@ -1,0 +1,11 @@
+T1	Weight_loss 1190 1201	weight loss
+T2	Constipation 1370 1382	constipation
+A1	Negation T2
+T5	Delirium 1814 1822	oriented
+A3	Negation T5
+A4	Negation T1
+T8	Dementia 2991 2995	AOx3
+A6	Negation T8
+T3	Independently_mobile 8237 8261	Ambulatory - Independent
+T4	Delirium 8138 8171	Mental Status: Clear and coherent
+A2	Negation T4

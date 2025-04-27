@@ -1,0 +1,63 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Penicillins / IV Dye, Iodine Containing Contrast Media / lactose  Attending: ___.  Chief Complaint: nausea, vomiting and diarrhea  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ with history of DM2, HTN, Grave's disease, anemia who presents with nausea, vomiting and diarrhea since ___ who presents with acute worsening of nausea, vomiting and diarrhea with dehydration over last 3 days.
+
+Per her report, she was relatively normal until ___. At that time she developed intermittent but significant nausea, vomiting and diarreha. She feels as though food gets stuck in her throat. Also, she notes a lack of taste for food. She has not been eating or drinking much because of lack of desire and nausea and vomiting. Her diarrhea, per report, is partially formed and partially loose. Multiple times per day and sometimes dark. She was evaluated by GI and had EGD, colonoscopy and MRE with evidence of some inflammation on biopsies, but no clear diagnosis. She notes that over the last ___ days her symptoms have worsened with nausea and vomiting limiting her PO intake. She feels dehydrated and lightheaded upon standing. Her diarrhea has been controlled by immodium.
+
+She presented to ___ EW and was given 3L IVF and admitted for further work up and evaluation. Currently, she feels somewhat improved but notes a new back discomfort on her right flank. No urinary symptoms.
+
+ROS: She notes recent surgery, nausea, vomiting, loss of taste, weight loss, anorexia, epigastric discomfort, globus, dark stools, diarrhea. She denies fevers, chills, chest pain, shortness of breath, blood in emesis, pancreatitis, travel history, fatty stools, dysuria, frequency, neurologic symptoms or psychiatric symptoms. Other ROS were negative. No changes in medications.  Past Medical History: Hypertension  Diabetes mellitus, type 2  Obesity  Hyperlipidemia  Sialadenitis  Grave's disease  Anxiety  Carpal tunnel syndrome  Anemia NOS  Lateral epicondylitis  Left renal cell carcinoma treated with RFA ablation ___ Adnexal cysts s/p removal 2 weeks ago  Social History: ___ Family History: Grandfather with diabetes. Brother died of renal cancer at ___ years old. Sister with breast cancer.  
+
+ Physical Exam: Admission exam: General: well appearing, obese female, no apparent distress Vitals: 97.7, 121/68, 56, 16, 100% RA, ___ right flank pain HEENT: dry MM, no lesions Neck: no LAD, low JVD Card: RR, nl rate - slighly bradycardic, ___ systolic murmur, no rubs or gallops Chest: CTAB, no crackles or wheeze Abd: soft, obese, nontender, nondistended, +BS, no masses appreciated, no rigidity, rebound or guarding, no CVA tenderness, mild tenderness over right flank (near inferior costal margin) Ext: wwp, nonpitting edema Skin: no lesions Pulses: 2+ dp bilat, 2+ radial Neuro: CN2-12 grossly intact Psych: Appropriate
+
+ Pertinent Results: ___ 02:45AM BLOOD WBC-8.3# RBC-4.23 Hgb-11.1* Hct-34.0* MCV-80* MCH-26.3* MCHC-32.7 RDW-16.3* Plt ___ ___ 02:45AM BLOOD Neuts-75.1* Lymphs-17.0* Monos-4.6 Eos-2.6 Baso-0.7 ___ 02:45AM BLOOD Glucose-75 UreaN-24* Creat-1.9* Na-138 K-4.2 Cl-102 HCO3-21* AnGap-19 ___ 02:45AM BLOOD Calcium-8.9 Phos-4.5 Mg-1.9 ___ 05:24AM BLOOD Lactate-1.1 ___ 04:20AM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-TR ___ 04:20AM URINE RBC-<1 WBC-1 Bacteri-FEW Yeast-NONE Epi-<1
+
+CXR: prelim read: The lungs are clear. No consolidation is identified to suggest aspiration. There is no pulmonary edema or pleural effusions. Cardiomediastinal and hilar contours are within normal limits. Mild eventration of the right hemidiaphragm is unchanged from prior. Mild elevation of the left hemidiaphragm is also stable. IMPRESSION: No acute cardiopulmonary process. No aspiration. 
+
+EGD ___: Normal mucosa in the esophagus. Mild erythema in the antrum compatible with mild gastritis (biopsy). Normal mucosa in the duodenum (biopsy). Otherwise normal EGD to third part of the duodenum.
+
+Colonoscopy ___: Mild erythema in the descending and ascending colon compatible with nonspecific erythema (biopsy). Normal mucosa in the colon. Internal hemorrhoids. Otherwise normal colonoscopy to cecum.
+
+Gastric biopsies ___: Chronic active gastritis with focal intestinal metaplasia and foci suggestive of poorly formed granuloma. Immunohistochemical stain for Helicobacter is negative with adequate controls. GMS stain is negative for fungal organisms. Stain for AFB is negative with adequate controls. B. Duodenal biopsies: Well formed villi are present focally. There is a focal mild increase in intraepithelial lymphocytes and neutrophils in the epithelium. The findings are not specific. C. Random colon biopsies: Very focal active cryptitis and very focal poorly formed granulomas. No diagnostic changes of chronic colitis seen.
+
+MRE: IMPRESSION: 1. Left ovarian dermoid cyst. 2.  Multiloculated ovarian cystic lesions, left greater than right, raise concern for epithelial neoplasms. Recommend pelvic MRI, preferably with contrast (requiring premedication in light of patient allergy). 3. Normal MR enterography. 4. Left renal RFA, without evidence of recurrence.
+
+We recently performed a hydrogen/methane breath test on your patient to evaluate for small intestinal bacterial overgrowth.
+
+The procedure was performed using 10g of lactulose mixed in 8 ounces of water. After ingestion of the solution, hydrogen and methane breath samples were then obtained every 15 minutes for 1.5 hours.
+
+The readings of hydrogen/methane for your patient were as follows:            hydrogen/methane Baseline:    ___ ppm 15 minutes:   ___ ppm 30 minutes:   ___ ppm 45 minutes:   ___ ppm 60 minutes:   ___ ppm 75 minutes:   ___ ppm 90 minutes:   38/00 ppm
+
+This study is suggestive of a positive result for bacterial overgrowth based on a rise of equal to or greater than 20ppm of hydrogen or methane within 90 minutes. However, transit time for lactulose through the small bowel to colon is variable and therefore false positive results can not be excluded especially in patients with late rises in hydrogen and/or methane.
+
+ Brief Hospital Course: ___ with history of DM2, HTN, HLD, Grave's disease, anemia, obesity presents with nausea, vomiting and diarrhea and found to have a positive bacterial overgrowth breath test.
+
+# Bacterial overgrowth: Pt presented with nausea, vomiting, diarrhea. Chronic in nature. Prior evaluation with GI with abnormal pathology although no clear diagnosis. Pt admitted and fluid resuscitated. Pt underwent bacterial overgrowth testing (see above) which was positive. Thus the patient was started on Rifaxamin and discharged with GI follow-up. The patients symptoms had completely resolved on the day of discharge. The patient was also instructed to change from tablet immodium to liquid immodium for better titration. 
+
+# Acute renal failure on chronic kidney disease stage III: Improved with IVF and in the setting of poor PO intake and diarrhea. Initially all BP meds (ACEi, ___, HCTZ) were held. The patient Cr improved back to baseline and her ACEi was restarted in discharge. . # Macular Pruritic Rash: Pt developed pruritis macular rash while in house on arms, legs and back. No clear precipitant. Appeared to blanch. Potentially due to the patients bed sheets. No medication precipitant was identified. Pt was given low dose hydrocortisone cream for treatment.
+
+# Anemia: Clinically stable while in house. Unclear etiology. 
+
+# HTN: Well controlled while in house
+
+# DM2: controlled, no complications noted. Held glipizide given renal function. ISS. Restarted on home meds upon discharge.
+
+# Grave's disease: presumably post treatment given levothyroxine. Check TSH.
+
+# HLD: Continue statin.
+
+# s/p rescection of cysts: follow gyn recs
+
+contact: ___ ___ ___ ___ (daughter)
+
+TRANSITIONAL ISSUES: - Direct verbal signout provided to the patients PCP on the day of discharge via phone.  Medications on Admission: Preadmissions medications listed are incomplete and require futher investigation. Information was obtained from webOMR. 1. Levothyroxine Sodium 50 mcg PO DAILY 2. Aspirin 81 mg PO DAILY 3. Atorvastatin 10 mg PO DAILY 4. GlipiZIDE 2.5 mg PO DAILY 5. Hydrochlorothiazide 25 mg PO DAILY 6. Lisinopril 40 mg PO DAILY 7. Loratadine *NF* 10 mg Oral daily 8. Simethicone 80 mg PO TID:PRN gas 9. Valsartan 160 mg PO DAILY 10. Docusate Sodium 100 mg PO BID 11. Acetaminophen ___ mg PO Q6H:PRN pain 12. OxycoDONE (Immediate Release) 5 mg PO Q4H:PRN pain 
+
+ Discharge Medications: 1. Acetaminophen ___ mg PO Q6H:PRN pain 2. Aspirin 81 mg PO DAILY 3. Atorvastatin 10 mg PO DAILY 4. Levothyroxine Sodium 50 mcg PO DAILY 5. OxycoDONE (Immediate Release) 5 mg PO Q4H:PRN pain 6. Simethicone 80 mg PO TID:PRN gas 7. GlipiZIDE 2.5 mg PO DAILY 8. Lisinopril 40 mg PO DAILY 9. Loratadine *NF* 10 mg Oral daily 10. Rifaximin 550 mg PO TID Duration: 10 Days RX *rifaximin [Xifaxan] 550 mg 1 tablet(s) by mouth three times a day Disp #*28 Tablet Refills:*0 11. Prochlorperazine 10 mg PO Q6H:PRN nausea RX *prochlorperazine maleate 10 mg 1 tablet(s) by mouth every six (6) hours Disp #*30 Tablet Refills:*0 12. Ondansetron 8 mg PO Q8H:PRN nausea RX *ondansetron 8 mg 1 tablet(s) by mouth every eight (8) hours Disp #*30 Tablet Refills:*0 13. Hydrocortisone Cream 1% 1 Appl TP TID:PRN rash, itching RX *hydrocortisone [cortisone] 1 % Apply to affected areas ___ times daily Disp #*1 Tube Refills:*0
+
+ Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis - Acute renal failure - Bacterial Overgowth - Nausea and vomiting - Diarrhea
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: You were admitted for nausea, vomiting, diarrhea and dehydration. This have been a problem over the last ___ months. You were evaluated by GI and they recommended rifaxamin for 10 days.
+
+Please keep all of your appointments as listed below.  Followup Instructions: ___ 

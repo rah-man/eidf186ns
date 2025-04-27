@@ -1,0 +1,57 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: ___  Attending: ___  Chief Complaint: Melena and BRBPR  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: Mr. ___ is a ___ man with a history of ESRD ___ diabetic nephropathy s/p failed DDRT in ___ & subsequent re-transplant with a DDRT on ___, with recent admission for a GI bleed, who presents with bright red blood per rectum.  At 8pm, he had a bowel movement where he passed brown stool mixed with bright red blood & a few small blood clots. This happened a second time shortly after. During this episode, he felt "something coming out" from his rectum that he was able to push back in. No associated chest pain, shortness of breath, dizziness, melena, abdominal pain, or syncope.  Of note, he was recently hospitalized ___, at ___ for a GI bleed. On that admission, he required a total of 4u pRBC. EGD showed esophagitis & healed ulcers; colonoscopy showed ulcerations in terminal ileum, which were biopsied and attributed to Cellcept.  In the ED, initial vitals were: 98 89 123/44 18 99% RA  Exam unremarkable  Labs notable for Hgb 7.1, down from 8.4 on ___. Repeat Hgb to 6.2  Renal was consulted and recommended GI consult & IV PPI.  Patient was given: IV Pantoprazole 40 mg  Decision was made to admit for GIB.  Vitals prior to transfer: 98.3 84 123/46 16 100% RA  On the floor, pt was in NAD. His vital signs were stable, and he denied any cp/sob/n/v/f/c. He was breathing comfortably on RA. No signs of active bleeding.  
+
+ Past Medical History: 1. Renal transplant as above. 2. Adult onset diabetes mellitus. 3. Frontal cognitive deficits. 4. History of hepatitis C, not previously treated. 5. Hypertension. 6. Sexual dysfunction. 7. Vascular dementia. 8. Anemia. 9. Prior sarcoidosis.
+
+Noted ___: ESRD ___ HTN and DM2, s/p creation of a LUE AVF in ___, s/p transplant ___ years ago  -Diabetes Mellitus Type 2, Last HgA1c 7.3% in ___  -Hypertension  -Hyperlipidemia  -Sarcoidosis with recurrent hypercalcemia when off prednisone  -UGIB, once ___ EtOH gastritis, once ___ duodenal ulcer  -Anemia, microcytic  -Hepatitis C  -Depression/Anxiety  -Osteopenia  -Hx of Migraines with photophobia  -Sexual Dysfunction  -___ renal transplant 
+
+ Social History: ___ Family History: The patient brother died of DM. His father lived until age ___, and his mother died at age ___ secondary to a poisoning. There is no family history of kidney disease.  Physical Exam: ======================== ADMISSION PHYSICAL EXAM:  ========================  Vital Signs: 98 PO 123 / 63 84 19 98 RA  General: Alert, oriented, no acute distress  HEENT: Sclera anicteric, MMM, +mild thrush, EOMI, PERRL CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi  Abdomen: well healed scar present; soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding  GU: No foley  Rectal: no visible blood, + internal hemorrhoid, does not feel thrombosed, non-tender Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Neuro: CNII-XII intact, moving all 4 extremities with purpose  Access: PIV
+
+======================== DISCHARGE PHYSICAL EXAM:  ========================  VS: 97.8 PO 138 / 73 75 18 100 RA General: Elderly gentleman in NAD, resting comfortably HEENT: Sclera anicteric, MMM, +mild thrush, EOMI, PERRL CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi  Abdomen: well healed scar present; soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding  GU: No foley  Rectal: no visible blood, + internal hemorrhoid, does not feel thrombosed, non-tender Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  Neuro: CNII-XII intact, moving all 4 extremities with purpose  Pertinent Results: =============== ADMISSION LABS =============== ___ 08:35AM BLOOD WBC-3.4* RBC-3.32* Hgb-8.4* Hct-26.4* MCV-80* MCH-25.3* MCHC-31.8* RDW-22.5* RDWSD-65.7* Plt ___ ___ 08:35AM BLOOD Neuts-49.9 ___ Monos-22.4* Eos-0.0* Baso-0.3 NRBC-0.6* Im ___ AbsNeut-1.72 AbsLymp-0.89* AbsMono-0.77 AbsEos-0.00* AbsBaso-0.01 ___ 08:35AM BLOOD Hypochr-OCCASIONAL Anisocy-1+ Poiklo-1+ Macrocy-NORMAL Microcy-OCCASIONAL Polychr-1+ Ovalocy-1+ Schisto-2+ Burr-OCCASIONAL Tear Dr-OCCASIONAL ___ 08:35AM BLOOD Plt Smr-NORMAL Plt ___ ___ 08:35AM BLOOD UreaN-16 Creat-1.0 Na-129* K-4.9 Cl-92* HCO3-27 AnGap-15 ___ 08:35AM BLOOD ALT-15 AST-27 TotBili-0.2 ___ 08:35AM BLOOD Albumin-3.3* Calcium-8.0* Phos-2.5* ___ 08:35AM BLOOD tacroFK-7.0
+
+=============== IMAGING =============== ___ ABD XR IMPRESSION:   E n d o s c o p y  capsule in the left hemi-abdomen, likely at the junction of the descending and sigmoid colon.
+
+___ CAPSULE ENDOSCOPY Summary and Recommendations Summary: 1. gastritis 2. duodenal bulb erosion 3. No blood seen in the small bowel 4. No bleeding site identified 5. Incomplete capsule examination as the capsule did not reach the cecum Recommendations: 1. Consider repeat capsule endoscopy with endoscopic placement 2. Follow up with inpatient GI team
+
+=============== DISCHARGE LABS =============== ___ 04:38AM BLOOD WBC-2.8* RBC-3.05* Hgb-7.8* Hct-24.5* MCV-80* MCH-25.6* MCHC-31.8* RDW-21.0* RDWSD-62.5* Plt ___ ___ 04:38AM BLOOD Glucose-97 UreaN-10 Creat-1.1 Na-134 K-4.6 Cl-99 HCO3-25 AnGap-15 ___ 04:38AM BLOOD Amylase-74 ___ 04:38AM BLOOD Lipase-13 ___ 04:38AM BLOOD Calcium-7.8* Phos-3.2 Mg-2.3 ___ 04:38AM BLOOD tacroFK-12.0  Brief Hospital Course: Mr. ___ is a ___ man with a history of ESRD ___ diabetic nephropathy s/p failed DDRT in ___ & subsequent re-transplant with a DDRT on ___, with recent admission for a GI bleed, who presented with bright red blood per rectum and drop in H/H. 
+
+ # ACUTE BLOOD LOSS ANEMIA secondary to #GI BLEED: Patient had a recent admission for GI bleed, with colonoscopy showing ulcerations in the terminal ileum. Discharge Hgb at that time was ~8, with a drop to 6.2 on admission. No evidence of critical ischemia or syncope. He received 2 units of PRBC on admission with an appropriate hemoglobin bump. The patient had several episodes of melena and BRBPR while admitted. He remained hemodynamically stable. Given the fact that he had an EGD and colonoscopy on his last recent admission, he underwent capsule endoscopy, which showed duodenitis and gastric erosions, with no active bleeding. The conclusion was that his bleed was likely diverticular. The pt will see colorectal surgery as an outpatient for evaluation of hemorrhoids, as they may be contributing to symptoms.
+
+ #Kidney transplant/Immunosuppression: Continued current prophylactic regimen: Tacrolimus 8mg BID, Prednisone 5mg. Switched Bactrim to atovaquone 1500 daily, as Bactrim can contribute to leukopenia. 
+
+ # Oral Candidiasis: Minimal thrush on admission exam. Continued on nystatin 5 mL QID x14 days. 
+
+ # Hypertension: Held amlodipine 5mg in setting of GIB. Restarted on discharge. 
+
+ # DM2: Continued glargine 6U at breakfast and Humalog ISS. 
+
+ # Latent Tuberculosis: Continued isoniazid ___ PO daily and pyridoxine 100mg PO  daily. 
+
+===================== TRANSITIONAL ISSUES ===================== *GIB: [] Pt should follow up with colorectal surgery as an outpatient for hemorrhoid evaluation [] Pt should follow up with GI as an outpatient 
+
+*Renal Transplant: [] Medication change: discontinued Bactrim, started atovaquone, decreased tacro to 7 mg BID  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Acetaminophen 650 mg PO Q6H:PRN Pain 2. Isoniazid ___ mg PO DAILY 3. Multivitamins 1 TAB PO DAILY 4. PredniSONE 5 mg PO DAILY 5. Pyridoxine 100 mg PO DAILY 6. Sodium Bicarbonate 650 mg PO TID 7. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 8. Tacrolimus 8 mg PO Q12H 9. Vitamin D ___ UNIT PO DAILY 10. Nystatin Oral Suspension 5 mL PO QID thrush 11. amLODIPine 5 mg PO DAILY 12. Ferrous Sulfate 325 mg PO DAILY 13. Pantoprazole 40 mg PO Q12H 14. Tamsulosin 0.4 mg PO QHS 15. Timolol Maleate 0.5% 1 DROP BOTH EYES DAILY 16. Glargine 6 Units Breakfast
+
+ Discharge Medications: 1. Atovaquone Suspension 1500 mg PO DAILY RX *atovaquone 750 mg/5 mL 1500 mg by mouth daily Refills:*0 2. Docusate Sodium 100 mg PO BID:PRN constipation RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice a day Disp #*60 Capsule Refills:*0 3. Tacrolimus 7 mg PO Q12H  4. Acetaminophen 650 mg PO Q6H:PRN Pain  5. amLODIPine 5 mg PO DAILY  6. Ferrous Sulfate 325 mg PO DAILY  7. Glargine 6 Units Breakfast 8. Isoniazid ___ mg PO DAILY  9. Multivitamins 1 TAB PO DAILY  10. Nystatin Oral Suspension 5 mL PO QID thrush  11. Pantoprazole 40 mg PO Q12H  12. PredniSONE 5 mg PO DAILY  13. Pyridoxine 100 mg PO DAILY  14. Sodium Bicarbonate 650 mg PO TID  15. Tamsulosin 0.4 mg PO QHS  16. Timolol Maleate 0.5% 1 DROP BOTH EYES DAILY  17. Vitamin D ___ UNIT PO DAILY 
+
+ Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: GI Bleed
+
+Secondary Diagnoses: renal transplant, diabetes, latent tuberculosis, hypertension, candidiasis
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr. ___, 
+
+It was a pleasure taking care of you at ___. 
+
+WHY DID YOU COME TO THE HOSPITAL? You noticed blood in your stool.
+
+WHAT HAPPENED WHILE YOU WERE HERE? - We gave you blood transfusions to keep your blood levels up. - We performed a "capsule endoscopy", which means that you swallowed a small camera so that we could search your intestines for bleeding. The results were not much different from the previous endoscope and colonoscopy that you had, and the capsule study did not show any active bleeding. It was likely a vein that bled from your known diverticulosis. There is nothing to do for this except to come back to the hospital if you have more blood in your bowel movements. You should follow up with colorectal surgery to consider having your hemorrhoids evaluated. - Medication changes: we stopped your Bactrim and started At___, because this is better for your blood counts. We decreased your Tacrolimus to 7 mg every 12 hours - Please get labs checked on ___
+
+WHAT SHOULD YOU DO WHEN YOU LEAVE THE HOSPITAL? - As always, it is important that you continue to take your medications as directed, and follow up with all of your doctors. 
+
+ Again, it was a pleasure taking care of you!
+
+Best,
+
+Your ___ Team  Followup Instructions: ___ 

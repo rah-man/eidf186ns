@@ -1,0 +1,24 @@
+T1	Vertebral_compression_fracture 686 688;692 694	L2 fx
+T2	Delirium 2749 2753	AOx3
+A1	Negation T2
+T3	Lower_respiratory_tract_infection 32376 32385	Pneumonia
+A2	Diagnosis T3 Implicit_mention
+T6	Mobile_with_aid 30925 30935	wheelchair
+A4	Type_of_aid T6 Wheelchair
+T7	Urinary_tract_infection 28926 28929	UTI
+T8	Delirium 1087 1092	A&Ox4
+A5	Negation T8
+T11	Lower_respiratory_tract_infection 20956 20965	pneumonia
+A8	Negation T11
+T12	Urinary_tract_infection 23595 23598	UTI
+T13	Upper_gastrointestinal_haemorrhage 33937 33942;33946 33956;33975 33980;33991 34006	blood dark/black vomit bowel movement.
+A9	Diagnosis T13 Implicit_mention
+T14	Intracranial_haemorrhage 11067 11079;11129 11139	intracranial dissection
+A10	Negation T14
+T5	Mobile_with_assistance 30886 30912	Out of Bed with assistance
+T15	Constipation 32911 32923	constipation
+A11	Diagnosis T15 Implicit_mention
+T9	Wrist_fracture 17591 17599;17622 17628;17632 17636	fracture radius ulna
+A6	Negation T9
+T4	Delirium 30787 30820	Mental Status: Clear and coherent
+A3	Negation T4

@@ -1,0 +1,15 @@
+T1	Delirium 1488 1492	AOx3
+A1	Negation T1
+T2	Delirium 1878 1883	A&Ox3
+A2	Negation T2
+T3	Delirium 7314 7332	Clear and coherent
+A3	Negation T3
+T4	Independently_mobile 7398 7422	Ambulatory - Independent
+T5	Weight_loss 873 884	weight loss
+A4	Negation T5
+T6	Has_carers 6977 6984	Service
+T7	Visual_impairment 1326 1335	cataracts
+T8	Visual_impairment 7266 7275	Cataracts
+A5	Diagnosis T8 History_of
+T9	Lower_respiratory_tract_infection 4291 4300	pneumonia
+A6	Diagnosis T9 Suspected

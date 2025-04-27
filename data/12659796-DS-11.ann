@@ -1,0 +1,29 @@
+T1	Visual_impairment 593 607	visual changes
+A1	Diagnosis T1 History_of
+T2	Visual_impairment 635 640;648 663	spots field of vision
+T3	Seizures 966 974	siezures
+A2	Negation T3
+T4	Delirium 979 988	confusion
+A3	Negation T4
+T5	Constipation 1075 1087	constipation
+A4	Negation T5
+T6	Lower_gastrointestinal_haemorrhage 1133 1138;1142 1147	blood stool
+A5	Negation T6
+T7	Weight_loss 1191 1202	weight loss
+T8	Vertebral_compression_fracture 9053 9077	T12 compression fracture
+T9	Constipation 10527 10539	constipation
+A6	Diagnosis T9 Implicit_mention
+T10	Constipation 10654 10666	constipation
+T11	Delirium 2408 2416;2417 2424	oriented times 3
+T12	Hearing_impairment 2902 2919	hearing is intact
+A7	Negation T12
+T13	Visual_impairment 2729 2742;2747 2751	Visual fields full
+A8	Negation T13
+T14	Vertebral_compression_fracture 8371 8391;8395 8397;8402 8404	compression fracture L1 L4
+T15	Delirium 2449 2458	confusion
+A9	Negation T15
+T16	Intracranial_haemorrhage 6037 6047;6073 6082	hemorrhage occipital
+A10	Diagnosis T16 Suspected
+A11	Low_confidence T16
+T17	Visual_impairment 10127 10142	visual symptoms
+A12	Negation T17

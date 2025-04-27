@@ -1,0 +1,28 @@
+T1	Delirium 243 252	Confusion
+T2	Dementia 352 360	dementia
+T3	Delirium 590 611	altered mental status
+T4	Lower_respiratory_tract_infection 549 553	HCAP
+T6	Delirium 1101 1108	orientd
+A1	Negation T6
+T8	Delirium 3199 3220	Altered mental status
+T9	Delirium 3257 3266	confusion
+T11	Delirium 3421 3441	mental status change
+A4	Diagnosis T11 Implicit_mention
+T12	Lower_respiratory_tract_infection 3521 3525	HCAP
+A5	Diagnosis T12 Suspected
+T13	Lower_respiratory_tract_infection 3591 3595	HCAP
+T14	Dementia 3733 3741	Dementia
+T16	Dementia 5399 5407	dementia
+T19	Mobile_with_aid 5568 5571	aid
+A6	Type_of_aid T19 Two_sticks_or_frame
+T20	Delirium 5722 5731	confusion
+T21	Delirium 2623 2631	oriented
+A7	Negation T21
+A8	In-hospital_event T4
+A2	In-hospital_event T12
+A9	In-hospital_event T13
+T5	Delirium 5347 5368	Altered Mental Status
+T7	Mobile_with_assistance 5532 5564	Ambulatory - requires assistance
+T10	Delirium 3311 3317	AO x 3
+A3	Negation T10
+T15	Delirium 5431 5454	Mental Status: Confused

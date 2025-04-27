@@ -1,0 +1,5 @@
+T1	Delirium 11790 11811	altered mental status
+T2	Upper_gastrointestinal_haemorrhage 1394 1411	non-bloody emesis
+A1	Negation T2
+T3	Mobile_with_assistance 1449 1456	carried
+T4	Malnutrition 3621 3630	cachectic

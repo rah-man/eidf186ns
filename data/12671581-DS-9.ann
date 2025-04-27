@@ -1,0 +1,45 @@
+T1	Dementia 364 372	dementia
+A1	Diagnosis T1 History_of
+T2	Dementia 529 540	disoriented
+T3	Falls 1074 1080	fallen
+A2	Diagnosis T3 Implicit_mention
+T4	Unspecified_cognitive_impairment 1175 1188	oriented x1-2
+T5	Constipation 1371 1383	constipation
+A3	Negation T5
+T6	Urinary_incontinence 1397 1417	urinary incontinence
+T7	Faecal_incontinence 1455 1473	fecal incontinence
+T8	Visual_impairment 2018 2032	vision changes
+A4	Negation T8
+T9	Constipation 2143 2155	constipation
+A5	Negation T9
+T10	Upper_gastrointestinal_haemorrhage 2164 2170	melena
+A6	Negation T10
+T11	Lower_gastrointestinal_haemorrhage 2172 2184	hematochezia
+A7	Negation T11
+T12	Dementia 2331 2339	Dementia
+A8	Diagnosis T12 History_of
+T13	Dementia 2517 2528	disoriented
+T14	Unspecified_cognitive_impairment 3223 3231;3232 3234	oriented x1
+T15	Vertebral_compression_fracture 4322 4337	spine fracture.
+A9	Negation T15
+T16	Intracranial_haemorrhage 4450 4457;4483 4495	CT Head intracranial
+A10	Negation T16
+T17	Dementia 4685 4693	dementia
+T18	Falls 4783 4787	fall
+T19	Has_carers 6044 6051	Service
+T20	Delirium 6158 6166	Confused
+T21	Mobile_with_assistance 6241 6273	Ambulatory - requires assistance
+T22	Mobile_with_aid 6277 6280	aid
+A11	Type_of_aid T22 Two_sticks_or_frame
+T23	Lower_gastrointestinal_haemorrhage 2157 2162	BRBPR
+A12	Negation T23
+T24	Has_carers 6705 6715	assistance
+T25	Mobile_with_assistance 746 756	assistance
+T26	Lives_alone 600 618	lives with her son
+A13	Negation T26
+T27	Mobile_with_assistance 786 798	assisted her
+T28	Unspecified_cognitive_impairment 1813 1821;1822 1824	oriented x1
+T29	Mobile_with_assistance 5140 5150	assistance
+T30	Dementia 5439 5447	Dementia
+A14	Diagnosis T6 History_of
+A15	Diagnosis T7 History_of

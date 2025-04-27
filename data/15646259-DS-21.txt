@@ -1,0 +1,149 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Penicillins / Lamictal / Bactrim / Levaquin  Attending: ___.  Chief Complaint: weakness  Major Surgical or Invasive Procedure: Anterior cervical discectomy and fusion (ACDF) c3-c6 - ___ Perc G tube placement ___
+
+ History of Present Illness: Mr. ___ is a ___ y/o male with a history of severe cervical stenosis s/p C3-C7 posterior cervical laminectomy/fusion (___), ESRD s/p renal transplant (___), HTN, DM, seizures, and OSA who presents with AMS and weakness. 
+
+The patient has a history of progressive gait ataxia, leg stiffness, and recurrent falls, which ultimately led to a C1 and C3 fracture. He then had an MRI showing severe cervical stenosis from C3-C7. He was admitted to ___ from ___ for C3-C7 laminectomy/fusion. His post-op course was complicated by upper extremity paresis with work up revealing a large seroma with abnormal cord signal at C5-C7. ___ was consulted and drained one of the two fluid collections with improvement in his symptoms. 
+
+He was discharged to rehab, where his strength remained stable. Notably his wife reports he was able to use his right arm moderately well, minimal use of his left arm, and moderate BLE strength, able to walk a few steps. He was at his baseline until yesterday when his wife checked on him in the afternoon and found him slouched over in a wheelchair with his chin to his chest, without his C-collar in place. She reports he had minimal responsiveness for ___ minutes. He reportedly had no seizure-like activity, tongue biting or incontinence but it took a while for him to come to. He was also cold and was foaming at the mouth per his wife. 
+
+EMS was called and he was transferred to ___, where he was found to be hemodynamically stable. Labs were notable for WBC 8, Cr 2, and CT head showed no acute intracranial process. CT C-spine revealed severe disc space narrowing at C3-C4, moderate to severe disc space narrowing at C4-C5, and moderate disc space narrowing at C5-C6 and C6-C7. He was transferred to ___ for further management. 
+
+In the ED, initial vitals: Temp 97.7F BP 118/55 HR 73 RR 16 98% on RA
+
+Exam: C-collar in place, rigid RUE with PROM, smooth movement with PROM, ___ strength throughout BLE, normal sensation, no rectal tone  Labs were significant for: K 5.5 -> 4.3, Cr 2.0, AG 20, trop 0.05->0.06, CK 489, serum/urine tox negative, UA negative 
+
+Imaging showed: - MRI spine showed cord or cauda equina compression at multiple levels, most severe at C5-C6
+
+In the ED, pt received: ___ 01:18 IV LORazepam 1 mg  ___ 01:48 IV LORazepam .5 mg ___ 06:37 IVF NS 1000 mL  ___ 08:52 PO Tacrolimus 1.5 mg  ___ 12:07 IVF NS ___ Started 250 mL/hr x 1 liter
+
+Consults: - Neurology: recommended ortho spine consult and bladder scans - Spine surgery: maintain hard collar, foley catheter, NPO, possible OR today, admission to medicine - Renal: give IV fluid for ___ 
+
+Vitals prior to transfer: Temp 98.1F BP 132/53 HR 71 RR 13 100% on RA
+
+On the floor, the patient reports diffuse weakness, most prominent over his upper extremities. He also reports neck pain and recent urinary incontinence, unsure of bowel incontinence. He is unsure of the events that occurred yesterday. He notes that he typically wears his c-collar any time he is not sleeping. He denies any recent fever, chills, abdominal pain, nausea, or vomiting. Of note, the patient's wife reports that he has had progressive weakness over the last several days. 
+
+ Past Medical History: - Kidney transplant in ___, last Cr 1.5-1.6  - DM type 2, insulin dependent  - HTN  - Seizures  - Spinal Cord Compression s/p C3-C7 posterior cervical laminectomy/fusion (___) - Sleep Apnea (does not tolerate CPAP)  - Chronic Right Shoulder Pain  - Asthma  - Depressive Disorder in remission.  - GERD  - RLS   Social History: ___ Family History: Non-contributory  Physical Exam: ADMISSION PHYSICAL EXAM: ======================== VS: Temp 98.6 BP 144/65 HR 76 RR 18 98% on RA  GEN: Ill appearing male in NAD. Lying comfortably in bed. HEENT: NC/AT. Anicteric sclerae, no conjunctival pallor. Dry MMM with cracked lips. Poor dentition.  NECK: C-collar in place. CV: RRR with normal S1 and S2. No murmurs, rubs or gallops. PULM: Normal respiratory effort. CTAB without wheezes, rales or rhonchi over the anterior chest. ABD: Soft, non-tender, non-distended. Normoactive BS. No guarding or masses. EXTREM: Warm, well-perfused, no edema or erythema. 2+ DP pulses. 
+
+NEURO: Alert and oriented x3. Able to do days of the week backwards. CN II-XII intact. ___ strength in BUE. Rigidity in RUE, flaccid movement in LUE. Able to move fingers, unable to squeeze. ___ strength in BLE. Normal sensation throughout. 
+
+DISCHARGE PHYSICAL EXAM: ======================== 97.6 PO 144 / 62 R Lying 67 18 97 Ra GEN: Chronically ill appearing male. NAD. Lying in bed with dobhoff in place. HEENT: NC/AT. Anicteric sclerae, no conjunctival pallor. Dry MMM with cracked lips. Poor dentition. Dobhoff in place in right nare. NECK: No JVP elevation. Below level of clavicle at 60 degrees. CV: RRR with normal S1 and S2. No murmurs, rubs or gallops. PULM: Normal respiratory effort. CTAB without wheezes, rales or rhonchi over the anterior chest. ABD: Soft, mildly distended. nontender to palpation Normoactive BS. No guarding or masses. G-tube without bleeding or tenderness to palpation. Incision c/d/i. EXTREM: Warm, well-perfused, no edema or erythema. NEURO: Grossly oriented and answering questions appropriately. Moves b/l lower extremity to command. A&O x3.
+
+ Pertinent Results: ADMISSION LABS: ================ ___ 02:18AM BLOOD WBC-7.9 RBC-3.37* Hgb-11.1* Hct-32.4* MCV-96 MCH-32.9* MCHC-34.3 RDW-12.5 RDWSD-44.5 Plt ___ ___ 02:18AM BLOOD Neuts-64.4 ___ Monos-6.4 Eos-0.8* Baso-0.3 Im ___ AbsNeut-5.07 AbsLymp-2.14 AbsMono-0.50 AbsEos-0.06 AbsBaso-0.02 ___ 12:05AM BLOOD Glucose-91 UreaN-46* Creat-2.0* Na-146 K-5.5* Cl-113* HCO3-13* AnGap-20* ___ 12:05AM BLOOD ALT-14 AST-28 CK(CPK)-489* AlkPhos-92 TotBili-0.4 ___ 12:05AM BLOOD CK-MB-14* MB Indx-2.9 cTropnT-0.05*
+
+PERTINENT LABS: =============== ___ 12:05AM BLOOD Glucose-91 UreaN-46* Creat-2.0* Na-146 K-5.5* Cl-113* HCO3-13* AnGap-20* ___ 01:51AM BLOOD Glucose-113* UreaN-35* Creat-1.4* Na-145 K-5.0 Cl-116* HCO3-16* AnGap-13 ___ 08:10AM BLOOD Glucose-298* UreaN-25* Creat-1.2 Na-139 K-5.5* Cl-105 HCO3-19* AnGap-15
+
+___ 12:05AM BLOOD ALT-14 AST-28 CK(CPK)-489* AlkPhos-92 TotBili-0.4 ___ 06:38AM BLOOD CK(CPK)-399* ___ 12:10PM BLOOD CK(CPK)-318 ___ 08:10AM BLOOD CK(CPK)-115
+
+___ 12:05AM BLOOD CK-MB-14* MB Indx-2.9 cTropnT-0.05* ___ 06:38AM BLOOD cTropnT-0.06*
+
+___ 12:05AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Tricycl-NEG
+
+___ 08:40AM BLOOD tacroFK-15.0 ___ 08:10AM BLOOD tacroFK-17.1 ___ 07:23AM BLOOD tacroFK-8.0 ___ 07:38AM BLOOD tacroFK-5.9 ___ 06:13AM BLOOD tacroFK-6.7 ___ 09:21AM BLOOD tacroFK-4.5
+
+___ 07:15AM BLOOD Ret Aut-1.4 Abs Ret-0.04 ___ 07:10AM BLOOD Ret Aut-3.7* Abs Ret-0.10 ___ 06:29AM BLOOD ___ ___ 06:29AM BLOOD Glucose-195* UreaN-20 Creat-1.5* Na-137 K-4.1 Cl-102 HCO3-18* AnGap-17 ___ 09:55AM BLOOD Glucose-220* UreaN-23* Creat-1.6* Na-135 K-4.4 Cl-102 HCO3-15* AnGap-18 ___ 05:00AM BLOOD Glucose-176* UreaN-30* Creat-1.5* Na-138 K-4.0 Cl-106 HCO3-20* AnGap-12 ___ 07:34AM BLOOD Glucose-230* UreaN-30* Creat-1.2 Na-138 K-3.9 Cl-103 HCO3-20* AnGap-15 ___ 06:29AM BLOOD ALT-7 AST-16 LD(LDH)-267* AlkPhos-128 TotBili-0.2 ___ 09:55AM BLOOD Hapto-237* ___ 07:15AM BLOOD calTIBC-172* Hapto-281* Ferritn-186 TRF-132* ___ 07:33AM BLOOD VitB12-1113* Folate-10 ___ 04:05PM BLOOD CMV VL-DETECTED  ___ 07:40AM BLOOD CMV VL-DETECTED 
+
+___ 12:33PM URINE Blood-SM* Nitrite-POS* Protein-30* Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-LG* ___ 09:55AM URINE Blood-MOD* Nitrite-NEG Protein-30* Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG* ___ 01:00PM URINE Blood-MOD* Nitrite-NEG Protein-30* Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-LG* ___ 12:33PM URINE RBC-4* WBC-90* Bacteri-MOD* Yeast-NONE Epi-0 ___ 09:55AM URINE RBC-4* WBC-47* Bacteri-FEW* Yeast-NONE Epi-0 ___ 01:00PM URINE RBC-8* WBC-103* Bacteri-FEW* Yeast-NONE Epi-0
+
+  ___ 12:02 pm STOOL   CONSISTENCY: NOT APPLICABLE    Source: Stool. 
+
+              **FINAL REPORT ___
+
+  C. difficile PCR (Final ___:    Reported to and read back by ___ ___ 2:20PM.    POSITIVE.       (Reference Range-Negative).      The C. difficile PCR is highly sensitive for toxigenic strains of     C. difficile and detects both C. difficile infection (CDI) and     asymptomatic carriage. Therefore, positive C. diff PCR tests     trigger reflex C. difficile toxin testing, which is highly     specific for CDI. 
+
+  C. difficile Toxin antigen assay (Final ___:    POSITIVE.       (Reference Range-Negative).  PERFORMED BY ___.      This result indicates a high likelihood of C. difficile infection     (CDI). 
+
+___ 3:27 pm BLOOD CULTURE
+
+              **FINAL REPORT ___
+
+  Blood Culture, Routine (Final ___:    ESCHERICHIA COLI.      Identification and susceptibility testing performed on culture #      ___ (___).    ESCHERICHIA COLI.  ___ MORPHOLOGY.      Identification and susceptibility testing performed on culture #      ___ ___. 
+
+  Anaerobic Bottle Gram Stain (Final ___:  GRAM NEGATIVE ROD(S). 
+
+___ 12:33 pm URINE   Source: ___. 
+
+              **FINAL REPORT ___
+
+  URINE CULTURE (Final ___:    ESCHERICHIA COLI.  >100,000 CFU/mL.      Cefazolin interpretative criteria are based on a dosage regimen of     2g every 8h. 
+
+               SENSITIVITIES: MIC expressed in MCG/ML            _________________________________________________________               ESCHERICHIA COLI               |  AMPICILLIN------------  <=2 S AMPICILLIN/SULBACTAM--  <=2 S CEFAZOLIN-------------  <=4 S CEFEPIME--------------  <=1 S CEFTAZIDIME-----------  <=1 S CEFTRIAXONE-----------  <=1 S CIPROFLOXACIN---------  =>4 R GENTAMICIN------------  <=1 S MEROPENEM-------------<=0.25 S NITROFURANTOIN-------- <=16 S PIPERACILLIN/TAZO-----  <=4 S TOBRAMYCIN------------  <=1 S TRIMETHOPRIM/SULFA---- =>16 R
+
+___ 11:00 am BLOOD CULTURE
+
+              **FINAL REPORT ___
+
+  Blood Culture, Routine (Final ___:    ESCHERICHIA COLI.  FINAL SENSITIVITIES.      Cefazolin interpretative criteria are based on a dosage regimen of     2g every 8h.    ESCHERICHIA COLI.  ___ MORPHOLOGY. FINAL SENSITIVITIES. 
+
+     Cefazolin interpretative criteria are based on a dosage regimen of     2g every 8h. 
+
+               SENSITIVITIES: MIC expressed in MCG/ML            _________________________________________________________               ESCHERICHIA COLI               |     ESCHERICHIA COLI               |     |  AMPICILLIN------------  <=2 S   <=2 S AMPICILLIN/SULBACTAM--  <=2 S   <=2 S CEFAZOLIN-------------  <=4 S   <=4 S CEFEPIME--------------  <=1 S   <=1 S CEFTAZIDIME-----------  <=1 S   <=1 S CEFTRIAXONE-----------  <=1 S   <=1 S CIPROFLOXACIN---------  =>4 R   =>4 R GENTAMICIN------------  <=1 S   <=1 S MEROPENEM-------------<=0.25 S  <=0.25 S PIPERACILLIN/TAZO-----  <=4 S   <=4 S TOBRAMYCIN------------  <=1 S   <=1 S TRIMETHOPRIM/SULFA---- =>16 R   <=1 S
+
+PERTINENT IMAGING: ================== ___ MRI C-spine: 1. Examination is moderately degraded by motion. 2. Postsurgical changes of laminectomies from C3-T1 with marked decrease in previously noted fluid collection at the surgical site. 3. Mild anterolisthesis of C3 on C4 and minimal anterolisthesis of C4 on C5 and C5 on C6, progressed compared to prior exam. 4. Multilevel posterior disc protrusions and moderate to severe spinal canal narrowing from C3-C4 through C5-C6, most severe at C5-C6 with indentation of the spinal cord and mild persistent spinal cord edema, improved from prior exam. 5. Unchanged transverse odontoid fracture at the base with distraction and posterior angulation of the odontoid process. 6. No significant spinal canal narrowing in the thoracic and lumbar spine. 7. Postsurgical changes of bilateral laminectomies at L3 and L4. 
+
+8. L3-4 disc protrusion with inferiorly migrated fragment compressing the right L4 nerve root. 9. Moderate to severe multilevel neural foraminal narrowing in the lumbar spine on the right at L3-L4 and bilaterally at L4-L5 and L5-S1. 
+
+___ C-spine single view: Status post anterior C3 through C6 cervical fusion.
+
+___ MRI C-spine w/o Contrast: 1. Status post new ACDF of C3-C6. 2. Central cord edema from C4-C7, difficult to compare with motion degraded exam from ___, may be mildly worsened at C5-C6, with suggestion of mild cord expansion. 3. Moderate to severe central canal narrowing C5-C6 level, mildly improved. 4. Moderate central canal narrowing C3-C4, C4-C5 level, mildly improved. 5. Multilevel foraminal narrowing. 6. Odontoid fracture, stable. 7. Multilevel anterolisthesis, stable. 
+
+___ Imaging PERC G/G-J TUBE PLMT FINDINGS:   1. Successful placement of a 18 ___ mic gastrostomy tube. 
+
+___ Imaging VIDEO OROPHARYNGEAL SWA FINDINGS:   There is aspiration with thin and nectar thick liquids.   IMPRESSION:   Aspiration with thin and nectar thick liquids. Mr. ___ presents with severe oropharyngeal dysphagia based on today's video swallow study, most notable for reduced oral control/containment, swallow delay, decreased hyolaryngeal movement, impaired pharyngeal bolus propulsion, and reduced laryngeal vestibular closure. There was silent aspiration of thin and nectar-thick liquids as well as deep penetration with pudding. There were no swallowing strategies that significantly decreased risk of aspiration. It is unclear at this time how much of pt's current swallow function is consistent with baseline vs. acutely worsened function s/p cervical ACDF on ___. Of note, the patient's mental status was adequate and appropriate during today's study.
+
+At this time, there is no safe diet without high risk of aspiration. As such, recommend NPO status at this time to optimize safety. Strongly recommend consideration of long-term alternative means of nutrition/hydration/medication if within GOC. Continue with short-term NGT pending this decision.
+
+Pt would benefit from ongoing swallowing tx here, as able, and at rehab. In therapy sessions, ___ may provide therapeutic PO of ___ tsp of nectar-thick liquids with use of supraglottic swallow strategy. Recommend consideration of repeat video swallow study in ___ weeks per ___ discretion based on progress in therapy. Given unclear chronicity of pt's dysphagia, prognosis for recovery of swallowing function is not entirely clear at this time; however, given that pt's recent ACDF is suspected to have worsened pt's swallow function, there is certainly a possibility that pt's swallowing function can improve with increased distance from this surgery.
+
+Our service will continue to follow for ongoing dysphagia management as able. Please page ___ for questions/concerns.
+
+___BD & PELVIS W/O CON 1. No convincing evidence of intra-abdominal infectious process within the limitations of a noncontrast study. 2. Status post bilateral lower quadrant renal transplant with mild fullness of the left lower quadrant collecting system without frank hydronephrosis.  Fluid, stranding and fascial thickening in the left lower abdomen in the region of the left pelvic transplant raises the possibility of acute pyelonephritis given the positive urinalysis. Evaluation however for pyelonephritis is not possible on noncontrast imaging. 3. Small bilateral pleural effusions. 
+
+___ Imaging RENAL TRANSPLANT U.S.  Renal transplant without evidence of hydronephrosis or obstruction. Abnormal main renal artery waveform with good systolic flow but there is high resistance throughout the kidney. RI = 1. 
+
+DISCHARGE LABS: =============== ___ 07:28AM BLOOD WBC-6.3 RBC-2.51* Hgb-7.9* Hct-24.5* MCV-98 MCH-31.5 MCHC-32.2 RDW-13.7 RDWSD-46.2 Plt ___ ___ 07:10AM BLOOD ___ PTT-30.6 ___ ___ 07:28AM BLOOD Glucose-140* UreaN-23* Creat-0.9 Na-143 K-4.0 Cl-108 HCO3-21* AnGap-14 ___ 07:28AM BLOOD Calcium-8.3* Phos-2.9 Mg-2.0 ___ 08:30AM BLOOD tacroFK-5.5  Brief Hospital Course: Mr. ___ is a ___ y/o male with a history of severe cervical stenosis s/p C3-C7 posterior cervical laminectomy/fusion (___), ESRD s/p renal transplant (___), HTN, DM, seizures, and OSA who presents with AMS and weakness, found to have a severe cervical cord compression. He underwent urgent ACDF of C3-C6 on ___. He had persistent weakness that improved slightly during the hospitalization. Hospital course was complicated by dysphagia s/p G-tube insertion, urinary retention, E coli bacteremia, pyelonephritis, ___, C diff colitis, anemia, and delirium. 
+
+ACUTE ISSUES ADDRESSED ======================== #Cervical cord compression, worst at C5-C6 #Cervical stenosis s/p C3-C7 cervical laminectomy & fusion #S/p ACDF C3-C6 Patient was found slumped over, unconsciousness without his neck brace on while at rehab. After regarding consciousness, he had acute on chronic weakness, particularly over the BUE that was associated with incontinence. He had significant diffuse weakness with minimal movement of his fingers and ___ strength over his BLE. He was placed in a hard collar with logroll precautions. MRI spine showed multilevel posterior disc protrusions and moderate to severe spinal canal narrowing from C3-C4 through C5-C6, most severe at C5-C6 with indentation of the spinal cord. He underwent urgent ACDF without issues. Repeat MRI done due to persistent weakness showed post-surgical changes without worsening cord compression or fluid collections. Ortho spine felt there was no need for dexamethasone. He worked with ___ who recommended d/c with continued rehabilitation. He should follow up with Dr. ___ in 2 weeks after discharge. 
+
+#Acute on chronic dysphagia Previous the procedure, the patient had a long history of coughing after eating. Following the ACDF, the patient had significant trouble swallowing, noting to have coughing fits and trouble swallowing pills. He failed multiple speech and swallow evaluations in a row including video swallow study. Etiology was initially felt to be due to post-operative edema impacting his pharyngeal swallowing, common after ACDF and generalizing improves with time. however with lack of improvement during prolonged hospital course, there may a component of worsening chronic dysphagia I/s/o cervical spine procedure. He was placed on maintenance IV fluids, given tubefeeds through NGT which was transitioned to G-tube feeds. The patient worked with speech and swallow team to improve swallowing function with plans to continue rehabilitation with goal to take things by mouth when ready with removal of G-tube.
+
+#E coli blood stream infection #E coli pyelonephritis #Septic shock: #Leukocytosis: Likely ___bdomen/pelvis findings. Blood cultures were sensitive to cefepime and CTX. He was initially treated with cefepime which was changed to ceftriaxone that was changed back for low grade fevers. He ultimately finished his course of 2 weeks antibiotics with ceftriaxone. Urine culture also grew pan-sensitive e coli. 
+
+#ESRD s/p renal transplant ___ #Pyelnephritis #Urinary retention with obstruction #CMV detectable viral load Cr was 2.0 on admission, up from a baseline between 1.4-1.7. He was given intravenous fluids and his ___ resolved. His home prednisone was continued and his tacrolimus dose was decreased from 1.5 mg BID to 0.5 mg BID due to an elevated level, then was increased to 1.0 QAM and 0.5 QPM for therapeutic goal trough level of ___. He developed ___ during admission that was multifactorial including pre-renal i/s/o infection (improved with IV fluids), pyelnephritis as noted above, and post-renal with obstruction (improved with foley catheter, stable without discontinuation and intemittent straight cath). The patient had detectable viral load on ___ and ___ without ongoing evidence of end-organ CMV infection. These levels were drawn I/s/o low grade fevers, which resolved without anti-viral medications. We would recommend f/u on this and treatment as appropriate. The patient required sodium bicarbonate to reduce acidemia likely ___ to renal function. Would recommend discontinuation PRN.
+
+#Urinary retention Developed urinary retention, likely from a component of cord compression with possible contribution from his recent surgery, hospitalization, and opioids. His home oxybutynin was held and he underwent intermittent straight catheterization. His urinary retention continued throughout the hospitalization and at discharge intermittently.
+
+#Severe C diff colitis: Patient with initial C diff colitis infection with severity category of severe given peak WBC >15k and Creatinine >= 1.5. However, determination of the patient's C diff severity is complicated by concurrent E coli bloodstream infection and pyelonephritis as described above. He was treated initially with IV metronidazole and PO vancomycin 125 QID for 14 days (___) with planned maintenance therapy for 1 week after d/c-ing other antibiotics (last day ___. His IV metronidazole was discontinued after resolution of leukocytosis after 3 days.
+
+#Syncope/AMS Patient was found to be unresponsive and slouched over in a chair without his C-collar in place. Unclear if he had true syncope. Differential included neurogenic syncope vs seizure (particularly given history of seizures) vs arrhythmia. Stroke, PE, MI, or valvular disease were felt to be unlikely. CT head was negative and EKG was without ischemia. He was monitored on telemetry without arrhythmia nor recurrent events. 
+
+#Delirium: the patient experienced delirium while in hospital likely related to toxic metabolic causes (particularly I/s/o GNR sepsis and septic shock), medication-induced with opioids. He was treatd with high-dose IV thiamine 500mg IV TID x 3d (___) in case of refeeding syndrome and Wernicke's encephalopathy. Opioid medications were discontinued.
+
+#Anemia: the patient had downtrending hgb which may be related to slow GI bleed I/s/o flexiseal and last colonoscopy on record with 5mm benign polyp in ___ vs. bone marrow suppression in acute illness. He was transfused with iron with increase in reticulocyte count. B12 and folate normal. 
+
+#DM type II, insulin dependent Patient on NPH at home. Initially, his home NPH was held given low BG and NPO status. His insulin regimen was adjusted for tubefeedings with BID dosing of glargine and sliding scale Q6H while on cycled tube feeds.
+
+#Elevated Troponin Troponin elevated to 0.05 on admission, peaked at 0.06 iso renal disease. EKG with TWI in I, otherwise unremarkable. He remained asymptomatic. Felt to be type II from acute illness. He was continued on aspirin, pravastatin, and carvedilol. 
+
+#Hyperkalemia (resolved): high K with peaked T waves in V3 and V4 more so than prior. High potassium may be related to poor renal clearance, glucerna tube feeds, and neutraphos standing that the patient was getting. He was treated with calcium gluconate, Lasix, and dext/insulin. Potassium levels improved with changing feeds from glucerna to nepro.
+
+CHRONIC CONDITIONS: =================== #Hypertension: Continued amlodipine 10 mg daily and carvedilol 6.25 mg BID # Seizure disorder: Continued zonisamide # Restless legs syndrome: Continued ropinirole # Obstructive sleep apnea: Not on CPAP # Depression/Anxiety: Continued escitalopram and quetiapine # GERD: Continued omeprazole
+
+TRANSITIONAL ISSUES: =================== [] ESRD s/p renal transplant.  [] CMV viral load detectable on ___ and ___ without starting medications. We recommend f/u CMV viral load check within ___ weeks of discharge and initiation of anti-viral medications PRN. [] Discharge creatinine: 0.9 [] Discharge tacrolimus trough 5.5 (for goal ___ on 1 mg PO QAM and 0.5 mg QPM (lowered from 1.5 mg BID) [] Acute on chronic dysphagia: continue rehabilitation work with speech and swallow team. Recommend maximizing PO intake when safe and removal of G-tube when tolerating PO safely. [] C diff colitis: patient to finish 7-day post-CTX PO vancomycin to finish C diff treatment. [] Anemia: improved retic count with IV iron transfusion x2. Would recommend f/u colonoscopy as outpatient and any other age-appropriate cancer screening. [] Acidemia: the patient had low serum bicarb with recommendation for supplementation per inpatient renal team. Recheck BMP in 1 week after discharge and management of bicarb supplementation PRN by transplant nephrology team.
+
+Greater than 30 minutes spent on complex discharge  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Acetaminophen 1000 mg PO Q8H 2. amLODIPine 10 mg PO DAILY 3. Escitalopram Oxalate 10 mg PO DAILY 4. Omeprazole 20 mg PO DAILY 5. Pravastatin 20 mg PO QPM 6. PredniSONE 5 mg PO DAILY 7. rOPINIRole 4 mg PO QHS 8. Zonisamide 200 mg PO BID 9. Oxybutynin 10 mg PO DAILY 10. LOPERamide 2 mg PO QID:PRN diarrhea 11. Sodium Bicarbonate 650 mg PO BID 12. Lidocaine 5% Patch 1 PTCH TD QPM 13. Aspirin 81 mg PO DAILY 14. QUEtiapine Fumarate 12.5 mg PO QHS:PRN insomnia, severe agitation 15. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First Line 16. Tacrolimus 1.5 mg PO Q12H 17. Bisacodyl 10 mg PO/PR DAILY 18. Carvedilol 6.25 mg PO BID 19. Breo Ellipta (fluticasone-vilanterol) 100-25 mcg/dose inhalation DAILY asthma 20. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - Moderate 21. NPH 16 Units Breakfast NPH 14 Units Dinner
+
+ Discharge Medications: 1. Ascorbic Acid ___ mg PO BID Duration: 14 Days  2. Chloraseptic Throat Spray 1 SPRY PO Q4H:PRN throat irritation  3. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID  4. Gabapentin 300 mg PO TID  5. Heparin 5000 UNIT SC BID  6. Multivitamins W/minerals 1 TAB PO DAILY  7. Vancomycin Oral Liquid ___ mg PO QID Duration: 7 Days  8. Zinc Sulfate 220 mg PO DAILY Duration: 14 Days  9. Glargine 10 Units Breakfast Glargine 10 Units Bedtime Insulin SC Sliding Scale using REG Insulin 10. rOPINIRole 2 mg PO BID  11. Tacrolimus Suspension 1 mg PO QAM  12. Tacrolimus Suspension 0.5 mg PO QPM  13. Acetaminophen 1000 mg PO Q8H  14. amLODIPine 10 mg PO DAILY  15. Aspirin 81 mg PO DAILY  16. Breo Ellipta (fluticasone-vilanterol) 100-25 mcg/dose inhalation DAILY asthma  17. Carvedilol 6.25 mg PO BID  18. Escitalopram Oxalate 10 mg PO DAILY  19. Lidocaine 5% Patch 1 PTCH TD QPM  20. Omeprazole 20 mg PO DAILY  21. Pravastatin 20 mg PO QPM  22. PredniSONE 5 mg PO DAILY  23. QUEtiapine Fumarate 12.5 mg PO QHS:PRN insomnia, severe agitation  24. Sodium Bicarbonate 650 mg PO BID  25. Zonisamide 200 mg PO BID  26. HELD- Bisacodyl 10 mg PO/PR DAILY This medication was held. Do not restart Bisacodyl until you are told to do so by your physician.
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: PRIMARY DIAGNOSES ==================== Cervical stenosis s/p C3-C7 cervical laminectomy & fusion Acute cervical cord compression s/p ACDF Dysphagia E coli blood stream infection Pyelonephritis C diff colitis ___ on Chronic kidney disease Delirium
+
+SECONDARY DIAGNOSES ==================== Syncope Diabetes mellitus type II, insulin dependent ESRD s/p renal transplant Elevated troponin Hypertension Seizure disorder  Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Bedbound.  Discharge Instructions: Dear Mr. ___, 
+
+It was a pleasure caring for you at ___ ___.
+
+Why you were admitted to the hospital: - You were found unconsciousness, and then with new significant weakness.
+
+What happened while you were here: - Imaging showed worsening compression of the spinal cord in your neck, causing weakness in all of your extremities - You had surgery on the area to remove the compression - Following the procedure, you worked with physical and occupational therapy - You were having trouble swallowing and was found to be aspirating food and liquid. You got tube feeds and medications through nasogastric tube which was transitioned to a G-tube. - You had a blood stream infection, transplanted kidney infection, and stool infection which were all treated with antibiotics. - You had a kidney injury which was treated with fluids, antibiotics, and foley insertion for urinary retention. - You were having problems with urinary retention and needed straight catherizations as needed.
+
+What you should do once you return home: - Continue taking you medications as prescribed - Please follow up at the appointments outlined below 
+
+Sincerely, Your ___ Care Team  Followup Instructions: ___ 

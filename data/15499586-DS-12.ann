@@ -1,0 +1,31 @@
+T1	Constipation 11569 11581	constipation
+A1	Diagnosis T1 Implicit_mention
+T5	Mobile_with_aid 12098 12108	wheelchair
+A3	Type_of_aid T5 Wheelchair
+T6	Delirium 12224 12245	altered mental status
+T8	Dementia 362 370	dementia
+T9	Delirium 1840 1843	A+O
+T11	Delirium 2785 2790	A&Ox3
+A6	Negation T11
+T14	Intracranial_haemorrhage 4959 4961;5028 5051	CT intracranial hemorrhage
+A10	Negation T14
+T15	Dementia 6646 6654	dementia
+A11	Diagnosis T15 History_of
+T16	Lower_respiratory_tract_infection 7373 7382	pneumonia
+A12	Negation T16
+T17	Delirium 8116 8137	altered mental status
+T18	Dementia 8162 8170	delirium
+A13	Diagnosis T18 Suspected
+T19	Dementia 8252 8260	dementia
+T20	Delirium 8266 8279	mental status
+T21	Constipation 9963 9975	constipation
+A14	Diagnosis T21 Implicit_mention
+T22	Delirium 10528 10549	altered mental status
+T23	Constipation 11131 11143	constipation
+A15	Diagnosis T23 Implicit_mention
+T24	Delirium 659 668	confusion
+T25	Lives_in_carehome 11846 11869	Extended Care  Facility
+T3	Mobile_with_assistance 12059 12094	Out of Bed with assistance to chair
+T4	Delirium 6715 6718	AMS
+T2	Delirium 11960 11993	Mental Status: Clear and coherent
+A2	Negation T2

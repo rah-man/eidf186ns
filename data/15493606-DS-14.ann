@@ -1,0 +1,23 @@
+T3	Mobile_with_aid 12786 12789	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Constipation 11692 11704	Constipation
+A3	Diagnosis T4 Implicit_mention
+T5	Constipation 11903 11915	Constipation
+A4	Diagnosis T5 Implicit_mention
+T6	Constipation 11958 11970	Constipation
+A5	Diagnosis T6 Implicit_mention
+T7	Constipation 10230 10242	Constipation
+T8	Weight_loss 974 978;982 988	lost pounds
+A6	Diagnosis T8 History_of
+T10	Delirium 3318 3326	oriented
+A8	Negation T10
+T11	Malnutrition 9841 9852;9860 9864	nutritional poor
+A9	Diagnosis T11 Suspected
+T2	Mobile_with_assistance 12750 12782	Ambulatory - requires assistance
+T9	Malnutrition 12616 12628	malnutrition
+T12	Visual_impairment 2482 2491	cataracts
+A7	Diagnosis T12 History_of
+T13	Visual_impairment 2502 2510	cataract
+A10	Diagnosis T13 History_of
+T1	Delirium 12651 12684	Mental Status: Clear and coherent
+A1	Negation T1

@@ -1,0 +1,40 @@
+T1	Constipation 10139 10151	constipation
+A1	Diagnosis T1 Implicit_mention
+T4	Mobile_with_aid 8306 8309	aid
+A3	Type_of_aid T4 Two_sticks_or_frame
+T5	Lower_gastrointestinal_haemorrhage 1651 1656;1667 1672	stool blood
+A4	Negation T5
+T6	Visual_impairment 3125 3145	macular degeneration
+T7	Delirium 3409 3413	AOx3
+A5	Negation T7
+T8	Delirium 3606 3614	oriented
+A6	Negation T8
+T9	Mobile_with_assistance 6081 6091	assistance
+T10	Lower_gastrointestinal_haemorrhage 9378 9383;9416 9420;9436 9441	stool dark blood
+A7	Diagnosis T10 Implicit_mention
+T11	Lower_gastrointestinal_haemorrhage 9378 9383	stool
+A8	Diagnosis T11 Implicit_mention
+T12	Falls 1483 1487	fall
+T13	Lower_gastrointestinal_haemorrhage 546 551;583 593	colon blood loss
+T16	Lower_respiratory_tract_infection 6625 6634	Pneumonia
+A9	Negation T16
+T17	Constipation 9353 9365	constipation
+A10	Diagnosis T17 Implicit_mention
+T19	Constipation 9743 9755	constipation
+A12	Diagnosis T19 Implicit_mention
+T20	Lower_gastrointestinal_haemorrhage 4549 4554;4586 4596	colon blood loss
+T21	Lower_gastrointestinal_haemorrhage 5010 5015;5031 5036	bleed COLON
+T22	Lower_gastrointestinal_haemorrhage 8457 8471	bleeding colon
+T18	Lower_gastrointestinal_haemorrhage 9500 9537;9554 9559	bright red blood with bowel movements stool
+T14	Lower_gastrointestinal_haemorrhage 8090 8098;8112 8117	Bleeding colon
+A11	In-hospital_event T16
+T3	Mobile_with_assistance 8270 8302	Ambulatory - requires assistance
+T15	Visual_impairment 2868 2876	Glaucoma
+T23	Visual_impairment 3087 3098	poor vision
+T25	Urinary_tract_infection 6377 6380	UTI
+A13	Negation T25
+T26	Lower_gastrointestinal_haemorrhage 856 861;934 939	cecal bleed
+T24	Has_carers 6853 6861	services
+A14	Negation T24
+T2	Delirium 8171 8204	Mental Status: Clear and coherent
+A2	Negation T2

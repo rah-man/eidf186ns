@@ -1,0 +1,55 @@
+T1	Lower_gastrointestinal_haemorrhage 565 570	BRBPR
+T2	Urinary_tract_infection 10912 10915	UTI
+T3	Vertebral_compression_fracture 6870 6872;6875 6880;6907 6915;6930 6935	CT SPINE fracture spine
+A1	Negation T3
+T4	Falls 9843 9848	Falls
+T5	Falls 10168 10173	falls
+A2	Diagnosis T5 History_of
+T6	Vertebral_compression_fracture 11672 11684	T11 fracture
+T9	Mobile_with_aid 16065 16068	aid
+A4	Type_of_aid T9 Two_sticks_or_frame
+T10	Vertebral_compression_fracture 16224 16232;16241 16245	fracture back
+T11	Urinary_tract_infection 16482 16505	urinary tract infection
+T13	Falls 849 853	fall
+A5	Diagnosis T13 History_of
+T14	Lower_gastrointestinal_haemorrhage 1593 1598	BRBPR
+A6	Diagnosis T14 Suspected
+T15	Lower_gastrointestinal_haemorrhage 1644 1656	hematochezia
+A7	Negation T15
+T16	Lower_gastrointestinal_haemorrhage 1722 1731;1739 1744	red blood stool
+A8	Diagnosis T16 Suspected
+T17	Vertebral_compression_fracture 1981 1984;2010 2018	T12 fracture
+T18	Urinary_tract_infection 2374 2377	UTI
+A9	Diagnosis T18 Suspected
+T19	Vertebral_compression_fracture 2606 2609;2635 2643	T12 fracture
+T20	Vertebral_compression_fracture 3002 3010;3025 3030	fracture spine
+A10	Negation T20
+T21	Vertebral_compression_fracture 3282 3285;3286 3306;3351 3356	T12 compression fracture spine
+T12	Vertebral_compression_fracture 594 597;598 609;610 618	T11 compression fracture
+T22	Vertebral_compression_fracture 3365 3370;3435 3443	spine fracture
+A11	Negation T22
+T23	Lower_respiratory_tract_infection 6774 6783	pneumonia
+A12	Negation T23
+T26	Vertebral_compression_fracture 7187 7190;7191 7202;7203 7211;7256 7261;7262 7264	T12 compression fracture spine CT
+T27	Vertebral_compression_fracture 7290 7293;7319 7327	T12 fracture
+T28	Vertebral_compression_fracture 7267 7269;7272 7277	CT SPINE
+T29	Urinary_tract_infection 9709 9712	UTI
+T33	Falls 11710 11714	fall
+T34	Falls 14141 14146	falls
+T35	Has_carers 15636 15643	Service
+T36	Urinary_tract_infection 15744 15747	UTI
+T31	Vertebral_compression_fracture 7661 7666;7724 7732	SPINE fracture
+A15	Negation T31
+T38	Has_carers 10835 10838	aid
+A16	Low_confidence T38
+T8	Mobile_with_assistance 16029 16061	Ambulatory - requires assistance
+T39	Urinary_incontinence 1879 1899	urinary incontinence
+A17	Diagnosis T39 History_of
+T30	Vertebral_compression_fracture 9714 9743	thoracic compression fracture
+T40	Falls 10363 10368	falls
+A18	Diagnosis T40 Implicit_mention
+T32	Vertebral_compression_fracture 11630 11654	T11 compression fracture
+A19	Diagnosis T34 History_of
+T37	Vertebral_compression_fracture 15771 15795	T11 COMPRESSION FRACTURE
+T7	Delirium 15930 15963	Mental Status: Clear and coherent
+A3	Negation T7

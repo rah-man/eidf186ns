@@ -1,0 +1,27 @@
+T4	Mobile_with_aid 8858 8868	wheelchair
+A3	Type_of_aid T4 Wheelchair
+T5	Constipation 7540 7552	constipation
+A4	Diagnosis T5 Implicit_mention
+T6	Constipation 6819 6831	constipation
+A5	Diagnosis T6 Implicit_mention
+T7	Constipation 6962 6974	constipation
+A6	Diagnosis T7 Implicit_mention
+T8	Mobile_with_aid 9675 9681	walker
+A7	Type_of_aid T8 Two_sticks_or_frame
+T9	Mobile_with_aid 9722 9732	wheelchair
+A8	Type_of_aid T9 Wheelchair
+T10	Constipation 10081 10093	constipating
+A9	Diagnosis T10 Implicit_mention
+T11	Delirium 1962 1967	A&Ox3
+A10	Negation T11
+T13	Pressure_injury 5036 5051	pressure ulcer,
+A12	Negation T13
+T14	Constipation 10172 10184	constipation
+A13	Diagnosis T14 Implicit_mention
+T15	Constipation 6732 6744	Constipation
+A14	Diagnosis T15 Implicit_mention
+T2	Mobile_with_assistance 8819 8845	Out of Bed with assistance
+T3	Delirium 2225 2232	A/O x 3
+A2	Negation T3
+T1	Delirium 8720 8753	Mental Status: Clear and coherent
+A1	Negation T1

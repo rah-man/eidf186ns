@@ -1,0 +1,33 @@
+T1	Lower_respiratory_tract_infection 690 699	pneumonia
+T2	Urinary_tract_infection 714 718	UTIs
+T3	Constipation 2613 2625	constipation
+A1	Negation T3
+T4	Vertebral_compression_fracture 3080 3108	lumbar compression fractures
+T5	Urinary_tract_infection 3039 3043	UTIs
+A2	Diagnosis T5 History_of
+T6	Vertebral_compression_fracture 5264 5292	lumbar compression fractures
+T7	Lower_respiratory_tract_infection 5396 5405	pneumonia
+T8	Lower_respiratory_tract_infection 3047 3053	pneumo
+T9	Falls 6262 6269	failing
+A3	Diagnosis T9 Implicit_mention
+T10	Constipation 8705 8717	constipation
+A4	Diagnosis T10 Implicit_mention
+T11	Constipation 8637 8649	constipation
+A5	Diagnosis T11 Implicit_mention
+T12	Constipation 8826 8838	constipation
+A6	Diagnosis T12 Implicit_mention
+T13	Constipation 9744 9756	constipation
+A7	Diagnosis T13 Implicit_mention
+T14	Delirium 10968 10986	Clear and coherent
+A8	Negation T14
+T15	Mobile_with_assistance 11048 11074	Out of Bed with assistance
+T16	Mobile_with_aid 11087 11097	wheelchair
+A9	Type_of_aid T16 Wheelchair
+T17	Vertebral_compression_fracture 558 587	lumbar compression fractures,
+A10	Diagnosis T4 History_of
+T18	Delirium 3345 3353	oriented
+A11	Negation T18
+T19	Vertebral_compression_fracture 4951 4962;4982 4984;4986 4988;4994 5006;5042 5051	compression T7 T8 T9 vertebral fractures
+T20	Urinary_tract_infection 5420 5424	UTIs
+A12	Diagnosis T20 History_of
+T21	Pressure_injury 7835 7857	Sacral Decubitus ulcer

@@ -1,0 +1,59 @@
+ Name: ___       Unit ___:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: ACE Inhibitors / atenolol / nifedipine / NSAIDS (Non-Steroidal Anti-Inflammatory Drug) / propranolol  Attending: ___.  Chief Complaint: Bilateral lower extremity swelling  Major Surgical or Invasive Procedure: None.
+
+ History of Present Illness: ___ year old F with non ischemic HFrEF (EF ___, CKD stage IV (s/p right AV fistula ___, and DM who presents with bilateral lower extremity swelling. Swelling had been increasing over ___ weeks, slowly becoming painful when trying to ambulate around the ___. PCP and nephrologists recommended coming to ED for evaluation. ___ major diet changes although does eat salty food regularly. Adherent to diuretic regimen, with ___ changes in recent medications besides Procrit. ___ chest pain, orthopnea, palpitations, fevers, chills, SOB, dizziness, nausea, vomiting, or headaches.  Past Medical History: Diastolic and Systolic Congestive Heart Failure ___ class III Left ventricular diastolic dysfunction Cardiomyopathy LVEF ___ Arthritis, rheumatoid  Chronic kidney disease, stage IV (severe)  DM renal manif type II, uncontrolled Hypertension  Anemia secondary to chronic renal failure Hypothyroidism Obstructive Sleep Apnea Carpal tunnel syndrome Hyperparathyroidism  Social History: ___ Family History: Father had HTN, passed away at ___ yo had prostate CA/dementia.  Mother had HTN, died from intracerebral hemorrhage at age ___ or ___. Siblings- ___ heart disease. Brother died from esophageal cancer. Sister x 1 had a stroke.  Physical Exam: =================== ADMISSION EXAM =================== VITALS: T: 97.7PO BP: 147/82 HR: 101 RR: 20 SO2: 95 Ra General: Alert, oriented, ___ acute distress  HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, neck supple, JVP 10, ___ LAD  CV: Regular rate and rhythm, normal S1 + S2, ___ murmurs, rubs, gallops  Lungs: Clear to auscultation bilaterally, ___ wheezes, rales, rhonchi  Abdomen: Soft, non-tender, non-distended, bowel sounds present, ___ organomegaly, ___ rebound or guarding  GU: ___ foley  Ext: Warm, well perfused, 2+ pulses, ___ clubbing, cyanosis or bilateral 2+ edema non-pitting Skin: Warm, dry, ___ rashes or notable lesions.  Neuro: CNII-XII intact, ___ strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally. 
+
+=================== DISCHARGE EXAM =================== VITALS: Temp: 98.5 PO BP: 125/71 L Lying HR: 84 RR: 18 O2 sat: 98% O2 delivery: Ra General: Comfortable appearing, sitting up in bed. HEENT: MMM. CV: JVP not elevated. RRR, ___ murmurs. Brachial AV fistula with palpable thrill and audible bruit. Lungs: CTAB. Abd: Soft, non-tender Ext: Trace edema to ankles bilaterally, L>R ankle. Xerosis over lower extremities. Neuro: A&Ox3, intact attention  Pertinent Results: =================== ADMISSION LABS =================== ___ 06:32PM BLOOD WBC-9.8 RBC-4.02 Hgb-8.0* Hct-27.8* MCV-69* MCH-19.9* MCHC-28.8* RDW-21.4* RDWSD-52.2* Plt ___ ___ 06:32PM BLOOD Neuts-86.1* Lymphs-7.0* Monos-5.5 Eos-0.5* Baso-0.4 Im ___ AbsNeut-8.39* AbsLymp-0.68* AbsMono-0.54 AbsEos-0.05 AbsBaso-0.04 ___ 06:32PM BLOOD Calcium-8.8 Phos-3.6 Mg-2.0 ___ 06:32PM BLOOD TSH-6.5*
+
+================== ADMISSION IMAGING ================== ___ CHEST (PA & LAT)  IMPRESSION:  ___ acute cardiopulmonary process.  ============== OTHER RESULTS ============== EKG ___ NSR w/ APCs, LVH by AVL, ___ ischemic ST or T wave changes 
+
+======================== PERTINENT INPATIENT LABS ======================== ___ 07:37AM BLOOD Glucose-92 UreaN-42* Creat-3.2* Na-146 K-4.0 Cl-108 HCO3-21* AnGap-17 ___ 07:37AM BLOOD Calcium-8.7 Phos-3.7 Mg-1.9
+
+============== DISCHARGE LABS ============== ___ 07:18AM BLOOD Glucose-92 UreaN-45* Creat-3.6* Na-142 K-4.0 Cl-105 HCO3-22 AnGap-15  Brief Hospital Course: ================================ TRANSITIONAL ISSUES: ================================ MEDICATIONS CHANGED: - Amlodipine decreased from 10 mg to 5mg daily - Hydralazine increased from 75 mg to 100 mg TID
+
+MEDICATIONS STARTED: - Cyanocobalamin 1000 mcg PO/NG DAILY - Bisacodyl 5mg daily - Polyethylene glycol 17 grams daily PRN
+
+FOR PCP/NEPHROLOGY: - Amlodipine was decreased from 10mg to 5mg due to bilateral lower extremity edema. Due to rebound hypertension, her hydralazine was increased from 75mg TID to ___ TID with good effect. Monitor BPs on new regimen. - Can consider adding metolazone every other day to torsemide if recurrent edema. - Started on B12 supplementation for confirmed low level (219). Consider rechecking B12 levels and CBC in ___ weeks (___) and adjust supplementation as needed. - Treated with IV iron 250 mcg x2 for iron deficiency anemia (TSat 11%). Consider additional infusions as outpatient. She will continue her oral iron supplement in the meantime. - Patient was not taking levothyroxine as prescribed. Prescribed as ___ tablet (87.5mcg) by mouth 6 days a week and 1 full tablet (175mcg) on ___. However, she reported she was taking 1 full tablet (175mcg) 6 days/week and 2 tablets (350mcg)on ___. Discharged on dose as prescribed. Consider rechecking TFTs and clarifying dose with patient at next visit.
+
+Discharge weight: 86.4 kg (bed weight) Discharge BUN/Cr: 45/3.6 Discharge Hgb 7.3, MCV 70
+
+Code Status: Full presumed
+
+Name of health care proxy: ___ ___: daughter Phone number: ___ 
+
+====================== BRIEF HOSPITAL COURSE: ====================== ___ year old woman with non ischemic HFrEF (EF ___, CKD stage IV (s/p AV fistula ___, and DM who presents with bilateral lower extremity swelling, likely due to side effect of amlodipine as well as HFrEF exacerbation due to worsening renal function. Pt was diuresed with IV Lasix and her clinical status improved. She was seen by ___ who recommended ___ rehab.
+
+# Bilateral lower extremity ___, due to: # Amlodipine adverse effect # Acute on chronic systolic and diastolic heart failure / nonischemic cardiomyopathy (EF ___ The patient presented with bilateral leg swelling and mild JVP elevation. She denied orthopnea, shortness of breath, or chest pain. EKG was not concerning for ischemic/cardiac etiology and CXR showed ___ cardiopulmonary process. ___ edema likely primarily due to side effect from amlodipine as well as dietary indiscretion. Nephrology was consulted and recommended IV diuresis with 100mg IV furosemide with improvement in her clinical status. Her amlodipine was decreased from 10mg to 5mg. Given elevated blood pressures after this change, her hydralazine was increased from 75mg TID to ___ TID. She was continued on her home imdur and ivabradine, and losartan was given in lieu of home irbesartan (not on formulary). She was restarted on her home torsemide. She was also counseled on the importance of a low salt diet. Renal function remained at baseline. The patient remained hemodynamically stable throughout her hospitalization, and her lower extremity edema improved. She did complain of pain and weakness in her lower extremities, so ___ was consulted and recommended ___ rehabilitation.
+
+#CKD stage IV: Recent fistula placed ___, currently maturing. Palpable thrill/audible bruit on exam. ___ acute RRT needs during this hospitalization. Creatinine increased slightly to 3.6 but this was around her baseline. Diuresis was administered as above. Intake and output was strictly monitored.
+
+# Chronic microcytic anemia, due to: # Anemia of chronic renal failure / chronic inflammation: # Iron deficiency # B12 deficiency Hgb ranged from 7.1 to 8.0, which was slightly lower than the patient's baseline. Iron studies were consistent with both anemia of chronic kidney disease and iron deficiency (TSat 11%). She was given IV iron 250 mcg x2 prior to discharge. Supplemental B12 was also started given mild deficiency.
+
+=============== CHRONIC ISSUES: =============== # OSA: Home CPAP was continued.
+
+# RA (RF+/CCP+): The patient was recently started recently on Leflunomide by Dr. ___ while inpatient. Continued home acetaminophen. 
+
+# Hypothyroidism: TSH mildly elevated but FT4 normal - unlikely the etiology for her lower extremity edema. Patient was taking levothyroxine differently than prescribed - see transitional issues. Continued her dose as prescribed.
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. irbesartan 150 mg oral BID 2. HydrALAZINE 75 mg PO TID 3. Isosorbide Mononitrate (Extended Release) 60 mg PO QAM 4. Isosorbide Mononitrate (Extended Release) 30 mg PO QPM 5. amLODIPine 10 mg PO DAILY 6. Levothyroxine Sodium 175 mcg PO DAILY 7. Atorvastatin 80 mg PO QPM 8. Torsemide 60 mg PO BID 9. GlipiZIDE 5 mg PO DAILY:PRN ___ tab as needed up to ten times per month" 10. leflunomide 10 mg oral DAILY 11. Ferrous Sulfate 325 mg PO DAILY 12. Loratadine 10 mg PO DAILY:PRN allergies 13. Aspirin 81 mg PO DAILY 14. Vitamin D ___ UNIT PO DAILY 15. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 16. ivabradine 5 mg oral BID 17. Epoetin ___ ___ unit/mL SC 1X/WEEK (FR) 
+
+ Discharge Medications: 1. Bisacodyl 5 mg PO DAILY:PRN Constipation - First Line  2. Cyanocobalamin 1000 mcg PO DAILY  3. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third Line  4. amLODIPine 5 mg PO DAILY  5. Ferrous Sulfate 325 mg PO HS  6. HydrALAZINE 100 mg PO TID  7. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  8. Aspirin 81 mg PO DAILY  9. Atorvastatin 80 mg PO QPM  10. Epoetin ___ ___ unit/mL SC 1X/WEEK (FR)  11. GlipiZIDE 5 mg PO DAILY:PRN ___ tab as needed up to ten times per month"  12. irbesartan 150 mg oral BID  13. Isosorbide Mononitrate (Extended Release) 30 mg PO QPM  14. Isosorbide Mononitrate (Extended Release) 60 mg PO QAM  15. ivabradine 5 mg oral BID  16. leflunomide 10 mg oral DAILY  17. Levothyroxine Sodium 175 mcg PO ___ TABLET(87.5MCG) BY MOUTH 6 DAYS A WEEK AND 1 FULL TABLET (175MCG) ON ___ ___ tablet(87.5mcg) by mouth 6 days a week and 1 full tablet (175mcg) on ___  18. Loratadine 10 mg PO DAILY:PRN allergies  19. Torsemide 60 mg PO BID  20. Vitamin D ___ UNIT PO DAILY 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: PRIMARY DIAGNOSES # Bilateral Lower Extremity Edema # Acute on chronic systolic and diastolic heart failure # CKD stage IV # Anemia of chronic kidney disease # Iron deficiency anemia # Vitamin B12 deficiency
+
+SECONDARY DIAGNOSES # Obstructive sleep apnea # Rheumatoid arthritis # Hypothyroidism
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Out of Bed with assistance to chair or wheelchair.
+
+ Discharge Instructions: Dear Ms. ___,
+
+It was a pleasure caring for you at ___.
+
+WHY WAS I ADMITTED TO THE HOSPITAL? You were admitted because your feet and ankles were swollen.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL? We gave you a medicine to treat the swelling in your legs and changed some of your home medications. 
+
+WHAT SHOULD I DO WHEN I GET HOME? 1. Take all of your medications as prescribed and see your outpatient providers as scheduled below. 2. Try your best to eat a low-salt diet 3. Weigh yourself every morning. Call your doctor if your weight increases more than 3 pounds.
+
+We wish you the best!
+
+Sincerely, Your ___ Care Team  Followup Instructions: ___ 

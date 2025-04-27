@@ -1,0 +1,36 @@
+T1	Delirium 229 238	Confusion
+T2	Delirium 494 503	confusion
+A1	Diagnosis T2 Refferal
+T3	Delirium 566 575	confusion
+T4	Mobile_with_aid 1356 1374	walk with a walker
+A2	Type_of_aid T4 Two_sticks_or_frame
+T5	Delirium 1094 1103	confusion
+T6	Delirium 1651 1659	confused
+T7	Weight_loss 2582 2593	weight loss
+A3	Negation T7
+T8	Constipation 2762 2774	constipation
+A4	Negation T8
+T9	Intracranial_haemorrhage 4967 4986	cerebral hemorrhage
+A5	Diagnosis T9 Implicit_mention
+T10	Hearing_impairment 6018 6030	hearing aids
+T11	Visual_impairment 6762 6782	visual field deficit
+T12	Lower_respiratory_tract_infection 9719 9728	pneumonia
+T13	Delirium 16795 16813	Clear and coherent
+A6	Negation T13
+T14	Mobile_with_assistance 16879 16911	Ambulatory - requires assistance
+T15	Mobile_with_aid 16915 16918	aid
+A7	Type_of_aid T15 Two_sticks_or_frame
+T16	Delirium 5423 5431;5432 5435	oriented x 3
+A8	Negation T16
+T17	Intracranial_haemorrhage 11204 11211;11315 11325	CT HEAD hemorrhage
+T18	Delirium 11502 11511	confusion
+T19	Has_carers 16656 16663	Service
+T20	Weight_loss 2402 2413	weight loss
+A9	Negation T20
+T21	Visual_impairment 2415 2429	visual changes
+A10	Negation T21
+T22	Hearing_impairment 2438 2453	hearing changes
+A11	Negation T22
+T23	Visual_impairment 4564 4581	peripheral vision
+A12	Diagnosis T23 History_of
+T24	Intracranial_haemorrhage 12434 12441;12540 12550	Head CT hemorrhage

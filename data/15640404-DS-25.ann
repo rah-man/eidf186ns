@@ -1,0 +1,14 @@
+T1	Falls 596 601	falls
+A1	Diagnosis T1 History_of
+T2	Delirium 2852 2860	oriented
+A2	Negation T2
+T3	Lower_respiratory_tract_infection 8403 8412	pneumonia
+A3	Negation T3
+T4	Delirium 9977 9991	encephalopathy
+A4	Diagnosis T4 Suspected
+T5	Delirium 12806 12820	Encephalopathy
+T8	Mobile_with_aid 12986 12989	aid
+A6	Type_of_aid T8 Two_sticks_or_frame
+T7	Mobile_with_assistance 12950 12982	Ambulatory - requires assistance
+T6	Delirium 12851 12884	Mental Status: Clear and coherent
+A5	Negation T6

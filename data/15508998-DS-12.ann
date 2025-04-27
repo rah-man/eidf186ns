@@ -1,0 +1,65 @@
+T1	Lower_gastrointestinal_haemorrhage 224 236	Hematochezia
+T3	Lower_gastrointestinal_haemorrhage 1302 1307	BRBPR
+T7	Lower_gastrointestinal_haemorrhage 2152 2164	bloody bowel
+T9	Lower_gastrointestinal_haemorrhage 875 883;899 910	bleeding colon/cecum
+T10	Lower_gastrointestinal_haemorrhage 1014 1019;1034 1045	colon prior bleed
+A1	Diagnosis T10 History_of
+T14	Delirium 3572 3576	AOx3
+A4	Negation T14
+T16	Lower_gastrointestinal_haemorrhage 5338 5343;5358 5363	Blood colon
+T22	Lower_gastrointestinal_haemorrhage 660 665	BRBPR
+T23	Lower_gastrointestinal_haemorrhage 1894 1904;1995 2003	colorectal bleeding
+T24	Lower_gastrointestinal_haemorrhage 2401 2422	Diverticular bleeding
+A7	Diagnosis T24 History_of
+T27	Lower_gastrointestinal_haemorrhage 6101 6109;6117 6122	flex sig blood
+T28	Lower_gastrointestinal_haemorrhage 6288 6302	Lower GI Bleed
+T29	Lower_gastrointestinal_haemorrhage 6358 6363	BRBPR
+T30	Lower_gastrointestinal_haemorrhage 6407 6426	diverticular bleeds
+A9	Diagnosis T30 History_of
+T32	Lower_gastrointestinal_haemorrhage 6662 6680	diverticular bleed
+T33	Lower_gastrointestinal_haemorrhage 6682 6690;6705 6710	Flex sig blood
+T34	Lower_gastrointestinal_haemorrhage 6741 6761	bleeding diverticula
+A11	Negation T34
+T37	Lower_gastrointestinal_haemorrhage 7016 7025	GI bleeds
+T38	Lower_gastrointestinal_haemorrhage 7202 7210	GI bleed
+T39	Lower_gastrointestinal_haemorrhage 7406 7414	rebleeds
+A13	Diagnosis T39 Implicit_mention
+T40	Lower_gastrointestinal_haemorrhage 7550 7558	bleeding
+T41	Lower_gastrointestinal_haemorrhage 7635 7644	GI bleeds
+A14	Diagnosis T41 History_of
+T42	Lower_gastrointestinal_haemorrhage 8057 8065;8132 8146	bleeding Lower GI bleed
+T44	Lower_gastrointestinal_haemorrhage 8551 8556	bleed
+A16	Diagnosis T44 Implicit_mention
+T45	Lower_gastrointestinal_haemorrhage 8703 8708;8749 8757	colon bleeding
+T47	Lower_gastrointestinal_haemorrhage 8945 8951	bleeds
+A17	Diagnosis T47 Implicit_mention
+T48	Lower_gastrointestinal_haemorrhage 9019 9027	bleeding
+A18	Diagnosis T48 Implicit_mention
+T2	Lower_gastrointestinal_haemorrhage 487 514	bright red blood per rectum
+T13	Lower_gastrointestinal_haemorrhage 559 570;578 586	GI bleeding lower GI
+T5	Lower_gastrointestinal_haemorrhage 1705 1732	bright red blood per rectum
+T21	Weight_loss 2218 2222;2227 2230	lost lbs
+A3	Diagnosis T21 Implicit_mention
+T6	Lower_gastrointestinal_haemorrhage 3319 3324;3326 3331;3343 3359	BRBPR stool bright red blood
+T17	Lower_gastrointestinal_haemorrhage 5997 6024	bright red blood per rectum
+T19	Independently_mobile 8287 8312	Ambulatory - Independent.
+T20	Lower_gastrointestinal_haemorrhage 419 433	lower GI bleed
+A15	Diagnosis T20 History_of
+T4	Lower_gastrointestinal_haemorrhage 5940 5944	GIBs
+A19	Diagnosis T4 History_of
+T35	Lower_gastrointestinal_haemorrhage 8436 8444;8455 8464	bleeding intestine
+T8	Lower_gastrointestinal_haemorrhage 1342 1347;1421 1430	stool red blood
+T11	Lower_gastrointestinal_haemorrhage 1404 1409;1514 1517	stool BRB
+A12	Negation T11
+T12	Lower_gastrointestinal_haemorrhage 6046 6074	bleeding colonic diverticula
+A2	Negation T12
+T26	Lower_gastrointestinal_haemorrhage 6127 6138;6160 6168	diverticula bleeding
+A8	Negation T26
+A5	Low_confidence T37
+T15	Upper_gastrointestinal_haemorrhage 7016 7025	GI bleeds
+A10	Low_confidence T15
+A20	Low_confidence T38
+T25	Upper_gastrointestinal_haemorrhage 7202 7210	GI bleed
+A21	Low_confidence T25
+T18	Delirium 8188 8221	Mental Status: Clear and coherent
+A6	Negation T18

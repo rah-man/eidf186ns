@@ -1,0 +1,71 @@
+ Name: ___            Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: lisinopril  Attending: ___  Chief Complaint: Admission for VT ablation  Major Surgical or Invasive Procedure: ___ s/p VT ablation ___ pericardiaocentesis ___ ICD lead revision
+
+ History of Present Illness: ___ known CAD (CTO of RCA following IMI ___, managed medically with lytics), ___ (EF 30%) was transferred to ___ on ___ after presenting to ___ with syncope on ___. While in the ___, ___ had another syncopal episode and was found to be in ventricular tachycardia. ___ was successfully defibrillated to sinus rhythm and treated with Amiodarone gtt. Echo showed EF of ___ with inferior AK. S/p cath at ___ on ___ and then Successful PCI of LAD mid upper pole lesion with 2.5 x 12mm Promus DES on ___. Pt had a small right groin hematoma from his catheterization at ___. Cardiac MRI done on ___ was notable for infarct related cardiomyopathy with moderate MR. ___ was d/c'd home on a lifevest and returned to ___ on ___ for VT ablation, but access for procedure ___ was complicated by a large left groin hematoma and presence of angioseal right groin, so the procedure was aborted. ___ subsequently had a single chamber ICD placed on ___. ___ was discharged home the following day but then returned the next week with left groin pain and was found to have a left common femoral pseudoaneurysm. Treatment was initially attempted with thrombin injection, but this was not successful so ___ went to OR for repair of left groin pseudoaneurysm on ___ with Dr. ___. Pt subsequently developed atrial fibrillation and had a cardioversion on ___ and then was discharged home.  ___ has been followed by vascular surgery for lower extremity edema and is wearing ace wrap on the left leg. ___ was r/o for DVT. Has also noticed temperature discrepancies between upper and lower left leg. On ___ pt was shocked by ICD at 8pm after taking shower. Went to ___ ER and was d/c'd home at 2am. Remote ICD interrogation per ___ RN's note ___ revealed: ___ FVT event ___ V rate 176-222 ATP resulted in VT/VF, ATP during charge failed 35J successful. EGM shows undersensing of VT complex 7 episodes of NSVT. Pt states ___ feels very very tired. Pt is now referred for VT ablation. 
+
+ Past Medical History: CAD with hx of IMI (cath ___ revealed CTO of RCA ___, managed medically with lytics) - Recathed in ___% LAD lesion. Med managed CAD with inferior MI in ___, managed with TPA HLD Diverticulitis Prostate cancer s/p XRT Thrombocytopenia with baseline 90k-100k LAD stent ___ ICD placed ___  Social History: ___ Family History: ___: father died from sudden death at age ___. Mother had stroke x 2.  Physical Exam: ========================= ADMISSION PHYSICAL EXAM ========================= VS: 160/61, 72, 21, 100% RA Physical Exam: General: No acute distress Neuro: A+Ox3 CV: RRR, no murmurs Resp: Lungs clear bilaterally Vascular: No edema, feet warm. ___ on the right, ___ dopperable on the left
+
+========================= DISCHARGE PHYSICAL EXAM ========================= Admission weight: 89.4kg Weight today: 89.7 kg VS: 98.4 128/76-143/79 84*80 16 98% RA I/O: ___ GENERAL: gentleman who appears younger than stated age, no acute distress HEENT: PERRL, EOMI, R eye does not accommodate (deviates laterally); L conjunctival injection, mild erythema and edema of upper eyelid NECK: JVP not elevated CARDIAC: RRR, S1, S2, very soft systolic murmur at LUSB LUNGS: faint crackles at L base, otherwise lungs are clear ABDOMEN: soft, non-tender, non-distended EXTREMITIES: No femoral hematoma, L groin firm to palpation c/w pseudoaneurysm repair; trace pedal edema slightly worse on L PULSES: R DP 2+, L DP not palpable
+
+ Pertinent Results: ======================= ADMISSION LABS =======================
+
+___ 11:00AM BLOOD WBC-6.5 RBC-3.79* Hgb-11.7* Hct-34.8* MCV-92 MCH-30.9 MCHC-33.6 RDW-13.2 RDWSD-44.3 Plt Ct-78* ___ 11:00AM BLOOD Neuts-78.8* Lymphs-10.2* Monos-7.4 Eos-1.9 Baso-1.1* Im ___ AbsNeut-5.11 AbsLymp-0.66* AbsMono-0.48 AbsEos-0.12 AbsBaso-0.07 ___ 11:00AM BLOOD Plt Smr-VERY LOW Plt Ct-78* ___ 11:00AM BLOOD Glucose-112* UreaN-21* Creat-1.0 Na-142 K-3.8 Cl-103 HCO3-29 AnGap-14 ___ 12:02AM BLOOD Calcium-7.5* Phos-4.0 Mg-1.6 ___ 04:10AM BLOOD %HbA1c-4.7* eAG-88* ___ 04:10AM BLOOD Triglyc-71 HDL-46 CHOL/HD-2.3 LDLcalc-45 LDLmeas-50 ___ 02:07PM BLOOD ___ pO2-43* pCO2-41 pH-7.44 calTCO2-29 Base XS-3 Intubat-INTUBATED ___ 09:52PM BLOOD Glucose-190* Lactate-5.3* Na-138 K-3.0* Cl-105 ___ 06:58PM BLOOD Hgb-2.9* calcHCT-9 O2 Sat-95 ___ 09:52PM BLOOD freeCa-1.08*
+
+======================== INTERVAL LABS ========================
+
+___ 04:10AM BLOOD WBC-13.4* RBC-3.51* Hgb-10.7* Hct-31.8* MCV-91 MCH-30.5 MCHC-33.6 RDW-14.0 RDWSD-46.5* Plt Ct-71* ___ 10:41PM BLOOD Lactate-2.2* ___ 12:10AM BLOOD Glucose-162* Lactate-1.8 K-3.6 ___ 04:39AM BLOOD Glucose-137* Lactate-0.8 K-2.9*
+
+======================== DISCHARGE LABS ========================
+
+___ 07:39AM BLOOD WBC-9.9 RBC-3.56* Hgb-10.8* Hct-32.7* MCV-92 MCH-30.3 MCHC-33.0 RDW-13.7 RDWSD-46.8* Plt Ct-55* ___ 07:39AM BLOOD Neuts-85.9* Lymphs-5.9* Monos-7.3 Eos-0.1* Baso-0.1 Im ___ AbsNeut-8.51*# AbsLymp-0.58* AbsMono-0.72 AbsEos-0.01* AbsBaso-0.01 ___ 07:39AM BLOOD Plt Ct-55* ___ 07:39AM BLOOD Glucose-95 UreaN-21* Creat-0.8 Na-142 K-4.2 Cl-106 HCO3-27 AnGap-13 ___ 07:39AM BLOOD Calcium-9.0 Phos-3.7 Mg-2.1
+
+======================== IMAGING/STUDIES ======================== ++Pericardial Fluid Cytology ___ PERICARDIAL FLUID: NEGATIVE FOR MALIGNANT CELLS
+
+++TTE ___ Overall left ventricular systolic function is borderline/mildly depressed (LVEF= 45-50 %). Right ventricular chamber size and free wall motion are normal. There is a small circumferential pericardial effusion. The effusion is echo dense, consistent with blood, inflammation or other cellular elements. There are no echocardiographic signs of tamponade.
+
+Compared with the prior study (images reviewed) of ___, a small echodense pericardial effusion is seen without echocardiographic signs of tamponade. 
+
+++TTE ___
+
+The estimated right atrial pressure is ___ mmHg. Left ventricular wall thicknesses and cavity size are normal. There is mild regional left ventricular systolic dysfunction with hypokinesis of the inferior wall. The remaining segments contract normally (LVEF = 45-50 %). However, wall motion is incompletely evaluated in this focused study. Right ventricular chamber size and free wall motion are normal. There is a small circumferential pericardial effusion, most prominently seen adjacent to the right ventricle. The effusion is echo dense, consistent with blood, inflammation or other cellular elements. There are no echocardiographic signs of tamponade.
+
+IMPRESSION: Small echodense pericardial effusion without echocardiographic signs of tamponade. Normal biventricular cavity sizes with mildly reduced left and normal right ventricular systolic function.
+
+Compared with the prior study (images reviewed) of ___, the findings are similar. 
+
+++CTA Head & Neck ___ 1. No evidence of acute territorial infarction or intracranial hemorrhage on noncontrast head CT. 2. Atherosclerotic calcification of the aortic arch, origin of the great vessels, carotid bifurcations, and origin of the ICA bilaterally is noted. No evidence of ICA stenosis by NASCET criteria. 3. No evidence of intracranial aneurysm. No evidence of critical stenosis or occlusion on CTA of the head and neck.
+
+++CXR PA/Lateral ___ Transvenous right ventricular pacer defibrillator lead has been revised. Patient has been extubated, nevertheless lung volumes have increased, pulmonary vascular engorgement has decreased, and mild cardiomegaly is stable or improved. Bibasilar atelectasis and pleural effusions are both mild. No pneumothorax or mediastinal widening.  Brief Hospital Course: ___ with history of CAD s/p CTO of RCA following IMI ___ ___s s/p DES to LAD ___, ___ class III HFrEF of ___, who has been suffering from recurrent VT now s/p VT ablation and pericardial drainage complicated by PEA arrest and posterior stroke.
+
+#) Possible Transient Ischemic Accident ___ cardiac arrest: Post-extubation patient had word-finding difficulties and lack of gag reflex. On further exam, there was concern for posterior infarct given right hyperopia, intention tremor, slow finger tap, leg shaking when raising for strength test. CT/CTA without evidence of acute infarct. MRI deferred given risk with ICD lead and unlikely change in management. Patient was managed with permissive hypertension per neurology recommendations and ___. Patient's mental status improved. At time of discharge ___ had some deficits in short term memory but no evidence of dysarthria or weakness. ___ is discharged home with services and should follow-up with neurology if deficits persist.
+
+#) s/p PEA Arrest with ROSC. Patient had urgent pericardiocentesis following initial VT ablation, which was complicated by PEA arrest. ___ received compressions for several minutes before ROSC. Patient transferred to CCU briefly required pressors. PEA likely secondary to pericardial tamponade vs instrumentation during pericardiocentesis. Following resuscitation, ___ had dysarthria and memory deficits which were improving at time of discharge (see above).
+
+#) Percardial Effusion/Tamponade s/p drainage: Patient presented with chronic effusion that was drained intraprocedurally. ___ became acutely hypotensive in PACU and repeat echo showed sudden reaccumulation. Patient underwent urgent pericardiocentesis. Fluid studies were negative for infection or malignancy. Repeat TTE showed small effusion. ___ remained hemodynamically stable.  #) VT s/p ablation: Patient had been suffering from arrhythmia related syncope. initial attempt to ablate VT was complicated by psuedoaneurysm. Patient was discharged and had firing of ICD ___. ___ underwent successful VT ablation ___. Post-procedure course was complicated by above problems. ___ had ICD lead revision on ___ successfully, and was continued on keflex prophylaxis as outpatient for total 7 days. Amiodarone was discontinued.
+
+# Chronic systolic heart failure: LVEF 45-50%. ___ was continued on carvedilol. Ramipril was discontinued due to permissive hypertension. ___ was continued on furosemide. Admission weight 89.4kg. Discharge weight: 89.7kg.
+
+# CAD: hx of inferior MI in ___, known chronic total occlusion of RCA and s/p recent DES to LAD ___. ___ was continued on ASA81, Plavix, and atorvastatin.
+
+# Hypertension: following his possible CVA/TIA, ___ was allowed to be hypertensive to 160-180 systolic. Amlodipine and ramipril were held on discharge. BP on discharge was systolic 140.
+
+TRANSITIONAL ISSUES: - If persistent memory deficits, would follow-up with neurology as outpatient. Consider neuro OT. - Keflex ___ QID thru ___ for prophylaxis - Neurology recommended permissive hypertension and SBPs were 130-140s at discharge. Patient was discontinued off ramipril and amlodipine. Patient instructed to go to PCP appointment in 1 week for blood pressure monitoring. - Discontinued amiodarone per EP and increase carvedilol to 12.5 mg BID.
+
+CODE: FULL CONTACT: ___ ___ 
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Amiodarone 200 mg PO DAILY 2. Amlodipine 5 mg PO DAILY 3. Atorvastatin 80 mg PO QPM 4. Carvedilol 6.25 mg PO BID 5. Clopidogrel 75 mg PO DAILY 6. Aspirin 81 mg PO DAILY 7. Furosemide 20 mg PO DAILY 8. LORazepam 1 mg PO QHS:PRN sleep 9. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 10. Tamsulosin 0.4 mg PO QHS 11. Ramipril 20 mg PO DAILY 12. Acetaminophen 1000 mg PO Q6H:PRN pain 13. Senna 17.2 mg PO BID:PRN constipation 
+
+ Discharge Medications: 1. Acetaminophen 1000 mg PO Q6H:PRN pain 2. Aspirin 81 mg PO DAILY 3. Atorvastatin 80 mg PO QPM 4. Clopidogrel 75 mg PO DAILY 5. Senna 17.2 mg PO BID:PRN constipation 6. Tamsulosin 0.4 mg PO QHS 7. Furosemide 20 mg PO DAILY 8. Carvedilol 12.5 mg PO BID RX *carvedilol 12.5 mg 1 tablet(s) by mouth twice a day Disp #*60 Tablet Refills:*0 9. LORazepam 1 mg PO QHS:PRN sleep 10. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 11. Cephalexin 500 mg PO Q6H RX *cephalexin 500 mg 1 tablet(s) by mouth every six hours Disp #*24 Tablet Refills:*0 12. TraMADol 50 mg PO Q6H:PRN pain RX *tramadol 50 mg 1 tablet(s) by mouth every 6 hours as needed Disp #*12 Tablet Refills:*0
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: PRIMARY DIAGNOSIS - Ventricular tachycardia - VT ablation - Pulseless electrical activity - Pericardial tamponade
+
+ Discharge Condition: Physical Exam: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr. ___,
+
+It was a pleasure caring for you at ___. You came to the hospital for ablation procedure given your history of ventricular tachycardia. This was performed on ___. You developed fluid around your heart which required drainage. Following this, you suffered a cardiac arrest requiring chest compressions for several minutes. Following this, we performed a revision of your ICD lead in your heart.
+
+Important Instructions: - You had a ventricular tachycardia ablation to treat your abnormal rhythm - Please discontinue your ramipril, amlodipine, and amiodarone. We have also increased your carvedilol to 12.5 mg twice a day. - Activity restrictions and care of your groin site are listed in your nursing discharge instructions - If you have any questions or concerns related to your procedure you can call the heart line at ___ to speak with a Cardiologist or a Cardiology Nurse ___ - ___ continue to weigh yourself every morning, call MD if weight goes up more than 3 lbs in ___ days or 5 lbs in 5 days. - Continue Keflex antibiotic for an additional 6 days to prevent infection.
+
+It was our pleasure caring for you. We wish you the best!
+
+Sincerely, Your ___ Care Team  Followup Instructions: ___ 

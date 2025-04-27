@@ -1,0 +1,57 @@
+ Name: ___.        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: amoxicillin / amlodipine  Attending: ___.  Major Surgical or Invasive Procedure: None
+
+attach  Pertinent Results: ADMISSION LABS: =============== ___ 10:37AM BLOOD WBC-10.1* RBC-3.58* Hgb-11.4* Hct-35.6* MCV-99* MCH-31.8 MCHC-32.0 RDW-16.2* RDWSD-58.7* Plt ___ ___ 10:37AM BLOOD Glucose-231* UreaN-32* Creat-1.7* Na-139 K-5.3 Cl-107 HCO3-18* AnGap-14 ___ 10:37AM BLOOD ALT-24 AST-38 AlkPhos-125 TotBili-1.5 ___ 10:37AM BLOOD Lipase-36 ___ 10:37AM BLOOD cTropnT-0.01 ___ ___ 10:37AM BLOOD Albumin-4.1 ___ 06:01AM BLOOD Calcium-10.1 Phos-2.8 Mg-2.3 ___ 06:01AM BLOOD TSH-2.1
+
+CXR ___ 1. Moderate left pleural effusion, with associated atelectasis.  No other focal consolidations. 2. Moderate cardiomegaly. No evidence of pulmonary edema. 
+
+LIVER/GALLBLADDER US ___ 1. No evidence of cholelithiasis or acute cholecystitis. No intrahepatic or extrahepatic biliary dilatation. 2. Focal, non dependent, 0.5 cm calcification adherent to the gallbladder wall, likely a calcified polyp. 3. Mild gallbladder wall thickening, which could be due to third spacing. 4. Trace perihepatic ascites. RECOMMENDATION(S): Consider follow-up abdominal gallbladder ultrasound in ___ months 
+
+TTE ___ The left atrial volume index is normal. There is no evidence for an atrial septal defect by 2D/color Doppler. There is mild symmetric left ventricular hypertrophy with a normal cavity size. There is mild (non-obstructive) focal basal septal hypertrophy. There is normal regional and global left ventricular systolic function. Quantitative biplane left ventricular ejection fraction is 65 % (normal 54-73%). There is no resting left ventricular outflow tract gradient. Mildly dilated right ventricular cavity with moderate global free wall hypokinesis. Tricuspid annular plane systolic excursion (TAPSE) is depressed. Intrinsic right ventricular systolic function is likely lower due to the severity of tricuspid regurgitation. The aortic sinus diameter is normal for gender with a normal ascending aorta diameter for gender. The aortic arch diameter is normal with a normal descending aorta diameter. A ___ 3 aortic valve bioprosthesis is present. The prosthesis is well seated with HIGH gradient. There is a paravalvular jet of mild to moderate [___] aortic regurgitation. The mitral valve leaflets are mildly thickened with no mitral valve prolapse. There is moderate to severe [3+] mitral regurgitation. The pulmonic valve leaflets are normal. The tricuspid valve leaflets appear structurally normal. There is SEVERE [4+] tricuspid regurgitation. Due to acoustic shadowing, the severity of tricuspid regurgitation may be UNDERestimated. There is SEVERE pulmonary artery systolic hypertension. In the setting of at least moderate to severe tricuspid regurgitation, the pulmonary artery systolic pressure may be UNDERestimated. There is no pericardial effusion. IMPRESSION: severe tricuspid regurgitation; moderate-to-severe mitral regurgitation; severe pulmonary hypertension Compared with the prior TTE (images reviewed) of ___ , the mitral and tricuspid regurgitation are both WORSE.
+
+DISCHARGE LABS. ___ 06:16AM BLOOD WBC-6.5 RBC-3.62* Hgb-11.5* Hct-35.9* MCV-99* MCH-31.8 MCHC-32.0 RDW-15.6* RDWSD-56.8* Plt ___ ___ 06:16AM BLOOD Glucose-156* UreaN-46* Creat-2.1* Na-144 K-4.3 Cl-101 HCO3-30 AnGap-13 ___ 06:16AM BLOOD Calcium-10.8* Phos-3.9 Mg-2.5  Brief Hospital Course: TRANSITIONAL ISSUES: ==================== Discharge weight: 167.7 lbs Discharge creatinine: 2.1 Discharge diuretic: Torsemide 60mg PO daily
+
+CARDIOLOGY: [ ] Given his ___ on discharge, he was given a diuresis holiday on ___ with plan to resume his home Torsemide 60mg PO daily dose on ___. [ ] Please obtain BMP at ___ NP appt on ___ to follow up kidney function. [ ] If blood pressure is still not controlled on doxazosin, consider uptitrating the medication further or adding calcium channel blocker as additional agent. [ ] Consider repeat TTE once stabilized as an outpatient to reassess pulmonary hypertension found on TTE while inpatient
+
+PCP: [ ] Needs repeat RUQ u/s in ___ months to evaluate a gallbladder polyp identified on ___ RUQ u/s incidentally.
+
+ENDOCRINOLOGY: [ ] ___ benefit from an MIBG scan as an outpatient (has endocrine follow up on ___. [ ] We faxed a request for records to ___ requesting the operative report and genetic testing regarding his pheochromocytoma. 
+
+BRIEF HOSPITAL COURSE: ====================== ___ Hx HFpEF ___ HTN i/s/o pheochromocytoma s/p L adrenalectomy (___), CAD s/p DES to ___ LAD (___), severe AS s/p ___ 3 TAVR (___), a-fib on apixaban, SSS s/p dual PPM (___), T2DM, OSA on CPAP who presented with decompensated HFpEF in setting of poorly controlled HTN. Patient had BP gradually lowered with the addition of doxazosin and was managed with IV diuretics until euvolemic, after which he was transitioned to a PO regimen and discharged home. 
+
+CORONARIES: 80% pLAD --> Synergy DES, OMB 30% PUMP: Normal biventricular function RHYTHM: Atrial fibrillation
+
+ACUTE/ACTIVE ISSUES: ==================== # Decompensated HFpEF Patient presented with acute exacerbation of non-ischemic HFpEF in setting of SBP 230s; NYHA I (baseline), ACC C, dry weight 179lbs (182lbs on admission); initial exam was warm and wet. Suspect exacerbation was triggered by hypertension in the setting of recurrence or progression of prior pheochromocytoma vs viral URI vs diet/medication noncompliance. Patient was diuresed with IV diuretics (max 160mg IV Lasix with 10mg/hr gtt) until euvolemic, and then transitioned to torsemide. He initially received 80mg Torsemide on ___ but given ___ he was given a diuresis holiday on ___ with plan to resume home Torsemide 60mg PO daily on ___. - PRELOAD: Resume home torsemide 60mg PO daily on ___ - AFTERLOAD: Continued on home losartan 50mg daily. Pt seen by endocrinology (see below), who recommended doxazosin - uptitrated to 6 mg daily with no evidence of orthostatic hypotension. - NHBK: Continued on home labetalol 200mg TID
+
+# HTN # Hx pheochromocytoma Presented with hypertension without evidence of end-organ dysfunction with SBP to 230s, previously reportedly well-controlled with SBPs in 130s to 140s at home. Initially he was managed with a nitroglycerin drip before transitioning to a PO regimen. Given slow elevation in normetanephrines, endocrinology was consulted for ?recurrence of prior pheochromocytoma. Per endocrinology, pre-test probability for recurrence of pheo is low/medium. Would want to see metanephrine panel >3x ULN to pursue further inpatient work-up, and results returned with plasma metanephrines <3x ULN, indicating appropriateness for outpatient workup. Has outpatient follow-up for consideration of nuclear imaging (patient has appointment on ___. - Uptitrated doxazosin, BP mgmt as above - Consider outpatient nuclear imaging
+
+#pHTN PASP 55mmHg. Likely group 2 d/t HFpEF. No hx of COPD or other lung disease. Not currently on O2, breathing comfortably. - CTM as outpatient - Consider repeat TTE when likely euvolemic as an outpatient to reassess
+
+# A-fib # SSS s/p dual lead PPM (DDDR) - AC: Continued apixaban 2.5mg BID
+
+# CAD s/p ___ - ___: Continued clopidogrel 75mg daily - Statin: Continued atorvastatin 40mg daily
+
+#CKD Unclear baseline Cr, was down to 1.1 one year prior, most recently lowest Cr was 1.6. Cr 2.1 on discharge, see above regarding diuretic plan.
+
+CHRONIC/RESOLVED ISSUES: ======================== # T2DM - Maintained on ISS, held home linagliptin, but resumed on discharge.
+
+# Foot pain - Continued home gabapentin
+
+# Gout - Continued home allopurinol  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Losartan Potassium 50 mg PO DAILY 2. Gabapentin 600 mg PO QHS 3. Allopurinol ___ mg PO DAILY 4. Labetalol 200 mg PO TID 5. linaGLIPtin 5 mg oral Daily 6. Apixaban 2.5 mg PO BID 7. Atorvastatin 40 mg PO QPM 8. Torsemide 60 mg PO DAILY 9. Clopidogrel 75 mg PO DAILY 10. Vitamin D ___ UNIT PO DAILY 11. TraZODone 50 mg PO QHS 12. Docusate Sodium 100 mg PO DAILY 
+
+ Discharge Medications: 1. Doxazosin 6 mg PO DAILY  2. Allopurinol ___ mg PO DAILY  3. Apixaban 2.5 mg PO BID  4. Atorvastatin 40 mg PO QPM  5. Clopidogrel 75 mg PO DAILY  6. Docusate Sodium 100 mg PO DAILY  7. Gabapentin 600 mg PO QHS  8. Labetalol 200 mg PO TID  9. linaGLIPtin 5 mg oral Daily  10. Losartan Potassium 50 mg PO DAILY  11. Torsemide 60 mg PO DAILY  12. TraZODone 50 mg PO QHS  13. Vitamin D ___ UNIT PO DAILY 
+
+ Discharge Disposition: Home  Discharge Diagnosis: Decompensated HFpEF HTN, history of pheochromocytoma Atrial fibrillation Sick sinus syndrome
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr. ___,
+
+You were admitted to the hospital because you were short of breath and your blood pressures were very high. 
+
+Please see below for more information on your hospitalization. It was a pleasure participating in your care!   What happened while you were in the hospital?  - We gave you some medications to bring your blood pressure down. We ordered some tests to see if your elevated pressure could be related to your prior pheochromocytoma - the results were inconclusive. The endocrinology team saw you while you were here; they recommend you follow-up with your endocrinologist for more testing as an outpatient. - We believe your shortness of breath was related to your heart failure causing fluid buildup in your lungs. When your blood pressure is very elevated like it was, that can cause an exacerbation of your heart failure. - We gave you diuretic medications through the IV to help remove the fluid and improve your heart failure.
+
+What should you do after leaving the hospital?  - Do not take your torsemide today; please resume your regular home dose of torsemide 60mg daily on ___. - You have a new blood pressure medication called doxazosin. You should take 6mg (3 pills) daily. - You have an appointment this ___ to see the heart failure team. They will check your weight and make sure your kidney function is ok. - Please take your medications as listed below and follow up at the listed appointments. - Please weigh yourself every morning and call your doctor if weight goes up more than 3 lbs.
+
+We wish you the best! 
+
+- Your ___ Healthcare Team   Followup Instructions: ___ 

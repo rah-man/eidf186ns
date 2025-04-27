@@ -1,0 +1,8 @@
+T1	Independently_mobile 7379 7403	Ambulatory - Independent
+T2	Delirium 7295 7313	Clear and coherent
+A1	Negation T2
+T3	Delirium 1139 1142;1143 1146	A/O X 3
+A2	Negation T3
+T4	Has_carers 7077 7084	Service
+T5	Delirium 1401 1409;1410 1412	Oriented x3
+A3	Negation T5

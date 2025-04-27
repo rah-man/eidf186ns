@@ -1,0 +1,53 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Bactrim DS / Cipro / Doxycycline / Augmentin  Attending: ___.  Chief Complaint: Weakness
+
+ Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ year old with a history of asthma, hypertension, dementia and bronchiectasis who presents with weakness and difficulty ambulating. Most of the history is obtained from Ms. ___ son as Ms. ___ is not cooperative and disoriented. 
+
+Up until 2 nights ago, Ms. ___ had been ambulatory. She lives with her son and daughter-in-law and they provide 24 hour supervision. 2 nights ago, she said she could not get out of the chair and needed assistance going to the rest room. They assisted her there, but on the way she slumped to the floor. She did not lose consciousness; however she felt weak. She does have pain that is polyarticular and moves throughout the day. Her son recalls that he found her at the side of her bed several weeks ago and she said that she had fallen, but no one witnessed it. There was no evidence of injury or head strike. Per her son, she is oriented x1-2 at baseline and this has been a process over the last several years.
+
+She has not expressed any infectious symptoms and has not had any fevers, chills, nausea, vomiting, diarrhea or constipation. She has had urinary incontinence which is old, as well as occassional fecal incontinence which is also old. 
+
+In the ED, initial vitals:98.5 100 123/94 18 96%. Head CT with no acute process. Labs unremarkable. CXR and UA without obvious infectious signs. She was not given any fluids and she was given her home meds in the ED. Vitals prior to transfer: 97.7 72 155/74 18 100% 
+
+Currently, she is answering questions, but she is oriented x1. She is refusing to cooperate with all parts of the exam. She denies any symptoms currently with the exception of pain in her legs.  ROS: per HPI, denies fever, chills, night sweats, headache, vision changes, congestion, sore throat, cough, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, hematuria. 
+
+ Past Medical History: ASTHMA BRONCHIECTASIS HYPERTENSION OAB SPINAL STENOSIS TRANSIENT ISCHEMIC ATTACK ULCERATIVE COLITIS Dementia
+
+ Social History: ___ Family History: Not relevant to this hospitalization.  Physical Exam: VS - Temp 98.4F, BP 176/64, HR 81, R 14, O2-sat 100% RA  GENERAL - NAD, comfortable, disoriented but answering questions 
+
+HEENT - NC/AT, PERRLA, normal sporadic eye movements, sclerae anicteric, dry MM, OP clear  NECK - supple, no thyromegaly, no JVD HEART - Pt. refused and physically resisted against exam, limited exam without gross abnormality LUNGS - Pt. refused and physically resisted against exam, limited exam without gross abnormality ABDOMEN - Pt. refused and physically resisted against exam, limited exam without gross abnormality EXTREMITIES - No edema, bilateral knee swelling without effusion, no erythema, breakdown or warmth. Very mild TTP.  SKIN - no rashes or lesions on limited exam NEURO - No cooperation. Answers questions appropriately, but content is wrong. She is oriented x1. Moving all extremities, but will not allow for any focal assessment. 
+
+ Pertinent Results: Admission Labs: ___ 01:45PM BLOOD WBC-8.1 RBC-4.10* Hgb-11.8* Hct-37.2 MCV-91 MCH-28.8 MCHC-31.8 RDW-13.6 Plt ___ ___ 02:23PM BLOOD ___ PTT-31.5 ___ ___ 01:45PM BLOOD Glucose-112* UreaN-26* Creat-1.1 Na-140 K-4.2 Cl-107 HCO3-23 AnGap-14 ___ 01:45PM BLOOD Calcium-10.2 Phos-2.5* Mg-2.2
+
+Discharge Labs: ___ 07:05AM BLOOD WBC-6.3 RBC-3.91* Hgb-11.2* Hct-35.2* MCV-90 MCH-28.6 MCHC-31.8 RDW-13.4 Plt ___ ___ 07:05AM BLOOD Glucose-88 UreaN-21* Creat-1.1 Na-142 K-4.4 Cl-110* HCO3-26 AnGap-10 ___ 07:05AM BLOOD Calcium-9.4 Phos-3.7 Mg-2.2
+
+Metabolic: ___ 07:25AM BLOOD ESR-14 ___ 01:45PM BLOOD cTropnT-0.01 ___ 07:25AM BLOOD TSH-0.62
+
+Studies: EKG: Normal sinus rhythm. Left anterior hemiblock. Compared to the previous tracing of ___ there is no significant change.   CXR: IMPRESSION: Mild bibasilar atelectasis and possible trace bilateral pleural effusions versus pleural thickening. Probable COPD.   CT C-Spine: IMPRESSION: 1. Moderate multilevel cervical spine degenerative disease. No cervical spine fracture. 2. Hyperdense nodules in the thyroid gland. Consider nonemergent thyroid ultrasound, if clinically indicated. 
+
+CT Head: IMPRESSION: 1. No acute intracranial process.  2. Right posterior frontal hypodensity, new from ___,  likely represents subacute lacunar infarct.  
+
+ Brief Hospital Course: ___ year old with a history of asthma, hypertension, dementia and bronchiectasis who presents with weakness and difficulty ambulating.   #. Mechanical fall: Possible presyncope in the setting of having limited access to PO intake with difficulty ambulating. Difficult exam to fully assess given her difficulty following commands. She did not have any gross deficits, however she was a max 2 assist on eval by ___. Over the course of her hospitalization she improved enough to be discharged home with 24 hour assistance and ___. She was resuscitated with small amounts of IVF (less than 2L) and improved. Her metabolic and imaging work-up was unrevealing. 
+
+#. Past history of TIA: Currently without evidence of new event. She is on BID dipyramidole and aspirin at home. Continued her home medications. 
+
+#. Dementia: Slow decline and chronic in nature over the past several years. At baseline according to her son from a mental status standpoint. 
+
+#. Asthma: Chronic, complicated by bronchiectasis. Not currently on treatment. Stable from a respiratory standpoint.  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Theophylline ER (Uniphyl) 400 mg PO DAILY 2. Aspirin 162 mg PO BID 3. Dipyridamole 25 mg PO BID 
+
+ Discharge Medications: 1. Aspirin 162 mg PO BID 2. Dipyridamole 25 mg PO BID 3. Theophylline ER (Uniphyl) 400 mg PO DAILY 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: - Dehydration - Deconditioning
+
+ Discharge Condition: Mental Status: Confused - always. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Ms. ___, 
+
+It was a pleasure taking part in your care. You were admitted because of weakness. You were treated with IV fluids for dehydration. Your blood work was unremarkable and there were no signs of infection on your chest x-ray, in your urine, or in your blood. 
+
+Physical therapy worked with you during your stay, and you improved to the point of being able to go home with assistance. 
+
+We have not made any changes to your medications. 
+
+Please follow-up with Dr. ___ at the appointment below.  Followup Instructions: ___ 

@@ -1,0 +1,14 @@
+T4	Mobile_with_aid 10559 10569	wheelchair
+A2	Type_of_aid T4 Wheelchair
+T5	Constipation 9167 9179	Constipation
+A3	Diagnosis T5 Implicit_mention
+T8	Delirium 2832 2837	A&Ox3
+T9	Intracranial_haemorrhage 1483 1507	intracerebral hemorrhage
+A6	Diagnosis T9 Implicit_mention
+T10	Dementia 1446 1454	dementia
+A7	Diagnosis T10 Implicit_mention
+T11	Constipation 9062 9074	Constipation
+A8	Diagnosis T11 Implicit_mention
+T2	Mobile_with_assistance 10520 10555	Out of Bed with assistance to chair
+T1	Delirium 10421 10454	Mental Status: Clear and coherent
+A1	Negation T1

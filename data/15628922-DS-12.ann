@@ -1,0 +1,8 @@
+T1	Weight_loss 1612 1623	weight loss
+T2	Upper_gastrointestinal_haemorrhage 1666 1677	dark stools
+A1	Diagnosis T2 Suspected
+T8	Upper_gastrointestinal_haemorrhage 1749 1764	blood in emesis
+A6	Negation T8
+T3	Independently_mobile 9799 9823	Ambulatory - Independent
+T4	Delirium 9700 9734	Mental Status: Clear and coherent.
+A2	Negation T4

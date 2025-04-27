@@ -1,0 +1,10 @@
+T2	Seizures 2181 2189	seizures
+A2	Diagnosis T2 History_of
+T4	Lower_gastrointestinal_haemorrhage 1850 1855	brbpr
+A3	Negation T4
+T5	Delirium 3086 3094	oriented
+A4	Negation T5
+T1	Lower_respiratory_tract_infection 1522 1525	pna
+A1	Negation T1
+T3	Lower_respiratory_tract_infection 5126 5135	pneumonia
+A5	Negation T3

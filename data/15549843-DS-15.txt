@@ -1,0 +1,35 @@
+ Name: ___.       Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Penicillin V / Sulfa (Sulfonamide Antibiotics) / Avelox / Latex  Attending: ___  Chief Complaint: Confusion  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ year old female with dementia living at an assisted living, multiple myeloma on Velcade/Dexamethasone (last dose ___ who was recently admitted here from ___ to ___ and was initially treated for HSV meningitis and then HCAP. Today at 3PM she was noted to have altered mental status and was sent to the ED for evaluation. 
+
+In the ED T 100.8, HR 96, BP 144/94, RR 18, SpO2 92% RA. A head CT was attempted but could not be obtained secondary to movement. Blood cultures X 2 were drawn as well as UA/UCx sent. She was given acetaminophen, Vanco and Cefepime IV, Mirtazapine and 1L NS. Per report she also was given Zydis IM but this was not found in ED log.
+
+When seen the patient reported that she had had a bad day because she was kidnapped and taken to basement. She was orientd to time and ___ but did not follow her medical course. She had no complaints and had just finished dinner. On detailed ROS she reported that in the last days she had been having a cough, but she was not aware of feeling feverish or chilled. She denies headache, neck pain, bone pain, dysuria. She thinks that she has been having regular bowel movements.
+
+ Past Medical History: - Atrial fibrillation (on metoprolol, amiodarone), not on anticoagulation. Followed by Dr. ___ - ___ syncope - Spinal stenosis: L4-L5 laminectomy (___), L5-S1 laminectomy (___) - Cervical spondylysis (@___) - Hypothyroidism: secondary to amiodarone toxicity - MGUS - Hypertension - GERD - Osteoporosis - Spasmotic torticollis (___): receives botulinum toxin injections - Sjogren's syndrome (___): ___ 1:40, speckeled - Gastric/colonic polyps (benign, ___ - Right TKA (___) - Paraumbilical hernia - Iron-deficiency anemia  Social History: ___ Family History: Patient denies any history of cancer in the family.  Physical Exam: PHYSICAL EXAM: VITAL SIGNS: T 98.1, BP 113/71, HR 81, RR 20, SpO2 95% RA
+
+General: Fairly well-appearing woman in NAD seen eating peanut butter and jelly sandwich. Talkative and insisting on wanting to move rooms. HEENT: NC/AT, PERRL, MMM, no OP lesions, prominent R submandibular gland CV: RR, RUSB SEM, SEM at L axilla, nl S1S2 PULM: right base crackles, moving air well, no wheezing ABD: BS+, soft, NTND, no masses or hepatosplenomegaly LIMBS: No edema, no calf ttp SKIN: No rashes or skin breakdown NEURO: oriented to self, ___, ___, neurologic exam limited but strength intact X 4 extremities and CN II-XII appear to be intact (visual acuity and fields not tested)
+
+ Pertinent Results: Admissions labs: 
+
+___ 08:50PM BLOOD WBC-13.2*# RBC-3.35* Hgb-10.0* Hct-31.2* MCV-93 MCH-30.0 MCHC-32.2 RDW-13.4 Plt ___ ___ 08:50PM BLOOD ___ PTT-28.6 ___ ___ 08:50PM BLOOD Glucose-115* UreaN-9 Creat-0.8 Na-134 K-4.9 Cl-95* HCO3-25 AnGap-19 ___ 08:50PM BLOOD proBNP-421 ___ 08:50PM BLOOD Calcium-8.6 Phos-4.2 Mg-1.9 ___ 09:07PM BLOOD Lactate-2.1* K-4.9
+
+Discharge labs  Brief Hospital Course: #Altered mental status: patient was brought to the ED with confusion. Upon arrival to the floor, the patient was AO x 3 and seemed back to her normal baseline. She was appropriate, able to follow commands on exam. This new mental status change as described by her aide ___ could represent a new normal for the patient. 
+
+#?HCAP: patient had increased retrocardiac opacity on the admission and HCAP treatment was initiated. She was afebriled >24 hrs off antibiotics so the team was comfortable stopping her antibiotics indefinitely. 
+
+#Dementia: The patient was forgetful during her stay but at baseline. No episodes of hallucinations. She did not sundown and responded well to Zydis at bedtime.  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Amiodarone 200 mg PO DAILY 2. Bisacodyl 30 mg PO HS 3. ClonazePAM 0.5 mg PO TID 4. Gabapentin 300 mg PO HS 5. Levothyroxine Sodium 25 mcg PO DAILY 6. Mirtazapine 15 mg PO HS 7. OxyCODONE SR (OxyconTIN) 20 mg PO Q12H 8. Polyethylene Glycol 17 g PO DAILY 9. Senna 17.2 mg PO BID 10. pilocarpine HCl 10 mg oral bid 11. OxycoDONE (Immediate Release) 10 mg PO Q8H 12. OxycoDONE (Immediate Release) 10 mg PO QHS PRN pain 
+
+ Discharge Medications: 1. Amiodarone 200 mg PO DAILY 2. Bisacodyl 30 mg PO HS 3. ClonazePAM 0.5 mg PO TID 4. Mirtazapine 15 mg PO HS 5. OxyCODONE SR (OxyconTIN) 20 mg PO Q12H 6. Polyethylene Glycol 17 g PO DAILY 7. Senna 17.2 mg PO BID 8. pilocarpine HCl 10 mg oral bid 9. OLANZapine (Disintegrating Tablet) 5 mg PO QHS RX *olanzapine 5 mg 1 tablet(s) by mouth At Bedtime Disp #*30 Tablet Refills:*0 10. Gabapentin 300 mg PO HS 11. Levothyroxine Sodium 25 mcg PO DAILY 12. Benzonatate 100 mg PO TID RX *benzonatate 100 mg 1 capsule(s) by mouth Three times daily Disp #*90 Capsule Refills:*0 13. OxycoDONE (Immediate Release) ___ mg PO QHS PRN pain RX *oxycodone 5 mg ___ tablet(s) by mouth HS Disp #*30 Tablet Refills:*0 14. OxycoDONE (Immediate Release) 5 mg PO Q8H:PRN pain RX *oxycodone 5 mg 1 tablet(s) by mouth Every 8 hours Disp #*90 Tablet Refills:*0
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Primary: Altered Mental Status
+
+Secondary: Multiple myeloma, dementia
+
+ Discharge Condition: Mental Status: Confused - sometimes. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Ms. ___, 
+
+It was a pleasure participating in your care at ___ ___. You were admitted to the hospital for confusion. You were briefly given antibiotics, but these were soon stopped because you did not seem to have an infection. 
+
+Please continue taking your medications as prescribed and follow up with your doctors at your ___ appointments.  Followup Instructions: ___ 

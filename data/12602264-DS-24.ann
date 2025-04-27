@@ -1,0 +1,63 @@
+T1	Falls 9179 9183	fall
+T2	Delirium 202 223	Altered Mental Status
+T3	Dementia 361 369	dementia
+A1	Diagnosis T3 History_of
+T4	Falls 657 661	fall
+T5	Proximal_humeral_fracture 623 639	humerus fracture
+T6	Delirium 729 737	delirium
+T7	Urinary_tract_infection 739 742	UTI
+T8	Delirium 909 917	confused
+A2	Diagnosis T8 Implicit_mention
+T9	Proximal_humeral_fracture 2430 2446	humerus fracture
+T10	Unspecified_cognitive_impairment 1897 1902	AAOx2
+T11	Unspecified_cognitive_impairment 2341 2361	Cognitive impairment
+T13	Unspecified_cognitive_impairment 4131 4139;4140 4152	oriented to self only
+T12	Unspecified_cognitive_impairment 3391 3399	oriented
+T14	Dementia 7848 7856	dementia
+A3	Diagnosis T14 History_of
+T15	Upper_gastrointestinal_haemorrhage 8385 8401	dark loose stool
+A4	Low_confidence T15
+T16	Lower_respiratory_tract_infection 8854 8863	pneumonia
+T17	Lower_respiratory_tract_infection 8865 8886	Hospital acquired PNA
+T18	Lower_respiratory_tract_infection 8924 8927	PNA
+T19	Lower_respiratory_tract_infection 9070 9073	PNA
+T20	Lower_respiratory_tract_infection 9464 9468	HCAP
+T21	Lower_respiratory_tract_infection 9484 9489	PNA c
+T22	Constipation 13473 13485	constipation
+A5	Diagnosis T22 Implicit_mention
+T23	Constipation 14046 14058	constipation
+A6	Diagnosis T23 Implicit_mention
+T24	Constipation 15312 15324	constipation
+A7	Diagnosis T24 Implicit_mention
+T25	Constipation 15365 15377	constipation
+A8	Diagnosis T25 Implicit_mention
+T26	Lower_respiratory_tract_infection 15559 15568	Pneumonia
+T27	Delirium 15588 15602	encephalopathy
+T28	Delirium 15661 15669	Confused
+T29	Mobile_with_assistance 15746 15772	Out of Bed with assistance
+T30	Mobile_with_aid 15785 15795	wheelchair
+A9	Type_of_aid T30 Wheelchair
+T31	Lower_respiratory_tract_infection 15878 15887	pneumonia
+T32	Lower_respiratory_tract_infection 10805 10808	PNA
+T33	Lower_respiratory_tract_infection 9727 9730	PNA
+T34	Lower_respiratory_tract_infection 10017 10026	pneumonia
+A10	Diagnosis T34 Suspected
+T35	Upper_gastrointestinal_haemorrhage 8557 8566	upper GIB
+T36	Lower_respiratory_tract_infection 8061 8064	PNA
+T37	Lower_respiratory_tract_infection 7520 7529	pneumonia
+A11	Diagnosis T37 Suspected
+T38	Visual_impairment 3788 3799	poor vision
+T39	Pressure_injury 3356 3367	ulcerations
+A12	Negation T39
+A13	Low_confidence T39
+T40	Delirium 540 549	confusion
+T41	Pressure_injury 4096 4107	ulcerations
+A14	Negation T41
+A15	Low_confidence T41
+T42	Upper_gastrointestinal_haemorrhage 8150 8159	upper GIB
+T43	Delirium 8958 8981	worsening mental status
+T44	Delirium 1857 1866	Mentating
+A16	Negation T44
+T45	Lower_respiratory_tract_infection 11193 11202	pneumonia
+T46	Upper_gastrointestinal_haemorrhage 16074 16082;16149 16157	duodenum bleeding
+A17	Diagnosis T46 Implicit_mention

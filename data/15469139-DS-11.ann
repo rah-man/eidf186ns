@@ -1,0 +1,19 @@
+T3	Delirium 1828 1833	A+Ox3
+A2	Negation T3
+T6	Upper_gastrointestinal_haemorrhage 5639 5644;5677 5682	blood vomit
+T7	Lower_gastrointestinal_haemorrhage 5639 5644	blood
+A3	Diagnosis T7 Implicit_mention
+A4	Diagnosis T6 Implicit_mention
+T8	Lower_gastrointestinal_haemorrhage 5693 5698	bowel
+A5	Diagnosis T8 Implicit_mention
+T9	Upper_gastrointestinal_haemorrhage 5648 5658	dark/black
+A6	Diagnosis T9 Implicit_mention
+T10	Lower_gastrointestinal_haemorrhage 5677 5682	vomit
+A7	Diagnosis T10 Implicit_mention
+T11	Lower_gastrointestinal_haemorrhage 5648 5658	dark/black
+A8	Diagnosis T11 Implicit_mention
+T12	Upper_gastrointestinal_haemorrhage 5693 5698	bowel
+A9	Diagnosis T12 Implicit_mention
+T2	Independently_mobile 4838 4862	Ambulatory - Independent
+T1	Delirium 4739 4772	Mental Status: Clear and coherent
+A1	Negation T1

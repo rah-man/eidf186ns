@@ -1,0 +1,77 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: Abdominal pain  Major Surgical or Invasive Procedure: NG tube placement Upper endoscopy with duodenal stent placement
+
+ History of Present Illness: ___ is a ___ year old man with metastatic gallbladder cancer on palliative FOLFIRI, who is admitted from the ED with abdominal pain.
+
+Patient developed new abdominal pain starting yesterday around noon. The pain comes and goes and gets up to ___ in severity. It is located in the RUQ and does not radiate. He denies any nausea or vomiting, and his appetite has been pretty good. He is unsure of when his last BM was, and is unsure if he is passing flatus. He otherwise feels well without fevers or chills. No headaches. No dysphagia or odynophagia. No CP, SOB or cough. No dysuria. No new leg pain or swelling. He does not typically have cancer associated pain. 
+
+He presented to BID-N ED. There, CT a/p showed infiltrative mass of gallbladder fossa extending into the anterior abdominal wall, gastric antrum with subsequent distension of proximal stomach, and tethering of the ascending colon with proximal dilation of large bowel and small bowel c/w partial obstruction. Also noted to have 'kink' in his biliary stent. He was transferred to ___ for further management.
+
+In the ED, initial VS were pain 0, T 97.8, HR 76, P ___ RR 16, O2 99%RA. Labs notable for Na 140, K 3.9, HCO3 29, Cr 0.9, ALT 25, AST 23. ALP 77, TBili 0.5, Alb 3.5, WBC 4.6, HCT 34.4, PLT 90. Surgery and advanced endoscopy were consulted who recommended against intervention at this point. VS prior to admission were pain 0, T 97.8, HR 76, BP 109/66, RR 16, O2 99%Ra.
+
+ Past Medical History: PAST ONCOLOGIC HISTORY: Briefly, he was dx with metastatic adenocarcinoma of the GB in ___, received 13 C of gem/cis and in f/u was ___ until ___ when a soft tissue lesion was identified at the site of his original tumor and was determined to be a recurrence. Disease was also in the abdominal wall. CXT was restarted with FOLFOX --> disease progression ---> ___ he had ___ opinions at ___ and ___ and FOLFIRI was recommended of which was started ___. 
+
+* ___ after starting C2 he had to have treatment interrupted due to stricture --> metal stent placed (MRCP ___. * XRT consulted -no role * ___ started FOLFIRI and was "renamed" C2D1 * PET ___ (done after C4) * PET ___  PAST MEDICAL HISTORY: - Metastatic gallbladder cancer - Obstructive jaundice sp ERCP/biliary stent - Adrenal insufficiency - RLE DVT (___) - Lupus anticoagulant - Neuropathy - HTN - HLD - BPH - Hypothyroidism - Hx of GSW - Cataracts  Social History: ___ Family History: There is no family history of liver or gallbladder disease. Three of his siblings have lymphoma.
+
+ Physical Exam: ADMISSION PHYSICAL EXAM ======================= VS: T 97.8 HR 84 BP 103/72 RR 20 SAT 96% O2 on RA GENERAL: Very pleasant man, appears younger than stated age, sitting up comfortably in bed in no distress. EYES: Anicteric sclerea, PERLL, EOMI; ENT: Oropharynx clear without lesion, JVD not elevated CARDIOVASCULAR: Regular rate and rhythm, no murmurs, rubs, or gallops RESPIRATORY: Appears in no respiratory distress, clear to auscultation bilaterally, no crackles, wheezes, or rhonchi GASTROINTESTINAL: Normal bowel sounds; nondistended; soft, mildly tender in RUQ without rebound or guarding; MUSKULOSKELATAL: Warm, well perfused extremities without lower extremity edema; Normal bulk NEURO: Alert, oriented, motor and sensory function grossly intact SKIN: No significant rashes LYMPHATIC: No cervical, supraclavicular, submandibular lymphadenopathy. No significant ecchymoses
+
+DISCHARGE PHYSICAL EXAM ====================== VS:24 HR Data (last updated ___ @ 802)   Temp: 98.3 (Tm 98.8), BP: 124/78 (67-126/40 sitting on sidfe of bed-78), HR: 94 (86-102), RR: 18 (___), O2 sat: 94% (92%-96), O2 delivery: Ra, Wt: 192.1 lb/87.14 kg (192.1-192.2)  
+
+GENERAL: pleasant man, laying in bed in no acute distress, tired, NGT in place draining dark brown-green fluid EYES: Anicteric sclerea, EOMI ENT: NGT in place. Oropharynx clear without lesion CARDIOVASCULAR: Regular rate and rhythm, no murmurs, rubs, or gallops RESPIRATORY: Appears in no respiratory distress, clear to auscultation bilaterally, no crackles, wheezes, or rhonchi GASTROINTESTINAL: Normal bowel sounds; mildly distended, soft with no tenderness on palpation, rebound or guarding; no peritoneal signs MUSKULOSKELATAL: Warm, well perfused extremities. trace non-pitting edema in all extremities NEURO: Alert, oriented, motor function grossly intact SKIN: No significant rashes
+
+ Pertinent Results: ADMISSION LABS ============== ___ 04:50PM BLOOD WBC-4.6 RBC-3.21* Hgb-11.5* Hct-34.4* MCV-107* MCH-35.8* MCHC-33.4 RDW-15.3 RDWSD-59.8* Plt Ct-90* ___ 04:50PM BLOOD Neuts-40 Bands-0 ___ Monos-12 Eos-3 Baso-0 Atyps-1* ___ Myelos-0 AbsNeut-1.84 AbsLymp-2.07 AbsMono-0.55 AbsEos-0.14 AbsBaso-0.00* ___ 06:00AM BLOOD ___ PTT-26.9 ___ ___ 04:50PM BLOOD Glucose-102* UreaN-15 Creat-0.9 Na-140 K-3.9 Cl-102 HCO3-29 AnGap-9* ___ 04:50PM BLOOD ALT-25 AST-23 AlkPhos-77 TotBili-0.5 ___ 04:50PM BLOOD Albumin-3.5 ___ 06:00AM BLOOD Calcium-8.0* Phos-3.3 Mg-1.9 ___ 05:06PM BLOOD Lactate-1.2
+
+DISCHARGE LABS ============= ___ 04:42AM BLOOD WBC-4.6 RBC-2.56* Hgb-8.7* Hct-26.9* MCV-105* MCH-34.0* MCHC-32.3 RDW-14.9 RDWSD-57.1* Plt ___ ___ 04:42AM BLOOD Glucose-94 UreaN-24* Creat-0.9 Na-141 K-3.6 Cl-105 HCO3-22 AnGap-14 ___ 04:42AM BLOOD ALT-23 AST-23 LD(LDH)-222 AlkPhos-70 TotBili-0.3 ___ 04:42AM BLOOD Calcium-7.8* Phos-2.4* Mg-1.9
+
+MICROBIOLOGY =========== ___ 4:52 pm BLOOD CULTURE Blood Culture, Routine (Final ___:  NO GROWTH. 
+
+IMAGING ========== ___ CXR Enteric tube coiled in the stomach. Partially imaged borderline dilated small bowel loops measuring up to 3.0 cm. If concern for bowel obstruction, dedicated abdominal radiographs or cross-sectional imaging may be considered.
+
+___ EGD Likely malignant antro-duodenal stricture s/p duodenal stent under endoscopic and fluoroscopic guidance
+
+ Brief Hospital Course: SUMMARY: ======== ___ is a ___ year old man with metastatic gallbladder cancer on palliative FOLFIRI, who is admitted from the ED with abdominal pain with CT findings concerning for partial bowel obstruction and kinked biliary stent s/p duodenal stent placement with improvement in symptoms.
+
+ACTIVE ISSUES: ============== # Metastatic gallbladder cancer # RUQ pain # Cancer associated pain # partial bowel obstruction # partial gastric outlet obstruction CT A/P at BID-N showed new infiltrative mass of gallbladder fossa extending into the anterior abdominal wall (new since the time of a PET in ___, gastric antrum with subsequent distension of proximal stomach, and tethering of the ascending colon with proximal dilation of large bowel and small bowel c/w partial obstruction. Following admission his pain was controlled with Tylenol and he was PO challenged. He had large volume emesis and ongoing abdominal pain and nausea suggestive of ongoing obstruction. NGT was placed and set to low intermittent suction, and was noted to be draining dark guaiac+ fluid, though he had no evidence of ongoing GIB, and Hgb was stable this admission. However bleeding precautions were followed including IV BID PPI, 2 PIVs, active T&S. Maintence crystalloids were given at 100cc/hr while NPO with prn boluses. His abdominal pain resolved. LFTs were monitored and remained within normal limits. He underwent upper endoscopy with duodenal stent placement on ___. His NGT was removed. His diet was advanced to a regular, low fiber diet, which he was instructed to continue following discharge.
+
+# Constipation Per family report, he had not been taking his home bowel regimen regularly prior to admission. Aggressive non-stimulatory bowel regimen with miralax TID and docusate BID was given during this admission. He was given lactulose x1 on ___ and bisacodyl suppositories as needed. Opiates were avoided given constipation. Upon discharge, he was instructed to continue taking decussate BID, with Miralax PRN.
+
+# Adrenal insufficiency Continued his home hydrocortisone 10mg qam; 5mg q 2pm; fludrocortisone 0.1mg daily. He was given stress dose hydrocortisone while NPO, which was tapered and discontinued prior to discharge. Due to low blood pressures, his home hydrocortisone doses were doubled. He was instructed to continue to take double his home steroid regimen upon going home.
+
+# Anemia in malignancy # Thrombocytopenia Counts were noted to be dropping in the setting of chemotherapy, he was monitored for signs and symptoms of bleeding and his counts were followed with daily CBC.
+
+# Lupus anticoagulant # History of DVT His home apixiban 2.5 mg PO BID was held while he was NPO, especially given his low platelets and concern for GI bleeding giving dark emesis that was guaiac positive. He was transitioned to lovenox 40 mg SQH daily for DVT prophylaxis while NPO. Prior to discharge, his apixiban 2.5 BID was restarted without evidence of bleeding.
+
+CHRONIC ISSUES: =============== # Hypothyroidism: his home levothyroxine was given IV while he was NPO, then was restarted as PO.
+
+# Hypertension: Home lisinopril was initially held while NPO with low blood pressures, then restarted. However, his blood pressure remained lower than his baseline, possibly due to adrenal insufficiency and stress of acute illness, so his lisinopril was held at time of discharge.
+
+# BPH: Flomax was held initially while NPO, then restarted.
+
+TRANSITIONAL ISSUES: ==================== [] His outpatient providers should further titrate his bowel regimen medications. [] His home lisinopril was held on discharge due to hypotension. His outpatient providers should restart this medication if appropriate. [] He was instructed to double his dose of hydrocortisone until follow up with his PCP. If blood pressures stable, consider returning to his normal dose. [] The outpatient oncology team was in contact with his primary oncologist regarding his treatment regimen given the progression of disease noted on CT scan. He will follow up with his oncologist on ___ as previously scheduled.
+
+CODE: Full (confirmed) EMERGENCY CONTACT HCP: Name of health care proxy: ___, Relationship: Wife Phone number: ___ Cell phone: ___  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Atorvastatin 10 mg PO QPM 2. diclofenac sodium 0.1 % BOTH EYES TID 3. Fludrocortisone Acetate 0.1 mg PO DAILY 4. Gabapentin 600 mg PO BID 5. Hydrocortisone 10 mg PO DAILY 6. Levothyroxine Sodium 88 mcg PO 6X/WEEK (___) 7. Lisinopril 5 mg PO DAILY 8. Omeprazole 40 mg PO BID 9. Potassium Chloride 20 mEq PO DAILY 10. Tamsulosin 0.4 mg PO QHS 11. Durezol (difluprednate) 0.05 % ophthalmic (eye) QID 12. Ciprofloxacin HCl 500 mg PO Q12H 13. Acetaminophen 650 mg PO Q6H 14. Apixaban 2.5 mg PO BID 15. Hydrocortisone 5 mg PO QPM 16. Levothyroxine Sodium 176 mcg PO 1X/WEEK (___) 17. Docusate Sodium 100 mg PO BID:PRN Constipation - Second Line 
+
+18. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Second Line 19. Senna 8.6 mg PO BID:PRN Constipation - Second Line 20. Magnesium Oxide 400 mg PO BID 21. Phosphorus 250 mg PO DAILY 
+
+ Discharge Medications: 1. Multivitamins W/minerals 1 TAB PO DAILY  2. Hydrocortisone 10 mg PO QPM  3. Hydrocortisone 20 mg PO DAILY  4. Acetaminophen 650 mg PO Q6H  5. Apixaban 2.5 mg PO BID  6. Atorvastatin 10 mg PO QPM  7. diclofenac sodium 0.1 % BOTH EYES TID  8. Docusate Sodium 100 mg PO BID:PRN Constipation - Second Line  9. Durezol (difluprednate) 0.05 % ophthalmic (eye) QID  10. Fludrocortisone Acetate 0.1 mg PO DAILY  11. Gabapentin 600 mg PO BID  12. Levothyroxine Sodium 88 mcg PO 6X/WEEK (___) 
+
+13. Levothyroxine Sodium 176 mcg PO 1X/WEEK (___)  14. Magnesium Oxide 400 mg PO BID  15. Omeprazole 40 mg PO BID  16. Phosphorus 250 mg PO DAILY  17. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Second Line  18. Potassium Chloride 20 mEq PO DAILY Hold for K >  19. Senna 8.6 mg PO BID:PRN Constipation - Second Line  20. Tamsulosin 0.4 mg PO QHS  21. HELD- Lisinopril 5 mg PO DAILY This medication was held. Do not restart Lisinopril until you talk to your primary care doctor
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Primary diagnoses: Partial bowel obstruction Partial gastric outlet obstruction
+
+Secondary diagnoses: Cancer associated pain Constipation Adrenal insufficiency History of deep vein thrombosis Lupus anticoagulant
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr. ___,
+
+It was a pleasure caring for you at ___ ___.
+
+WHY WAS I IN THE HOSPITAL? - You had stomach pain and a scan of your belly made us worried that you had a partial obstruction in your GI tract.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL? - We put a tube in your stomach to help relieve the pressure that was built up because of obstruction. - We gave you medicines to control your nausea and to keep your stool soft. - We gave you IV fluids to keep you hydrated while you were unable to eat and drink. - A scope procedure (endoscopy) was used to look at your GI tract and a narrow area was seen. A stent was put into the first part of your intestines (duodenum) to help keep your intestine open.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL? - Continue to eat a low fiber diet and take your stool softeners regularly. You should try to have a bowel movement once per day. If you are straining or not having enough bowel movements you should take miralax once daily. - Continue to take all your medicines and keep your appointments. - Take the steroids at double dose until ___ at your primary care appointment.
+
+We wish you the best!
+
+Sincerely, Your ___ Team  Followup Instructions: ___ 

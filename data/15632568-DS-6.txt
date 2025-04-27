@@ -1,0 +1,69 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: hypotension  Major Surgical or Invasive Procedure: none  History of Present Illness: ___ with PMHx of ETOH cirrhosis (ascites, ___ edema), recently diagnosed invasive pancreatic CA s/p stent on ___, presumed extensive CAD, presenting to the ED from ERCP suite in ___ ___ for hypoxia. Pt arrived for ERCP appointment today where he was found to be hypoxic to 83% on room air and hypotensive. He was sent to the ED for further evaluation. 
+
+Of note, Mr. ___ was admitted to ___ from ___ for abdominal pain and jaundice. CT was concerned for obstructive tumor. Underwent ERCP on ___ that showed 3cm malignant appearing biliary stricture. Sphincterotomy was performed and biliary stent was placed. He underwent and EUS and biopsy on ___ that showed invasive pancreatic adenocarcinoma. Cytology sent on ascites was negative. Course complicated by ___ with Cr peak to 3.1 from unclear baseline. Cr at discharge 1.3. 
+
+Patient reports that since being discharged from the hospital he has been doing "fine." His wife reports that he isn't eating or drinking anything. He also has noted shortness of breath with ambulation, not at rest. He does endorse diarrhea and occasional non-bloody emesis. Today, he was so weak, he had to be carried down 5 stairs. Per reports, there had been talk about initiation of palliative care as a bridge to hospice. 
+
+In ED initial VS: T 99, HR 101, BP 88/62, RR 24, O2sat ___ 
+
+- Exam: no abdominal tenderness 
+
+- Labs significant for: wbc 14.4 (2% bands), Hgb 11.6. AST 62, ALT 30, Alk phos 458, Tbili 6. Na 142, K 4.2, Cr 1.5, bicarb 15. Gap 18. Lactate 6.6. Troponin 0.7. INR 1.2. 
+
+- ABG performed as they were having trouble getting peripheral O2 sats. pO2 191
+
+- EKG @ 11:41 showed sinus HR 103, sum 1mm STE in III, aVF, TWI V3-V5. 
+
+- CTA chest negative for PE, new T3 vertebral body compression without retropulsion. Moderate emphysema, no consolidation. Decreased bilateral loculated pleural effusions. Stable ascites. 
+
+ - CXR with bibasilar atelectasis and bronchitis with small bilateral pleural effusions.
+
+- Bedside ECHO - no pericardial effusion  
+
+- Cards consulted and felt that given CT scan with extensive calcifications in 3v, he likely has extensive CAD. Likely Type II NSTEMI. STE in inferior leads resolved after IVF. Recommended ASA 325mg, 81mg, atorva, and heparin gtt. 
+
+- Patient was given: 3L NS, Cefepime 2g, Aspirin 325mg, Atorvastatin 80mg, Heparin 3200units + 650units/hr started 1609 
+
+ - Repeat Lactate 3.9.  - VS prior to transfer: 99.0, 112, 94/50, 22, 100% Nasal Cannula   On arrival to the MICU, the patient wants to sleep. He reports pain everywhere, especially his left knee. Code status was discussed with the patient and the family, and the patient had difficulty grasping the concept. The family had a higher understanding, but the patient then said he wanted to be intubated if needed.  Past Medical History: - Adenocarcinoma of the pancreatic head  - Malignant Biliary Obstruction s/p sphincterotomy and stenting   - Cirrhosis: (possibly ETOH w/Ascites. alpha-1 anti tryps levels normal, ___ serology negative), SAAG 1.5 c/w Portal HTN.  - coagulopathy  - Macrocytic Anemia  - surgeries: right hip replacement ___ years ago - tobacco abuse   Social History: ___ Family History: -Denies known family history including no liver disease.  Physical Exam: ADMISSION EXAM: VITALS: 98.6, 107, 111/57, RR 21, 98% 4L GENERAL: elderly, cachectic man, yellow skin tone with dusky coloring, ill appearing, lethargic HEENT: PERRL, EOMI, dry MM, poor dentition NECK: supple LUNGS: diminished sound at bilateral bases, no wheezes, rales, rhonchi  CV: tachycardic, normal S1 S2, no murmurs, rubs, gallops  ABD: hypoactive bowel sounds, soft, exquisitely tender in epigastrum and RUQ to light palpation, no rebound, nontender in other quadrants EXT: Warm, well perfused, 2+ pulses. 1+ edema of feet. SKIN: jaundiced with dusky hue to him NEURO: CN II-XII intact, ___ strength in upper extremities, unwilling to move bilateral legs due to pain. 
+
+DISCHARGE EXAM: expired  Pertinent Results: ADMISSION LABS: ___ 11:49AM BLOOD WBC-14.4* RBC-3.60*# Hgb-11.6*# Hct-35.3*# MCV-98 MCH-32.2* MCHC-32.9 RDW-17.3* RDWSD-63.0* Plt ___ ___ 11:49AM BLOOD Neuts-90* Bands-2 Lymphs-5* Monos-1* Eos-0 Baso-0 Atyps-2* ___ Myelos-0 AbsNeut-13.25* AbsLymp-1.01* AbsMono-0.14* AbsEos-0.00* AbsBaso-0.00* ___ 11:49AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-1+ Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL Ovalocy-OCCASIONAL Target-OCCASIONAL Burr-1+ Tear Dr-1+ ___ 12:07PM BLOOD ___ PTT-33.6 ___ ___ 11:49AM BLOOD Glucose-99 UreaN-18 Creat-1.5* Na-142 K-4.2 Cl-109* HCO3-15* AnGap-22* ___ 11:49AM BLOOD ALT-30 AST-62* AlkPhos-458* TotBili-6.0* ___ 11:49AM BLOOD cTropnT-0.70* ___ 11:49AM BLOOD Albumin-2.5* Calcium-8.1* Phos-3.4 Mg-1.8 ___ 11:51AM BLOOD ___ pO2-20* pCO2-31* pH-7.35 calTCO2-18* Base XS--8 ___ 11:51AM BLOOD Lactate-6.6* ___ 11:51AM BLOOD O2 Sat-25
+
+PERTINENT LABS: 
+
+___ 11:49AM BLOOD cTropnT-0.70* ___ 06:39PM BLOOD CK-MB-40* cTropnT-0.63* ___ 03:03AM BLOOD CK-MB-48* MB Indx-10.5* cTropnT-1.08* ___ 04:50AM BLOOD Type-CENTRAL VE Temp-36.3 pO2-40* pCO2-35 pH-7.02* calTCO2-10* Base XS--22 ___ 05:36AM BLOOD ___ pO2-59* pCO2-31* pH-6.98* calTCO2-8* Base XS--25
+
+___ 11:51AM BLOOD Lactate-6.6* ___ 02:50PM BLOOD Lactate-3.9* ___ 02:41AM BLOOD Lactate-1.5 ___ 03:18AM BLOOD Lactate-5.7* ___ 05:36AM BLOOD Lactate-12.0*
+
+DISCHARGE LABS: expired
+
+MICRO: blood cx BLOOD CULTURE ___
+
+  Blood Culture, Routine (Preliminary):    ENTEROCOCCUS SP..  PRELIMINARY SENSITIVITY.      These preliminary susceptibility results are offered to help guide     treatment; interpret with caution as final susceptibilities may     change. Check for final susceptibility results in 24 hours. 
+
+               SENSITIVITIES: MIC expressed in MCG/ML            _________________________________________________________               ENTEROCOCCUS SP.               |  AMPICILLIN------------    R VANCOMYCIN------------    R
+
+  Aerobic Bottle Gram Stain (Final ___:    GRAM POSITIVE COCCI IN CHAINS.    Reported to and read back by ___ (___) @ 841 ON ___. 
+
+Urine cx ___ negative 
+
+IMAGING: CXR Portable ___ Portable AP views of the chest were provided. There is no focal consolidation or pneumothorax. There are small bilateral pleural effusions, greater on the left. Emphysematous changes are re-demonstrated. Streaky opacities in the lung bases may reflect areas of airway wall thickening with atelectasis. The cardiomediastinal silhouette is normal. Old right clavicular and multiple right rib fractures are noted.  IMPRESSION: Bibasilar atelectasis and bronchitis with small bilateral pleural effusions.
+
+CTA Chest ___ 1. No evidence of pulmonary embolism or acute aortic abnormality. 2. New moderate T3 vertebral body compression deformity without retropulsion. 3. Moderate emphysema. Bibasilar and left upper lobe mucous impaction with chronic airway wall thickening without focal consolidation. 4. Small loculated left and trace right pleural effusions decreased from ___. 5. Unchanged large ascites. 6. Hepatic steatosis.
+
+CT Abdomen Pelvic ___ 1. Diffusely dilated small bowel, with wall thickening, concerning for ischemia in the setting hypotension, given extensive atherosclerotic disease involving the superior mesenteric artery. 2. Wall edema throughout the colon, which may be related to third spacing or a nonspecific, infectious or inflammatory colitis. 3. Re-demonstration of a mass at the pancreatic head, with upstream dilatation of the pancreatic duct, compatible the patient's known pancreatic adenocarcinoma. 4. Omental stranding/caking, compatible with peritoneal carcinomatosis. Small volume ascites is unchanged. 5. Pneumobilia, compatible with CBD stent patency. 6. Distended, sludge filled gallbladder.
+
+TTE ___ The left atrium is normal in size. No atrial septal defect is seen by 2D or color Doppler. The estimated right atrial pressure is ___ mmHg. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Overall left ventricular systolic function is normal (LVEF = 70%). Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg). Doppler parameters are most consistent with Grade I (mild) left ventricular diastolic dysfunction. There is no ventricular septal defect. The right ventricular free wall thickness is normal. The right ventricular cavity is mildly dilated with severe global free wall hypokinesis and a positive ___ sign. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Mild (1+) aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. There is borderline pulmonary artery systolic hypertension. There is no pericardial effusion. 
+
+Compared with the prior study (images reviewed) of ___, right ventricular function is now depressed but the technically suboptimal nature of both studies precludes definitive compartison. 
+
+Knee films ___ There is mild medial compartment narrowing without significant osteophyte formation. No fracture or dislocation seen. There is a small joint effusion. There is extensive vascular calcification. No radiopaque foreign body seen.  IMPRESSION:  Mild degenerative changes, no acute bony injury seen.
+
+RUQ US ___ IMPRESSION:
+
+1. Tumefactive sludge in the gallbladder. 2. Echogenic liver and moderate ascites. 3. Right pleural effusion.
+
+CXR Portable ___ Lower inspiratory volumes with patchy opacities at both lung bases, compatible with collapse and/or consolidation, new compared with ___, and small bilateral effusions, which are also larger in the interim.  Mildly dilated patulous loop of small bowel in the left upper quadrant. Clinical correlation is requested.  Brief Hospital Course: ___ with PMHx of ETOH cirrhosis (ascites), recently diagnosed pancreatic CA s/p stent on ___, presumed extensive CAD, presenting to the ED from ERCP suite in ___ for  hypotension with concern for septic shock requiring pressors. Lactate initially 6.6 but improved with fluid resuscitation. Infectious w/u was notable for neg urine cx, blood cx growing GPC in chains that ultimately speciated to enterococcus. Was empirically treated w/ vanc/ceftazidime/flagyl due to concern for intraabdominal source in addition to empiric cdiff coverage. CTA was neg for PE. CT A/P showed Diffusely dilated small bowel, with wall thickening, concerning for ischemia in the setting hypotension. Surgery was consulted and given he would be a poor surgical candidate recommended NPO status, empiric antibiotics. Also s Wall edema throughout the colon, which may be related to third spacing or a nonspecific, infectious or inflammatory colitis as well as Omental stranding/caking, compatible with peritoneal carcinomatosis. There was some concern for abnormal gall bladder wall appearance. RUQ US showed Tumefactive sludge in the GB that was unchanged from prior. Course was c/p troponinemia. Troponin elevated to 0.7 on presentation, with <1mm STE in inferior leads on initial arrival. Cardiology consulted and believe that likely demand ischemia given improvement in STE once volume resuscitated. Initially managed with heparin gtt, but was stopped on ___ given downtrending troponin. TTE showed depressed RV function with ___ sign from unclear sign. After discussion with family, was made DNR, DNI. 
+
+On the night of ___ developed acute onset dyspnea and altered mental status. Extremities were noted to be cool and dusky. Lactate was found to be rising precipitously from 1.5 earlier in the day to a peak of 12. Became progressively more hypotensive requiring multiple pressors. EKG showed likely new STD in the precordial leads. Heparin gtt was started empirically in addition to linezolid empirically for VRE however continued to decompensate. Given the rapid decline and concern for ischemic bowel on earlier CT A/P, concern was that this was likely related to ongoing or worsening ischemic bowel, perhaps related to a new embolized clot given the acute decompensation. Blood gases showed worsening acidosis despite resuscitation and pressor support. Family was notified and came to the hospital. He ultimately passed away peacefully with his family at the bedside on the morning of ___.  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Calcium Carbonate 500 mg PO DAILY 2. Multivitamins 1 TAB PO DAILY 3. Pantoprazole 40 mg PO Q12H 4. Vitamin D 800 UNIT PO DAILY 5. Potassium Chloride 20 mEq PO DAILY 
+
+ Discharge Medications: expired  Discharge Disposition: Expired  Discharge Diagnosis: Septic shock Lactic acidosis Ischemic bowel  Discharge Condition: expired                ___ MD ___  Completed by: ___ 

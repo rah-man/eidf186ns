@@ -1,0 +1,34 @@
+T1	Pressure_injury 16682 16688;16697 16703;16716 16719	ulcers sacrum leg
+T4	Mobile_with_aid 15963 15973	wheelchair
+A1	Type_of_aid T4 Wheelchair
+T5	Lower_respiratory_tract_infection 15185 15194	pneumonia
+T6	Lower_respiratory_tract_infection 11307 11316	pneumonia
+T7	Lower_respiratory_tract_infection 11230 11239	PNEUMONIA
+T8	Lower_respiratory_tract_infection 9589 9598	pneumonia
+A2	Diagnosis T8 History_of
+A4	Diagnosis T7 History_of
+T9	Lower_respiratory_tract_infection 814 817	PNA
+A5	Diagnosis T9 History_of
+T10	Lower_respiratory_tract_infection 1006 1009	PNA
+A6	Diagnosis T10 History_of
+T11	Lives_in_carehome 1049 1061	nursing home
+T12	Lives_in_carehome 649 661	nursing home
+T13	Lower_respiratory_tract_infection 2448 2451	PNA
+A7	Diagnosis T13 Suspected
+T14	Delirium 3353 3361	oriented
+A8	Negation T14
+T15	Delirium 4104 4112	oriented
+A9	Negation T15
+T17	Lower_respiratory_tract_infection 6695 6704	pneumonia
+A11	Diagnosis T17 Suspected
+A3	Diagnosis T6 History_of
+T18	Pressure_injury 12871 12892	SACRAL PRESSURE ULCER
+T19	Pressure_injury 12948 12960	sacral ulcer
+T21	Lives_in_carehome 11212 11219	hospice
+T22	Lower_respiratory_tract_infection 9076 9079	PNA
+T23	Lower_respiratory_tract_infection 11453 11457	HCAP
+T27	Delirium 10717 10731	good mentation
+A10	Negation T27
+T2	Mobile_with_assistance 15924 15959	Out of Bed with assistance to chair
+T3	Delirium 15850 15883	Mental Status: Clear and coherent
+A12	Negation T3

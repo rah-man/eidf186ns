@@ -1,0 +1,24 @@
+T1	Constipation 5527 5539	constipation
+A1	Diagnosis T1 Implicit_mention
+T2	Constipation 6061 6073	constipation
+A2	Diagnosis T2 Implicit_mention
+T3	Constipation 647 659	constipation
+T4	Weight_loss 1526 1537	Weight Loss
+A3	Negation T4
+T5	Visual_impairment 1546 1557	Photophobia
+A4	Negation T5
+T6	Visual_impairment 1561 1575	Visual Changes
+A5	Negation T6
+T7	Constipation 1708 1720	Constipation
+A6	Negation T7
+T8	Lower_gastrointestinal_haemorrhage 1724 1736	Hematochezia
+A7	Negation T8
+T9	Urinary_incontinence 1842 1854	Incontinence
+A8	Negation T9
+A9	Low_confidence T9
+T10	Faecal_incontinence 1842 1854	Incontinence
+A10	Negation T10
+A11	Low_confidence T10
+T11	Delirium 2169 2174	CAOx3
+A12	Negation T11
+T12	Constipation 3861 3873	Constipation

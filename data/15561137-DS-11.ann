@@ -1,0 +1,39 @@
+T1	Upper_gastrointestinal_haemorrhage 264 267	GIB
+T2	Dementia 1231 1239	dementia
+A1	Diagnosis T2 History_of
+T3	Lower_respiratory_tract_infection 1433 1442	pneumonia
+A2	Diagnosis T3 History_of
+T4	Urinary_tract_infection 8078 8101	urinary tract infection
+T5	Lower_gastrointestinal_haemorrhage 7652 7676	gastointestinal bleeding
+A3	Diagnosis T5 Implicit_mention
+T6	Upper_gastrointestinal_haemorrhage 7127 7135;7139 7153	vomiting coffee grounds
+T7	Upper_gastrointestinal_haemorrhage 7185 7193;7201 7215	bleeding upper GI tract
+T8	Upper_gastrointestinal_haemorrhage 3238 3242	UGIB
+T9	Upper_gastrointestinal_haemorrhage 3344 3364	coffee ground emesis
+T10	Upper_gastrointestinal_haemorrhage 466 486	coffee ground emesis
+T11	Urinary_tract_infection 965 968	UTI
+T12	Upper_gastrointestinal_haemorrhage 899 913	coffee grounds
+T13	Upper_gastrointestinal_haemorrhage 1617 1636	dark coffee grounds
+T15	Upper_gastrointestinal_haemorrhage 3250 3275	UGIB/coffee ground emesis
+T16	Upper_gastrointestinal_haemorrhage 3809 3818;3870 3884	endoscopy resolved bleed
+A5	Negation T16
+T17	Upper_gastrointestinal_haemorrhage 4325 4339	upper GI bleed
+T18	Urinary_tract_infection 5037 5040	UTI
+T19	Upper_gastrointestinal_haemorrhage 6938 6966	Upper gastrointestinal bleed
+T20	Urinary_tract_infection 6991 7014	Urinary tract infection
+T21	Upper_gastrointestinal_haemorrhage 7222 7230;7235 7243	bleeding resolved
+T22	Upper_gastrointestinal_haemorrhage 7325 7330	bleed
+A6	Diagnosis T22 Implicit_mention
+T23	Urinary_tract_infection 7377 7400	urinary tract infection
+T24	Upper_gastrointestinal_haemorrhage 7818 7840	coffee ground vomiting
+A7	Diagnosis T24 Implicit_mention
+T25	Upper_gastrointestinal_haemorrhage 7746 7768	no additional bleeding
+A8	Negation T25
+A9	Diagnosis T10 Suspected
+A10	Diagnosis T12 Suspected
+A11	Diagnosis T13 Suspected
+A4	Diagnosis T9 Suspected
+T14	Urinary_tract_infection 4613 4616	UTI
+A12	Low_confidence T1
+T26	Lower_gastrointestinal_haemorrhage 263 267	:GIB
+A13	Low_confidence T26

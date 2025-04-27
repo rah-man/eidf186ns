@@ -1,0 +1,16 @@
+T1	Has_carers 8179 8186	Service
+T2	Delirium 8381 8399	Clear and coherent
+A1	Negation T2
+T3	Independently_mobile 8465 8489	Ambulatory - Independent
+T4	Constipation 7573 7585	constipation
+A2	Diagnosis T4 Implicit_mention
+T5	Lower_respiratory_tract_infection 5364 5381	COPD exacerbation
+T6	Lower_respiratory_tract_infection 5893 5897;5910 5922	COPD exacerbation
+T7	Lower_respiratory_tract_infection 433 450	COPD exacerbation
+T8	Lower_respiratory_tract_infection 474 483	pneumonia
+T9	Urinary_incontinence 2042 2062	Urinary incontinence
+T10	Lower_respiratory_tract_infection 4430 4439	pneumonia
+T11	Constipation 7024 7036	constipation
+A3	Diagnosis T11 Implicit_mention
+T12	Unspecified_cognitive_impairment 2573 2582	AAOx self
+A4	Diagnosis T9 History_of

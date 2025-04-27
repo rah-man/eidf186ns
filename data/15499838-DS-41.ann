@@ -1,0 +1,37 @@
+T2	Mobile_with_aid 625 635	wheelchair
+A1	Type_of_aid T2 Wheelchair
+T3	Urinary_tract_infection 937 941	UTIs
+A2	Diagnosis T3 History_of
+T4	Bed_Chairbound 10570 10578	Bedbound
+T5	Delirium 10432 10446	Encephalopathy
+T6	Urinary_tract_infection 7861 7865	UTIs
+A3	Diagnosis T6 History_of
+T7	Urinary_tract_infection 7907 7911	UTIs
+A4	Diagnosis T7 Suspected
+T8	Delirium 7081 7094;7104 7108	mental status poor
+T9	Urinary_tract_infection 6765 6768	UTI
+A5	Diagnosis T9 History_of
+T13	Intracranial_haemorrhage 6135 6139;6364 6374	HEAD hemorrhage
+A7	Negation T13
+T14	Delirium 7239 7253	Encephalopathy
+T15	Lower_respiratory_tract_infection 7395 7402	CXR neg
+A8	Negation T15
+T16	Delirium 7572 7586	encephalopathy
+T18	Delirium 1139 1142	AMS
+T22	Urinary_tract_infection 1683 1686	UTI
+T23	Urinary_tract_infection 2125 2129	UTIs
+A11	Diagnosis T23 History_of
+T24	Urinary_tract_infection 1165 1168	UTI
+T25	Urinary_tract_infection 371 374	UTI
+A12	Diagnosis T25 History_of
+T26	Delirium 499 508	confusion
+T32	Has_carers 10387 10394	Service
+T33	Delirium 10787 10796	confusion
+T12	Delirium 596 597;602 607	A Ox2-3
+A14	Negation T12
+T19	Delirium 10652 10661	confusion
+T17	Pressure_injury 1011 1019	bed sore
+T34	Delirium 3872 3880	confused
+T29	Visual_impairment 8769 8777	Glaucoma
+T20	Delirium 10470 10493	Mental Status: Confused
+A9	Negation T20

@@ -1,0 +1,45 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending: ___.  Chief Complaint: Chest pain and shortness of breath  Major Surgical or Invasive Procedure: Left-sided thoracentesis
+
+ History of Present Illness: ___ male s/p CABG in ___ with ___ L-sided pleural effusion drained ___ (Gram stain neg). Patient reports resolution of symptoms immediately following initial drainage. Now with recurrant L-sided pleural effusion, SOB, and chest pain. Per patient/family, the patient began experiencing symptoms of chest fullness, sob, and cp on ___. He reports symptoms with minimal activity ___ ft ambulation) that are resolved quickly at rest. Patient denies n/v/d/c, headaches, dizziness, diaphoresis, night sweats, recent weight loss or gain, or changes in bladder habits. . He was seen by Dr. ___ in clinic yesterday (TUES) without concern. According to the family, this morning (WED) the visiting nurse noted physical exam consistent with recurrence of pleural effusion and instructed him to come to the hospital for further evaluation.  Past Medical History: coronary artery disease hypertension hyperlipidemia diabetes mellitus type II osteoarthritis bilateral knees h/o cataracts
+
+ Social History: ___ Family History: Brother died on cardiac problem, unclear.  Physical Exam: VS: 96.6 76 146/71 18 95%RA  Gen: Pt lying in bed, NAD. AOx3, conversant. HEENT: Sclera anicteric, MMM, oropharynx clear  Neck: supple, JVP < 10 cm, no LAD  Lungs: Decreased breath sounds in LLL with decreased vocal fremitis consistent with pleural effusion; right side clear to auscultation CV: RRR, Nml s1s2, no m/r/g. Abdomen: soft, NTND, BS+, no rebound tenderness or guarding, no organomegaly, masses  Ext: WWP, 1+ pitting ___ edema. Neuro: A&Ox3. Motor/sensory grossly intact. .  Pertinent Results: ___ 07:55AM BLOOD WBC-5.6 RBC-4.54* Hgb-12.7* Hct-38.2* MCV-84 MCH-27.9 MCHC-33.2 RDW-14.8 Plt ___ ___ 03:00PM BLOOD WBC-6.2 RBC-5.01 Hgb-13.7* Hct-42.0 MCV-84 MCH-27.4 MCHC-32.7 RDW-14.6 Plt ___ ___ 03:00PM BLOOD Neuts-79.6* Lymphs-14.1* Monos-4.8 Eos-1.1 Baso-0.4 ___ 07:55AM BLOOD Plt ___ ___ 03:35AM BLOOD Plt ___ ___ 03:00PM BLOOD Plt ___ ___ 07:55AM BLOOD Glucose-115* UreaN-30* Creat-0.9 Na-138 K-4.0 Cl-103 HCO3-28 AnGap-11 ___ 03:35AM BLOOD Glucose-83 UreaN-23* Creat-0.8 Na-138 K-4.0 Cl-103 HCO3-31 AnGap-8 ___ 03:00PM BLOOD Glucose-131* UreaN-24* Creat-0.9 Na-135 K-4.0 Cl-99 HCO3-29 AnGap-11 ___ 03:35AM BLOOD CK(CPK)-44* ___ 03:35AM BLOOD CK-MB-3 cTropnT-<0.01 proBNP-590 ___ 03:00PM BLOOD cTropnT-<0.01 ___ 03:35AM BLOOD Calcium-8.4 Phos-3.5 Mg-2.0 ___ 03:23PM BLOOD Lactate-1.3 ___ 05:00PM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+
+___ BLOOD CULTURE Blood Culture, Routine-PENDING EMERGENCY WARD ___ BLOOD CULTURE Blood Culture, Routine-PENDING EMERGENCY WARD 
+
+___ Radiology CHEST (PORTABLE AP)  FINDINGS: In comparison with study of ___, there has been drainage of some of the pleural fluid at the left base, with a substantial residual.  Underlying compressive atelectasis is seen. No evidence of pneumothorax. The right lung remains essentially clear. 
+
+___ Cardiology ECHO  ___ Suboptimal mages. The left atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity is unusually small. Overall left ventricular systolic function is normal (LVEF 75%). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Mild (1+) aortic regurgitation is seen. The mitral valve leaflets are mildly thickened (mild posterior leaflet prolapse may be present). Trivial mitral regurgitation is seen. The left ventricular inflow pattern suggests impaired relaxation. The pulmonary artery systolic pressure could not be determined. There is a moderate sized pericardial effusion. The effusion appears circumferential. There are no echocardiographic signs of tamponade. No right atrial or right ventricular diastolic collapse is seen. 
+
+___ Radiology CHEST (PA & LAT)  IMPRESSION: Stable large left pleural effusion with adjacent atelectasis, underlying pneumonia cannot be excluded. Stable small right pleural effusion. 
+
+___ Radiology CHEST (PA & LAT)  IMPRESSION: Unchanged large left pleural effusion and smaller right pleural effusion. No new pulmonary infiltrates. 
+
+ Brief Hospital Course: ___ male s/p CABG in ___ with h/o L-sided pleural effusion drained ___ (Gram stain neg) presenting with chest pain, shortness of breath, and recurrent L-sided pleural effusion.
+
+# Pleural effusion/SOB: The patient presented with recurrence of left-sided pleural effusion with symptoms of chest pain/pressure. In the ED, he received ASA325. Ruled out with cardiac biomarkers for ACS. Given recent h/o CABG, most likely concerning for post-pericardiotomy syndrome, however, assessed for potential CHF exacerbation with TTEd demonstrating a preserved LVEF. The patient was treated with IV Lasix which achieved significant diuresis and improvement in SOB symptoms, and this was converted to oral lasix. The patient underwent a thoracentesis with IP without complications, during which 1500ml of dark amber fluid was removed. Follow-up CXR demonstrated decrease in size of fluid collection, though substantial residual, without evidence of pneumothorax. In addition to lasix, the patient was started on colchicine, titrated up to 0.6 mg tid, during admission with NSAIDs held for post-pericardiotomy syndrome.
+
+# CAD/CP: Pt with known 3-vessel disease s/p CABG reports cp/sob with activity (ambulating ___ resolved quickly at rest. Ruled out acute MI with serial cardiac biomarkers. ECG unchanged from prior. ECHO demonstrated moderate, circumferential pericardial effusion. Continued on Amiodarone 200mg QD, statin, and started on Colchicine for pain control titrated up to 0.6mg TID. Patient to continue on colchicine as outpatient.
+
+# DM 2: Not active issue. Held Actos in-house. Started on HISS. FSBG wnl.
+
+# Prophylaxis: Patient received heparin products during admission.
+
+Code - Confirmed Full  Medications on Admission: Amiodarone 200 mg daily Pioglitazone 30 mg daily Rosuvastatin 40 mg daily ASA 81 mg daily Ibuprofen TID with meals Percocet ___ Q4H prn for pain control  Discharge Medications: 1. rosuvastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  2. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily).  3. pioglitazone 30 mg Tablet Sig: One (1) Tablet PO once a day. 
+
+4. colchicine 0.6 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).  5. amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  6. benzonatate 100 mg Capsule Sig: One (1) Capsule PO Q8H:PRN as needed for Cough.  7. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Primary: 1. Post-pericardiotomy syndrome 2. Recurrent left-sided pleural effusion 3. Pericardial effusion
+
+Secondary: CAD s/p CABG with LIMA-> LAD, SVG -> PDA Hypertension Hyperlipidemia Diabetes mellitus type II Osteoarthritis bilateral knees Cataracts
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: 1. You were admitted to the ___ complaining of increased chest pain and shortness of breath. You had a known recurrent Left-sided pleural effusion. We gave you Lasix to reduce the fluid collection in your lungs. You responded very well to the Lasix. You were also seen by the interventional pulmonary team, and underwent thoracentesis to drain the fluid collection around your lung. You did very well during this procedure. We gave you Benzonate for your cough. You responded very well to this medication.
+
+2. We were able to rule out acute cardiac event (heart attack) as a cause of your chest pain symptoms. You had an ultrasound of your heart (echocardiogram) and were found to have a fluid collection around your heart. We gave you Colchicine to manage the pain associated with the fluid around your heart. You responded very well to this medication. You will have to have a repeat echocardiogram to be scheduled by your primary care physician or cardiologist. 
+
+3. Several changes were made to your at-home medications. The directions for medication changes are as follows: -Add Colchicine - Please take 1 tablet (0.6mg) three times per day -Add Lasix - Please take 1 tablet (20mg) every morning -Add Benzonate - Take 1 tablet for cough as needed up to 3 times daily. - Stop Ibuprofen
+
+4. Unless otherwise indicated, you should resume all of your other at-home medications as taken prior to admission.
+
+5. It is very important that you keep all of your doctors ___.  Followup Instructions: ___ 

@@ -1,0 +1,45 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: atenolol  Attending: ___.  Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: Thoracentesis  History of Present Illness: This patient is a ___ year old male who complains of SOB,FATIGUE. The patient complains of dyspnea on exertion and shortness of breath over course of weeks, worsening this past week. He denies abdominal pain. Said he has no history of chest pain or lower extremity edema. There is no history of fever or chills. There is no vomiting  Past Medical History: Aortic stenosis Hypertension CKD EtOH abuse Depression  Social History: ___ Family History: NC  Physical Exam: admission Temp: 98 HR: 88 BP: 140/106 Resp: 20 O(2)Sat: 98  Constitutional: Comfortable HEENT: Normocephalic, atraumatic, Pupils equal, round and reactive to light, Extraocular muscles intact Chest: Clear to auscultation Cardiovascular: Systolic murmur Abdominal: Soft, Nontender Rectal: Heme Negative Extr/Back: No cyanosis, clubbing or edema Skin: No rash Neuro: Speech fluent A/O X 3, CN ___ intact, normal sensory, normal motor, normal cerebellar function, downgoing toes, DTRs normal
+
+discharge VS: 97.4 ___ 103-124/51-62 18 99%RA  I/O: 120|550 -|250  Wt: 60.1 <- 59.8 <- 59.4 <- 59.8 <- 61.7 standing <- 69.5 bed ___  GENERAL: WDWN M, Oriented x3. Mood, affect appropriate.  HEENT: NCAT. Sclera anicteric.  NECK: Supple with 8cm JVD  CARDIAC: RR, normal S1, S2. ___ systolic murmur at USB. No thrills, lifts. No S3 or S4.  LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. Moderate air mvt. decreased breath sounds at bases assoc with crackles.  ABDOMEN: Soft, NTND. No HSM or tenderness.  EXTREMITIES: No c/c/e. 
+
+ Pertinent Results: admission
+
+___ 12:00PM BLOOD WBC-11.0 RBC-4.61 Hgb-12.7* Hct-40.1 MCV-87 MCH-27.5 MCHC-31.6 RDW-13.7 Plt ___ ___ 12:00PM BLOOD Glucose-113* UreaN-28* Creat-1.4* Na-134 K-4.7 Cl-98 HCO3-25 AnGap-16 ___ 06:20AM BLOOD Calcium-8.8 Phos-4.2 Mg-2.1 ___ 12:00PM BLOOD ___ ___ 01:14AM BLOOD CK-MB-2 cTropnT-0.03*
+
+CXR ___:  FINDINGS: As compared to the previous radiograph, the right pigtail catheter has been pulled. There is no evidence of pneumothorax. No pleural effusion on the right. The left pleural effusion is unchanged in appearance. Moderate cardiomegaly, moderate retrocardiac atelectasis  CXR ___:  There has been almost complete resolution of right pleural effusion with a pigtail catheter placed in the right base. There is no pneumothorax. Moderate left pleural effusion is again noted. Pacemaker leads are in standard position. Cardiomegaly cannot be evaluated. There is no pulmonary edema.  Echo ___:  The left atrium is mildly dilated. No atrial septal defect is seen by 2D or color Doppler. There is mild symmetric left ventricular hypertrophy with normal cavity size. There is mild global left ventricular hypokinesis (LVEF = 40 %). Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets are severely thickened/deformed. There is moderate aortic valve stenosis (valve area 1.0-1.2cm2). Mild (1+) aortic regurgitation is seen. The mitral valve leaflets are moderately thickened. There is mild functional mitral stenosis (mean gradient 6 mmHg) due to mitral annular calcification. Mild to moderate (___) mitral regurgitation is seen. [Due to acoustic shadowing, the severity of mitral regurgitation may be significantly UNDERestimated.] The tricuspid valve leaflets are mildly thickened. There is mild pulmonary artery systolic hypertension.  IMPRESSION: Mild symmetric left ventricular hypertrophy with mild global hypokinesis. Normal right ventricular cavity size and systolic function. Moderate to severe aortic stenosis. Mild functional mitral stenosis from annular calcification. Mild to moderate mitral regurgitation. Mild pulmonary artery systolic hypertension.  CXR ___:  Large bilateral pleural effusions with assoc pulm edema. 
+
+discharge
+
+___ 07:09AM BLOOD WBC-6.4 RBC-4.36* Hgb-11.8* Hct-38.4* MCV-88 MCH-27.1 MCHC-30.8* RDW-13.7 Plt ___ ___ 07:09AM BLOOD Glucose-101* UreaN-51* Creat-1.4* Na-142 K-4.1 Cl-103 HCO3-30 AnGap-___ with hx of hypertension, dyslipidemia, depression, EtOH abuse p/w dyspnea over the last week, found to be in acute diastolic CHF with severe AS. 
+
+# Acute diastolic CHF: Patient presented with new symptoms concerning for CHF excerbation with dyspnea, elevated BNP. In context of prior history of valvular disease with aortic stenosis, AS was considered as driving factor. Echo performed here confirmed diagnosis of severe AS. There was less concern for ischemic etiology with no changes on EKG, but patient found to be drinking on hospital premises, increasing likelihood of an EtOH cardiomyopathy. Patient did improve symptomatically with diuresis and was discharged on a diuretic regimen. 
+
+# Pulmonary edema s/p thoracentesis: Patient presented with bilateral pleural effusions. Thoracentesis was performed on the right lung, which improved patient's symptoms significantly after 600-700 cc of fluid drained. Pleural fluid suggested exudative physiology, but CHF effusions can often appear exudative. Cultures were negative. No further intervention was needed.
+
+# Severe AS: Patient found to have severe AS on echo here with elevated pressures, velocity. Patient is not currently interested in surgery. This should be followed as an outpatient.
+
+# EtOH: Found to be drinking cocktails made with vodka brought from home.  Maintained on CIWA without any signs or symptoms of withdrawal.
+
+# CORONARIES: Pt had been on aspirin in the past but discontinued it for nosebleeds. Patient was discharged on aspirin. 
+
+# HTN: Not on medications, has refused for several years. Patient was discharged home on lisinopril.
+
+# Depression: Not on medications, refused treatement in the past. 
+
+# CKD: Patient remained at baseline.
+
+TRANSITIONAL ISSUES: -Patient treated with IV diuresis and thoracentesis for ___ exacerbation -Possibility of intervention for severe AS (i.e. TAVR) discussed with patient; patient declined -Patient should be followed closely for cardiopulmonary monitoring as well as medication compliance as an outpatient  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. This patient is not taking any preadmission medications
+
+ Discharge Medications: 1. Aspirin 81 mg PO DAILY RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 2. Atorvastatin 20 mg PO DAILY RX *atorvastatin 20 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 3. Furosemide 40 mg PO DAILY RX *furosemide 40 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 4. Lisinopril 2.5 mg PO DAILY RX *lisinopril 2.5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 5. Outpatient Lab Work Please check CBC, Chem7, Ca, Mag Phos, and fax results to Dr. ___ (___) & Dr. ___ (___)
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Primary: Acute on chronic diastolic heart failure Severe aortic stenosis
+
+Secondary: hypertension, dyslipidemia, depression, EtOH abuse  Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.  Discharge Instructions: Mr. ___: It was a pleasure to take care of you. You were admitted to the hospital because of worsening shortness of breath and cough. You were found to have a congestive heart failure exacerbation, likely due to aortic stenosis. We performed diuresis with medications, with improvement. We also performed a thoracentesis to remove fluid from your lungs, which was very helpful for your breathing. 
+
+Please review your medication list closely. 
+
+Please follow up with your doctors ___.
+
+Weigh yourself every day and call your doctor if your weight increases by 3 lb or more.
+
+Please have laboratory studies drawn PRIOR TO YOUR appointment with Dr. ___. Results will be sent to Dr. ___ ___ Dr. ___.  Followup Instructions: ___ 

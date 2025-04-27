@@ -1,0 +1,14 @@
+T1	Lower_respiratory_tract_infection 2952 2961	Pneumonia
+T2	Dementia 2965 2973	Dementia
+T3	Constipation 2618 2629	contipation
+A1	Diagnosis T3 Implicit_mention
+T4	Constipation 2578 2590	constipation
+A2	Diagnosis T4 Implicit_mention
+T5	Lower_respiratory_tract_infection 2002 2011	pneumonia
+T6	Lives_in_carehome 527 539	nursing home
+T7	Dementia 385 393	dementia
+T8	Lives_in_carehome 422 434	nursing home
+T9	Dementia 1235 1243	Dementia
+A3	Diagnosis T9 History_of
+T10	Dementia 1907 1915	dementia
+T11	Lives_in_carehome 1944 1956	nursing home

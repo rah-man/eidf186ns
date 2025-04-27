@@ -1,0 +1,48 @@
+T1	Hip_fracture 21395 21398;21427 21435	hip fracture
+A1	Negation T1
+T4	Mobile_with_aid 20855 20858	aid
+A3	Type_of_aid T4 Two_sticks_or_frame
+T5	Constipation 20648 20660	Constipation
+T6	Constipation 20091 20103	Constipation
+A4	Diagnosis T6 Implicit_mention
+T7	Constipation 19155 19167	Constipation
+A5	Diagnosis T7 Implicit_mention
+T8	Constipation 18862 18874	Constipation
+A6	Diagnosis T8 Implicit_mention
+T9	Constipation 17175 17187	Constipation
+T10	Constipation 17212 17224	constipation
+T11	Constipation 17015 17027	constipation
+T12	Lower_respiratory_tract_infection 15486 15495	pneumonia
+T15	Delirium 5122 5127	A&Ox3
+A9	Negation T15
+T17	Faecal_incontinence 3260 3279	rectal incontinence
+A11	Diagnosis T17 History_of
+T18	Urinary_incontinence 3167 3187	urinary incontinence
+A12	Diagnosis T18 History_of
+T19	Lower_respiratory_tract_infection 1648 1657	pneumonia
+A13	Diagnosis T19 Suspected
+T20	Constipation 2970 2982	constipation
+A14	Negation T20
+T21	Lower_gastrointestinal_haemorrhage 2984 2989	BRBPR
+A15	Negation T21
+T22	Upper_gastrointestinal_haemorrhage 2993 2999	melena
+A16	Negation T22
+T23	Urinary_incontinence 3345 3357	incontinence
+A17	Negation T23
+T24	Faecal_incontinence 3345 3357	incontinence
+A18	Negation T24
+T25	Delirium 4521 4525	AOx3
+A19	Negation T25
+T27	Lower_respiratory_tract_infection 7554 7563	pneumonia
+A21	Diagnosis T27 Suspected
+T14	Hip_fracture 11716 11719;11740 11748	hip fracture
+A8	Negation T14
+T13	Hip_fracture 14234 14237;14289 14297	hip fracture
+A7	Negation T13
+T29	Vertebral_compression_fracture 7599 7604;7688 7708	Spine compression fracture
+A23	Negation T29
+T16	Hip_fracture 9818 9821;9888 9896	hip fracture
+A10	Negation T16
+T3	Mobile_with_assistance 20819 20851	Ambulatory - requires assistance
+T2	Delirium 20720 20753	Mental Status: Clear and coherent
+A2	Negation T2

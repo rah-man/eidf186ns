@@ -1,0 +1,16 @@
+T1	Constipation 1468 1480	constipation
+T2	Lower_gastrointestinal_haemorrhage 1482 1487	BRBPR
+A1	Negation T2
+T3	Upper_gastrointestinal_haemorrhage 1489 1495	melena
+A2	Negation T3
+T4	Lower_gastrointestinal_haemorrhage 1497 1509	hematochezia
+A3	Negation T4
+T5	Delirium 2746 2751	A&Ox3
+A4	Negation T5
+T6	Delirium 3413 3418	A&Ox3
+A5	Negation T6
+T7	Urinary_tract_infection 4335 4338	UTI
+T8	Urinary_tract_infection 5071 5094	urinary tract infection
+T10	Independently_mobile 8186 8210	Ambulatory - Independent
+T9	Delirium 8087 8120	Mental Status: Clear and coherent
+A6	Negation T9

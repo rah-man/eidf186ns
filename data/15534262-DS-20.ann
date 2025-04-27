@@ -1,0 +1,20 @@
+T1	Lower_respiratory_tract_infection 1420 1429	pneumonia
+A1	Diagnosis T1 History_of
+T5	Lower_respiratory_tract_infection 12828 12837	Pneumonia
+T6	Dementia 2189 2200	Alzheimer's
+A4	Diagnosis T6 Implicit_mention
+T8	Lower_respiratory_tract_infection 7882 7886;7942 7951	lobe infective
+A5	Diagnosis T8 Suspected
+T9	Lower_respiratory_tract_infection 9137 9146	Pneumonia
+T10	Lower_respiratory_tract_infection 9469 9474;9497 9506	chest infection
+A6	Diagnosis T10 Suspected
+T13	Lower_respiratory_tract_infection 13160 13169	pneumonia
+T7	Lower_respiratory_tract_infection 7310 7315;7504 7513	chest infection
+A7	Diagnosis T7 Suspected
+T4	Independently_mobile 13024 13048	Ambulatory - Independent
+T11	Visual_impairment 1999 2007	Glaucoma
+T14	Visual_impairment 12893 12901	Glaucoma
+T15	Has_carers 12712 12719	Service
+T2	Delirium 2368 2379	oriented x3
+T3	Delirium 12925 12958	Mental Status: Clear and coherent
+A2	Negation T3

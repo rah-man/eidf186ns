@@ -1,0 +1,39 @@
+T3	Constipation 11592 11604	Constipation
+A2	Diagnosis T3 Implicit_mention
+T4	Constipation 11991 12003	Constipation
+A3	Diagnosis T4 Implicit_mention
+T5	Constipation 11196 11208	Constipation
+A4	Diagnosis T5 Implicit_mention
+T6	Constipation 11141 11153	Constipation
+A5	Diagnosis T6 Implicit_mention
+T7	Constipation 12100 12112	Constipation
+A6	Diagnosis T7 Implicit_mention
+T8	Constipation 11070 11082	Constipation
+A7	Diagnosis T8 Implicit_mention
+T9	Constipation 7755 7767	Constipation
+A8	Diagnosis T9 Implicit_mention
+T13	Delirium 4666 4674	oriented
+A11	Negation T13
+T14	Lower_gastrointestinal_haemorrhage 7272 7275	GIB
+A12	Negation T14
+T15	Constipation 8070 8082	constipation
+A13	Diagnosis T15 Implicit_mention
+T16	Upper_gastrointestinal_haemorrhage 8899 8910;8918 8929	GI bleeding dark emesis
+A14	Diagnosis T16 Suspected
+T17	Constipation 12493 12505	Constipation
+T18	Has_carers 12323 12330	Service
+T11	Delirium 3595 3604	oriented,
+A9	Negation T11
+T2	Independently_mobile 12702 12726	Ambulatory - Independent
+A10	Low_confidence T14
+T12	Upper_gastrointestinal_haemorrhage 7272 7275	GIB
+A15	Negation T12
+A16	Low_confidence T12
+A17	Low_confidence T16
+T19	Lower_gastrointestinal_haemorrhage 8899 8910	GI bleeding
+A18	Diagnosis T19 Suspected
+A19	Low_confidence T19
+T10	Lives_alone 10330 10334	Wife
+A20	Negation T10
+T1	Delirium 12603 12636	Mental Status: Clear and coherent
+A1	Negation T1

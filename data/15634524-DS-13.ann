@@ -1,0 +1,15 @@
+T2	Delirium 2745 2750	AAOx3
+A2	Negation T2
+T4	Lower_respiratory_tract_infection 6351 6360	pneumonia
+A4	Diagnosis T4 Suspected
+T5	Lower_respiratory_tract_infection 9589 9598	pneumonia
+A5	Diagnosis T5 Suspected
+T6	Lower_respiratory_tract_infection 12750 12760	bronchitis
+T7	Lower_respiratory_tract_infection 18058 18061	PNA
+A6	Diagnosis T7 Suspected
+T8	Lower_respiratory_tract_infection 18162 18171	pneumonia
+A7	Diagnosis T8 Suspected
+T10	Upper_gastrointestinal_haemorrhage 478 496;498 508	esophageal varices never bled
+A9	Negation T10
+T1	Lower_respiratory_tract_infection 19939 19942	PNA
+A1	Diagnosis T1 Suspected

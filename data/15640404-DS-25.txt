@@ -1,0 +1,97 @@
+ Name: ___.        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: Fatigue, hypoxia  Major Surgical or Invasive Procedure: Bilateral Chest tube placement and removal 
+
+ History of Present Illness: In brief, this is a ___ yo F with squamous cell cancer of neck and lung s/p resection of both with isolated brain metastasis s/p cyberknife who presented with fatigue and hypoxia. She had been having weeks of increasing fatigue, cryptogenic falls from bed, and overall malaise. Patient denies CP, SOB, palpitations, cough, N/V/D, or dysuria. Imaging remarkable for bilateral pleural effusions and increased mediastinal lymphadenopathy concerning for metastasis. Her labs were notable for lactate of 3.8, transaminitis, and anemia. 
+
+ Past Medical History: PMHx: Squamous cell carcinoma ___ carotid U/S for surveillance of PVD --> incidental 1x3cm mass ___ thyroid U/S showed concerning lymphadenopathy ___ FNA of L cervical LN --> ___ ___ CT chest for scanning --> spiculated 8mm nodule L apex and two prominent paratracheal mediastinal LNs ___ PET scan --> FDG avidity of the L apical nodule and cervical LN, as well as R parotid, R breast, and R axillary LN (subsequent mammogram and U/S reassuring) ___ MRI brain --> solitary 6 mm ring enhancing lesion R cerebellar hemisphere suspicious for solitary met ___ CT neck --> R parotid gland abnormality ___ tonsillectomy and R parotid exam under anesthesia --> no tumor found in path or on exam ___ cyber knife to brain lesion ___ lung nodule resection --> ___ but unable to determine if the same or different cancer as the L cervical LN ___ repeat PET --> no further sites of disease than L neck ___ Heme/Onc (Dr. ___ -- "My opinion is that she had an early lung cancer and an occult head and neck cancer" and recommends neck dissection for definitive tx of L neck ___ neck dissection done by ENT
+
+DM2 HTN, HL PVD -- s/p L SFA stent, 1970s at ___ H/o smoking Depression Radiculopathy Iron deficiency anemia Intestinal metaplasia Retinal abnormality (___ plaque) H/o endometriosis H/o pancreatic cyst
+
+PSHx: Tonsillectomy ___ TAH Peripheral vascular stent placement Cataracts
+
+ Social History: ___ Family History: She reports that her mom did not have long or throat cancer as reported in other notes. Her father died of a stroke. A sister had breast cancer.  Physical Exam: ADMISSION PHYSICAL EXAM: General: NAD VITAL SIGNS: T 98.3 HR 96 RR 20 BP 140/70 O2 94% 2L (83% RA in the ED) HEENT: MMM, no OP lesions CV: RR, NL S1S2 PULM: Decreased breath sounds bilaterally. ABD: Soft, NTND, no masses or hepatosplenomegaly LIMBS: Trace bilateral lower extremity pitting edema R slighly greater than L. SKIN: No rashes or skin breakdown NEURO: Alert and oriented, no focal deficits.
+
+Discharge Physical Exam: 
+
+VS: 98.6 (Tc and Tm), 124/74 93 18 93 ra. No bm since yesterday. 
+
+GEN: NAD, sitting up in bed HEENT: Normalocephalic/atraumatic Cards: normal S1/S2, no m/r/g Pulm: Slight crackles at bases, less rhonchi bilaterally Abd: BS+, soft, NT, no rebound/guarding, no HSM, no ___ sign  Extremities: wwp, no edema. Skin: no rashes or bruising  Neuro: Alert and conversing well. Moving all extremities. No asterixis on exam.
+
+ Pertinent Results: Admission Labs ___ 08:13PM  LACTATE-3.8* ___ 08:08PM  GLUCOSE-98 UREA N-25* CREAT-0.7 SODIUM-133 POTASSIUM-3.5 CHLORIDE-91* TOTAL CO2-27 ANION GAP-19 ___ 08:08PM  LD(LDH)-475* ___ 08:08PM  proBNP-6108* ___ 08:08PM  CALCIUM-9.1 PHOSPHATE-3.4 MAGNESIUM-2.1 IRON-12* ___ 08:08PM  D-DIMER-2831* ___ 08:08PM  calTIBC-406 FERRITIN-31 TRF-312 ___ 08:08PM  WBC-7.3 RBC-3.11* HGB-6.0*# HCT-21.5*# MCV-69*# MCH-19.3*# MCHC-27.9* RDW-19.6* RDWSD-47.2* ___ 08:08PM  PLT COUNT-418* ___ 08:08PM  ___ PTT-29.9 ___ ___ 08:08PM  RET AUT-2.1* ABS RET-0.07
+
+Imaging:
+
+___ CXR
+
+IMPRESSION:   Small pleural effusions and mild edema. 
+
+___ CTA IMPRESSION:   1. No evidence of pulmonary embolism or aortic abnormality. 2. Moderate bilateral nonhemorrhagic pleural effusions and pulmonary edema. 3. Increase size of mediastinal and right hilar lymphadenopathy suspicious for metastatic disease. 4. Small amount of ascites. 
+
+___ TTE
+
+The left atrium is normal in size. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. There is moderate to severe global left ventricular hypokinesis with regional variation (LVEF = 30 %). Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg). Doppler parameters are most consistent with Grade III/IV (severe) left ventricular diastolic dysfunction. The right ventricular free wall is hypertrophied. Right ventricular chamber size is normal. with moderate global free wall hypokinesis. The diameters of aorta at the sinus, ascending and arch levels are normal. The number of aortic valve leaflets cannot be determined. The aortic valve leaflets are mildly thickened (?#). There is a minimally increased gradient consistent with minimal aortic valve stenosis. The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. The left ventricular inflow pattern suggests a restrictive filling abnormality, with elevated left atrial pressure. The tricuspid valve leaflets are moderately thickened. The supporting structures of the tricuspid valve are thickened/fibrotic. Moderate [2+] tricuspid regurgitation is seen. There is moderate pulmonary artery systolic hypertension. There is a trivial/physiologic pericardial effusion. There are no echocardiographic signs of tamponade. 
+
+ IMPRESSION: restrictive cardiomyopathy
+
+ Compared with the prior study (images reviewed) of ___, marked deterioration of left and right ventricular function has occurred. 
+
+___ Liver/gallbladder US
+
+IMPRESSION:    1. Normal appearing liver without evidence of congestion or metastases. 2. Gallstones.   ___
+
+IMPRESSION:    1. Please note the study is substantially degraded by motion, especially on postcontrast imaging. 2. Within limits of study, no definite enhancing intracranial metastasis identified. Recommend clinical correlation. If clinically indicated, consider repeat examination when patient can tolerate exam. 3. Stable findings of chronic small vessel ischemic disease.   RECOMMENDATION(S): Within limits of study, no definite enhancing intracranial metastasis identified. Recommend clinical correlation. If clinically indicated, consider repeat examination when patient can tolerate exam.   ___ Persantine MIBI
+
+INTERPRETATION: This ___ yo woman with h/o new ischemic cardiomyopathy with s/dCHF, HTN, HLD, and IDDM was referred to the lab from the inpatient floor for evaluation. The patient was administered 0.142 mg/kg/min of Persantine over 4 minutes. There were no reports of chest, back, neck, or arm discomforts during the study. In the setting of baseline NSSTTWs, there were no significant ST changes noted during infusion or recovery. Rhythm was sinus with no ectopy. There was an appropriate heart rate and blood pressure response to the infusion. Post-MIBI, the Persantine was reversed with 125 mg Aminophylline IV. IMPRESSION: No anginal type symptoms or ischemic EKG changes. Nuclear report sent separately. 
+
+IMPRESSION: Fixed perfusion defect of the inferior wall.  Globally reduced wall motion both at rest and stress. These findings are both new compared to prior study, which was normal. 
+
+Micro: none
+
+Pathology:
+
+___: cytology negative for malignant
+
+Discharge Labs
+
+___ 08:14AM BLOOD WBC-6.5 RBC-3.99 Hgb-9.0* Hct-31.7* MCV-79* MCH-22.6* MCHC-28.4* RDW-25.7* RDWSD-68.9* Plt ___ ___ 08:15AM BLOOD ___ PTT-35.8 ___ ___ 08:14AM BLOOD Glucose-63* UreaN-12 Creat-0.6 Na-137 K-4.6 Cl-102 HCO3-27 AnGap-13 ___ 08:14AM BLOOD ALT-39 AST-29 AlkPhos-163* TotBili-0.6 ___ 08:14AM BLOOD Calcium-9.0 Phos-4.0 Mg-2.0  Brief Hospital Course: In brief, this is a ___ yo F with squamous cell cancer of neck and lung s/p resection of both with isolated brain metastasis s/p cyberknife who presented with fatigue and hypoxia. Imaging remarkable for bilateral pleural effusions and increased mediastinal lymphadenopathy. A diagnosis acute onset CHF with new reduced EF of 30% was made. 
+
+# Hypoxia: Secondary to pulmonary edema and pleural effusions which seem to be related to CHF based on EF and transudative nature of the pleural effusions. No e/o pneumonia or PE based on negative CTA. -Diuresed to euvolemia -s/p bilateral Chest tube placement and removal -Pleural fluid cytology negative for malignancy, cultures NGTD -Wean O2 as tolerated: patient asymptomatic but occasionally desatted to the high 80's when walking on room air.
+
+# Systolic CHF secondary to cardiomyopathy: Patient with worsening CHF based on TTE with EF of 30%. Had known NSTEMI related to recent surgical resection with known history of PVD s/p left SFA intervention and risk factors including smoking history, HTN, HLD and diabetes. Per cards, likely a cardiomyopathy that will need further work-up. Persantine mibi showed a fixed wall motion abnormality as well as abnormalities worsening with stress. -Metoprolol XL 50 -Lisinopril 5 mg -Ensure dry weight of ~120 lbs, -Continue atorvastatin -Continue aspirin and Plavix -D/C'd cilostazol for concerns of CHF exacerbation -Outpatient followup
+
+# Anemia: Hgb to 6.0 on presentation; transfused 2u pRBC. Has history of iron deficiency anemia with negative colonoscopy/EGD/capsule study in ___. No s/sx of bleeding. No e/o hemolysis Iron studies consistent with iron deficiency with low iron/TIBC ratio (<10%). -Started ferrous sulfate 325mg daily, uptitrate as tolerated
+
+# Transaminitis: Patient has elevated ALT/AST/ALP with increased DBili. RUQ ultrasound without abnormalities. Given downtrending with drainage of effusions and diuresis, suspect this is secondary to hepatic congestion, now improving with euvolemia. -Treatment of CHF as above
+
+#Tremor/Asterixis: Suggestive of toxic-metabolic encephalopathy. Patient has noticed some tremor when holding her food menu, no issue with tremor when holding fork or eating. CN II-XII intact, minimal dysmetria. Not clear association with rest or intention. Does have asterixis without evidence of overt liver or kidney disease. Appears to be improving -Ammonia, TSH WNL. LFTs improving. -MRI head w/wo contrast; no evidence of new metastasis
+
+# Squamous Cell Carcinoma: S/p resection with good margins on lung tumor however with positive lymph node in neck. Found on CTA to have enlarging mediastinal and right hilar lymphadenopathy concerning for metastatic disease - Lymphadenopathy thought to be ___ to CHF. Dr. ___. ___. Plan for follow up post-discharge
+
+- Pleural fluid cytology negative for malignant cells
+
+# Depression: - Continue home citalopram and clonazepam.
+
+# DM: glargine dose was decreased due to episodes of hypoglycemia in the am to the low 60's.
+
+TRANSITIONAL ISSUES [ ] Cardiology followup scheduled [ ] Repeat CT chest for mediastinal lymphadenopathy with either Dr. ___ Dr. ___ [ ] Re-assess need for dual anti-platelet therapy [ ] may uptitrate lisinopril if blood pressure allows [ ] glargine dose was reduced due to morning hypoglycemia to the low 60's (once in the ______ with poor po intake).
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Albuterol Inhaler 2 PUFF IH Q4H:PRN wheezing, shortness of breath 2. Aspirin 325 mg PO DAILY 3. Citalopram 40 mg PO DAILY 4. ClonazePAM 0.5 mg PO QHS:PRN insomnia 5. Gabapentin 300 mg PO TID 6. Cilostazol 100 mg PO BID 7. Clopidogrel 75 mg PO DAILY 8. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 9. Atorvastatin 80 mg PO QPM 10. Metoprolol Tartrate 12.5 mg PO BID 11. MetFORMIN (Glucophage) 1000 mg PO BID 12. Glargine 48 Units Breakfast 13. Clotrimazole Cream 1 Appl TP BID 14. ammonium lactate 12 % topical DAILY 
+
+ Discharge Medications: 1. Albuterol Inhaler 2 PUFF IH Q4H:PRN wheezing, shortness of breath 2. Aspirin 325 mg PO DAILY 3. Atorvastatin 80 mg PO QPM 4. Citalopram 40 mg PO DAILY 5. ClonazePAM 0.5 mg PO QHS:PRN insomnia RX *clonazepam 0.5 mg 1 tablet(s) by mouth at bedtime Disp #*4 Tablet Refills:*0 6. Clopidogrel 75 mg PO DAILY 7. Clotrimazole Cream 1 Appl TP BID 8. Gabapentin 300 mg PO TID 9. Ferrous Sulfate 325 mg PO DAILY 10. Metoprolol Succinate XL 50 mg PO DAILY 11. ammonium lactate 12 % topical DAILY 12. MetFORMIN (Glucophage) 1000 mg PO BID 13. Lisinopril 5 mg PO DAILY 14. Glargine 17 Units Breakfast Insulin SC Sliding Scale using REG Insulin
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Heart Failure reduced Ejection Fraction 30% secondary to cardiomyopathy c/b bilateral pleural effusions and hypoxia Squamous Cell Carcinoma of neck and lung Transaminitis secondary to hepatic congestion Toxic Metabolic Encephalopathy Anemia
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Dear Ms. ___,
+
+You were admitted to the hospital for weeks of fatigue which led to a finding of a low oxygen level in the emergency department. It was discovered that your heart was not pumping as well and fluid had backed up into your lungs. We helped take off this fluid with medication as well as two chest tubes. 
+
+The cause of your fatigue and low oxygen was thought to be due to a new reduction in the pump function of your heart. Further testing did not reveal an area to intervene on with a procedure. We will treat this with medications and suggest follow-up with an outpatient cardiologist. 
+
+Please take all your medications as prescribed and attend all your follow-up appointments. It was a pleasure to take care of you here at ___.
+
+Please weigh yourself daily and if you gain 3 lbs or more, please call your doctor. 
+
+Sincerely, 
+
+Your ___ Team  Followup Instructions: ___ 

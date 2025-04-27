@@ -1,0 +1,73 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: Chest pain  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ w/ a-fib on Xarelto, HTN, HLD, obesity, COPD, SCC of the base of the tongue (s/p chemotherapy and XRT in ___, and dysphagia, who presented with chest pain in the setting of a-fib with RVR. 
+
+Of note, somewhat limited records are available. The patient's care is primarily through ___ for the Homeless with his specialty and inpatient care mostly at ___. He also an admission to ___ earlier this month where he reportedly was intubated. His most recent available medication list pre-dates his last PCP visit and also his most recent admission; his recent pharmacy refills are not in close agreement with the available list. Of particular interest is that his Toprol dose was previously 200 mg daily but this seems to have been reduced to 50 mg daily and has no recent refills. He also was on digoxin previously, but this does not seem to have been refilled. Records have been requested from ___; ___ ___ and ___ medical records departments were not reachable overnight.
+
+At 3 ___ on day of presentation, he had onset of constant substernal chest pressure radiating to his back. The pain was associated with mild dyspnea and palpitations. He called EMS who found him to be in a-fib with rates in the 160s. He was given 20 mg IV diltiazem and brought to ___. 
+
+The patient remained appropriately rate-controlled on arrival to the ED; vitals were: 97.8F, HR 90-110, BP 142/86, RR 18, 96% RA. Labs were notable for WBC 14.2 (92% polys), Na 128, and negative troponin.
+
+EKG showed ST depressions and T wave inversions in lateral leads. He was given ASA 325 mg and sublingual nitro. CXR and CTPA were both potentially suggestive of pneumonia so blood cultures x2 were collected and he was given cefepime 2g for possible HAP. 
+
+He was admitted to medicine for further workup and management. 
+
+REVIEW OF SYSTEMS GEN: denies fevers/chills CARDIAC: as per HPI. PULM: denies new dyspnea or cough GI: denies n/v, denies change in bowel habits GU: denies dysuria or change in appearance of urine Full 14-system review of systems otherwise negative and non-contributory.  Past Medical History: A-fib (on Xarelto; sees a cardiologist at ___) History of VTE, per patient HTN HLD COPD Pneumonia SCC of the base of the tongue (s/p chemotherapy and XRT in ___ followed at ___) Dysphagia (on soft diet) Malnutrition Hypothyroidism Mood disorder anxiety Urinary frequency Hydrocele Constipation Insomnia ___ esophagus Remote esophageal ulcer S/p cholecystectomy. Inguinal hernia. Umbilical hernia. Remote MVC with multiple fractures Postherpetic neuralgia. PPD positive in ___ Pulmonary nodule (stable) Sciatica  Social History: ___ Family History: Father had colon cancer. No family history of early CAD.
+
+ Physical Exam: Admission Exam: VITALS: last 24-hour vitals were reviewed. GEN: thin, disheveled man in NAD EYE: anicteric ENT: dry mouth, no thrush LYMPHATIC: No LAD CARDIAC: irregularly irregular, normal rate, no M/R/G appreciated. JVP not elevated. PULM: normal effort, no accessory muscle use, no wheezes, no rales GI: soft, NT, ND, NABS DERM: No visible rash. No jaundice. NEURO: AAOx3. No facial droop, moving all extremities. PSYCH: Full range of affect DERM: WWP, no edema, poor skin turgor
+
+Discharge Exam: VS: 98.9 101 119/80 20 96%RA General: Well appearing, sitting up in bed in NAD Eyes: PERLL, EOMI, sclera anicteric ENT: MMM, oropharynx clear without exudate or lesions Respiratory: CTAB without crackles, wheeze, rhonchi. Cardiovascular: Irregularly irregular rhythm, normal S1 and S2, no murmurs, rubs or gallops Gastrointestinal: Soft, nontender, nondistended, +BS, no masses or HSM Extremities: Warm and well perfused, no peripheral edema Skin: warm, no rashes/no jaundice/no skin ulcerations noted Neurological: Alert and oriented x3, motor and sensory exam grossly intact Psych: Affect flat, mood anxious  Pertinent Results: *************** ADMISSION LABS *************** ___ 01:40AM  NEUTS-92.4* LYMPHS-3.4* MONOS-3.6* EOS-0.0* BASOS-0.1 IM ___ AbsNeut-13.09*# AbsLymp-0.48* AbsMono-0.51 AbsEos-0.00* AbsBaso-0.01 ___ 01:40AM  WBC-14.2*# RBC-4.27* HGB-12.8* HCT-37.3* MCV-87# MCH-30.0 MCHC-34.3 RDW-14.1 RDWSD-45.2 ___ 01:40AM  CALCIUM-8.3* PHOSPHATE-2.3* MAGNESIUM-1.9 ___ 01:40AM  cTropnT-<0.01 ___ 01:40AM  estGFR-Using this ___ 01:40AM  GLUCOSE-102* UREA N-8 CREAT-0.3* SODIUM-128* POTASSIUM-3.5 CHLORIDE-90* TOTAL CO2-27 ANION GAP-15 ___ 01:50AM URINE BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-NEG ___ 01:50AM URINE COLOR-Straw APPEAR-Clear SP ___ ___ 01:50AM  LACTATE-2.0 ___ 01:50AM URINE UHOLD-HOLD ___ 04:00AM OTHER BODY FLUID FluAPCR-NEGATIVE FluBPCR-NEGATIVE ___ 05:51AM  PLT COUNT-198 ___ 05:51AM  WBC-12.3* RBC-4.09* HGB-12.5* HCT-36.1* MCV-88 MCH-30.6 MCHC-34.6 RDW-14.0 RDWSD-45.0 ___ 05:51AM  cTropnT-<0.01 ___ 05:51AM  GLUCOSE-84 UREA N-7 CREAT-0.4* SODIUM-132* POTASSIUM-3.3 CHLORIDE-93* TOTAL CO2-31 ANION GAP-11
+
+***************** DISCHARGE LABS: ***************** ___ 05:28AM BLOOD WBC-12.3* RBC-4.00* Hgb-12.0* Hct-35.1* MCV-88 MCH-30.0 MCHC-34.2 RDW-14.2 RDWSD-45.9 Plt ___ ___ 05:28AM BLOOD Glucose-83 UreaN-10 Creat-0.5 Na-129* K-4.4 Cl-91* HCO3-29 AnGap-13 ___ 05:51AM BLOOD cTropnT-<0.01 ___ 07:30PM BLOOD cTropnT-<0.01 ___ 05:28AM BLOOD Calcium-8.2* Phos-3.4 Mg-1.9
+
+*************** STUDIES & IMAGING ***************
+
+EKG ___ a-fib. TWI and STD laterally new from prior
+
+CXR ___ 1. Bibasilar opacities, left greater than right, may represent atelectasis. However, concurrent pneumonia is difficult to exclude in the appropriate clinical setting. 2. Bilateral small pleural effusions. 3. Emphysematous changes are redemonstrated. 4. R-sided port-a-cath
+
+CTPA ___ 1. No evidence of pulmonary embolism or aortic abnormality. 2. ___ opacities are seen in the left upper lobe with associated atelectasis, which can be concerning for developing infection. 3. The main pulmonary artery is enlarged, measuring up to 3.3 cm, which can be seen in pulmonary hypertension. 4. Moderate diffuse centrilobular emphysema. 5. Stable cortical deformities of the right ___ ribs, left ___ ribs, and sternum since ___. 6. Stable appearance of a 2-3 mm pulmonary nodule in the right upper lobe since ___.
+
+MICRO: ___ legionella urine ag neg ___ MRSA screen positive ___ Bcx x2 pending ___ Ucx final 
+
+ Brief Hospital Course: ___ y/o male with hx of a recent hospitalization and ICU stay for apparent aspiration pneumonia at ___ who left his SNF AMA, p/w chest pain and found to have Afib with RVR. 
+
+# Afib with RVR/chest pain: Chronic, CHADS2VASC=4. Exacerbation likely from missing meds after leaving AMA from rehab. Well controlled on regimen of Lopressor 25 TID and digoxin 0.25 mg daily at ___, did well at ___ on 50mg TID metoprolol tartrate. EKG without evidence of acute change or ischemia, recent troponins flat making ischemia unlikely. Triggered for chest pain and RVR on night prior to admission in the setting of 50mg tartrate and 100mg succinate in AM, HR responded well to 5mg IV metoprolol. Continued to have some pain, trops negative, nitro did not help, EKG unchanged. Given low dose morphine x1 with improvement. No pain on day of discharge, HR stable during day on 150mg succinate. Continued rivaroxaban for anticoagulation. 
+
+# Aspiration pneumonia: Treated at ___ for significant aspiration pneumonia. Given that he likely missed ___ days of clindamycin after AMA from rehab, continued course until ___. No sx at discharge. 
+
+# Delirium/anxiety: He was found to have delirium and post-traumatic stress symptoms after his ICU stay. He may have underlying cognitive impairment but this could not be assessed in the setting of active delirium. It was unclear if he could able to manage his outpatient medication regimen at this time, and was discharged from ___ on 18 meds with multiple frequencies of administration. It is also notable that the one medication he does remember is Ativan- on discussion with patient and review of ___, he has been on Ativan for some time and was previously on temazepam 6 months ago. His most recent standing dose was 0.5mg QID. He frequently requested higher doses of Ativan and temazepam and frequently noted anxiety as a major issue. Would like to wean lorazepam, but patient is adamant about keeping it, noting that he would buy it on the street as his anxiety is so bad. He also expresses a feeling that he will die and does not want to die in a hospital. He threatened to leave AMA several times unless he was given IV morphine. His behavior is somewhat concerning for abuse and he was not provided with a rx on discharge, given recent rx from other institutions. Delirium improved prior to discharge. ___ and OT recommended rehab but patient decided to leave AMA, elucidated that he is at risk to fall, that he will stay with friends, and that he understands he is strongly advised to go to rehab and follow with a PCP for multiple medical issues but still chooses to leave. 
+
+#Dry mouth/mouth pain: ___ ENT cancer tx. Chronic issue, started caphosol (artificial saliva). Received magic mouthwash in house. 
+
+ #Hyponatremia: Na fluctuated between 128-132. Unclear baseline. Unclear etiology, likely not SIADH despite lung pathology as Na slightly decreased with 1500cc fluid restriction, though unclear if patient actually kept this strictly. Administer fluid to test for hypovolemia, but left AMA prior to repeat Na testing. 
+
+#Leukocytosis: WBC 15, slightly elevated but largely stable over several days, improved to 12.3 on day of discharge. Likely related to known aspiration pneumonia. 
+
+#Chronic systolic congestive heart failure: Stable in house, discharged on home meds. 
+
+#Hx of tonsillar cancer: Treated in ___, port still in place with plans to remove as outpatient but patient did not follow up. Will need follow up for this. 
+
+Transitional issues: -Hx of head and neck cancer treated in ___ by Dr. ___ follow by Dr. ___ at ___, has not kept prescribed follow up (last appointment almost ___ year ago). Will need onc follow up and will need port removed, ___ previously contacted as outpatient. -Found to have 8mm lung nodule on Chest CT, will need follow up Chest CT in ___ months, ___ months, and 24 months. PCP mailed ___ letter regarding this and patient informed. -Discharged on 150mg metoprolol succinate -Patient is homeless, would benefit from social services intervention -Avoid diltiazem given ?history of angioedema -Consider restart digoxin if Afib with RVR recurs 
+
+>30 min spent on discharge coordination on day of discharge 
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Rivaroxaban 20 mg PO DAILY 2. Aspirin 81 mg PO DAILY 3. Atorvastatin 40 mg PO QPM 4. Fluticasone Propionate 110mcg 2 PUFF IH BID 5. umeclidinium 62.5 mcg/actuation inhalation DAILY 6. DULoxetine 60 mg PO DAILY 7. LORazepam 0.5 mg PO DAILY anxiety 8. PARoxetine 20 mg PO DAILY 9. Vitamin D 1000 UNIT PO DAILY 10. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 11. Albuterol 0.083% Neb Soln 1 NEB IH Q2H:PRN wheezing 12. Clindamycin 300 mg PO Q6H 13. Digoxin 0.25 mg PO DAILY 14. LORazepam 0.5 mg PO QHS:PRN insomnia/anxiety 15. Losartan Potassium 25 mg PO DAILY 16. melatonin 3 mg oral QHS 17. Metoprolol Tartrate 25 mg PO TID 18. PredniSONE 40 mg PO DAILY 
+
+ Discharge Medications: 1. Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea RX *albuterol sulfate [Ventolin HFA] 90 mcg 2 puffs inh every four (4) hours Disp #*1 Inhaler Refills:*0 2. Caphosol 30 mL ORAL QID RX *saliva substitute combo no.2 Use 30 mL four times a day Disp ___ Milliliter Refills:*0 3. Metoprolol Succinate XL 150 mg PO DAILY RX *metoprolol succinate 100 mg 1.5 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 4. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  5. Aspirin 81 mg PO DAILY  6. Atorvastatin 40 mg PO QPM  7. DULoxetine 60 mg PO DAILY  8. Fluticasone Propionate 110mcg 2 PUFF IH BID  9. LORazepam 0.5 mg PO DAILY anxiety  10. LORazepam 0.5 mg PO QHS:PRN insomnia/anxiety  11. Losartan Potassium 25 mg PO DAILY  12. melatonin 3 mg oral QHS  13. PARoxetine 20 mg PO DAILY  14. Rivaroxaban 20 mg PO DAILY  15. umeclidinium 62.5 mcg/actuation inhalation DAILY  16. Vitamin D 1000 UNIT PO DAILY 
+
+ Discharge Disposition: Home  Discharge Diagnosis: Primary: Atrial fibrillation, atypical chest pain
+
+Secondary: Aspiration pneumonia, delirium, dry mouth, anxiety, hyponatremia, lung nodule, chronic systolic congestive heart failure
+
+ Discharge Condition: Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Dear Mr. ___,
+
+You were admitted to ___ with fast heart rate due to an abnormal but common heart rhythm called atrial fibrillation, which you have had before. Your medication was adjusted which helped your symptoms, and your chest pain is not from a heart attack but most likely related to the fast heart beat. You were found to have mildly low sodium levels in your blood which may be from being a bit dehydrated. You were seen by physical and occupational therapy who felt you would benefit from rehab, but you decided to leave the hospital against medical advice. You expressed that you understand the risks of falling and injuring your self. You completed antibiotics for pneumonia on ___. 
+
+I strongly advise that you see your primary care doctor for follow up of various issues, including lung nodules that need follow up in three months. 
+
+Best of luck, 
+
+Your ___ Care Team  Followup Instructions: ___ 

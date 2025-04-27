@@ -1,0 +1,33 @@
+T1	Dementia 193 214	altered mental status
+T2	Dementia 303 311	dementia
+A1	Diagnosis T2 History_of
+T3	Urinary_tract_infection 391 394	UTI
+A2	Diagnosis T3 Suspected
+T4	Dementia 399 422	worsening mental status
+T5	Lower_gastrointestinal_haemorrhage 871 876;880 885	blood stool
+A3	Negation T5
+T6	Dementia 9943 9966	worsening mental status
+T8	Dementia 9687 9695	dementia
+T10	Constipation 8449 8461	constipation
+A4	Diagnosis T10 Implicit_mention
+T11	Constipation 8732 8744	constipation
+A5	Diagnosis T11 Implicit_mention
+T12	Constipation 9268 9280	constipation
+A6	Diagnosis T12 Implicit_mention
+T13	Constipation 9309 9321	constipation
+A7	Diagnosis T13 Implicit_mention
+T14	Dementia 1236 1245	confusion
+A8	Diagnosis T14 Implicit_mention
+T15	Urinary_tract_infection 1720 1723	UTI
+A9	Diagnosis T15 Suspected
+T16	Dementia 2000 2011	Memory loss
+T18	Delirium 3178 3185	AxOx2-3
+A11	Negation T18
+T21	Dementia 5894 5902	dementia
+T22	Dementia 6866 6887	Altered mental status
+T23	Dementia 6990 6998	dementia
+T25	Mobile_with_aid 9855 9865	wheelchair
+A14	Type_of_aid T25 Wheelchair
+T7	Mobile_with_assistance 9816 9851	Out of Bed with assistance to chair
+T19	Delirium 5954 5957	AMS
+T9	Delirium 9718 9741	Mental Status: Confused

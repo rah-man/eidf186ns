@@ -1,0 +1,65 @@
+ Name: ___           Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Ibuprofen / Keflex / Antihistamines / Latex / Bactrim  Attending: ___.  Chief Complaint: Agitation  Major Surgical or Invasive Procedure: None  History of Present Illness: Ms. ___ is a ___ with a PMHx of recent MDR E. coli UTI, UC (c/b toxic megacolon s/p subtotal colectomy and diverting ileostomy in ___ who presents with 2 day history of worsening confusion and agitation. Pt. was residing at rehab where she typically is pleasant, interactive, A and Ox2-3, and travels via wheelchair. On ___, pt. had some dry heaves and this repeated on ___. Physician in yesterday due to nausea and gave pt. IVF and requested blood work. Overnight, pt. was agitated and screaming all night. This morning, pt. refused blood work and was yelling at staff. This change in mood was consistent with prior UTIs. Pt. reported having increased pain on her rear end at the site of a bed sore. No reported ab pain, suprapubic pain, fevers, or changes in ileostomy output.
+
+Of note, pt. was just admitted ___ for AMS and resistant E. coli UTI. She was discharged on cefepime to complete a ___nding on ___.
+
+In the ED, initial vitals: 97.7 86 114/76 18 96% RA Labs/Studies notable for: WBC 11.1 (diff pnd), stable anemia of 10.6/34.6, Cr 2.5 (baseline 0.9 in ___, though 1.8 at last discharge ___, HCO3 14, AG 16, lactate 2.2. Urine analysis showed large leukocytes, large blood, >182WBC, and many bacteria. Imaging: CT head with no acute process, CXR clear
+
+Patient was continued on cefepime, given 1L IVF and admitted to medicine for further management of UTI and ___.
+
+On arrival to the floor, pt. was A and O to self and ___. She was not, however, following questioning and conversations appropriately. She denied any symptoms, but became agitated with any minor manipulations on exam.  ROS:  Per HPI. All else unable to perform given mental status.  Past Medical History: - Nephrolithiasis requiring ureteral stent - last documented in ___, stents placed in ___ - recurrent multi-drug resistant UTIs - Ulcerative colitis: c/b toxic megacolon s/p subtotal colectomy with diverting ___, h/o mucocutaneous fistula and MRSA peritoneal abscess s/p percutaneous drainage ___, SBO s/p ex-lap, lysis of adhesions, parastomal hernia ___, proctitis ___  - Pyoderma gangrenosum  - DVT LLE recurrent  - s/p IVC filter ___ not currently on anticoagulation  - Depression  - NIDDM: steroid induced, diet controlled (resolved per pt)  - HTN  - CKD  - Hypothyroidism  - GERD  - Glaucoma  - Breast cancer s/p L lumpectomy and XRT  - Myopathy: ?___ steroids  - Osteoporosis  - H/o post-menopausal bleeding  - sp polypectomy in ___  - Pseudogout  - Skin cancers: squamous cell R cheek, L arm  - Blepharitis (OD)  - s/p left salpingo-ophrectomy 
+
+ Social History: ___ Family History: - Denies history of cancers  - Father with MI, stroke  - Mother with MI   Physical Exam: ADMISSION PHYSICAL EXAM ======================== Vitals: 97.2, 107, 128/57, 16, 94 on RA Wt: 45.5 kg General: Alert and oriented to person and location, intermittently agitated, unable to follow questions or conversation HEENT: Sclera anicteric, MMdry Lungs: Coarse breath sounds bilaterally in anterior lung fields with wet upper airway secretions, non-labored breathing CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly, no suprapubic or CVA tenderness, colostomy with brown stool Ext: Warm, well perfused, no edema, very tender to light touch with chronic venous stasis changes, dressed skin tear on LLE  DISCHARGE PHYSICAL EXAM ========================== Vitals: Tm 98.2, 81, 118/63, 18, 96 on RA General: Pleasant, chronically ill appearing in NAD, confused with intermittent dysarthria; A and O x0 HEENT: Sclera anicteric, MMM Lungs: Coarse breath sounds bilaterally in anterior lung fields with wet upper airway secretions, non-labored breathing CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly, no suprapubic tenderness, colostomy with brown stool Ext: Warm, well perfused, no edema, very tender to light touch with chronic venous stasis changes, dressed skin tear on b/l lower extremities Neuro: A and O x0; moving all four extremities equally; following some commands; slight dysarthria intermittently; anisocoria  Pertinent Results: ADMISSION LABS ================ ___ 02:30PM BLOOD WBC-11.1* RBC-3.70* Hgb-10.6* Hct-34.6* MCV-94 MCH-28.7 MCHC-30.7* RDW-18.1* Plt ___ ___ 02:30PM BLOOD Neuts-85.3* Lymphs-8.8* Monos-5.5 Eos-0.2 Baso-0.2 ___:30PM BLOOD Glucose-75 UreaN-47* Creat-2.5* Na-142 K-4.7 Cl-112* HCO3-14* AnGap-21* ___ 02:30PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG ___ 03:46PM BLOOD Lactate-2.2*
+
+NOTABLE LABS ================ ___ 07:30AM BLOOD WBC-7.2 RBC-2.85* Hgb-8.2* Hct-26.5* MCV-93 MCH-28.7 MCHC-30.9* RDW-18.1* Plt ___ ___ 03:50AM BLOOD WBC-9.2 RBC-3.00* Hgb-8.8* Hct-27.7* MCV-93 MCH-29.4 MCHC-31.8 RDW-18.5* Plt ___ ___ 07:40AM BLOOD Glucose-59* UreaN-42* Creat-1.9* Na-145 K-4.0 Cl-116* HCO3-13* AnGap-20 ___ 03:50AM BLOOD Glucose-133* UreaN-24* Creat-1.2* Na-141 K-4.4 Cl-109* HCO3-22 AnGap-14 ___ 07:30AM BLOOD Calcium-7.7* Phos-3.1 Mg-1.2* ___ 03:50AM BLOOD Calcium-7.9* Phos-1.2* Mg-2.5 ___ 04:07AM BLOOD Lactate-2.4*
+
+DISCHARGE LABS ================= ___ 07:50AM BLOOD WBC-8.0 RBC-3.28* Hgb-9.3* Hct-30.3* MCV-92 MCH-28.2 MCHC-30.6* RDW-18.0* Plt ___ ___ 07:50AM BLOOD Glucose-67* UreaN-20 Creat-1.1 Na-143 K-4.7 Cl-112* HCO3-22 AnGap-14 ___ 07:50AM BLOOD Calcium-7.9* Phos-2.0* Mg-2.0
+
+STUDIES ===========
+
+CXR (___): No acute cardiopulmonary process.
+
+CT HEAD WITHOUT CONTRAST (___): IMPRESSION: 1. Chronic changes attributed to small vessel ischemia and volume loss. No acute process. 2. Fluid within all paranasal sinuses as well as the mastoid air cells bilaterally, correlate for acute sinusitis. 
+
+MR HEAD (___): IMPRESSION: 1. Foci of slow diffusion, T2 FLAIR signal hyperintensity, and some areas of enhancement within the bilateral PCA territories, right greater than left, compatible with subacute ischemia. 2. No evidence of hemorrhage or mass effect. 3. Brain parenchymal volume loss and presumed sequelae of chronic small vessel ischemic disease. 4. Paranasal sinus disease. 
+
+MICRO ======
+
+___ 1:53 pm URINE
+
+              **FINAL REPORT ___
+
+  URINE CULTURE (Final ___:    YEAST.  10,000-100,000 ORGANISMS/ML.. 
+
+ Brief Hospital Course: Ms. ___ is a ___ year old female with history of recent multi-drug resistant E. coli UTI, UC (c/b toxic megacolon s/p subtotal colectomy and diverting ileostomy in ___ admitted with worsening confusion and agitation. No evidence of infection, metabolic abnormalities corrected, and head imaging negative. She was significantly dehydrated and was rehydrated with improvement in her renal function. Her mental status remained poor, however, and after discussions with her daughter, palliative care, and hospice, it was decided to send her home with hospice.
+
+# Encephalopathy: Unclear etiology. No reversible causes identified on extensive work-up. Pt. continues to be confused. No e/o infection - UCx growing yeast, CXR neg, no change in ostomy outptut, no leukocytosis, no fevers. CT head on admission negative. MRI w/o new ischemia or mass. Cephalosporins have been reported to cause severe encephalopathy particularly in the elderly and with worsening renal function, but pt. has failed to improve with removal of cefepime. Metabolic derangements have all been corrected. Pt's daughter (HCP) met with hospice on ___ and together decided to pursue home with hospice.
+
+# Recurrent UTIs: Pt. has history of multi-drug resistant UTIs with recent 10-day course of cefepime completed ___. Ucx this admission grew only yeast. Pt. was seen by urology who recommended that she not pursue defnitive management of her stones at this time but that this could be reconsidered should she clinically improve.
+
+# ___: Secondary to dehydration. Resolved with IVF.
+
+# Acidosis: Noted during last admission as well. Likely secondary to ostomy output and CKD. Pt. started on bicarb supplementation last admission. This was continued on admission and transitioned to IV once pt. stopped taking PO. 
+
+# Poor PO intake: Patient and daughter wanted to lift diet restrictions despite risk of aspiration. Patient will continue to eat for comfort without restrictions.
+
+# Ulcerative colitis: Patient was initially continued on home mesalamine PR, but this was discontinued once she was transitioned to hospice.
+
+# Glaucoma: Pt. was continued on timolol and artificial tears. 
+
+ # Hypothyroidism: Pt. was continued on home levothyroxine.
+
+# Diabetes: Diet controlled.
+
+# Blepharitis: Pt. was continued on erythromycin ointment to R eye BID and artificial tears prn
+
+# Transitional issues: - home with hospice - code: DNR/DNI - contact: ___ (daughter) ___ (h), ___ (c) 
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. CefePIME 500 mg IV Q24H 2. Normal Saline Flush (sodium chloride 0.9 %) 0.9 % intravenous continuous 3. Erythromycin 0.5% Ophth Oint 0.5 in RIGHT EYE BID 4. Sodium Bicarbonate 650 mg PO TID 5. Acetaminophen 650 mg PO Q6H 6. Levothyroxine Sodium 75 mcg PO DAILY 7. Mesalamine (Rectal) ___AILY 8. Timolol Maleate 0.5% 1 DROP BOTH EYES BID 9. Ipratropium-Albuterol Neb 1 NEB NEB Q4H:PRN dyspnea 10. Guaifenesin ER 600 mg PO Q12H:PRN cough 11. Ondansetron 4 mg PO Q8H:PRN nausea 12. OxycoDONE Liquid 2.5 mg PO Q3H:PRN mod-severe pain 13. Artificial Tears 2 DROP BOTH EYES Q6H:PRN dry eyes 
+
+ Discharge Medications: 1. Artificial Tears 2 DROP BOTH EYES Q6H:PRN dry eyes 2. Ipratropium-Albuterol Neb 1 NEB NEB Q4H:PRN dyspnea 3. Levothyroxine Sodium 75 mcg PO DAILY 4. Timolol Maleate 0.5% 1 DROP BOTH EYES BID 5. Erythromycin 0.5% Ophth Oint 0.5 in RIGHT EYE BID 6. Lorazepam 0.25 mg PO QHS RX *lorazepam 0.5 mg ___ tablets by mouth at bedtime Disp #*30 Tablet Refills:*3 7. Morphine Sulfate (Oral Soln.) 1 mg PO Q4H:PRN discomfort, agitation RX *morphine 10 mg/5 mL ___ mL by mouth every 4 hours Refills:*0 8. Sodium Bicarbonate 650 mg PO TID 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Encephalopathy
+
+ Discharge Condition: Mental Status: Confused - always. Level of Consciousness: Lethargic but arousable. Activity Status: Bedbound.  Discharge Instructions: Dear Ms. ___,
+
+You were admitted to ___ due to confusion. After careful evaluation including lab work and imaging of your head, we were unable to find any reversible causes for your confusion. Given your multiple illnesses, we decided in conjunction with your daughter and the palliative care team to send you home with care focused on making you comfortable. It was a pleasure taking care of you. We wish you all the best.  Followup Instructions: ___ 

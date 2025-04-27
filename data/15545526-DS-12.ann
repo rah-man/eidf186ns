@@ -1,0 +1,18 @@
+T3	Lower_respiratory_tract_infection 9849 9858	pneumonia
+T5	Lower_respiratory_tract_infection 4464 4467	PNA
+T6	Lower_respiratory_tract_infection 5355 5363;5395 5414	CT chest pulmonary infection
+T7	Lower_respiratory_tract_infection 9576 9585	pneumonia
+T9	Has_carers 9527 9534	Service
+T11	Lower_respiratory_tract_infection 930 933	PNA
+T15	Lower_respiratory_tract_infection 5662 5667;5745 5755	chest infectious
+A6	Diagnosis T15 Suspected
+T8	Lower_respiratory_tract_infection 556 560	HCAP
+A3	Diagnosis T8 History_of
+T10	Lower_respiratory_tract_infection 5117 5121	HCAP
+A7	In-hospital_event T8
+A4	In-hospital_event T10
+T1	Independently_mobile 9708 9732	Ambulatory - Independent
+T2	Delirium 9609 9642	Mental Status: Clear and coherent
+A1	Negation T2
+T4	Delirium 3277 3289	oriented x 3
+A2	Negation T4

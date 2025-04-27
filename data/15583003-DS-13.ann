@@ -1,0 +1,15 @@
+T5	Mobile_with_aid 5500 5503	aid
+A4	Type_of_aid T5 Two_sticks_or_frame
+T6	Constipation 3994 4006	Constipation
+A5	Diagnosis T6 Implicit_mention
+T7	Constipation 4112 4124	Constipation
+A6	Diagnosis T7 Implicit_mention
+T8	Constipation 4207 4219	constipation
+A7	Diagnosis T8 Implicit_mention
+T9	Constipation 6345 6357	constipation
+A8	Diagnosis T9 Implicit_mention
+T1	Mobile_with_assistance 5464 5496	Ambulatory - requires assistance
+T2	Delirium 975 981	A&O x3
+A1	Negation T2
+T3	Delirium 5365 5398	Mental Status: Clear and coherent
+A2	Negation T3

@@ -1,0 +1,8 @@
+T4	Lower_respiratory_tract_infection 3578 3581;3602 3605	CXR PNA
+A4	Negation T4
+T3	Lower_respiratory_tract_infection 2946 2955	pneumonia
+A3	Negation T3
+T2	Mobile_with_aid 7325 7347	Ambulatory - with cane
+A2	Type_of_aid T2 One_Stick
+T1	Delirium 7226 7260	Mental Status: Clear and coherent.
+A1	Negation T1

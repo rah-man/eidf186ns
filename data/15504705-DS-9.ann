@@ -1,0 +1,19 @@
+T3	Constipation 4597 4609	constipation
+A1	Diagnosis T3 Implicit_mention
+T6	Mobile_with_aid 3812 3815	aid
+A3	Type_of_aid T6 Two_sticks_or_frame
+T7	Constipation 3201 3213	Constipation
+A4	Diagnosis T7 Implicit_mention
+T9	Falls 536 543	slipped
+T10	Hip_fracture 702 718;725 733	intertrochateric fracture
+T11	Hip_fracture 1396 1408	hip fracture
+T8	Hip_fracture 1573 1585	hip fracture
+T13	Hip_fracture 3641 3653	hip fracture
+T5	Mobile_with_assistance 3776 3808	Ambulatory - requires assistance
+T1	Hip_fracture 366 378	hip fracture
+T2	Hip_fracture 254 266	hip fracture
+T12	Constipation 2426 2453	moving bowels spontaneously
+A5	Negation T12
+T14	Hip_fracture 466 480	femur fracture
+T4	Delirium 3677 3710	Mental Status: Clear and coherent
+A2	Negation T4

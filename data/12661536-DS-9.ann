@@ -1,0 +1,21 @@
+T1	Upper_gastrointestinal_haemorrhage 10067 10095;10105 10110	blood or dark/black material vomit
+A1	Diagnosis T1 Implicit_mention
+T2	Lower_gastrointestinal_haemorrhage 10067 10095;10121 10126	blood or dark/black material bowel
+A2	Diagnosis T2 Implicit_mention
+T3	Has_carers 8589 8596	Service
+T4	Delirium 8798 8816	Clear and coherent
+A3	Negation T4
+T5	Independently_mobile 8882 8906	Ambulatory - Independent
+T6	Delirium 8679 8687	delirium
+A4	In-hospital_event T6
+T7	Lower_respiratory_tract_infection 6844 6853	pneumonia
+A5	Diagnosis T7 Suspected
+T8	Delirium 2131 2136	A&Ox3
+A6	Negation T8
+T9	Constipation 7563 7575	constipation
+A7	Diagnosis T9 Implicit_mention
+T10	Delirium 6313 6321	delirium
+A8	Diagnosis T10 Implicit_mention
+T11	Independently_mobile 7051 7077	ambulating with assistance
+T12	Has_carers 7186 7194	services
+T13	Lower_respiratory_tract_infection 8720 8759	Hospital acquired respiratory infection

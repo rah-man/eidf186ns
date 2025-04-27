@@ -1,0 +1,20 @@
+T1	Constipation 1615 1627	constipation
+T2	Hearing_impairment 2662 2670	Deafness
+T3	Hearing_impairment 2676 2687	hearing aid
+T4	Dementia 3043 3047	AOx3
+A1	Negation T4
+T6	Constipation 12777 12789	constipation
+A3	Diagnosis T6 Implicit_mention
+T7	Constipation 12020 12032	constipation
+A4	Diagnosis T7 Implicit_mention
+T8	Constipation 11847 11859	constipation
+A5	Diagnosis T8 Implicit_mention
+T9	Constipation 11079 11091	constipation
+A6	Diagnosis T9 Implicit_mention
+T10	Constipation 11112 11124	constipation
+A7	Diagnosis T10 Implicit_mention
+T11	Seizures 2841 2848	seizure
+A8	Diagnosis T11 Implicit_mention
+T12	Constipation 9119 9131	Constipation
+T13	Weight_loss 1172 1183	weight loss
+A9	Negation T13

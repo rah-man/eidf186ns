@@ -1,0 +1,37 @@
+T2	Lower_respiratory_tract_infection 13535 13544	pneumonia
+T3	Falls 13473 13480	falling
+A2	Diagnosis T3 Implicit_mention
+T5	Mobile_with_aid 12811 12814	aid
+A3	Type_of_aid T5 Two_sticks_or_frame
+T6	Lower_respiratory_tract_infection 12578 12587	pneumonia
+T7	Lower_respiratory_tract_infection 9820 9829	pneumonia
+T8	Lower_respiratory_tract_infection 6692 6701	pneumonia
+T9	Lower_respiratory_tract_infection 1938 1947	pneumonia
+T10	Lower_respiratory_tract_infection 2026 2029	HAP
+A4	Diagnosis T10 Suspected
+T11	Lower_respiratory_tract_infection 2480 2489	Pneumonia
+T12	Malnutrition 2595 2607	Malnutrition
+A5	Diagnosis T12 History_of
+A6	Diagnosis T11 History_of
+T13	Constipation 2673 2685	Constipation
+A7	Diagnosis T13 History_of
+T14	Delirium 3383 3388	AAOx3
+A8	Negation T14
+T16	Lower_respiratory_tract_infection 5778 5787	pneumonia
+T17	Lower_respiratory_tract_infection 6069 6073;6142 6151	lobe infection
+T18	Lower_respiratory_tract_infection 7541 7550	pneumonia
+T19	Lower_respiratory_tract_infection 7594 7603	pneumonia
+T20	Delirium 7731 7739	Delirium
+T21	Delirium 7770 7778	delirium
+T22	Unspecified_cognitive_impairment 7857 7877	cognitive impairment
+A10	Diagnosis T22 Suspected
+T23	Delirium 7934 7942	delirium
+T24	Delirium 8903 8911	Delirium
+T25	Falls 9037 9041	fall
+A11	Diagnosis T25 Implicit_mention
+A12	In-hospital_event T10
+T15	Delirium 12589 12597	delirium
+T4	Mobile_with_assistance 12775 12807	Ambulatory - requires assistance
+A9	Diagnosis T9 Suspected
+T1	Delirium 4040 4051	oriented x3
+A1	Negation T1

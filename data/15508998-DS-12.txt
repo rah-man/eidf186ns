@@ -1,0 +1,63 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___  Chief Complaint: Hematochezia  Major Surgical or Invasive Procedure: Flexible sigmoidoscopy
+
+ History of Present Illness: Patient is a ___ yo F with PMH significant for HTN and colonic diverticulosis with recent lower GI bleed requiring hospitalization at ___ now presenting with bright red blood per rectum. She was discharged from ___ yesterday with GI bleeding from a lower GI source. She initially presented to ___ on ___ after noting 4 episodes of BRBPR associated with dizziness and fatigue, found to have a hemoglobin of 8.9. At ___, she was admitted to the MICU, where she received 4 units PRBC. A tagged red cell scan was performed on ___, which demonstrated bleeding from the right colon/cecum region, which prompted colonoscopy revealing diverticulosis in the sigmoid, descending, and transverse colon with signs of prior bleed for an intervenable lesion. She was transferred to ___ on ___ for evaluation by ___ for possible embolization, though they did not feel an urgent procedure was indicated. She was discharged from ___ on ___.
+
+She presented to ___ today noting 5 episodes of BRBPR. She says 4 episodes were without stool and with one clot, while there was one episode of brown stool mixed with red blood. Her most recent episode was passing a clot at ___ on ___ without any accompanying BRB. She denies any lightheadedness, fatigue, CP, SOB, abdominal pain, n/v. 
+
+In the ED:
+
+Initial vital signs were notable for: T98.56; HR 63, BP 116/65, RR 14, POx 98% RA
+
+Exam notable for: bright red blood per rectum
+
+Labs were notable for: Hgb 8.5 (<--10<--10.4 at most recent discharge), Hct 26.7
+
+Patient was given: ~ 600 mL LR IVF
+
+Consults: GI (Recommend eval with ___ vs. colorectal for consideration of more definitive tx); ___ (recommend CTA A/P for evaluation of active bleeding); ___ (pending, will see)
+
+Vitals on transfer: T98.2; HBP 131/63; HR 72, RR 18, PO2 96% RA
+
+Upon arrival to the floor, the patient reported another bloody bowel movement around 630 pm. She expressed to me that she lost ___ lbs over the course of her recent hospitalizations, and is "tired of getting blood draws." She denied any lightheadedness or dizziness.  Past Medical History: -Hypertension -Diverticular bleeding/diverticulosis -Hepatitis A Ab IgG reactive
+
+ Social History: ___ Family History: No known GI malignancy. Parents passed away from sepsis when she was very young.  Physical Exam: ADMISSION PHYSICAL EXAM: ======================== VITALS:T98.2; HBP 131/63; HR 72, RR 18, PO2 96% RA GENERAL: Alert and interactive. In no acute distress. HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without injection. MMM. NECK: Thyroid is normal in size and texture, no nodules. No cervical lymphadenopathy. No JVD. CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No murmurs/rubs/gallops. LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or rales. No increased work of breathing. BACK: No spinous process tenderness. No CVA tenderness. ABDOMEN: Normal bowels sounds, non distended, non-tender to deep palpation in all four quadrants. No organomegaly. Pt denied rectal exam; ED exam revealed BRBPR; stool mixed with bright red blood in toilet EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 2+ bilaterally. SKIN: Warm. Cap refill <2s. No rash. NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal sensation. Gait is normal. AOx3.
+
+DISCHARGE PHYSICAL EXAM ====================== VITALS: T 98.6, BP 137 / 76, HR 64, RR 18, 95% on room air GENERAL: NAD, energetic, up out of bed, walking around. HEENT: AT/NC, anicteric sclera, MMM CV: RRR, S1/S2, no murmurs, gallops, or rubs PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles GI: abdomen soft, nondistended, nontender in all 4 quadrants, no rebound/guarding EXTREMITIES: no cyanosis, clubbing, or edema NEURO: Alert, moving all 4 extremities with purpose, face symmetric DERM: Warm and well perfused, no excoriations or lesions, no rashes  Pertinent Results: ADMISSION LABS ============= ___ 06:48AM  WBC-7.6 RBC-3.36* HGB-10.4* HCT-31.5* MCV-94 MCH-31.0 MCHC-33.0 RDW-15.5 RDWSD-49.6* ___ 10:00AM  ___ PTT-29.7 ___ ___ 10:00AM  WBC-10.0 RBC-3.33* HGB-10.0* HCT-30.7* MCV-92 MCH-30.0 MCHC-32.6 RDW-15.0 RDWSD-48.9* ___ 04:40PM BLOOD WBC-8.2 RBC-2.86* Hgb-8.5* Hct-26.7* MCV-93 MCH-29.7 MCHC-31.8* RDW-15.1 RDWSD-49.7* Plt ___ ___ 10:00AM BLOOD Glucose-105* UreaN-11 Creat-0.7 Na-144 K-4.1 Cl-105 HCO3-26 AnGap-13
+
+IMAGING ======= ___ CT A/P 1. No evidence of active bleeding on the current scan. Patent splanchnic branches. 2. Long segment colitis of the descending colon, given the distribution ischemic colitis is the most probable etiology. 3. Multiple pancreatic cystic lesions, which may represent side-branch intra ductal pancreatic mucinous neoplasms. 4. Probable segmental portal venous thrombosis versus focally dilated bile duct within the posterior right hepatic lobe. 5. Indeterminate hepatic hypodensities, most likely cysts or hamartomas.
+
+___ Sigmoidoscopy: erythema, congestion, and friability in descending colon compatible with colitis. Moderate diverticulosis of sigmoid colon. Blood in descending colon and sigmoid colon.
+
+PATHOLOGY ========== ___. Descending colon mucosal biopsy: Colonic mucosa with focal active inflammation and crypt atrophy; findings suggestive of ischemic changes
+
+DISCHARGE LABS ============== ___ 04:10PM BLOOD WBC-8.2 RBC-3.41* Hgb-10.3* Hct-31.4* MCV-92 MCH-30.2 MCHC-32.8 RDW-14.5 RDWSD-48.4* Plt ___ ___ 12:35PM BLOOD WBC-6.5 RBC-3.41* Hgb-10.2* Hct-31.3* MCV-92 MCH-29.9 MCHC-32.6 RDW-14.6 RDWSD-47.9* Plt ___
+
+ Brief Hospital Course: PATIENT SUMMARY =============== ___ yo F with hx of HTN and colonic diverticulosis with multiple and recent lower GIBs requiring hospitalization at ___ who presented with bright red blood per rectum, CT without actively bleeding colonic diverticula, and nonspecific colitis; flex sig showed blood and diverticula though none actively bleeding, and some inflammatory changes. Hemodynamically stable, not transfused this admission. 
+
+ACUTE ISSUES: ============= # Lower GI Bleed # Diverticulosis # Ischemic colitis She presented with BRBPR. She has had multiple hospitalizations for diverticular bleeds including ___ at ___. CT A/P on admission did not show any sites of active bleeding, and showed new colitis. Infectious and inflammatory colitis were considered. Most likely mild ischemic colitis from hypotension in the setting of her diverticular bleed. Flex sig ___ am showed blood and mild colitis, no actively bleeding diverticula. She had one small episode of bleeding after the flex sig, but her Hgb was stable. GI recommends that she be seen by ___ for embolization if she has another bleeding event because of the location of her diverticulosis. 
+
+# Blood loss anemia Secondary to GI bleeds. Hgb stable at ___ this admission, asymptomatic. No transfusions this admission.
+
+CHRONIC ISSUES: =============== #HTN Her home amlodipine was held initially in the setting of GI bleed. This may be restarted if hypertensive when she sees her PCP. 
+
+TRANSITIONAL ISSUES: ==================== [] She will see GI for MRCP for pancreatic cysts found incidentally on CT A/P. [] If she rebleeds, she should go to ED for stat CT A/P and possible ___ intervention. [] Holding amlodipine given normotensive this admission and recent bleeding. Consider when to restart [] Anemia following multiple admissions for lower GI bleeds. Would repeat CBC.
+
+CODE: Full CONTACT: ___ (friend) ___  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. amLODIPine 10 mg PO DAILY 
+
+ Discharge Medications: 1. HELD- amLODIPine 10 mg PO DAILY This medication was held. Do not restart amLODIPine until talking with your primary care doctor. Your blood pressure has been normal here, it often goes down when someone has had bleeding like you did.
+
+ Discharge Disposition: Home  Discharge Diagnosis: Lower GI bleed Pancreatic cysts 
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Ms. ___,  It was a privilege caring for you at ___. 
+
+WHY WAS I IN THE HOSPITAL?  - You had bleeding from your intestine, probably from diverticula. - We were watching to make sure you didn't have a serious bleed.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  - You had a CT scan and a flexible sigmoidoscopy. - These showed diverticula and some inflammation in the colon. - They did not catch any during active bleeding.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  - Continue to take all your medicines and keep your appointments. - Please see the GI doctors and ___ to discuss options to prevent future bleeds. - Please talk to the GI doctor about your pancreas. - If you have bleeding again, come back to the hospital to get another CT scan. You might need a procedure to stop the bleeding. 
+
+We wish you the best.
+
+Sincerely,  Your ___ Team   Followup Instructions: ___ 

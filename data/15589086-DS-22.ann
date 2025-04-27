@@ -1,0 +1,74 @@
+T1	Upper_gastrointestinal_haemorrhage 184 190	Melena
+T2	Lower_gastrointestinal_haemorrhage 195 200	BRBPR
+T3	Lower_gastrointestinal_haemorrhage 442 450	GI bleed
+T4	Lower_gastrointestinal_haemorrhage 470 497	bright red blood per rectum
+T5	Lower_gastrointestinal_haemorrhage 554 559;571 587;602 613	stool bright red blood blood clots
+T6	Lower_gastrointestinal_haemorrhage 10036 10041;10050 10055	blood bowel
+A1	Diagnosis T6 Implicit_mention
+T7	Lower_gastrointestinal_haemorrhage 9914 9918;9935 9949	bled diverticulosis
+A2	Diagnosis T7 Suspected
+T10	Lower_gastrointestinal_haemorrhage 9480 9485;9494 9499	blood stool
+A5	Diagnosis T10 Implicit_mention
+T13	Lower_gastrointestinal_haemorrhage 9091 9099	GI Bleed
+T14	Upper_gastrointestinal_haemorrhage 818 824	melena
+A7	Negation T14
+T15	Lower_gastrointestinal_haemorrhage 911 919	GI bleed
+A8	Diagnosis T15 History_of
+T16	Dementia 1824 1832	dementia
+A9	Diagnosis T16 History_of
+T17	Delirium 2671 2679	oriented
+A10	Negation T17
+T20	Lower_gastrointestinal_haemorrhage 3043 3067	Rectal: no visible blood
+A13	Negation T20
+T21	Lower_gastrointestinal_haemorrhage 5012 5020;5039 5043;5048 5075	No blood bowe No bleeding site identified
+A14	Negation T21
+T22	Lower_gastrointestinal_haemorrhage 5838 5846	GI bleed
+T23	Lower_gastrointestinal_haemorrhage 5867 5894	bright red blood per rectum
+T24	Lower_gastrointestinal_haemorrhage 5955 5963	GI BLEED
+T25	Lower_gastrointestinal_haemorrhage 6000 6008	GI bleed
+A15	Diagnosis T25 History_of
+T26	Upper_gastrointestinal_haemorrhage 6297 6303	melena
+T27	Lower_gastrointestinal_haemorrhage 6308 6313	BRBPR
+T30	Upper_gastrointestinal_haemorrhage 7332 7335	GIB
+T31	Lower_gastrointestinal_haemorrhage 7332 7335	GIB
+T32	Upper_gastrointestinal_haemorrhage 7083 7086	GIB
+T33	Lower_gastrointestinal_haemorrhage 7083 7086	GIB
+T9	Lower_gastrointestinal_haemorrhage 6529 6547;6577 6582	no active bleeding bleed
+A4	Diagnosis T9 Suspected
+T28	Upper_gastrointestinal_haemorrhage 1384 1387	GIB
+T29	Lower_gastrointestinal_haemorrhage 1384 1387	GIB
+T34	Upper_gastrointestinal_haemorrhage 2112 2116	UGIB
+A16	Diagnosis T34 History_of
+T35	Lower_gastrointestinal_haemorrhage 3783 3789;3791 3807	Rectal no visible blood
+A17	Negation T35
+T8	Unspecified_cognitive_impairment 1701 1719	cognitive deficits
+T18	Lower_gastrointestinal_haemorrhage 9713 9723;9728 9736	intestines bleeding
+A3	Negation T18
+T12	Independently_mobile 9319 9343	Ambulatory - Independent
+T19	Constipation 8388 8400	constipation
+A11	Diagnosis T19 Implicit_mention
+A12	Low_confidence T28
+A20	Low_confidence T29
+A21	Low_confidence T15
+T38	Upper_gastrointestinal_haemorrhage 911 919	GI bleed
+A22	Low_confidence T38
+A23	Diagnosis T38 History_of
+A18	Low_confidence T3
+T36	Upper_gastrointestinal_haemorrhage 442 450	GI bleed
+A19	Low_confidence T36
+T37	Upper_gastrointestinal_haemorrhage 5955 5963	GI BLEED
+A24	Low_confidence T37
+A25	Low_confidence T24
+A26	Low_confidence T25
+T39	Upper_gastrointestinal_haemorrhage 6000 6008	GI bleed
+A27	Low_confidence T39
+A28	Diagnosis T39 History_of
+A29	Low_confidence T32
+A30	Low_confidence T33
+A31	Low_confidence T30
+A32	Low_confidence T31
+A33	Low_confidence T13
+T40	Upper_gastrointestinal_haemorrhage 9091 9099	GI Bleed
+A34	Low_confidence T40
+T11	Delirium 9220 9253	Mental Status: Clear and coherent
+A6	Negation T11
