@@ -1,0 +1,53 @@
+T1	Seizures 1379 1386	seizure
+A1	Diagnosis T1 History_of
+T2	Dementia 386 394	dementia
+T3	Intracranial_haemorrhage 7950 7974	Intracerebral Hemorrhage
+A2	Diagnosis T3 Implicit_mention
+T6	Mobile_with_aid 9855 9858	aid
+A3	Type_of_aid T6 Two_sticks_or_frame
+T7	Urinary_tract_infection 10923 10946	urinary tract infection
+T8	Lives_in_carehome 511 523	nursing home
+T9	Intracranial_haemorrhage 893 895;926 929	CT IPH
+T10	Lives_in_carehome 1343 1355	nursing home
+T11	Independently_mobile 2392 2407	walk unassisted
+T12	Has_carers 2489 2499	assistance
+T13	Mobile_with_assistance 2504 2529	unable to walk unassisted
+T14	Has_carers 2573 2585	nursing care
+T15	Bed_Chairbound 2601 2610	bedridden
+T16	Urinary_incontinence 2612 2623	incontinent
+T17	Faecal_incontinence 2612 2623	incontinent
+T18	Lower_respiratory_tract_infection 5645 5654	pneumonia
+A5	Negation T18
+T19	Intracranial_haemorrhage 5674 5678;5724 5749;5763 5775	HEAD intraparenchymal hematoma subarachnoid
+T20	Dementia 5990 5998	dementia
+T21	Dementia 6232 6240	dementia
+A6	Diagnosis T21 History_of
+T22	Intracranial_haemorrhage 6139 6149;6174 6182	hemorrhage cerebral
+T24	Mobile_with_assistance 6902 6912	assistance
+T25	Mobile_with_aid 6957 6963	walker
+A7	Type_of_aid T25 Two_sticks_or_frame
+T26	Seizures 7108 7116	seizures
+A8	Diagnosis T26 Implicit_mention
+T27	Seizures 7233 7240	seizure
+A9	Diagnosis T27 Implicit_mention
+T28	Urinary_tract_infection 7306 7329	urinary tract infection
+A10	Diagnosis T28 Suspected
+T29	Intracranial_haemorrhage 9667 9694	intraparenchymal hemorrhage
+T23	Intracranial_haemorrhage 10087 10092;10118 10123	bleed brain
+T30	Intracranial_haemorrhage 10186 10191;10348 10353	bleed brain
+T31	Intracranial_haemorrhage 10354 10360;10418 10423	bleeds brain
+T32	Intracranial_haemorrhage 10492 10503	brain bleed
+T33	Seizures 10719 10726	seizure
+A11	Diagnosis T33 Implicit_mention
+T34	Seizures 10849 10857	seizures
+A12	Diagnosis T34 Implicit_mention
+T35	Intracranial_haemorrhage 426 429	IPH
+T37	Dementia 1165 1191	difficulty with his memory
+A4	Diagnosis T37 Implicit_mention
+T5	Mobile_with_assistance 9819 9851	Ambulatory - requires assistance
+T36	Intracranial_haemorrhage 4943 4947;4979 5000	HEAD frontal lobe hematoma
+T39	Intracranial_haemorrhage 6245 6261	lobar hemorrhage
+T40	Delirium 6532 6540	delirium
+A13	Low_confidence T16
+A14	Low_confidence T17
+T4	Delirium 9718 9741	Mental Status: Confused

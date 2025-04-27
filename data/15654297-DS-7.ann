@@ -1,0 +1,30 @@
+T2	Constipation 11652 11664	constipation
+A2	Diagnosis T2 Implicit_mention
+T3	Constipation 11730 11742	constipation
+A3	Diagnosis T3 Implicit_mention
+T4	Constipation 12019 12031	constipation
+A4	Diagnosis T4 Implicit_mention
+T5	Constipation 11914 11926	constipation
+A5	Diagnosis T5 Implicit_mention
+T8	Mobile_with_aid 12587 12590	aid
+A7	Type_of_aid T8 Two_sticks_or_frame
+T9	Constipation 2115 2127	constipation
+T10	Upper_gastrointestinal_haemorrhage 2451 2457	melena
+A8	Negation T10
+T11	Upper_gastrointestinal_haemorrhage 2459 2470	hematemesis
+A9	Negation T11
+T12	Lower_gastrointestinal_haemorrhage 2472 2485	hematochezia.
+A10	Negation T12
+T13	Faecal_incontinence 2502 2507;2517 2530	stool incontinence.
+A11	Negation T13
+T14	Urinary_incontinence 2511 2516;2517 2529	urine incontinence
+A12	Negation T14
+T15	Lower_respiratory_tract_infection 3827 3836	pneumonia
+T16	Upper_gastrointestinal_haemorrhage 4180 4191	hematemesis
+T17	Weight_loss 5022 5033	weight loss
+T1	Mobile_with_assistance 12551 12583	Ambulatory - requires assistance
+T7	Weight_loss 1209 1220	weight loss
+T21	Visual_impairment 2323 2336	oss of vision
+A14	Negation T21
+T6	Delirium 12452 12485	Mental Status: Clear and coherent
+A1	Negation T6

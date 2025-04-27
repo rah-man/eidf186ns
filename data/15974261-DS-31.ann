@@ -1,0 +1,28 @@
+T1	Seizures 2909 2917	seizures
+A1	Negation T1
+T2	Lives_in_carehome 5374 5386	nursing home
+T3	Lives_in_carehome 5550 5562	nursing home
+T4	Urinary_incontinence 5852 5864	incontinence
+A2	Negation T4
+T5	Faecal_incontinence 5852 5864	incontinence
+A3	Negation T5
+T6	Delirium 9226 9234	oriented
+T7	Unspecified_cognitive_impairment 3940 3951	ORIENTATION
+T8	Lives_in_carehome 6142 6154	nursing home
+T9	Unspecified_cognitive_impairment 6618 6639	cognitive dysfunction
+T10	Independently_mobile 6784 6806	ambulate independently
+T11	Unspecified_cognitive_impairment 8632 8650	Cognitive disorder
+A4	Negation T6
+T12	Lives_in_carehome 9463 9473	Healthcare
+T13	Unspecified_cognitive_impairment 8762 8784	cerebellar dysfunction
+A5	Low_confidence T13
+T14	Unspecified_cognitive_impairment 8838 8859	functional impairment
+A6	Low_confidence T14
+T15	Dementia 3681 3695	hallucinations
+A7	Negation T15
+T16	Dementia 1605 1619	hallucinations
+A8	Negation T16
+T17	Dementia 1621 1630	delusions
+A9	Negation T17
+A10	Low_confidence T4
+A11	Low_confidence T5

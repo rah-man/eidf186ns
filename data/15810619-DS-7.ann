@@ -1,0 +1,12 @@
+T3	Lower_gastrointestinal_haemorrhage 1061 1069;1081 1087	bleeding rectal
+A2	Negation T3
+T4	Delirium 2697 2702	A&Ox3
+A3	Negation T4
+T5	Seizures 5813 5820	seizure
+A4	Negation T5
+T6	Weight_loss 6123 6130	weighed
+T7	Weight_loss 6079 6085	weight
+T10	Weight_loss 8042 8047;8064 8070	under weight
+T1	Independently_mobile 9038 9062	Ambulatory - Independent
+T2	Delirium 8939 8972	Mental Status: Clear and coherent
+A1	Negation T2

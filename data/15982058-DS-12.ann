@@ -1,0 +1,15 @@
+T1	Upper_gastrointestinal_haemorrhage 1056 1066;999 1006	non-bloody vomited
+A1	Negation T1
+T2	Visual_impairment 5889 5897	GLAUCOMA
+T3	Delirium 7075 7093	Clear and coherent
+A2	Negation T3
+T4	Independently_mobile 7159 7183	Ambulatory - Independent
+T5	Urinary_tract_infection 7416 7439	urinary tract infection
+T6	Urinary_tract_infection 6978 7001	Urinary tract infection
+T7	Urinary_tract_infection 5503 5527	urinary tract infections
+A3	Diagnosis T7 Implicit_mention
+T8	Visual_impairment 1532 1540	Glaucoma
+A4	Diagnosis T8 History_of
+T9	Upper_gastrointestinal_haemorrhage 705 710;737 747	Vomit non-bloody
+A5	Negation T9
+T10	Urinary_tract_infection 5325 5348	URINARY TRACT INFECTION

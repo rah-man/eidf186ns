@@ -1,0 +1,23 @@
+T3	Falls 294 298	fall
+T4	Falls 556 560	fall
+T7	Delirium 2834 2842	oriented
+A4	Negation T7
+T10	Hip_fracture 5766 5769;5991 5999	HIP fracture
+A7	Negation T10
+T11	Vertebral_compression_fracture 6181 6199;6226 6234	lower lumbar spine fracture
+A8	Negation T11
+T12	Hip_fracture 9520 9528;9568 9571	fracture hip
+A9	Negation T12
+T13	Falls 11592 11596	fall
+T14	Falls 17972 17977	falls
+A10	Diagnosis T14 Implicit_mention
+T15	Intracranial_haemorrhage 17448 17452;17502 17510	head bleeding
+A11	Negation T15
+T16	Delirium 3605 3613	oriented
+A12	Negation T16
+T17	Falls 17077 17081	fall
+T1	Independently_mobile 16880 16904	Ambulatory - Independent
+T8	Vertebral_compression_fracture 5047 5052;5124 5133	SPINE fractures
+A5	Negation T8
+T2	Delirium 16781 16814	Mental Status: Clear and coherent
+A1	Negation T2

@@ -1,0 +1,11 @@
+T1	Constipation 2608 2620	constipation
+A1	Diagnosis T1 Implicit_mention
+T2	Delirium 777 785	oriented
+A2	Negation T2
+T5	Mobile_with_aid 3356 3359	aid
+A4	Type_of_aid T5 Two_sticks_or_frame
+T7	Hip_fracture 626 632	hip fx
+A6	Diagnosis T7 History_of
+T4	Mobile_with_assistance 3320 3352	Ambulatory - requires assistance
+T3	Delirium 3223 3256	Mental Status: Clear and coherent
+A3	Negation T3

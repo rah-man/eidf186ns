@@ -1,0 +1,77 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Quinolones / Prednisone  Attending: ___.  Chief Complaint: Altered mental status.
+
+ Major Surgical or Invasive Procedure: none
+
+ History of Present Illness: ___ yo F with PMH of dementia presenting with 2 weeks of altered mental status. Per report from nursing home, patient has had personality changes for ___ weeks and has been more withdrawn than baseline. She has also had increasing speech difficulty (mumbling or non-responsive) and mild L sided facial weakness. She is oriented times zero at baseline and has been for a long time. On the morning of presenation the patient had a 7 minute episode of bilateral uppper extremity trembling where patient was unresponsive. She was given 0.5 mg of ativan with resolution of symptoms. Nurse there is unsure if patient bit her tongue or became incontinent during episode, however patient is incontinent of urien and stool at baseline. No record of seizure in our system and no record of seizure from ___ ___. No record of fever, n/v/d recently, cough or SOB.
+
+Pt on exam here noted to have fixed and dilated left pupil (per ___ this is patient's baseline). Moves all extremities equally. Unclear if facial droop as pt will not smile on command. Witnessed seizure today - pt has no documented h/o seizure according to ___. Pt recently had ?stroke, not proven. 
+
+Patient was last admitted on ___ s/p fall with hip pain. CT head showed no acute intracranial process at that time.  Speaking with the son, he reports that about ___ weeks ago he noticed the patient a R sided facial droop. He is unsure of when the L pupil became dilated. He also reports episodes of body shaking for the past 6 months that looked like seizure or anxiety to him. He is not sure if todays episode was similar or different.
+
+In the ED, initial vital signs were 97.7 76 143/76 18 99% 4L - Nonverbal since arrival, which family reports is her recent baseline. - Head CT: "Hypodensity in left posterior temporal-occiptial region concerning for acute infarct, new from ___ - UA: positive - EKG: SR 82 NA NI no stemi - Given: 1gram ceftriaxone, no IVF - ___: admit to geriatrics under ___ - son changed code status to DNR/DNI Most Recent Vitals: 86 141/88 20 97%   On the floor, vitals 98.3, 140/68, 92, 24, 92% 2L NC. Patient responds verbal stimuli and appears to track with eyes. 
+
+Review of sytems: Per son and rehab center (-) nausea, vomiting, diarrhea, cough, fever, dyspnea  Past Medical History: alzheimer's dementia hypothyroidism HTN HLD mixed anxiety/depressive disorder urinary incontinence anemia prior hip fracture
+
+ Social History: ___ Family History: Nothing per husband.  Physical Exam: Admission: Vitals- 98.3, 140/68, 92, 24, 92% 2L NC General- Alert, oriented x0, no acute distress  HEENT- Sclera anicteric, MMM, oropharynx clear  Neck- supple, JVP not elevated, no LAD  Lungs- Clear to auscultation bilaterally frontal lung fields  CV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  Abdomen- soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  GU- no foley  Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro-moving all extremities, does not follow commands, L pupil fixed and dilated
+
+Discharge: Vitals- 97.4, 104-150/69-75, 88, 18, 97 2LNC  General- Arrousable, oriented x0, no acute distress  HEENT- Sclera anicteric, MMM, oropharynx clear, supple, JVP not elevated, no LAD  Lungs- Upper airway noises, mild wheezing, poor inspiratory effort, no accessory muscle use  CV- RRR, normal S1 + S2, no MRG  Abdomen- soft, NT, ND, +BS, no rebound tenderness or guarding  GU- no foley  Ext- WWP, 2+ pulses, no clubbing, cyanosis or edema  Neuro-moving all extremities, does not follow commands, L pupil fixed and dilated   Pertinent Results: Admission: ___ 11:27AM  WBC-16.0*# RBC-3.64*# HGB-11.1* HCT-34.0* MCV-93 MCH-30.5 MCHC-32.7 RDW-12.9 ___ 11:27AM  NEUTS-84.2* LYMPHS-12.0* MONOS-2.4 EOS-1.1 BASOS-0.3 ___ 11:27AM  PLT COUNT-332# ___ 11:27AM  ___ PTT-28.1 ___ ___ 11:27AM  TSH-0.23* ___ 11:27AM  ALBUMIN-3.5 ___ 11:27AM  LIPASE-23 ___ 11:27AM  ALT(SGPT)-16 AST(SGOT)-21 CK(CPK)-64 ALK PHOS-102 TOT BILI-0.2 ___ 11:27AM  estGFR-Using this ___ 11:27AM  GLUCOSE-109* UREA N-25* CREAT-1.4* SODIUM-147* POTASSIUM-4.0 CHLORIDE-107 TOTAL CO2-28 ANION GAP-16 ___ 11:39AM  LACTATE-1.3 ___ 11:39AM  ___ COMMENTS-GREEN TOP ___ 11:45AM URINE MUCOUS-RARE ___ 11:45AM URINE AMORPH-RARE ___ 11:45AM URINE RBC-3* WBC-96* BACTERIA-FEW YEAST-NONE EPI-<1 ___ 11:45AM URINE BLOOD-NEG NITRITE-POS PROTEIN-TR GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-LG ___ 11:45AM URINE COLOR-Straw APPEAR-Hazy SP ___
+
+Interim: ___ 07:30AM BLOOD WBC-11.1* RBC-3.07* Hgb-9.5* Hct-28.1* MCV-92 MCH-31.0 MCHC-33.9 RDW-12.3 Plt ___
+
+Micro: ___ 11:40 am BLOOD CULTURE **FINAL REPORT ___  Blood Culture, Routine (Final ___:  NO GROWTH. ___ 11:45 am URINE   Site: CATHETER   CATHETER.               **FINAL REPORT ___  URINE CULTURE (Final ___:    PSEUDOMONAS AERUGINOSA.  >100,000 ORGANISMS/ML..      sensitivity testing performed by Microscan. CEFEPIME <=2 MCG/ML.      MEROPENEM <=1 MCG/ML.                SENSITIVITIES: MIC expressed in MCG/ML            _________________________________________________________               PSEUDOMONAS AERUGINOSA               |  CEFEPIME--------------    S CEFTAZIDIME-----------  <=1 S CIPROFLOXACIN--------- <=0.5 S GENTAMICIN------------  <=1 S MEROPENEM-------------    S PIPERACILLIN/TAZO-----  <=8 S TOBRAMYCIN------------  <=1 S
+
+___ EKG: NSR no ST changes
+
+Imaging: CT HEAD W/O CONTRAST Study Date of ___  There is a new area of hypodensity in the left posterior temporal region compared to the CT from ___, with sulcal effacement, cytotoxic edema, and loss of grey-white matter differentiation, findings compatible with acute to subacute watershed infarct.  There is no evidence of hemorrhage or shift of normally midline structures. Prominent ventricles and sulci suggests age-related atrophy. Periventricular white matter hypodensities are consistent with chronic small vessel ischemic disease. The basal cisterns appear patent.   No fracture is identified. The visualized paranasal sinuses, mastoid air cells and middle ear cavities are clear. The globes are unremarkable. 
+
+IMPRESSION: Findings compatible with an acute to subacute watershed infarct within the left posterior temporal region. 
+
+CHEST (SINGLE VIEW) Study Date of ___ IMPRESSION: Bibasilar opacities may reflect atelectasis but infection is not completely excluded. Mild pulmonary vascular congestion, slightly improved from the prior study. 
+
+CHEST (PORTABLE AP) Study Date of ___ FINDINGS: As compared to the previous radiograph, the patient has developed a left pleural effusion and an area of newly appeared left parenchymal consolidation in the retrocardiac and left basal lung areas. In the appropriate clinical setting, pneumonia with an associated pleural effusion might be the most likely differential diagnosis. At the time of dictation and observation, the referring physician, ___, was paged for notification. Normal size of the cardiac silhouette. Normal-appearing right lung. 
+
+CHEST (PORTABLE AP) Study Date of ___  FINDINGS: As compared to the previous radiograph, the severity and extent of the pre-existing left lower lung opacity has minimally decreased. However, the opacity is overall still massive. The size of the cardiac silhouette is constant. The right lung is unchanged and normal. 
+
+Pending studies: ___ Neurophysiology EEG Pending ___ Neurophysiology EEG Pending  Brief Hospital Course: ___ yo F with PMH Alzheimer's dementia presenting with cc of altered mental status found to have a recent stroke, urinary tract infection, and seizures. Hospital course was complicated by HCAP, delirium, and recurrent aspirations.
+
+# Altered mental status: Patient presented with 2 week change in mental status including personality changes with more withdrawn appearance upon baseline advanced dementia, increased speech difficulties, and mild facial weakness of R side. She also had an episode of possible seizure that was treated with 0.5mg ativan. A CT showed evidence of a subacute stroke that is new from ___. She also had a urinary tract infection.  Medication side effect from lorazepam also may have been contributing, as elderly patients are very sensitive to benzodiazepines. Seizure may also be contributing to altered mental status.
+
+# Stroke: Patient presented with 2 week history of altered mental status and R facial assymetry. On exam she was also noted to have a fixed and dilated Left pupil. CT showed a hypodensity in left posterior temporal-occiptial region concerning for acute infarct, new from ___. Patient seen and evaluated by neurology who felt this was a subacute stroke, likely dating back to onset of R facial droop about ___ weeks ago. Patient continued on aspirin 81 mg until difficulty swallowing and switched to 150 mg PR.
+
+# Urinary tract infection: Leukocytosis and positive UA on admission with lactate of 1.3 and no fevers. Urine culture done at ___ showed Proteus Mirabilis sensitive to ceftriaxone. Patient treated with 4 days of ceftriaxone in house and switched to cefepime for dual treatment of HCAP and urine culture growing Pseudomonas aeruginosa.
+
+# Seizure: Patient presented from skilled nursing facility with episode concerning for seizure, with limb shaking/trembling and decreased level of responsivenes. Patient is incontinent at baseline. Son reported that patient has been having seizure like episodes for about 6 months. She has no history of seizure. CK was normal at 63. She had a 20 minute EEG showing encephalopathy with multiple spikes, without evidence of seizure. Per neurology recommendations, the patient was started on Keppra 500mg BID.  She also had a 24 hour EEG which showed similar findings to 20 minute EEG. Upon discharge she will have an outpatient extended EEG after one week of treatment and follow up with neurology. 
+
+# Pneumonia: Patient presented with new oxygen requirement. CXR noted bibasilar opacities which may reflect atelectasis but infection is not completely excluded. A repeat CXR on ___ showed a left pleural effusion and an area of newly appeared left parenchymal consolidation in the retrocardiac and left basal lung areas. The patient was started on vancomycin and cefepime for hospital acquired pneumonia. She received a PICC line for continued antibiotic therapy. 
+
+# Hypernatremia: Sodium elevated to 147 on admission (previous admission ranged from 141-144). Given baseline dementia and altered mental status this may be due to patient not being able to get water. Patient became unable to in PO hydration and was given about 1 Liter of D5W for hypernatremia on most days.
+
+# Goals of Care: Patient admitted with poor functional baseline. She deteriorated during this admission in the setting of a recent stroke, possible seizure activity, pneumonia and urinary tract infection. The patient was unable to take in oral medications or food and was supplemented with D5W. A speech and swallow evaluation was done and the patient was unable to safely take in anything by mouth. She may improve with treatment of pneumonia and urinary tract infection and should be reevaluated at that time. If her functional status continues to be depressed, particularly with swallowing, a goals of care discussion will be needed by the team of providers at ___ ___ who know the patient best.
+
+# C difficile: A clostridium difficile toxin was checked due to high white blood cell count. The patient was not symptomatic from this and was having ___ bowel movements per day. Because of her poor baseline functioning, she was started on IV flagyl and will need to complete a 10 day course of antibiotics.
+
+# Chronic renal failure: Cr on admission 1.4. Baseline per ___ records is 1.5-1.7. Medications were renally dosed.
+
+# Dementia: Patient has baseline dementia and is oriented times zero. She was placed on ___ protocol. Conditions that may exacerbate dementia were treated as described. 
+
+# HTN: Patient continued on home metoprolol tartrate 25 mg daily.
+
+# Hypothyroidism: Patient continued on levothyroxine 100 mcg daily. TSH low at 0.23, Free T4 6.6 and Free T3 64. She was switched to 50 mcg of IV levothyroxine due to inability to swallow pills.
+
+Transitional Issues: - Goals of care as described above  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Cefpodoxime Proxetil 100 mg PO Q24H 2. Aspirin 81 mg PO DAILY 3. Mirtazapine 30 mg PO HS 4. Lorazepam 0.5 mg PO Q6H:PRN agitation 5. Metoprolol Tartrate 25 mg PO BID 6. Citalopram 20 mg PO DAILY 7. Omeprazole 20 mg PO DAILY 8. Polyethylene Glycol 17 g PO DAILY 9. Levothyroxine Sodium 100 mcg PO DAILY  Discharge Medications: 1. Citalopram 20 mg PO DAILY 2. Metoprolol Tartrate 25 mg PO BID 3. Mirtazapine 30 mg PO HS 4. Polyethylene Glycol 17 g PO DAILY 5. Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY RX *lansoprazole [Prevacid SoluTab] 30 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 6. CefePIME 2 g IV Q24H last day ___ 7. Vancomycin 1000 mg IV Q48H Last day ___ 8. Heparin Flush (10 units/ml) 2 mL IV PRN line flush 9. LeVETiracetam 500 mg IV Q12H 10. Levothyroxine Sodium 50 mcg IV DAILY 11. MetRONIDAZOLE (FLagyl) 500 mg IV Q8H Last day ___ 12. Aspirin ___AILY 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Primary: subacute stroke, hospital acquired pneumonia, urinary tract infection, hypernatremia, seizure Secondary: Dementia, hypertension
+
+ Discharge Condition: Mental Status: Confused - always. Level of Consciousness: Lethargic but arousable. Activity Status: Out of Bed with assistance to chair or wheelchair.
+
+ Discharge Instructions: Ms. ___,
+
+It was a pleasure taking care of you at ___ ___. You were admitted with a change in your mental status. You were treated with antibiotics for a urinary tract infection. You also had a question of a seizure and had an EEG to look for evidence of seizure and were started on Keppra to prevent seizures. You will need to follow up with neurology for an EEG and a follow up appointment as scheduled below.
+
+About ___ weeks prior to coming in, the right side of your face became weak and your mental status changed. A CT scan of your head showed a stroke that likely occured at that time. 
+
+You also developed a pneumonia that was seen on chest x-ray. You were treated with IV antibiotics and will continue these at ___. 
+
+In addition, your mental status fluctuated during your stay.  This made your swallowing worse, and you can not currently take anything by mouth. 
+
+Medication changes: Please start Keppra 500 mg twice a day Please start CefePIME 2 g IV Q24H last day ___   Please start Vancomycin 1000 mg IV Q48H Last day ___  Please start Flagyl 500 mg every 8 hours for ten days Last day ___ Please change levothyroxine from 100micrograms PO to 50 micrograms IV daily Please stop taking Lorazepam Please hold oral medications until patient able to take PO  Followup Instructions: ___ 

@@ -1,0 +1,43 @@
+T1	Lower_respiratory_tract_infection 5924 5933	pneumonia
+A1	Negation T1
+T2	Urinary_tract_infection 5979 6002	urinary track infection
+A2	Negation T2
+T4	Urinary_tract_infection 4693 4696	UTI
+A3	Diagnosis T4 Suspected
+T5	Urinary_tract_infection 4519 4522	UTI
+A4	Diagnosis T5 Suspected
+T6	Dementia 3752 3760	dementia
+T7	Urinary_tract_infection 3775 3778	UTI
+T8	Dementia 3980 3988	dementia
+T9	Lower_respiratory_tract_infection 3350 3359	pneumonia
+A5	Negation T9
+T10	Dementia 1500 1508	Dementia
+T11	Dementia 1519 1527	dementia
+A6	Diagnosis T11 History_of
+A7	Diagnosis T10 History_of
+T12	Hip_fracture 1695 1707	hip fracture
+A8	Diagnosis T12 History_of
+T13	Urinary_tract_infection 1799 1809;1825 1830	bacteremia urine
+T14	Dementia 363 371	dementia
+T16	Dementia 522 530	dementia
+T17	Urinary_tract_infection 766 769	UTI
+A9	Diagnosis T17 Implicit_mention
+T18	Urinary_tract_infection 793 797	UTIs
+A10	Diagnosis T18 History_of
+T19	Delirium 841 849	delirium
+A11	Diagnosis T19 History_of
+T20	Urinary_tract_infection 6051 6074	urinary track infection
+T15	Delirium 209 232	change in mental status
+T21	Unspecified_cognitive_impairment 2321 2325	AOx1
+T22	Delirium 3784 3805;3841 3850	altered mental status Confusion
+T23	Delirium 4404 4424	mental status change
+T24	Dementia 5658 5666	dementia
+T25	Delirium 6449 6458	confusion
+A12	Diagnosis T25 Implicit_mention
+T26	Delirium 464 472	delirium
+T29	Intracranial_haemorrhage 3363 3367;3384 3396	Head intracranial
+A14	Negation T29
+T27	Delirium 1064 1072	confused
+A15	Diagnosis T27 Implicit_mention
+T3	Visual_impairment 1584 1592	Glaucoma
+T28	Dementia 4429 4438	agitation

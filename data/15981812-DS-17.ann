@@ -1,0 +1,25 @@
+T1	Dementia 320 328	dementia
+A1	Diagnosis T1 History_of
+T2	Mobile_with_aid 392 401;407 413	ambulates walker
+A2	Type_of_aid T2 Two_sticks_or_frame
+T3	Dementia 1546 1554	dementia
+A3	Diagnosis T3 History_of
+T4	Dementia 1689 1697	dementia
+T5	Unspecified_cognitive_impairment 2278 2286	oriented
+T6	Vertebral_compression_fracture 2735 2740;2763 2790;2815 2822	spine compression fracture of T12 T spine
+T7	Vertebral_compression_fracture 3243 3248;3250 3277	spine Compression fraction of T12
+T8	Dementia 3751 3759	dementia
+T9	Vertebral_compression_fracture 3770 3790;3833 3838	compression fracture Spine
+T10	Vertebral_compression_fracture 3864 3884;3888 3891	compression fracture T12
+T11	Vertebral_compression_fracture 3896 3920	T12 COMPRESSION FRACTURE
+T12	Dementia 4149 4157	DEMENTIA
+T13	Lives_in_carehome 5457 5464	Service
+T14	Vertebral_compression_fracture 5506 5530	T12 Compression fracture
+T16	Delirium 5592 5600	Confused
+T19	Mobile_with_aid 5717 5727	wheelchair
+A4	Type_of_aid T19 Wheelchair
+T20	Vertebral_compression_fracture 5824 5844;5853 5857	compression fracture back
+T21	Bed_Chairbound 523 550	inability to get out of bed
+T22	Has_carers 1438 1442;1459 1463	home care
+T17	Mobile_with_assistance 5678 5713	Out of Bed with assistance to chair
+T15	Dementia 5546 5554	dementia

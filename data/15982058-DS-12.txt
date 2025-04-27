@@ -1,0 +1,49 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Avelox  Attending: ___.  Chief Complaint: Nausea, vomiting  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: This patient is a ___ with history of HTN, HLD who presented to ED 1 day PTA for nausea, vomiting and diarrhea, observed and treated with IVF and zofran then discharged home who represents with continued nausea and vomiting today. She is visiting her daughter and grandchildren from ___. She arrived 5 days ago. Starting the night prior to her first ED presentation, she developed acute onset, nausea, vomiting and diarrhea. Vomit is clear, non-bilious and non-bloody. She had about 8 episodes of watery diarrhea the day of her first ED presentation but it has since resolved and she has had none today. When she was discharged from the ED she went to stay at the ___ and ___ husband flew down to care for her. She has vomited ___ times today. Vomit is clear, non-bilious and non-bloody. She has not been able to keep down any po and has persistent nausea. She has chills, no fever. Her daughter and grandchildren are well. She has not eaten any unusual foods including shellfish. Normal LFTs and lipase PTA. She drinks 2 alcoholic beverages per day.  Her CT scan in ED is concerning for duodenitis and esophagitis.
+
+Since admission has received 3L NS, zofran, reglan, fiorcet and benadryl. She is now tolerating clear liquids.   Past Medical History: Glaucoma  HTN  HLD   Social History: ___ Family History: ___  Physical Exam: ADMISSION: =================== Vitals - T:98.3 BP:182/83 HR:73 RR:18 02 sat:97% RA  GENERAL: Appears flushed and uncomfortable  HEENT: EOMI, PERRL, dry membranes  NECK: nontender supple neck, no LAD, no JVD  CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles  ABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding  EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 extremities with purpose  SKIN: warm and well perfused, no rashes 
+
+DISCHARGE: =================== VS: 97.7 153/58 60 18 100RA GENERAL: Sitting in bed, appears anxious but comfortable. HEENT: Dry mucous membranes. Oropharynx clear. NECK: Supple, no JVD. RESP: Clear to auscultation. No wheezes, crackles, or rhonchi. CV: RRR, normal S1, S2. No murmurs. ABD: +BS, soft, nondistended, nontender to palpation. No suprapubic tenderness. BACK: No CVA tenderness. EXT: Warm and well perfused. Pulses 2+. No edema.
+
+ Pertinent Results: ADMISSION: =============================== ___ 08:00PM  PLT COUNT-216 ___ 08:00PM  NEUTS-88.7* LYMPHS-4.1* MONOS-5.7 EOS-1.3 BASOS-0.2 ___ 08:00PM  WBC-13.1*# RBC-4.96 HGB-15.5 HCT-46.3 MCV-93 MCH-31.3 MCHC-33.5 RDW-13.3 ___ 08:00PM  ALBUMIN-4.6 ___ 08:00PM  ALT(SGPT)-21 AST(SGOT)-35 ALK PHOS-70 TOT BILI-0.7 ___ 08:00PM  ALT(SGPT)-21 AST(SGOT)-35 ALK PHOS-70 TOT BILI-0.7 ___ 08:00PM  GLUCOSE-122* UREA N-13 CREAT-0.6 SODIUM-137 POTASSIUM-4.0 CHLORIDE-99 TOTAL CO2-24 ANION GAP-18 ___ 08:12PM  LACTATE-1.5 ___ 09:30PM URINE MUCOUS-RARE ___ 09:30PM URINE HYALINE-1* ___ 09:30PM URINE RBC-1 WBC-2 BACTERIA-FEW YEAST-NONE EPI-<1 ___ 09:30PM URINE BLOOD-NEG NITRITE-NEG PROTEIN-TR GLUCOSE-100 KETONE-40 BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 LEUK-NEG ___ 09:30PM URINE COLOR-Straw APPEAR-Clear SP ___ ___ 09:30PM URINE UHOLD-HOLD ___ 09:30PM URINE HOURS-RANDOM ___ 07:20AM  PLT COUNT-188 ___ 07:20AM  WBC-10.8 RBC-3.92* HGB-12.7 HCT-36.2# MCV-93 MCH-32.5* MCHC-35.1* RDW-13.0 ___ 07:20AM  CALCIUM-8.1* PHOSPHATE-1.9* MAGNESIUM-1.4* ___ 07:20AM  GLUCOSE-108* UREA N-8 CREAT-0.5 SODIUM-134 POTASSIUM-3.0* CHLORIDE-104 TOTAL CO2-23 ANION GAP-10 ___ 07:30PM  PHOSPHATE-1.3* MAGNESIUM-2.6 ___ 07:30PM  SODIUM-135 POTASSIUM-3.7 CHLORIDE-101
+
+DISCHARGE: ========================== ___ 05:35AM BLOOD WBC-7.2 RBC-4.39 Hgb-14.0 Hct-40.1 MCV-91 MCH-31.8 MCHC-34.9 RDW-13.2 Plt ___ ___ 05:35AM BLOOD Glucose-115* UreaN-12 Creat-0.5 Na-132* K-3.6 Cl-97 HCO3-25 AnGap-14 ___ 05:35AM BLOOD Calcium-9.5 Phos-3.0 Mg-1.8
+
+MICRO: ============================ ___ 9:30 am BLOOD CULTURE
+
+              **FINAL REPORT ___
+
+  Blood Culture, Routine (Final ___:    CANCELLED.  Culture negative as of: ___ 09:00.      Test canceled/culture discontinued per: ___. 
+
+     PATIENT CREDITED. 
+
+IMAGING: ========================= CT ABD/PELVIS (___) 1. Duodenal wall thickening and adjacent fat stranding likely reflects duodenitis. Fluid filled jejunum, some loops of which appear mildly thickened and may reflect enteritis. 2. Partially visualized distal esophagus wall thickening may reflect esophagitis, but neoplasm is not excluded. Recommend follow-up with gastroenterology and possible endoscopy or upper GI series. 
+
+ Brief Hospital Course: ___ with history of HTN, HLD who presents with persistent nausea and vomiting.
+
+# VIRAL GASTROENTERITIS: The patient presented with nausea and vomiting, with improved diarrhea. CT abd/pelvis showed duodenitis and esophagitis. This is non-specific and may represent viral gastroenteritis and irritation from vomiting. Lipase and LFTs were normal. The patient received IVF, anti-emetics, protonix, magic mouthwash, and sucralfate. The patient will take her own PPI after discharge. 
+
+# URINARY TRACT INFECTION: This presented as hematuria and dysuria. Urine culture is growing E. coli. Sensitivities are pending. The patient does not have a significant history of urinary tract infections, therefore antibiotic resistance is not suspected. She was treated with ceftriaxone x 2 days and will be discharged with one day of bactrim. Her symptoms resolved prior to discharge.
+
+# HYPERTENSION: Blood pressures were elevated (SBP 160-180s) during admission. This is likely due to a sympathetic response from her illness. She was continued on enalapril.
+
+# GLAUCOMA: The patient was continued on home travaprost eye drops. 
+
+TRANSITIONAL ISSUES: - The patient will be discharged with 1 day of Bactrim, to complete a 3 day course. - Consider EGD if the patient develops dysphagia this would be suggestive of post-reflux esophagitis stricture.  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Enalapril Maleate 10 mg PO DAILY 2. Travatan Z (travoprost) 0.004 % ophthalmic daily 
+
+ Discharge Medications: 1. Enalapril Maleate 10 mg PO DAILY 2. Travatan Z (travoprost) 0.004 % ophthalmic daily 3. Sucralfate 1 gm PO QID RX *sucralfate 1 gram 1 tablet(s) by mouth four times a day Disp #*30 Tablet Refills:*0 4. Ondansetron 4 mg PO Q8H:PRN nausea RX *ondansetron HCl 4 mg ___ tablet(s) by mouth every eight (8) hours Disp #*30 Tablet Refills:*0 5. Sulfameth/Trimethoprim DS 1 TAB PO BID RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 1 tablet(s) by mouth twice a day Disp #*2 Tablet Refills:*0
+
+ Discharge Disposition: Home  Discharge Diagnosis: PRIMARY DIAGNOSIS: Esophagitis Viral gastroenteritis Duodenitis Urinary tract infection
+
+SECONDARY DIAGNOSIS: Hypertension
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Ms. ___,
+
+It was a pleasure caring for you at ___. You were admitted with a gastrointestinal illness. We treated you with IV fluids and medications to help with nausea. You were also diagnosed with a urinary tract infection. This was treated with antibiotics. 
+
+Best wishes,
+
+Your ___ Team  Followup Instructions: ___ 

@@ -1,0 +1,10 @@
+T1	Delirium 11396 11414	Clear and coherent
+A1	Negation T1
+T3	Has_carers 11218 11225	Service
+T4	Delirium 2947 2952	AAOx3
+A2	Negation T4
+T5	Delirium 3545 3550	AAOx3
+T6	Weight_loss 7449 7453;7462 7464	lost kg
+T7	Delirium 8645 8659	encephalopathy
+A3	Diagnosis T7 Suspected
+T2	Independently_mobile 11480 11504	Ambulatory - Independent

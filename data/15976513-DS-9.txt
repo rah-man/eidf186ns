@@ -1,0 +1,85 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: cephalexin  Attending: ___.  Chief Complaint: CC: hematochezia  Major ___ or Invasive Procedure: EGD and Colonoscopy ___ Foley Placement ___  History of Present Illness: Mr. ___ is an ___ ___ speaking male with a past medical history of DVT with possible PE on warfarin, hypertension, diabetes who presents to the emergency department with bright red blood per rectum.
+
+Patient interviewed with assistance of phone interpreter (with limited success) and patient's wife. Patient states that his constipation started around a month ago, and for the past week he has had bleeding with his bowel movements. He states that his stools are black, but soft, and that the blood is mixed in. This is contested by his wife, who states that the blood is on top of brown stool. He states his bowel movements are painful, and that he strains on the toilet. His wife also adds that he "cracks his teeth" during bowel movements. No stomach pain, and no fevers and chills. He does not feel lightheaded or dizzy. However, he has felt a bit more tired than usual. This is in the setting of taking warfarin for a history of DVT.
+
+In addition, patient states that for the past 2 weeks he has had difficulty with urination, and will sometimes have to strain. Urination has been painful as well. As above, no fevers or chills. 
+
+Per review of Atrius records, patient has problems with chronic constipation, and recently had noticed blood in his stool. He was noted to only have rectal bleeding when on the toilet. He was sent for a stat h/h, which showed a hemoglobin of 7.0. His last check was ___, which showed a hgb of 11.5. He was therefore sent to the ED.
+
+In the ED:
+
+Initial vital signs were notable for: T 99.9, HR 69, BP 176/67, RR 16, 100% RA 
+
+Exam notable for: -Hemoccult-positive -No new or old blood appreciated on digital rectal examination -Patient with large external hemorrhoids. These are nonthrombosed. -Abdominal exam benign.
+
+Labs were notable for: - CBC: WBC 9.2, hgb 7.0, plt 247
+
+- Lytes:  144 / 111 / 21  AGap=10 -------------- 179 4.8 \ 23 \ 1.6 
+
+- LFTs: AST: 11 ALT: 13 AP: 74 Tbili: 0.2 Alb: 3.4 
+
+- coags ___: 21.1 PTT: 27.0 INR: 2.0 
+
+Patient was given: - 1u pRBC ___ 19:22 IVF NS ( 1000 mL ordered) ___ 20:09 IV Pantoprazole 40 mg ___ 23:17 SC Insulin 2 Units ___ 23:29 PO Tamsulosin .4 mg ___ 23:29 PO Ciprofloxacin HCl 500 mg 
+
+Consults: GI was consulted, recommending: -Please keep on PPI BID, although concern for upper GI source is low -2 large bore iv access -Keep on clear liq diet if not actively bleeding, will need colonoscopy, will start prep tomorrow if hb remains stable and colonoscopy on ___ -If has significant bleeding, then consider CTA for localisation and rapid prep -Given stable VS and no active bleeding, can be admitted to medicine floor -GI to follow
+
+Vitals on transfer: HR 76, BP 162/67, RR 20, 100% RA 
+
+Upon arrival to the floor, patient denies abdominal pain. 
+
+ROS: Pertinent positives and negatives as noted in the HPI. All other systems were reviewed and are negative. 
+
+ Past Medical History: - hypertension - Colonic polyps - chronic pulmonary embolism - Type II diabetes
+
+ Social History: ___ Family History: No family history of early heart disease, CVA, cancer
+
+ Physical Exam: Admission Exam ========================= VITALS: T 98.4, HR 91, BP 183/83, RR 20, 97% RA GENERAL: Alert and in no apparent distress EYES: Anicteric, pupils equally round ENT: Left eye ptosis, chronic per patient and wife. Face otherwise symmetric. Shotty cervical LAD CV: Heart regular, ___ SEM best heard at RUSB, no S3, no S4. No JVD. RESP: Lungs clear to auscultation with good air movement bilaterally. Breathing is non-labored GI: Abdomen soft, non-distended, non-tender to palpation. Bowel sounds present. No HSM GU: No suprapubic fullness or tenderness to palpation. Foley in place MSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs. Multiple old injuries noted on right upper extremity SKIN: No rashes or ulcerations noted NEURO: Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs, sensation to light touch grossly intact throughout PSYCH: pleasant, appropriate affect
+
+Discharge Exam ============================== HEENT: Anicteric sclera Gastroinestinal: Soft, non-tender, non-distended. 3-way foley in place MSK: No edema Skin: No new rashes Neurological: Alert, interactive, speech fluent Psychiatric: pleasant, appropriate affect
+
+ Pertinent Results: Admission Labs 
+
+___ 05:35PM BLOOD WBC-9.2 RBC-3.10* Hgb-7.0* Hct-23.6* MCV-76* MCH-22.6* MCHC-29.7* RDW-15.5 RDWSD-42.8 Plt ___ ___ 05:35PM BLOOD Neuts-65.0 ___ Monos-9.2 Eos-1.0 Baso-0.4 Im ___ AbsNeut-5.98 AbsLymp-2.15 AbsMono-0.85* AbsEos-0.09 AbsBaso-0.04 ___ 05:35PM BLOOD ___ PTT-27.0 ___ ___:35PM BLOOD Glucose-179* UreaN-21* Creat-1.6* Na-144 K-4.8 Cl-111* HCO3-23 AnGap-10 ___ 05:35PM BLOOD ALT-13 AST-11 AlkPhos-74 TotBili-0.2 ___ 09:15AM BLOOD Calcium-8.6 Phos-2.8 Mg-1.6 ___ 02:55PM BLOOD calTIBC-313 Ferritn-23* TRF-241 ___ 07:40AM BLOOD TSH-1.6 ___ 07:40AM BLOOD IgA-1141* ___ 07:40AM BLOOD tTG-IgA-12
+
+___ 06:48AM BLOOD WBC-10.3* RBC-3.22* Hgb-7.7* Hct-24.8* MCV-77* MCH-23.9* MCHC-31.0* RDW-16.8* RDWSD-47.1* Plt ___ ___ 06:48AM BLOOD ___ ___ 01:05PM BLOOD Glucose-158* UreaN-19 Creat-1.7* Na-145 K-3.8 Cl-113* HCO3-21* AnGap-11 ___ 02:55PM BLOOD calTIBC-313 Ferritn-23* TRF-241 ___ 02:55PM BLOOD Iron-23*
+
+Bladder US: 1. Enlarged, heterogeneous prostate gland, with prominent median lobe extending into a decompressed bladder. There is a 1.6 cm cyst in the right prostate. 2. No evidence of clot within the bladder. 
+
+Renal US 1. Polycystic kidneys without evidence of hydronephrosis. 2. Nonobstructive stone within the right lower renal pole measuring 5 mm. 3. Decompressed urinary bladder with Foley catheter in place, which cannot be fully assessed on the current study. 4. Marked prostatomegaly.
+
+EGD Normal mucosa in the esophagus, ulcers in antrum (biopsied), normal mucosa in stomach, normal mucosa in examined duodenum
+
+CSY Normal mucosa in colon Mild diverticulosis External and internal hemorrhoids  Brief Hospital Course: Mr. ___ is an ___ ___ speaking male with a past medical history of unexplained PE in ___ on warfarin, hypertension, diabetes who presents with BRBPR, microcytic anemia, urinary retention, and ___. 
+
+# Iron deficiency anemia secondary to blood loss # Antrum ulcers, external hemorrhoids, internal hemorrhoids Presented with severe constipation and BRBPR. Initial CBC with Hgb of 7 he received 1 unit of pRBC. GI was consulted and he underwent EGD and colonoscopy which was remarkable for antrum ulcer without active bleeding and internal hemorrhoids. He was started on 8 weeks of high dose PPI and stool softeners and fiber. He was given IV iron x1 and started on ferrous sulfate every other day, 30 minutes before breakfast with orange juice. 
+
+- Given poor prep, will need repeat colonoscopy in ___ year. Recommend 7 day low residue, 2 day extended prep with Nulytely - Refer to colorectal surgery for hemorrhoidectomy - Has GI follow-up at ___ in 3 months
+
+#Urinary Retention #hematuria On arrival to ED was found to be retaining urine and a foley was placed. A voiding trial was attempted but he failed. After failing voiding trial nurses had to try multiple times to put foley back in and which likely caused trauma. He was then noted to have frank blood. Urology was consulted and they had to use a cystoscopy to put in a 3-way foley as he has several false lumens. CBI was used until his hematuria improved and his home anticoagulation stopped. He will be discharged with foley in place and follow with urology. 
+
+# Acute on Chronic kidney disease - Per atrius records, Cr has been slowly increasing over past several years (1.2 in ___, 1.3 in ___, 1.75 in ___. At this time Cr elevation seems multifactorial. renal ultrasound shows polycyctic kidneys although this seems unlikely new diagnosis in his ___. Cr has remained stable now around his baseline - Consider outpatient referral to nephrology - Resume home lisinopril
+
+# Bacteriuria Found to have enterococcus in his urine. Urology recommending suppressing while foley in place even if he did initially have symptoms of infection. He will remain on nitrofurantoin until urology follow up for suppression. 
+
+#Unprovoked PE: In ___ - Resuming home warfarin without bridge in setting of his presenting chronic GI blood loss and recent hematuria. If he has recurrent bleeding from these sources, the risks and benefits of continued anticoagulation should be discussed.
+
+___ issues: - Given poor prep, will need repeat colonoscopy in ___ year. Recommend 7 day low residue, 2 day extended prep with Nulytely - Refer to colorectal surgery for hemorrhoidectomy - Has GI follow-up at ___ in 3 months - He will be discharged with foley in place and follow with urology.  - Consider outpatient referral to nephrology - Resuming home warfarin without bridge in setting of his presenting chronic GI blood loss and recent hematuria. If he has recurrent bleeding from these sources, the risks and benefits of continued anticoagulation should be discussed.
+
+Mr. ___ was seen and examined on the day of discharge and is clinically stable for discharge today. The total time spent today on discharge planning, counseling and coordination of care was greater than 30 minutes.  Medications on Admission: The Preadmission Medication list may be inaccurate and requires futher investigation. 1. Warfarin 2.5 mg PO DAILY16 2. MetFORMIN (Glucophage) 500 mg PO BID 3. amLODIPine 10 mg PO DAILY 4. Lisinopril 40 mg PO DAILY 5. Simvastatin 20 mg PO QPM 6. Tamsulosin 0.4 mg PO QHS 
+
+ Discharge Medications: 1. Belladonna & Opium (16.2/30mg) 1 SUPP PR TID PRN bladder spasms  2. Ferrous Sulfate (Liquid) 300 mg PO DAILY  3. Fiber (psyllium husk) (psyllium husk) 0.4 gram oral BID  4. Nitrofurantoin Monohyd (MacroBID) 100 mg PO Q12H  5. Pantoprazole 40 mg PO Q12H  6. Polyethylene Glycol 17 g PO BID  7. Senna 8.6 mg PO BID  8. amLODIPine 10 mg PO DAILY  9. Lisinopril 40 mg PO DAILY  10. MetFORMIN (Glucophage) 500 mg PO BID  11. Simvastatin 20 mg PO QPM  12. Tamsulosin 0.4 mg PO QHS  13. Warfarin 2.5 mg PO DAILY16 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: #Anemia #GI bleed #Gastric Ulcer #Urinary Retention #UTI #Hematuria 
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr. ___, 
+
+You were admitted to the hospital after you were found to have profound anemia and blood in your stool. Gastroenterology was consulted and you underwent an EGD and colonoscopy which showed gastric ulcers and hemorrhoids. You were started on PPI twice a day for 8 weeks and will need to follow with colorectal surgery. 
+
+ You were also found to have an infection in your urine and to be retaining urine. You are being discharged with a foley catheter you will need to follow with urology. 
+
+Please resume your home blood pressure and diabetes medications
+
+It was a pleasure caring for you, Your ___ Team  Followup Instructions: ___ 

@@ -1,0 +1,6 @@
+T2	Delirium 7871 7882	oriented x3
+A2	Negation T2
+T4	Has_carers 7575 7584	Service  
+T3	Mobile_with_assistance 5900 5910	assistance
+T1	Delirium 1871 1877	A/O x3
+A1	Negation T1

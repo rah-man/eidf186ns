@@ -1,0 +1,35 @@
+T1	Constipation 15403 15415	constipation
+A1	Diagnosis T1 Implicit_mention
+T4	Mobile_with_aid 13835 13838	aid
+A3	Type_of_aid T4 Two_sticks_or_frame
+T5	Constipation 13163 13175	constipation
+A4	Diagnosis T5 Implicit_mention
+T6	Constipation 12596 12608	constipation
+A5	Diagnosis T6 Implicit_mention
+T7	Constipation 13282 13294	constipation
+A6	Diagnosis T7 Implicit_mention
+T8	Delirium 3614 3622	oriented
+A7	Negation T8
+T11	Delirium 2879 2887	oriented
+A10	Negation T11
+T13	Constipation 2261 2273	constipation
+A12	Negation T13
+T14	Weight_loss 2034 2045	weight loss
+A13	Negation T14
+T15	Lower_respiratory_tract_infection 930 933	PNA
+A14	Diagnosis T15 History_of
+T16	Lower_respiratory_tract_infection 6547 6556	pneumonia
+A15	Diagnosis T16 Suspected
+T17	Lower_respiratory_tract_infection 10054 10064	COPD flare
+A16	Negation T17
+T18	Lower_gastrointestinal_haemorrhage 10424 10438	non bloody BMs
+A17	Negation T18
+T19	Constipation 12410 12422	constipation
+A18	Diagnosis T19 Implicit_mention
+T3	Mobile_with_assistance 13799 13831	Ambulatory - requires assistance
+T10	Upper_gastrointestinal_haemorrhage 2632 2640	GI bleed
+A9	Low_confidence T10
+T12	Lower_gastrointestinal_haemorrhage 2632 2640	GI bleed
+A11	Low_confidence T12
+T2	Delirium 13700 13733	Mental Status: Clear and coherent
+A2	Negation T2

@@ -1,0 +1,35 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Penicillins  Attending: ___.  Chief Complaint: Jaundice  Major Surgical or Invasive Procedure: EUS ERCP  History of Present Illness: ___ year old healthy female presented with fatigue and indigestion and was found to have abnormal LFTs. MRI/MRCP shows a 3 cm mass in the head of the pancreas causing obstruction of the CBD and PD. TBili 11.1, ALT 505, AST 214, AP 324. . Underwent ERCP and found strictures in the CBD and PD concerning for HOP mass. Brushed the CBD and left a plastic stent in place. She had some mild L sided chest pain post procedure which resolved with 0.5 mg IV dilaudid in the ERCP suite. No nausea. Increased blood sugars in ___ and she had starting dieting and exercise. .
+
+PAIN SCALE: ___ REVIEW OF SYSTEMS: CONSTITUTIONAL: +7 lb intentional weight loss. No fevers or chills. HEENT: [X] All normal RESPIRATORY: [X] All normal CARDIAC: [+] L sided chest pain post procedure which resolved with medications GI: [+] early satiey but no n/v. No change in the color of her stool. No change in bowel habits GU: [X] All normal SKIN: [+] jaundice over the past few days MUSCULOSKELETAL: [X] All normal NEURO: [X] All normal ENDOCRINE: [X] All normal HEME/LYMPH: [X] All normal PSYCH: [X] All normal All other systems negative except as noted above
+
+ Past Medical History: H/o asymptomatic kidney stone H/o cancerous mole on posterior R knee  Social History: ___ Family History: Her mother died at ___ of dementia and PNA. She had localized colon cancer in her ___ which was treated with surgery. Father died at ___ from cancer but had his first MI at ___. Her mother and father smoker. Her sister died of an MI at ___ and was a smoker.  Physical Exam: Admission Exam: Vitals: 97.6 PO 137 / 84 72 16 96 RA CONS: NAD, comfortable appearing  HEENT: ncat, +++ scleral icterus dry MM   CV: s1s2 rr no m/r/g  RESP: b/l ae no w/c/r  GI: +bs, soft, NT, ND, no guarding or rebound  MSK:no c/c/e 2+pulses  SKIN: no rash  NEURO: face symmetric speech fluent, Moving all extremities appropriately. Good historian  PSYCH: calm, cooperative  LAD: No cervical LAD
+
+Discharge Exam: Vital Signs: 98.2PO 140 / 77 76 18 96 RA GEN: Alert, NAD HEENT: NC/AT, +scleral icterus CV: RRR, no m/r/g PULM: CTA B GI: S/NT/ND, BS present SKIN: + jaundice NEURO: Non-focal
+
+ Pertinent Results: Admission Labs: ___ 02:20PM BLOOD WBC-13.0* RBC-4.40 Hgb-13.4 Hct-38.7 MCV-88 MCH-30.5 MCHC-34.6 RDW-15.2 RDWSD-49.1* Plt ___ ___ 02:20PM BLOOD ___ PTT-32.7 ___ ___ 02:20PM BLOOD UreaN-33* Creat-0.4 Na-130* K-7.6* Cl-95* HCO3-22 AnGap-21* ___ 02:20PM BLOOD ALT-490* AST-257* AlkPhos-451* Amylase-19 TotBili-20.0* ___ 11:30PM BLOOD Calcium-8.9 Phos-3.0 Mg-1.7
+
+___ 06:10AM BLOOD Lipase-63* ___ 06:10AM BLOOD CEA-3.3 ___ 06:10AM BLOOD CA ___ -2806    Discharge Labs: ___ 06:10AM BLOOD WBC-10.9* RBC-3.89* Hgb-11.7 Hct-34.5 MCV-89 MCH-30.1 MCHC-33.9 RDW-14.6 RDWSD-46.9* Plt ___ ___ 06:10AM BLOOD ___ PTT-33.2 ___ ___ 06:10AM BLOOD Glucose-160* UreaN-25* Creat-0.6 Na-134 K-4.0 Cl-99 HCO3-24 AnGap-15 ___ 06:10AM BLOOD ALT-336* AST-99* LD(LDH)-143 AlkPhos-381* Amylase-123* TotBili-7.4* ___ 06:10AM BLOOD Albumin-3.5 Calcium-9.2 Phos-2.9 Mg-1.8
+
+ERCP Normal major papilla. Cannulation was successful using a sphincterotome and hands free technique. An irregular 2cm stricture was noted in the distal CBD was upstream dilation to 12mm. On pancreatogram, an irregular stricture was noted as the duct coursed through the head of the pancreas. Given stricture in both ducts, there was high suspicion for malignancy arising in the head of the pancreas. A limited sphincterotomy was performed in the 12 o'clock position using a sphincterotome over an existing guidewire. Cytology samples were obtained for histology using a brush in the distal CBD (stricture). A 7cm by ___ ___ biliary stent was placed successfully. 
+
+Pathology: COMMON BILE DUCT BRUSHINGS: POSITIVE FOR MALIGNANT CELLS Consistent with adenocarcinoma 
+
+CT Chest -IMPRESSION: 1. No evidence of malignancy in the chest. 2. There is moderate bibasilar subsegmental atelectasis.
+
+CTA Pancreas -IMPRESSION: 1. Hypodense pancreatic head mass measuring 2.5 x 2.6 cm with surrounding fat stranding extending into the duodenum, though the fat plane between the mass and the duodenum is preserved. 2. Conventional vascular anatomy. 3. No vascular involvement. 4. Fluid within the endometrial cavity. Further evaluation with pelvic ultrasound is recommended given patient's age.   Brief Hospital Course: ___ y/o F with no significant PMHx other than recently found mass in the HOP, admitted for monitoring following EUS/ERCP.
+
+Patient underwent ERCP with sphx, brushings for cytology, and stent placement. She tolerated procedure well, and diet was advanced the following day. Cytology returned positive for adenocarcinoma after discharge, and CA ___ returned elevated as well. The patient is scheduled to f/u in pancreas ___ on ___ ___. Staging CT done prior to discharge.
+
+Of note, staging CT did report fluid in the endometrial cavity. Pelvic ultrasound was recommended for further evaluation.
+
+She will need repeat ERCP in 6 weeks for stent pull and consideration of metal stent insertion.
+
+Statin on hold given elevated LFTs. Will encourage pt to further discuss this with her PCP.  TRANSITIONAL ISSUES: - f/u in pancreas ___ ___ - pt will need non-urgent pelvic ultrasound as above - pt will need repeat ERCP in 6 weeks as above  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Simvastatin 10 mg PO QPM 2. Vitamin D ___ UNIT PO DAILY 3. Fluticasone Propionate NASAL 2 SPRY NU DAILY 4. potassium citrate 10 mEq (1,080 mg) oral DAILY 
+
+ Discharge Medications: 1. Fluticasone Propionate NASAL 2 SPRY NU DAILY 2. potassium citrate 10 mEq (1,080 mg) oral DAILY 3. Vitamin D ___ UNIT PO DAILY 
+
+ Discharge Disposition: Home  Discharge Diagnosis: Bile Duct Obstruction Pancreatic Mass  Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.  Discharge Instructions: You presented to the hospital with evidence of obstruction of your bile ducts from a mass in your pancreas. You had a procedure called an ERCP performed. A small cut was made in your bile ducts. You had a stent placed and you had samples taken. You also had a CAT scan to further evaluate the mass in your pancreas. It is very important that you keep your follow up appointment in the pancreas clinic to further discuss your treatment options.
+
+Please avoid all blood-thinning agents (aspirin, Coumadin, heparin, ibuprofen or other NSAIDs) for 5 days.
+
+It was a pleasure taking part in your medical care.  Followup Instructions: ___ 

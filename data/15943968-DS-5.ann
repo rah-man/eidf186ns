@@ -1,0 +1,9 @@
+T1	Delirium 3825 3843	Clear and coherent
+T3	Weight_loss 8589 8593;8599 8605	lose weight
+A1	Diagnosis T3 Implicit_mention
+T4	Constipation 8817 8829	constipation
+A2	Diagnosis T4 Implicit_mention
+T5	Independently_mobile 2640 2667	ambulate without assistance
+T6	Constipation 5071 5083	constipation
+A3	Diagnosis T6 Implicit_mention
+T2	Independently_mobile 3909 3933	Ambulatory - Independent

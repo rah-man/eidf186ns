@@ -1,0 +1,6 @@
+T1	Delirium 2039 2044	AAOx3
+A1	Negation T1
+T3	Independently_mobile 8016 8040	Ambulatory - Independent
+T4	Has_carers 7821 7828	Service
+T2	Delirium 7917 7951	Mental Status: Clear and coherent.
+A2	Negation T2

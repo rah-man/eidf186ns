@@ -1,0 +1,6 @@
+T2	Delirium 6034 6052	Clear and coherent
+T3	Dementia 1567 1575	dementia
+A1	Diagnosis T3 Implicit_mention
+T4	Lower_respiratory_tract_infection 1580 1583	PNA
+A2	Diagnosis T4 Implicit_mention
+T1	Independently_mobile 6118 6142	Ambulatory - Independent

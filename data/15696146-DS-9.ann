@@ -1,0 +1,10 @@
+T1	Lower_respiratory_tract_infection 6717 6735	COPD excacerbatoin
+T2	Constipation 1667 1679	constipation
+A1	Negation T2
+T4	Lower_respiratory_tract_infection 807 810	PNA
+A3	Diagnosis T4 History_of
+T5	Lower_respiratory_tract_infection 594 597	PNA
+A4	Diagnosis T5 History_of
+T3	Delirium 2737 2744	A&O x 3
+A2	Negation T3
+T6	Has_carers 6133 6140	Service

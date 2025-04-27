@@ -1,0 +1,26 @@
+T1	Delirium 3929 3937	oriented
+A1	Negation T1
+T2	Delirium 14216 14234	Clear and coherent
+A2	Negation T2
+T4	Mobile_with_aid 14336 14339	aid
+A3	Type_of_aid T4 Two_sticks_or_frame
+T5	Intracranial_haemorrhage 3139 3142	SAH
+A4	Diagnosis T5 History_of
+T6	Falls 3147 3151	fall
+T7	Delirium 4595 4600	A&Ox3
+A5	Negation T7
+T8	Intracranial_haemorrhage 9647 9670	subarachnoid hemorrhage
+A6	Diagnosis T8 History_of
+T9	Falls 9679 9683	fall
+A7	Diagnosis T9 History_of
+T10	Constipation 11685 11697	constipation
+A8	Diagnosis T10 Implicit_mention
+T11	Constipation 13801 13813	Constipation
+A9	Diagnosis T11 Implicit_mention
+T12	Intracranial_haemorrhage 472 495	subarachnoid hemorrhage
+A10	Diagnosis T12 History_of
+T13	Falls 504 508	fall
+A11	Diagnosis T13 History_of
+T14	Constipation 13226 13238	constipation
+A12	Diagnosis T14 Implicit_mention
+T3	Mobile_with_assistance 14300 14332	Ambulatory - requires assistance

@@ -1,0 +1,28 @@
+T1	Delirium 2736 2756	Alert and Oriented x
+A1	Negation T1
+T2	Falls 471 475	fall
+T3	Delirium 962 970	confused
+A2	Diagnosis T3 Implicit_mention
+T4	Frailty 2764 2769	Frail
+T6	Pressure_injury 9516 9531	Decubitus ulcer
+T8	Pressure_injury 9591 9596;9623 9628	ulcer wound
+T11	Constipation 12269 12281	constipation
+A4	Diagnosis T11 Implicit_mention
+T15	Mobile_with_aid 14065 14075	wheelchair
+A6	Type_of_aid T15 Wheelchair
+T17	Constipation 15095 15107	constipation
+A7	Diagnosis T17 Implicit_mention
+T19	Constipation 10762 10774	constipation
+A8	Diagnosis T19 Implicit_mention
+T21	Constipation 12239 12251	constipation
+A9	Diagnosis T21 Implicit_mention
+T22	Constipation 13417 13429	constipation
+A10	Diagnosis T22 Implicit_mention
+T23	Has_carers 13722 13729	Service
+T7	Pressure_injury 9554 9569	decubitus ulcer
+T10	Pressure_injury 11133 11149	decubitous ulcer
+T24	Pressure_injury 11181 11186	wound
+T13	Mobile_with_assistance 14026 14061	Out of Bed with assistance to chair
+T9	Delirium 13927 13960	Mental Status: Clear and coherent
+T5	Delirium 3631 3638	A & OX3
+A3	Negation T5

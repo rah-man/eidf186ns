@@ -1,0 +1,31 @@
+T1	Lower_respiratory_tract_infection 804 813	pneumonia
+A1	Diagnosis T1 Suspected
+T2	Urinary_tract_infection 17199 17222	Urinary tract infection
+T3	Delirium 11226 11234	Delirium
+T4	Delirium 11260 11281;11402 11415	altered mental status mental status
+T5	Intracranial_haemorrhage 11487 11491;11518 11521	head ICH
+A2	Negation T5
+T6	Lives_in_carehome 2216 2228	Nursing Home
+T7	Delirium 1770 1785	cannot remember
+T8	Lives_in_carehome 2276 2288	nursing home
+T9	Lives_in_carehome 2477 2489	nursing home
+T10	Lower_respiratory_tract_infection 2660 2669	pneumonia
+A3	Diagnosis T10 Suspected
+T11	Unspecified_cognitive_impairment 3373 3388	cannot remember
+T12	Delirium 11209 11223	encephalopathy
+T13	Urinary_tract_infection 11336 11339	UTI
+T14	Urinary_tract_infection 12399 12402	UTI
+T15	Malnutrition 12690 12704	poor nutrition
+T16	Constipation 15590 15602	Constipation
+A4	Diagnosis T16 Implicit_mention
+T17	Constipation 16879 16891	Constipation
+A5	Diagnosis T17 Implicit_mention
+T18	Delirium 17455 17473	Clear and coherent
+A6	Negation T18
+T20	Mobile_with_aid 17578 17588	wheelchair
+A7	Type_of_aid T20 Wheelchair
+T22	Malnutrition 11682 11694	malnutrition
+A8	Diagnosis T22 Suspected
+T23	Malnutrition 11595 11607	Malnutrition
+T19	Mobile_with_assistance 17539 17574	Out of Bed with assistance to chair
+T21	Delirium 12088 12103	encephalopathic

@@ -1,0 +1,34 @@
+T2	Dementia 8922 8930	Dementia
+T4	Delirium 358 379	altered mental status
+T5	Delirium 624 635	disoriented
+T6	Delirium 1161 1169	delirium
+T7	Delirium 2124 2132	oriented
+A1	Negation T7
+T8	Delirium 2629 2634	A+Ox3
+A2	Negation T8
+T9	Intracranial_haemorrhage 4156 4160;4183 4194	Head intracrania
+T10	Lower_respiratory_tract_infection 4246 4255	pneumonia
+A3	Negation T10
+T13	Delirium 6932 6945;6950 6955	mental status worse
+T14	Delirium 7049 7058;7165 7173	confusion delirium
+A4	Negation T14
+T15	Unspecified_cognitive_impairment 7108 7126	cognitive disorder
+T16	Falls 7229 7233	fall
+T17	Falls 391 395	fall
+T18	Delirium 5698 5719	altered mental status
+T19	Delirium 9290 9298	confused
+T11	Delirium 5991 5994	AMS
+T12	Delirium 6795 6816;6818 6821	ALTERED MENTAL STATUS AMS
+T21	Dementia 7476 7484	dementia
+A5	Diagnosis T21 Suspected
+T22	Unspecified_cognitive_impairment 7683 7701	cognitive deficits
+T20	Seizures 7360 7367	seizure
+A6	Diagnosis T20 Implicit_mention
+T23	Delirium 7952 7979	alteration in mental status
+A7	Negation T23
+T3	Independently_mobile 9052 9076	Ambulatory - Independent
+T24	Delirium 9179 9188	confusion
+T25	Malnutrition 2349 2363	well-nourished
+A8	Negation T25
+A9	Diagnosis T17 History_of
+T1	Delirium 8954 8977	Mental Status: Confused

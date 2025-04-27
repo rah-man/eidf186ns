@@ -1,0 +1,39 @@
+T2	Delirium 1409 1430	altered mental status
+T3	Delirium 22279 22287	confused
+T4	Delirium 21715 21736	Altered mental status
+T5	Constipation 20728 20740	Constipation
+A2	Diagnosis T5 Implicit_mention
+T7	Mobile_with_aid 1019 1029	wheelchair
+A4	Type_of_aid T7 Wheelchair
+T8	Lower_respiratory_tract_infection 1589 1598	pneumonia
+A5	Negation T8
+T9	Falls 914 918	fell
+A6	Diagnosis T9 Implicit_mention
+T10	Delirium 1906 1917	oriented ×4
+A7	Negation T10
+T11	Delirium 3259 3262	AMS
+T12	Delirium 4013 4016	AMS
+T13	Unspecified_cognitive_impairment 5203 5209	AOx1-2
+T14	Delirium 14476 14490	encephalopathy
+T15	Delirium 14533 14554	altered mental status
+T16	Delirium 14835 14856	altered mental status
+T17	Delirium 14895 14909	encephalopathy
+T19	Pressure_injury 15914 15919;15934 15939;15969 15984	wound wound pressure injury
+A10	Negation T19
+T22	Delirium 16185 16199	encephalopathy
+T24	Delirium 21753 21767	encephalopathy
+T25	Delirium 21969 21987	Clear and coherent
+A13	Negation T25
+T27	Mobile_with_aid 22089 22092	aid
+A14	Type_of_aid T27 Two_sticks_or_frame
+T28	Delirium 6034 6040	AOx2-3
+A15	Negation T28
+T29	Constipation 19897 19909	Constipation
+A16	Diagnosis T29 Implicit_mention
+T26	Mobile_with_assistance 22053 22085	Ambulatory - requires assistance
+T30	Faecal_incontinence 16038 16055	ecal incontinence
+T1	Bed_Chairbound 439 455	wheelchair-bound
+T31	Bed_Chairbound 4531 4547	wheelchair-bound
+T18	Mobile_with_aid 17436 17456	Wheelchair-dependent
+A1	Type_of_aid T18 Wheelchair
+T6	Bed_Chairbound 17491 17507	wheelchair bound

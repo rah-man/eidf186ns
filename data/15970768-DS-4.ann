@@ -1,0 +1,106 @@
+T1	Delirium 361 382	altered mental status
+T2	Dementia 325 333	dementia
+T3	Seizures 1044 1051	seizure
+A1	Negation T3
+T4	Seizures 1083 1090	seizure
+A2	Negation T4
+T5	Seizures 1392 1399	seizure
+A3	Negation T5
+T6	Seizures 1809 1816	seizure
+A4	Diagnosis T6 Implicit_mention
+T9	Urinary_incontinence 2649 2669	urinary incontinence
+A5	Diagnosis T9 History_of
+T10	Hip_fracture 2683 2695	hip fracture
+A6	Diagnosis T10 History_of
+T11	Dementia 13716 13724	Confused
+T12	Dementia 13655 13663	Dementia
+T13	Lower_respiratory_tract_infection 13567 13594	hospital acquired pneumonia
+T14	Urinary_tract_infection 13596 13619	urinary tract infection
+T15	Seizures 13636 13643	seizure
+T16	Mobile_with_aid 13840 13850	wheelchair
+A7	Type_of_aid T16 Wheelchair
+T17	Bed_Chairbound 13831 13836	chair
+T18	Mobile_with_assistance 13817 13827	assistance
+T19	Urinary_tract_infection 14032 14055	urinary tract infection
+T20	Seizures 14133 14140	seizure
+T21	Seizures 14179 14187	seizures
+A8	Diagnosis T21 Implicit_mention
+T22	Seizures 14086 14093	seizure
+T23	Lower_respiratory_tract_infection 10472 10499	hospital acquired pneumonia
+T24	Delirium 9762 9776	encephalopathy
+T25	Seizures 9819 9826	seizure
+A9	Negation T25
+T26	Lower_respiratory_tract_infection 9340 9344	HCAP
+A10	In-hospital_event T26
+A11	In-hospital_event T13
+T27	Delirium 206 227	Altered mental status
+T28	Lives_in_carehome 400 412	nursing home
+T29	Unspecified_cognitive_impairment 623 631	oriented
+T30	Urinary_incontinence 1002 1007;987 997	urien incontinen
+T31	Faecal_incontinence 1012 1017;987 998	stool incontinent
+T32	Seizures 1351 1358	seizure
+T33	Intracranial_haemorrhage 1517 1521;1538 1550	head intracranial
+A12	Negation T33
+T34	Unspecified_cognitive_impairment 2838 2849	oriented x0
+T35	Unspecified_cognitive_impairment 3451 3462	oriented x0
+T37	Lower_respiratory_tract_infection 7013 7022	pneumonia
+A14	Diagnosis T37 Suspected
+T40	Delirium 7763 7786	altered mental status f
+T41	Urinary_tract_infection 7816 7839	urinary tract infection
+T42	Seizures 7845 7853	seizures
+T43	Urinary_tract_infection 7890 7894	HCAP
+A17	In-hospital_event T43
+T44	Delirium 7896 7904	delirium
+T45	Delirium 7936 7957	Altered mental status
+T46	Dementia 8097 8105	dementia
+T47	Seizures 8210 8217	seizure
+A18	Diagnosis T47 Suspected
+T48	Urinary_tract_infection 8333 8356	urinary tract infection
+T49	Seizures 8489 8496	Seizure
+T50	Delirium 8600 8621	altered mental status
+T51	Urinary_tract_infection 9062 9085	Urinary tract infection
+T52	Seizures 9398 9405	Seizure
+T53	Seizures 9483 9490	seizure
+T54	Urinary_incontinence 9569 9580	incontinent
+T55	Faecal_incontinence 9569 9580	incontinent
+T56	Seizures 9636 9643	seizure
+A19	Diagnosis T56 Implicit_mention
+T57	Seizures 9700 9707	seizure
+A20	Negation T57
+T58	Lower_respiratory_tract_infection 10098 10107;10220 10229	Pneumonia infection
+T59	Seizures 11020 11027	seizure
+A21	Diagnosis T59 Suspected
+T60	Lower_respiratory_tract_infection 11038 11047	pneumonia
+T61	Urinary_tract_infection 11052 11075	urinary tract infection
+T62	Lower_respiratory_tract_infection 11306 11315	pneumonia
+T63	Urinary_tract_infection 11320 11343	urinary tract infection
+T64	Dementia 11999 12007	Dementia
+T65	Dementia 12030 12038	dementia
+T66	Delirium 12046 12054	oriented
+T67	Dementia 12130 12138	dementia
+T68	Urinary_incontinence 940 951	incontinent
+A22	Diagnosis T68 Implicit_mention
+T69	Faecal_incontinence 940 951	incontinent
+A23	Diagnosis T69 Implicit_mention
+T70	Delirium 7989 8012	change in mental status
+T71	Delirium 8525 8546	altered mental status
+T72	Dementia 10672 10680	dementia
+T73	Delirium 10685 10706	altered mental status
+T74	Delirium 13962 13968;13977 13990	change mental status
+T75	Delirium 14376 14397	mental status changed
+T76	Lower_respiratory_tract_infection 14495 14504	pneumonia
+A24	In-hospital_event T76
+A25	In-hospital_event T62
+A26	In-hospital_event T60
+A27	In-hospital_event T23
+A28	In-hospital_event T58
+T77	Falls 1494 1498	fall
+T78	Delirium 14624 14648	mental status fluctuated
+A29	Low_confidence T68
+A30	Low_confidence T69
+T7	Dementia 2571 2591	alzheimer's dementia
+T8	Intracranial_haemorrhage 5682 5689;5999 6009	CT HEAD hemorrhage
+A13	Negation T8
+T36	Dementia 7720 7740	Alzheimer's dementia
+A15	Low_confidence T54
+A16	Low_confidence T55

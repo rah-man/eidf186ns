@@ -1,0 +1,8 @@
+T1	Delirium 11150 11161	oriented x3
+A1	Negation T1
+T2	Upper_gastrointestinal_haemorrhage 1034 1045;1058 1068	GI bleeding esophageal
+T3	Lower_gastrointestinal_haemorrhage 1034 1045;1047 1053	GI bleeding rectal
+T4	Upper_gastrointestinal_haemorrhage 11011 11022;11035 11045	GI bleeding esophageal
+T5	Lower_gastrointestinal_haemorrhage 11011 11022;11024 11030	GI bleeding rectal
+T6	Independently_mobile 11162 11181	nonfocal Ambulating
+T7	Has_carers 10804 10811	Service

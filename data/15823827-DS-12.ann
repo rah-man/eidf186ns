@@ -1,0 +1,18 @@
+T1	Hearing_impairment 1579 1591	Hearing Loss
+A1	Diagnosis T1 History_of
+T2	Lower_respiratory_tract_infection 1639 1648	Pneumonia
+A2	Diagnosis T2 History_of
+T3	Delirium 6322 6330	oriented
+A3	Negation T3
+T4	Lower_respiratory_tract_infection 9599 9608	Pneumonia
+T5	Delirium 9680 9691	oriented x3
+T6	Mobile_with_assistance 6947 6963	physical therapy
+T7	Lower_respiratory_tract_infection 5968 5977	pneumonia
+A4	Negation T7
+T8	Hearing_impairment 9539 9551	Hearing Loss
+T9	Has_carers 9313 9320	Service
+T10	Independently_mobile 7064 7081	ambulating freely
+T11	Malnutrition 2041 2045	WDWN
+A5	Negation T11
+T12	Malnutrition 2572 2576	WDWN
+A6	Negation T12

@@ -1,0 +1,15 @@
+T1	Dementia 829 837	Dementia
+A1	Diagnosis T1 History_of
+T2	Dementia 1071 1079	demented
+T3	Dementia 336 344	dementia
+A2	Diagnosis T3 History_of
+T5	Hip_fracture 2496 2499;2554 2563	Hip fractures
+A3	Diagnosis T5 History_of
+T6	Hip_fracture 3060 3063;3105 3114	hip fractures
+A4	Negation T6
+T7	Hip_fracture 5007 5015;5040 5043	fracture hip
+T8	Lives_in_carehome 3151 3163	nursing home
+T9	Lives_in_carehome 383 395	Nursing Home
+T10	Dementia 593 609	unable to recall
+T11	Hearing_impairment 1174 1189	hard of hearing
+A5	Low_confidence T10

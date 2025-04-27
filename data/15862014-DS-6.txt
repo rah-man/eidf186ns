@@ -1,0 +1,63 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: Dyspnea on exertion  Major Surgical or Invasive Procedure: Right heart catheterization ___
+
+ History of Present Illness: ___ with hx CAD, spinal stenosis, hx DVT p/w dyspnea and abdominal/chest pain over the last several days. Dyspnea is particularly exertional and pain is a vague "soreness" more over upper abdomen than chest. He states that he tried using an incentive spirometer that he had at home after feeling dyspneic and thinks that pain came after he overworked himself. He notes very mild nonproductive cough and denies fevers but endorses chills and states that his temperature at home was 99. He denies PND and initially denies orthopnea but states that his breathing improves sitting up. He states that he has had some nausea but denies vomiting. He denies home O2 use. He denies dysuria or other urinary sx and does not think his urinary frequency has changed.  He also notes being particularly fatigued since stopping ritalin about 6 weeks ago. He is scheduled to have a sleep study but states that he has a lot of daytime sleepiness and rarely leaves the bed. Of note, he was in at ___ about 8 weeks ago for spinal surgery.  In the ED initial vitals were: 98.2 110 147/75 16 90% ra. SPO2 90-91% on RA. 95-98% on 2L NC.  - Labs were significant for leukocytosis to 14.7 with 87%PMNs, proBNP 3192, Cr 1.5 and BUN 30 up from prior, lactate 2.0. CXR read was pending but showed increased congestion compared to prior.  - Patient was given 1g CTX and 500mg azithromycin  Vitals prior to transfer were: 99.6 104 101/53 22 97% Nasal Cannula.  On the floor, patient notes that he feels somewhat better but is always a "shallow breather".  Review of Systems: As per HPI, otherwise negative. 
+
+ Past Medical History: 1. L1, L2, L3, L4 bilateral laminectomy, medial facetectomy and foraminotomy 2.CAD s/p stent to RCA ___ 3.HTN 4.HLD 5.Lumbar spinal stenosis, epidural steroid injections (most recent ___ 6.Bilateral TKAs 7.BPH 8.Obesity 9. osteoarthritis  Social History: ___ Family History: Non-contributory  Physical Exam: Admission Exam Vitals - T: 97.5 BP: 100/46 HR: 84 RR: 20 02 sat: 95%RA  GENERAL: Friendly elderly man lying in bed, breathing heavily, appears mildly uncomfortable  HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, MMM, NECK: unable to assess JVP ___ habitus  CARDIAC: Irregularly irregular rhythm, tachycardic, II/VI systolic murmur across precordium  LUNG: CTAB, no wheezes, rales, rhonchi, tachypneic shallow breathing. Audible wheeze when  ABDOMEN: nondistended, +BS, mild tenderness to palpation over RUQ  EXTREMITIES: no cyanosis or clubbing. Trace ___ edema bilaterally, moving all 4 extremities with purpose  PULSES: 2+ DP pulses bilaterally  NEURO: CN II-XII intact, AAOx3, motor and sensory exam grossly intact  SKIN: warm and well perfused, no excoriations or lesions, no rashes 
+
+Discharge Exam Vitals - 98.6 112/52 88 RR 22 97% on 2L  Wt: 106.7  I/O: 1300/2356  GENERAL: NAD, appears well, lips still blue-tinged, unshaven  HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, MMM  CARDIAC: Irregularly irregular rhythm  LUNG: CTAB, no wheezes, rales, rhonchi  ABDOMEN: Mildly distended abdomen, normoactive BS  EXTREMITIES: no cyanosis or clubbing. no edema bilaterally, moving all 4 extremities with purpose  PULSES: 2+ DP pulses bilaterally  NEURO:AAOx3, motor and sensory exam grossly intact  SKIN: warm and well perfused, no excoriations or lesions, no rashes 
+
+ Pertinent Results: Admission Labs
+
+___ 07:45PM  WBC-14.7*# RBC-4.31* HGB-13.7* HCT-39.8* MCV-93# MCH-31.9 MCHC-34.5 RDW-17.3* ___ 07:45PM  NEUTS-87.2* LYMPHS-7.3* MONOS-4.0 EOS-1.2 BASOS-0.2 ___ 07:45PM  PLT COUNT-192 ___ 07:45PM  OSMOLAL-287 ___ 07:45PM  CK-MB-3 cTropnT-0.12* proBNP-3192* ___ 07:45PM  GLUCOSE-118* UREA N-30* CREAT-1.5* SODIUM-138 POTASSIUM-4.0 CHLORIDE-100 TOTAL CO2-25 ANION GAP-17 ___ 07:45PM  ALT(SGPT)-14 AST(SGOT)-21 CK(CPK)-131 ALK PHOS-84 TOT BILI-1.3 ___ 09:44PM  LACTATE-2.0
+
+Discharge Labs
+
+Micro URINE CULTURE (Final ___:  NO GROWTH ___ 9:35 pm BLOOD CULTURE
+
+              **FINAL REPORT ___
+
+  Blood Culture, Routine (Final ___:  NO GROWTH.
+
+___ 7:45 pm BLOOD CULTURE
+
+              **FINAL REPORT ___
+
+  Blood Culture, Routine (Final ___:  NO GROWTH.
+
+Reports IMPRESSION: CTA Chest ___  -Limited study secondary to respiratory motion artifact and low lung volumes. -No pulmonary embolus through the subsegmental arteries. Mild septal thickening of the lung bases may reflect mild interstitial edema versus low lung volumes. -Mild bronchiolar thickening is noted, possibly representing mild airway inflammation. Mildly enlarged right hilar nodes, nonspecific, possibly reactive. 
+
+VQ Scan ___ IMPRESSION: No evidence of acute or chronic pulmonary embolus.
+
+Echo ___ The left atrium is elongated. The right atrium is moderately dilated. The estimated right atrial pressure is ___ mmHg. There is moderate symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Overall left ventricular systolic function is normal (LVEF>60%). Right ventricular chamber size and free wall motion are grossly normal. The right ventricular free wall is hypertrophied. The aortic arch is mildly dilated. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are structurally normal. Mild (1+) mitral regurgitation is seen. [Due to acoustic shadowing, the severity of mitral regurgitation may be significantly UNDERestimated.] Moderate [2+] tricuspid regurgitation is seen. There is moderate pulmonary hypertension. There is no pericardial effusion. 
+
+Compared with the prior study (images reviewed) of ___ left ventricular systolic function is less dynamic (still normal). The midcavitary gradient is not seen. Left ventricular wall thickness appears increased. There has been an increase in tricuspid regurgitation. Moderate pulmonary hypertension is seen. The rhythm no appears to be atrial fibrillation (previously sinus). The aortic arch is seen and is mildly dilated. 
+
+Right Heart Catheterization Findings ESTIMATED blood loss: 0 Hemodynamics (see above): elevated filling pressures with mild pulmonary hypertension and preserved CI
+
+Assessment & Recommendations 1. Continue med Rx for CHF and COPD.
+
+ Brief Hospital Course: ___ with hx CAD, spinal stenosis, hx DVT p/w dyspnea and abdominal/chest pain found to be tachypneic, tachycardic, hypoxic.   #Dyspnea/hypoxia: Pt was admitted for DOE and abdominal pain. He was first thought to have a PE but that was ruled out with both CTA chest and VQ scan. An echo showed elevated pressures on both sides of the heart as well as diastolic dysfunction. He was diuresed with moderate improvement. Patient was also found to be in new AFib on admission for which metoprolol was uptitrated and heparin gtt started. Pt went for right heart catheterization on ___ which showed elevated LVEDP and mildly elevated right sided pressures. The consensus was that he likely had mostly left-sided diastolic dysfunction rather than pure right heart failure. We effectively diuresed the patient with lasix 40 mg IV BID and he lost about 4 kg and was able to be weaned off O2. 
+
+ ___: Likely hypovolemic given poor PO intake over last several days though possibly ___ CHF. Given recieved dye during CTA may be susceptible to CIN. Patients' admission creatinine was 1.5 and increased to 2.2 which was likely from both contrast and diuresis. his home BP meds were held during his diuresis (lasix 20mg x 2, then 40 mg x1).  Creatinine normalized with diuresis.  #AFib- new in onset. Trigger was unclear- ddx was either heart failure worsening vs. pulmonary hypertension. His home metoprolol was changed to 25 mg BID and was put on a heparin gtt. Given CHADS2 score of 5 he was put on heparin gtt and started on coumadin. He was bridged with lovenox on discharge and setup in ___ clinic at ___. TEE with cardioversion was discussed, but deferred to the outpatient setting to be decided by his primary cardiologist.    #Leukocytosis: Likely ___ stress response from CHF vs. AFib. No signs of infection. Trended CBC daily  #Likely OSA: Patient reports pending sleep study, RN noted brief apneic episodes.  Patient will follow up with outpatient pulmonary clinic as previously scheduled. 
+
+#?TIA- thought to actually be metabolic encephalopathy during past admission to stroke service. Does have history of old cerebellar TIA. Plavix was stopped after discussion with neurologist given will be on coumadin and already has antiplatelet therapy in ASA.    #HTN: Held hydrochlorothiazide and lisniopril.   #CAD: Continued ASA, metop, atorvastatin.   #Chronic pain/spinal stenosis: Currently well controlled. Held diclofenac-misoprostol while in house ___ renal failure.    #GERD: Continued ranitidine.   TRANSITIONAL ISSUES -Plavix was stopped after discussion with both ___ cardiologist Dr. ___ also neurologist Dr. ___ started for AFib. Needs to be bridged with lovenox given high chads2 score of 5 -Will need DCCV in 1 months time. To be arranged by cardiologist -Please draw INR on ___ and ___ and fax results to ___ ___ clinic. D/c lovenox if at goal INR of ___. -Please check weight every few days. Call cardiologist if 3 lbs above dry weight. (Dry weight 106.7 kg)
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. lisinopril-hydrochlorothiazide ___ mg oral daily 2. Docusate Sodium 100 mg PO DAILY 3. Ranitidine 150 mg PO BID heartburn 4. Atorvastatin 80 mg PO QPM 5. diclofenac-misoprostol 75-200 mg-mcg oral daily 6. Aspirin 81 mg PO DAILY 7. Clopidogrel 75 mg PO DAILY 8. HYDROcodone-acetaminophen ___ mg oral q 12 hrs pain 9. Metoprolol Tartrate 25 mg PO DAILY 
+
+ Discharge Medications: 1. Aspirin 81 mg PO DAILY 2. Atorvastatin 80 mg PO QPM 3. Docusate Sodium 100 mg PO DAILY 4. Ranitidine 150 mg PO BID heartburn 5. HYDROcodone-acetaminophen ___ mg oral q 12 hrs pain 6. Fluticasone-Salmeterol Diskus (250/50) 1 INH IH BID RX *fluticasone-salmeterol [Advair Diskus] 250 mcg-50 mcg/Dose 1 inhalation twice a day Disp #*1 Disk Refills:*0 7. Warfarin 5 mg PO DAILY16 RX *warfarin [Coumadin] 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 8. Acetaminophen 650 mg PO TID 9. Spironolactone 25 mg PO DAILY RX *spironolactone [Aldactone] 25 mg 1 tablet(s) by mouth Daily Disp #*14 Tablet Refills:*0 10. Enoxaparin Sodium 110 mg SC BID Start: ___, First Dose: Next Routine Administration Time RX *enoxaparin 120 mg/0.8 mL 110 mg twice a day Disp #*10 Syringe Refills:*0 11. Furosemide 40 mg PO BID RX *furosemide 40 mg 1 tablet(s) by mouth twice a day Disp #*28 Tablet Refills:*0 12. Metoprolol Succinate XL 50 mg PO DAILY RX *metoprolol succinate 50 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet Refills:*0 13. Outpatient Lab Work Please draw INR on ___ and ___ and fax results to ___ Coagulation clinic at ___
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Primary -Diastolic heart failure -Right sided heart failure
+
+Secondary -Pulmonary hypertension
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Mr. ___,
+
+You were admitted with shortness of breath and found to have low oxygen levels. You underwent many tests which pointed to your heart as the cause of your symptoms. We gave you diuretics which removed some fluid from your lungs. You then underwent a right heart catheterization which showed that you do indeed have heart failure along with high blood pressure in your pulmonary arteries. Your kidney function was also slightly impaired during your hospitalization, but it improved over time. 
+
+It was a pleasure taking care of you
+
+Please follow up with both the cardiologist and the post-discharge appointment at ___
+
+-Your ___ Care team   Followup Instructions: ___ 

@@ -1,0 +1,39 @@
+T1	Upper_gastrointestinal_haemorrhage 397 403	melena
+T2	Upper_gastrointestinal_haemorrhage 493 501	GI bleed
+T3	Lower_gastrointestinal_haemorrhage 493 501	GI bleed
+T4	Upper_gastrointestinal_haemorrhage 1273 1285	black stools
+A1	Diagnosis T4 Implicit_mention
+T5	Urinary_tract_infection 2146 2149	UTI
+A2	Diagnosis T5 History_of
+T6	Delirium 2704 2715	Oriented x3
+A3	Negation T6
+T8	Lower_gastrointestinal_haemorrhage 2896 2904;2935 2940	bleeding bowel
+A4	Negation T8
+T9	Lower_gastrointestinal_haemorrhage 2954 2962;3001 3006	bleeding bowel
+A5	Negation T9
+T10	Lower_gastrointestinal_haemorrhage 4101 4112	GI bleeding
+T11	Lower_gastrointestinal_haemorrhage 4912 4917	BRBPR
+A6	Diagnosis T11 Implicit_mention
+T12	Upper_gastrointestinal_haemorrhage 3433 3439	melena
+A7	Diagnosis T12 History_of
+T13	Upper_gastrointestinal_haemorrhage 4101 4112	GI bleeding
+T16	Upper_gastrointestinal_haemorrhage 3626 3629	GIB
+T17	Lower_gastrointestinal_haemorrhage 3626 3629	GIB
+T20	Urinary_tract_infection 1005 1008	UTI
+T7	Lower_gastrointestinal_haemorrhage 2007 2015;2039 2049	GI bleed bowel AVMs
+T15	Upper_gastrointestinal_haemorrhage 237 240	GIB
+A10	Low_confidence T15
+T22	Lower_gastrointestinal_haemorrhage 237 240	GIB
+A11	Low_confidence T22
+A12	Low_confidence T2
+A13	Low_confidence T3
+T19	Lower_gastrointestinal_haemorrhage 678 683;823 831	bowel bleeding
+T18	Lower_gastrointestinal_haemorrhage 3513 3524;3562 3573	GI bleeding small bowel
+A8	Low_confidence T16
+A14	Low_confidence T10
+A15	Low_confidence T13
+A16	Low_confidence T17
+T14	Upper_gastrointestinal_haemorrhage 5970 5981	GI bleeding
+A9	Low_confidence T14
+T21	Lower_gastrointestinal_haemorrhage 5970 5981	GI bleeding
+A17	Low_confidence T21

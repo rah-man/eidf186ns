@@ -1,0 +1,10 @@
+T1	Intracranial_haemorrhage 1654 1673	cerebral hemorrhage
+A1	Diagnosis T1 Implicit_mention
+T4	Weight_loss 1205 1216	weight loss
+T6	Has_carers 4075 4082	Service
+T7	Constipation 3893 3905	constipation
+A3	Diagnosis T7 Implicit_mention
+T3	Independently_mobile 4258 4282	Ambulatory - Independent
+T5	Independently_mobile 3126 3145	ambulate on her own
+T2	Delirium 4159 4192	Mental Status: Clear and coherent
+A2	Negation T2

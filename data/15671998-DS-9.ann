@@ -1,0 +1,25 @@
+T6	Mobile_with_aid 13901 13911	wheelchair
+A4	Type_of_aid T6 Wheelchair
+T7	Lower_respiratory_tract_infection 10475 10492	COPD exacerbation
+A5	Negation T7
+T8	Lower_gastrointestinal_haemorrhage 1718 1733	blood in stools
+A6	Negation T8
+T9	Upper_gastrointestinal_haemorrhage 1787 1795	GI bleed
+A7	Negation T9
+T10	Lower_gastrointestinal_haemorrhage 1787 1795	GI bleed
+A8	Negation T10
+T11	Lower_gastrointestinal_haemorrhage 9530 9541;9579 9581;9592 9597	colonoscopy GI bleed
+A9	Negation T11
+T12	Lower_gastrointestinal_haemorrhage 14581 14589;14610 14617	bleeding abdomen
+A10	Diagnosis T12 Suspected
+T13	Lower_gastrointestinal_haemorrhage 14645 14656;14695 14703	colonoscopy bleeding
+A11	Diagnosis T13 Suspected
+T14	Constipation 14809 14820	constipated
+A12	Diagnosis T14 Implicit_mention
+T2	Mobile_with_assistance 13862 13897	Out of Bed with assistance to chair
+A2	Low_confidence T9
+A13	Low_confidence T10
+T1	Delirium 2578 2589	Oriented x3
+A1	Negation T1
+T3	Delirium 13763 13796	Mental Status: Clear and coherent
+A3	Negation T3

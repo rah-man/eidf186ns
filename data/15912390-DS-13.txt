@@ -1,0 +1,61 @@
+ Name: ___       Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: CARDIOTHORACIC  Allergies: IV Dye, Iodine Containing  Attending: ___.  Chief Complaint: dyspnea on exertion  Major Surgical or Invasive Procedure: Aortic valve replacement with a 21 mm ___ Biocor tissue valve. ___
+
+ History of Present Illness: ___ year old male with a known history of aortic stenosis, renal insufficiency, diabetes mellitus, and HTN who is presenting with chronic symptoms of shortness of breath previously attributed to his aortic stenosis. Over the past ___ years, Mr ___ has experienced dyspnea on exertion for which he declined surgery. Over the last three months, he has experienced worsening shortness of breath, dyspnea, cough, and pallor which resolves with rest. Cardiac workup revealed Aortic valve area <0.8cm2. ___ was consulted for surgical correction.  Past Medical History: aortic stenosis PMH: hypertension Diabetes mellitus Aortic stenosis Renal insufficiency Duodenal ulcers/GI bleeding (rectal and esophageal) Gout deep vein thrombosis ___ years ago benign prostatic hyperplasia
+
+ Social History: ___ Family History: Father died of MI at age ___, sister had aortic valve replacement. 
+
+ Physical Exam: Pulse:88 Resp:21 O2 sat: 96%RA B/P Right:  Left: Height:5'5"   Weight:165 lbs
+
+General: Skin: Dry [x] intact [x] HEENT: PERRLA [x] EOMI [x]anicteric sclera;OP unremarkable Neck: Supple [x] Full ROM []no JVD Chest: Lungs clear right; faint basilar rales left Heart: RRR [x] Irregular [] Murmur: ___ SEM radiates throughout precordium to carotids Abdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds + [x]; no HSM/CVA tenderness Extremities: Warm [x], well-perfused [x] Edema-trace bil. Varicosities: None [x] Neuro: Grossly intact Pulses: Femoral   Right: 1+ Left:2+ DP      Right: NP Left:NP ___      Right: 1+ Left:1+ Radial    Right: NP Left:2+
+
+Carotid Bruit   murmur radiates bil.
+
+ Pertinent Results: ___ 04:00AM BLOOD WBC-7.6 RBC-3.92* Hgb-9.2* Hct-29.2* MCV-75* MCH-23.6* MCHC-31.6 RDW-17.3* Plt ___ ___ 04:00AM BLOOD Glucose-85 UreaN-50* Creat-2.6* Na-139 K-3.8 Cl-100 HCO3-30 AnGap-13 ___ 02:54AM BLOOD Glucose-111* UreaN-33* Creat-2.7* Na-139 K-4.3 Cl-102 HCO3-25 AnGap-16
+
+___ 10:52AM BLOOD WBC-8.0 RBC-3.97* Hgb-9.5* Hct-30.3* MCV-76* MCH-23.9* MCHC-31.4 RDW-17.2* Plt ___ 
+
+___ ECHOCARDIOGRAPHY REPORT
+
+___    ___ MRN:  ___    ___ (Complete) Done ___ at 9:22:07 AM   FINAL  Referring Physician   ___  ___ - Cardiology Division ___ Status: Inpatient DOB: ___ Age (years): ___ M Hgt (in): 64  BP (mm Hg): 148/87 Wgt (lb): 165  HR (bpm): 78 BSA (m2): 1.80 m2  Indication: Aortic valve disease. Shortness of breath. Left ventricular function. Congestive heart failure  ICD-9 Codes: ___.___, 424.1, 428.0, 394.0, 424.2,  ___ Information  Date/Time: ___ at 09:22  ___ MD: ___, MD ___ Type: TTE (Complete) Sonographer:  Doppler: Full Doppler and color Doppler ___ Location: West Echo Lab Contrast: None Tech Quality: Adequate Tape #: ___-0:46 Machine: Vivid ___ Echocardiographic Measurements  Results Measurements Normal Range  Left Atrium - Long Axis Dimension: *5.3 cm <= 4.0 cm  Left Atrium - Four Chamber Length: *6.7 cm <= 5.2 cm  Right Atrium - Four Chamber Length: *5.1 cm <= 5.0 cm  Left Ventricle - Septal Wall Thickness: *1.3 cm 0.6 - 1.1 cm  Left Ventricle - Inferolateral Thickness: *1.3 cm 0.6 - 1.1 cm  Left Ventricle - Diastolic Dimension: 4.6 cm <= 5.6 cm  Left Ventricle - Systolic Dimension: 3.3 cm   Left Ventricle - Fractional Shortening: *0.28 >= 0.29  Left Ventricle - Ejection Fraction: 40% >= 55%  Left Ventricle - Stroke Volume: 41 ml/beat   Left Ventricle - Cardiac Output: 3.19 L/min   Left Ventricle - Cardiac Index: *1.77 >= 2.0 L/min/M2  Left Ventricle - Lateral Peak E': *0.07 m/s > 0.08 m/s  Left Ventricle - Septal Peak E': *0.03 m/s > 0.08 m/s  Left Ventricle - Ratio E/E': *34 < 15  Aorta - Sinus Level: 3.0 cm <= 3.6 cm  Aorta - Ascending: *3.5 cm <= 3.4 cm  Aortic Valve - Peak Velocity: *4.7 m/sec <= 2.0 m/sec  Aortic Valve - Peak Gradient: *88 mm Hg < 20 mm Hg  Aortic Valve - Mean Gradient: 58 mm Hg   Aortic Valve - LVOT VTI: 18   Aortic Valve - LVOT diam: 1.7 cm   Aortic Valve - Valve Area: *0.4 cm2 >= 3.0 cm2  Mitral Valve - Peak Velocity: 1.8 m/sec   Mitral Valve - Mean Gradient: 4 mm Hg   Mitral Valve - MVA (P ___ T): 4.7 cm2   Mitral Valve - E Wave: 1.7 m/sec   Mitral Valve - A Wave: 1.0 m/sec   Mitral Valve - E/A ratio: 1.70   TR Gradient (+ RA = PASP): *60 to 66 mm Hg <= 25 mm Hg   Findings  LEFT ATRIUM: Moderate ___. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. Normal IVC diameter (<2.1cm) with 35-50% decrease during respiration (estimated RA pressure (___). 
+
+LEFT VENTRICLE: Mild symmetric LVH. Normal LV cavity size. Mildly depressed LVEF. TDI E/e' >15, suggesting PCWP>18mmHg. No resting LVOT gradient. No VSD. 
+
+RIGHT VENTRICLE: RV hypertrophy. Normal RV chamber size. Normal RV systolic function. 
+
+AORTA: Normal ascending aorta diameter. Focal calcifications in ascending aorta. Mildly dilated aortic arch. Focal calcifications in aortic arch. 
+
+AORTIC VALVE: Severely thickened/deformed aortic valve leaflets. Critical AS (area <0.8cm2). Mild (1+) AR. 
+
+MITRAL VALVE: Severely thickened/deformed mitral valve leaflets. No MVP. Severe mitral annular calcification. Mild thickening of mitral valve chordae. Calcified tips of papillary muscles. Mild functional MS due to MAC. Mild (1+) MR. [Due to acoustic shadowing, the severity of MR may be significantly UNDERestimated.] 
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. Mild to moderate [___] TR. Severe PA systolic hypertension. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet. No PS. Physiologic PR. 
+
+PERICARDIUM: No pericardial effusion. 
+
+REGIONAL LEFT VENTRICULAR WALL MOTION: 
+
+         N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic  Conclusions  The left atrium is moderately dilated. The estimated right atrial pressure is ___. There is mild symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. Overall left ventricular systolic function is mildly depressed (LVEF= 45 %). Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg). There is no ventricular septal defect. The right ventricular free wall is hypertrophied. Right ventricular chamber size is normal. with normal free wall contractility. The aortic arch is mildly dilated. There are focal calcifications in the aortic arch. The aortic valve leaflets are severely thickened/deformed. There is critical aortic valve stenosis (valve area <0.8cm2). Mild (1+) aortic regurgitation is seen. The mitral valve leaflets are severely thickened/deformed. There is no mitral valve prolapse. There is severe mitral annular calcification. There is mild functional mitral stenosis (mean gradient 4 mmHg) due to mitral annular calcification. Mild (1+) mitral regurgitation is seen. [Due to acoustic shadowing, the severity of mitral regurgitation may be significantly UNDERestimated.] The tricuspid valve leaflets are mildly thickened. There is severe pulmonary artery systolic hypertension. There is no pericardial effusion.   Electronically signed by ___, MD, Interpreting physician ___ ___ 14:09   
+
+© ___ ___. All rights reserved.
+
+ Brief Hospital Course: During the preoperative workup, an abdominal MRI was performed to evaluate the abdominal aorta for plaque/calcifications, and evaluate renal arteries for plaques/calcifications. Based on the MRI results, a future MRCP was recommended by Radiology. The MRI results per Radiology are as follows:
+
+# Pancreatic cysts: This was found on MRI of the abdomen as part of the pre-op work-up. Diagnostic considerations include multiple side branch IPMNs versus sequela of pancreatitis.  Radiology recommended a MRCP in six months. 
+
+# Multiple hemorrhagic cysts within the kidneys: This was found on MRI of the abdomen. This should also be evaluated by MRCP.
+
+The ___ was brought to the operating room on ___ where he underwent aortic valve replacement. Please see ___ ___ report for further details. Overall the ___ tolerated the procedure well and post-operatively was transferred to the CVICU in stable condition for recovery and invasive monitoring. Vancomycin was used for surgical antibiotic prophylaxis given the preoperative stay of longer than 24 hours. ___ awoke neurologically intact and was weaned and extubated without difficulty. The ___ was neurologically intact and hemodynamically stable, weaned from inotropic or vasopressor support by POD 2. Beta blocker was initiated and the ___ was gently diuresed toward the preoperative weight. He was transferred to the telemetry floor for further recovery. Chest tubes and pacing wires were discontinued in a timely fashion, without complication. The ___ was evaluated by the physical therapy service for assistance with strength and mobility. He continued to progress and was cleared by ___ discharge to home on POD ******** All follow up appointments were advised. ****stopped ___  Medications on Admission: 1. aspirin 81 mg daily  2. lipitor 10 mg every other day  3. Coreg 6.25 mg BID  4. lasix 40 mg daily  5. allopurinol ___ mg daily  6. glipizide 5 mg daily  7. aciphex ___ mg daily  8. folate daily  9. Coenzyme Q10 100 mg daily 
+
+ Discharge Medications: 1. Outpatient Physical Therapy please evaluate and treat for deconditioning s/p aortic valve replacement 2. Outpatient Lab Work BUN, Creatinine on ___ Results to Dr. ___: ___ 3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily).  4. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY (Every Other Day). Disp:*30 Tablet(s)* Refills:*0* 5. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*0* 6. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0* 7. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day. Disp:*30 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0* 8. Tramadol 50 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain. Disp:*60 Tablet(s)* Refills:*0* 9. Glipizide 5 mg Tablet Extended Rel 24 hr Sig: One (1) Tablet Extended Rel 24 hr PO DAILY (Daily). Disp:*30 Tablet Extended Rel 24 hr(s)* Refills:*0* 10. Allopurinol ___ mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  11. Rabeprazole 20 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO once a day. Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0* 12. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day.  13. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6hrs prn pain. 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: s/p Aortic Valve Replacement (#19mm ___ tissue valve) PMH: aortic stenosis hypertension  Diabetes mellitus  Aortic stenosis  Renal insufficiency  Duodenal ulcers/GI bleeding (rectal and esophageal)  Gout deep vein thrombosis ___ years ago benign prostatic hyperplasia
+
+ Discharge Condition: Alert and oriented x3 nonfocal Ambulating, gait steady Sternal pain managed with oral analgesics Sternal Incision - healing well, no erythema or drainage
+
+ Discharge Instructions: Please shower daily including washing incisions gently with mild soap, no baths or swimming, and look at your incisions Please NO lotions, cream, powder, or ointments to incisions Each morning you should weigh yourself and then in the evening take your temperature, these should be written down on the chart No driving for approximately one month until follow up with surgeon No lifting more than 10 pounds for 10 weeks Please call with any questions or concerns ___ **Please call cardiac surgery office with any questions or concerns ___. Answering service will contact on call person during off hours** Females: Please wear bra to reduce pulling on incision, avoid rubbing on lower edge
+
+ Followup Instructions: ___ 

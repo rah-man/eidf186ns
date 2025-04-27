@@ -1,0 +1,24 @@
+T1	Intracranial_haemorrhage 7164 7188;7192 7209	Intracerebral hemorrhage parieto-occipital
+T2	Intracranial_haemorrhage 6108 6118;6140 6166	CT and MRI parieto-frontal hemorrhage
+T3	Intracranial_haemorrhage 7413 7437	intracerebral hemorrhage
+T4	Intracranial_haemorrhage 1333 1343;1390 1407	hemorrhage parieto-occipital
+T5	Intracranial_haemorrhage 1186 1193;1217 1243	head CT temporoparietal hemorrhage
+T6	Intracranial_haemorrhage 471 495	intracerebral hemorrhage
+T7	Delirium 2671 2679	confused
+T8	Intracranial_haemorrhage 7491 7495;7538 7548;7570 7585	head hemorrhage microhemorrhage
+T9	Intracranial_haemorrhage 5073 5084;5119 5137	hemorrhagic parieto- occipital
+T10	Visual_impairment 1878 1889	visual loss
+A1	Negation T10
+T11	Hearing_impairment 1923 1930	hearing
+A2	Negation T11
+T13	Hearing_impairment 3644 3651	Hearing
+A4	Negation T13
+T14	Intracranial_haemorrhage 5257 5268;5276 5290	hemorrhages parietal lobes
+T12	Delirium 6393 6402	confusion
+T15	Delirium 1943 1965	impaired comprehension
+T16	Malnutrition 2230 2244	well nourished
+A3	Negation T16
+T17	Delirium 2721 2729	Oriented
+A5	Negation T17
+T18	Delirium 5824 5832	oriented
+A6	Negation T18

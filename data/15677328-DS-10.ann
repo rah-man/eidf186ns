@@ -1,0 +1,30 @@
+T3	Delirium 14594 14603	confusion
+T4	Falls 11763 11768	falls
+A2	Diagnosis T4 Implicit_mention
+T5	Delirium 367 376	confusion
+T6	Delirium 1188 1197	confusion
+A3	Diagnosis T6 Implicit_mention
+T7	Delirium 1328 1336	confused
+A4	Diagnosis T7 Implicit_mention
+T8	Visual_impairment 1584 1590	vision
+T9	Delirium 3380 3388	oriented
+A5	Negation T9
+T10	Intracranial_haemorrhage 8317 8327;8335 8354;8362 8366	dissection arterial structures head
+A6	Negation T10
+T11	Intracranial_haemorrhage 8773 8785;8852 8860	intracranial aneurysm
+A7	Negation T11
+T12	Lower_respiratory_tract_infection 9045 9054	pneumonia
+A8	Diagnosis T12 Suspected
+T13	Delirium 10939 10948	confusion
+T14	Delirium 11047 11056	confusion
+T2	Independently_mobile 14485 14509	Ambulatory - Independent
+T15	Urinary_tract_infection 10435 10441;10505 10514	kidney infection
+A9	Diagnosis T15 History_of
+A10	Negation T8
+A11	Diagnosis T8 Implicit_mention
+T16	Delirium 3654 3662	Oriented
+A12	Negation T16
+T17	Visual_impairment 15830 15844	loss of vision
+A13	Diagnosis T17 Implicit_mention
+T1	Delirium 14386 14419	Mental Status: Clear and coherent
+A1	Negation T1

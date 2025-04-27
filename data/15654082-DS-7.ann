@@ -1,0 +1,8 @@
+T3	Falls 2101 2105	fell
+T5	Delirium 4315 4323	oriented
+A4	Negation T5
+T6	Intracranial_haemorrhage 2533 2537;2593 2603	head hemorrhage
+A5	Negation T6
+T7	Falls 4681 4685	fall
+T1	Delirium 6218 6229	oriented x3
+A1	Negation T1

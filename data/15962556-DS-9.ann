@@ -1,0 +1,20 @@
+T1	Lower_gastrointestinal_haemorrhage 1686 1700	blood in stool
+A1	Negation T1
+T2	Upper_gastrointestinal_haemorrhage 1712 1718	melena
+A2	Negation T2
+T3	Delirium 4310 4314	AOx3
+A3	Negation T3
+T4	Delirium 1675 1684	confusion
+A4	Negation T4
+T5	Urinary_tract_infection 10165 10168	UTI
+A5	Diagnosis T5 Suspected
+T6	Delirium 12374 12392	Clear and coherent
+A6	Negation T6
+T7	Mobile_with_assistance 12480 12490	assistance
+T8	Mobile_with_aid 12494 12497	aid
+A7	Type_of_aid T8 Two_sticks_or_frame
+T9	Delirium 12532 12550	Clear and coherent
+A8	Negation T9
+T11	Mobile_with_aid 12652 12655	aid
+A9	Type_of_aid T11 Two_sticks_or_frame
+T10	Mobile_with_assistance 12616 12648	Ambulatory - requires assistance

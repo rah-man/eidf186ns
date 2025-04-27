@@ -1,0 +1,14 @@
+T1	Dementia 394 402	dementia
+A1	Diagnosis T1 History_of
+T2	Lower_respiratory_tract_infection 471 480	pneumonia
+T3	Has_carers 5822 5829	Service
+T4	Dementia 5881 5889	Dementia
+T5	Lower_respiratory_tract_infection 6092 6101	pneumonia
+A2	Diagnosis T5 Suspected
+T6	Lower_respiratory_tract_infection 3134 3143	pneumonia
+A3	Diagnosis T6 Suspected
+T7	Dementia 1339 1347	Dementia
+T8	Lower_respiratory_tract_infection 729 732	UTI
+A4	Diagnosis T8 History_of
+T9	Dementia 1791 1799	demented
+T10	Dementia 1128 1136	demented

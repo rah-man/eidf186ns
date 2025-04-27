@@ -1,0 +1,10 @@
+T1	Constipation 5839 5851	constipation
+A1	Diagnosis T1 Implicit_mention
+T3	Faecal_incontinence 1836 1841;1853 1865	bowel incontinence
+A3	Negation T3
+T4	Urinary_incontinence 1845 1852;1853 1865	bladder incontinence
+A4	Negation T4
+T5	Malnutrition 772 786	well-nourished
+A5	Negation T5
+T2	Delirium 1419 1427	oriented
+A2	Negation T2

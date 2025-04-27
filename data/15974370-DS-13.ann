@@ -1,0 +1,8 @@
+T1	Constipation 7902 7914	constipation
+A1	Diagnosis T1 Implicit_mention
+T2	Constipation 7193 7205	constipation
+A2	Diagnosis T2 Implicit_mention
+T3	Constipation 5671 5683	constipation
+A3	Diagnosis T3 Implicit_mention
+T4	Lower_respiratory_tract_infection 8658 8667	Pneumonia
+A4	In-hospital_event T4

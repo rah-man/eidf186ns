@@ -1,0 +1,29 @@
+T1	Dementia 1247 1255	Dementia
+T2	Visual_impairment 1256 1264	Glaucoma
+A1	Diagnosis T2 History_of
+T3	Urinary_incontinence 582 593	incontinent
+T4	Faecal_incontinence 582 593	incontinent
+T5	Urinary_tract_infection 731 734	UTI
+A2	Diagnosis T5 History_of
+T6	Urinary_tract_infection 3033 3036	UTI
+A3	Diagnosis T6 Suspected
+T7	Constipation 4392 4404	constipation
+A4	Diagnosis T7 Implicit_mention
+T8	Constipation 4559 4571	constipation
+A5	Diagnosis T8 Implicit_mention
+T9	Constipation 4661 4673	constipation
+A6	Diagnosis T9 Implicit_mention
+T10	Constipation 3933 3945	constipation
+A7	Diagnosis T10 Implicit_mention
+T11	Constipation 3766 3778	constipation
+A8	Diagnosis T11 Implicit_mention
+T14	Constipation 4035 4047	constipation
+A10	Diagnosis T14 Implicit_mention
+T15	Dementia 2751 2759	dementia
+T13	Independently_mobile 5437 5461	Ambulatory - Independent
+T16	Has_carers 5244 5251	Service
+A11	Diagnosis T1 History_of
+A12	Low_confidence T3
+A13	Low_confidence T4
+T12	Delirium 5338 5371	Mental Status: Clear and coherent
+A9	Negation T12

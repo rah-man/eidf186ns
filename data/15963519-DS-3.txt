@@ -1,0 +1,65 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: SURGERY  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending: ___.  Chief Complaint: Bilateral lower extremity ulcers  Major Surgical or Invasive Procedure: Debridement of L ankle ulcer left lower extremity angiograms, Bilateral Common Iliac Artery stent placement  History of Present Illness: ___ y/o M with h/o of DM, and subdural hematoma now presents from referring institution with non-healing ulcers of bilateral ankles. Patient was admitted to the outside hospital for confusion and presumed pneumonitis. Initial WBC was 16K. BCx and UCx showed No growth but ___ of wound swab showed 3+ GPC aand 3+ GNR. Head CT showed no acute intracranial pathology and CXR showed possible bibasilar atelectasis. Per limited transfer documentation patient was started on antibiotics and thought to be stable with the exception of chronic bilateral lower extremity wounds. Patient was see by wound care started on clindamycin for progressive cellulites and transferred to ___ for further management. Micro data from the referring institution revealed 2+ enterococcus sensitive Vancomycin, gentamicin, levofloxacin, ampicillin and cefoxitin.  
+
+ Past Medical History: DM HTN Subdural Hematoma-old Depression Neuropathy CRI 
+
+ Social History: ___ Family History: N/C  Physical Exam: Vital Signs: Temp: 98.2 RR: 18 Pulse: 69 BP: 159/68 Neuro/Psych: AAOx3, NAD Neck: No masses, Trachea midline, No right carotid bruit, No left carotid bruit. Nodes: No clavicular/cervical adenopathy, No inguinal adenopathy. Heart: Regular rate and rhythm. Lungs: Normal respiratory effort. Gastrointestinal: Non distended, No masses, No hernia. Extremities: warm bilaterally. Right medial maleolus- dry eschar. Left lateral maleolus-w/ large open wound s/p debridement, no exudate, no drainage.  Pulse Exam (P=Palpation, D=Dopplerable, N=None) RLE Femoral: P. DP: D. ___: D. LLE Femoral: P. DP: D. ___: D.  
+
+ 
+
+ Pertinent Results: ___ 05:25AM BLOOD WBC-15.0* RBC-3.08* Hgb-9.3* Hct-29.1* MCV-95 MCH-30.1 MCHC-31.8 RDW-14.5 Plt ___ ___ 07:00AM BLOOD WBC-16.2* RBC-3.20* Hgb-9.3* Hct-29.8* MCV-93 MCH-29.0 MCHC-31.1 RDW-14.5 Plt ___ ___ 05:25AM BLOOD Plt ___ ___ 07:00AM BLOOD Plt ___ ___ 05:25AM BLOOD Glucose-130* UreaN-15 Creat-1.1 Na-144 K-4.6 Cl-105 HCO3-31 AnGap-13 ___ 03:35AM BLOOD ALT-55* AST-40 AlkPhos-134* TotBili-0.3 ___ 05:25AM BLOOD Calcium-8.4 Phos-3.1 Mg-1.9
+
+Cardiology Report ECG Study Date of ___ 7:52:14 ___ 
+
+Sinus tachycardia, rate 103. Otherwise, normal tracing. No previous tracing available for comparison.   Radiology Report ART EXT (REST ONLY) Study Date of ___ 4:28 ___ IMPRESSION: Moderately severe bilateral lower extremity occlusive disease with SFA, popliteal and tibial occlusions on the right and mild iliac and moderately severe tibial disease on the left. Right-sided metatarsal PVR waveform is nearly aphasic. 
+
+ANKLE (2 VIEWS) LEFT Study Date of ___ 4:52 ___ There is significant amount of subcutaneous air along the lateral malleolus and distal tibia. There is also soft tissue swelling. There is questionable bone destruction along the mid aspect of the lateral malleolus that might be consistent with osteomyelitis, although the findings are minimal and should be reevaluated by MRI or nuclear scan. There are degenerative changes of the calcaneus. No other abnormality is demonstrated. 
+
+CHEST (PA & LAT) Study Date of ___ 4:52 ___ The heart size is top normal. Mediastinal position, contour and width are unremarkable. Left lung is essentially clear. In the right lung base there is a opacity obscuring the hemidiaphragm with elevation of the right hemidiaphragm, that is continuing with the hilus and might represent a combination of atelectasis and infectious process.   Followup of the patient after completion of antibiotic therapy is recommended for documentation of resolution. If findings persist evaluation with chest CT might be considered to exclude the possibility of post-obstructive pneumonia. 
+
+Portable TTE (Complete) Done ___ at 11:58:27 AM    FINAL Conclusions  The left atrium is normal in size. No atrial septal defect is seen by 2D or color Doppler. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). Regional left ventricular wall motion is normal. The estimated cardiac index is normal (>=2.5L/min/m2). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen. There is moderate pulmonary artery systolic hypertension. There is no pericardial effusion. 
+
+IMPRESSION: Moderate pulmonary hypertension. Normal global and regional biventricular systolic function. 
+
+ECG Study Date of ___ 3:07:04 AM Atrial fibrillation with rapid ventricular response. Compared to the previous tracing of ___ atrial fibrillation has appeared. There is delayed precordial R wave transition.   VENOUS DUP EXT UNI (MAP/DVT) Study Date of ___ 3:47 ___ FINDINGS: RIGHT: The right greater saphenous vein is patent with diameters from ankle to knee of 2.6, 2.8, 3.7, 4.1. Diameters from knee to groin are 3.6, 3.7, 4.6 mm respectively. LEFT: The left greater saphenous is patent. Diameters from ankle to knee are 4.6, 3.3, 3.2, 4.0, 3.5 mm. From the knee to the groin the diameters are 3.7, 3.2, 3.1, 6.2 mm. IMPRESSION: Patent bilateral greater saphenous veins with diameters as noted above. 
+
+ Brief Hospital Course: ___ Patient was transfered to ___ surgery from OSH for left lateral ankle and right medial ankle non-healing ulcers. Started on broad spectrum antibiotics (Vanco/Cipro/Flagyl). Routine nursing, labs and wound care. Foot x-rays-bone destruction along mid aspect of lateral maleolus c/w osteomyelitis. NIAS- was done, showed bilateral lower extremity occlusive disease with SFA, popliteal and tibial occlusions on the right and mild iliac and moderately severe tibial disease on the left. Right-sided metatarsal PVR waveform is nearly aphasic. CXR -right lung base there is a opacity obscuring the hemidiaphragm with elevation of the right hemidiaphragm, that is continuing with the hilus and might represent a combination of atelectasis and infectious process. On admission patient's WBC was elevated, blood cultures were sent. 
+
+___ Patient had debridement of the left lateral ulcer, cultures were sent. Continued on broad spectrum antibiotics, and wound care. Blood cultures came back negative. Continued to trend ___'s.
+
+___ Patient continued on antibiotics, wound care. Patient went into atrial fibrillation-new onset for patient, confirmed by ECG. patient was placed on Diltizem drip ovenright, converted to NSR the next day. Cardiology consulted-recs to d/c Diltiazem and start low dose Lopressor PO, to titrate up w/ goal HR of 60-80 BPM. Patient was pre-oped and consented for BLE angiograms. made NPO post MN and IV hydrated.
+
+___ Patient was taken to angio suite and underwent B/L ___ angiograms w/ bilateral common iliac artery stent placement. Detremined to need R Fem-pop bypass in the future. Patient recovered then transferred back to floor, was on bedrest for the prescribed amount of time. PO meds and diet resumed, post hydration was also given. Continued w/ wound care.
+
+___ No acute events. Continued to trend ___'s. Wound cultures came back Staph coag + sensitive to most antibiotics inclusing Bactrim. Switched antibiotics to Bactrim. Physical therapy consult-recs d/c to rehab. Rehab screening requested.
+
+___ No acute events, awaiting placement. ___ Discharged to extended care facility in good condition. Will be re-admitted early next week for bypass surgery. Patient will call Dr. ___ for details of admission. 
+
+ Medications on Admission: Gabapentin 400 mg po qd Novolog SS Lantus 15u qhs Lispro 20u qAM and 30u qPM Lisinopril 5 mg qd Mirtazipine 15 mg po qd Phynetoin 130 mg po qd Trazodone 50 qhs Ativan 1 prn  Discharge Medications: 1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) for 1 months: no refill. Disp:*30 Tablet(s)* Refills:*0* 2. Metoprolol Tartrate 50 mg Tablet Sig: 1.5 Tablets PO TID (3 times a day): goal HR 60-80.  3. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day).  4. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+
+5. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).  6. Phenytoin Sodium Extended Oral 7. Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).  8. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily).  9. Gabapentin 400 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).  10. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  11. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for pain.  12. Humalog sliding scale Breakfast Lunch Dinner Bedtime  Glucose Insulin Dose ___  mg/dL Proceed with hypoglycemia protocol Proceed with hypoglycemia protocol Proceed with hypoglycemia protocol Proceed with hypoglycemia protocol 71-100  mg/dL 0  Units 0  Units 0  Units 0  Units 101-120  mg/dL 2  Units 2  Units 2  Units 2  Units 121-140  mg/dL 4  Units 4  Units 4  Units 4  Units 141-160  mg/dL 6  Units 6  Units 6  Units 6  Units 161-180  mg/dL 8  Units 8  Units 8  Units 8  Units 181-200  mg/dL 10  Units 10  Units 10  Units 10  Units 201-220  mg/dL 12  Units 12  Units 12  Units 12  Units 221-240  mg/dL 14  Units 14  Units 14  Units 14  Units 241-260  mg/dL 16  Units 16  Units 16  Units 16  Units 261-280  mg/dL 18  Units 18  Units 18  Units 18  Units 281-300  mg/dL 20  Units 20  Units 20  Units 20  Units > 300  mg/dL ___ M.D. ___ M.D. ___ M.D. ___ M.D. 
+
+13. Glargine Sig: Fifteen (15) units subcuatneous injection at bedtime.  14. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  15. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)  Injection TID (3 times a day).  16. Glucagon (Human Recombinant) 1 mg Recon Soln Sig: One (1) Recon Soln Injection Q15MIN () as needed for hypoglycemia protocol. 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Bilateral lower extremity ulcers-s/p left debridement- for dressing TID w/ NS wet-dry History of: DM HTN Subdural Hematoma-old Peripheral Neuropathy CRI   PSH: Craniotomy 
+
+ Discharge Condition: Mental Status:Clear and coherent Level of Consciousness:Alert and interactive Activity Status:Ambulatory - requires assistance or aid (walker or cane)
+
+ Discharge Instructions: - You were admitted for a bilateral lower extremity non-healing ulcers. large left lateral and right medial maleolus areas,
+
+- The left ulcer was debrided, now needing wet to dry dressings TID, the right is dry.
+
+- You also underwent angiogram and had bilateral common iliac artery stents placed,
+
+- You were placed on Plavix and will stay on it for 1 month,
+
+- You will be scheduled for Right Fem-pop artery bypass next week
+
+- Continue all medications including Bactrim, until you come back for admission next week,
+
+- You may shower, keep the left foot dry,
+
+- Regular diet,
+
+- Activity as tolerated,
+
+- Call Dr. ___ for details of your upcoming bypass surgery.  Followup Instructions: ___ 

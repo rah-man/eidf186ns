@@ -1,0 +1,43 @@
+ Name: ___           Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Penicillins / Cephalosporins / cefuroxime  Attending: ___.  Chief Complaint: weakness  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ F w/ hx dementia and ___ BIBA to ___ for inability to sit up today. At baseline ambulates with walker and hand railings short distances. Nephew indicated to ___ staff that ___ contacted for severe back pain and inability to get out of bed today. There have been no reports of fever, vomiting, diarrhea, trauma. At ___, xrays show near complete loss of T12 height new from prior imaging ___ with normal neuro exam. Transferred for spine eval for possible kyphoplasty for acute pain relief. In the BID ER she was accompanied by nephew who stated she was at her baseline mental status. 
+
+When she arrived to the floor she was agitated and trying to get out of bed to go meet a friend that is coming to see her because her friend also has back pain. She denies back pain at the moment. She is not having headache, abdominal pain, chest pain, shortness of breath. 
+
+She was evaluated by Spine who recommended TLSO and outpatient f/u in 2 wks. She was evaluated by ___: Recommend home ___ at d/c to progress mobility and brace management, home safety. Case Mgmt explained to family guidelines for snf stay, pt eval pend, likely d/c home w/ previous ___ care and ___ if needed.
+
+ Past Medical History: HTN HLD GERD Renal Artery Stenosis ___ dementia Fracture of ___ years ago, non-operative mgmt
+
+SURGICAL HISTORY: s/p CCY
+
+ Social History: ___ Family History: unable to obtain given dementia
+
+ Physical Exam: Vitals - 97.1 ___ GENERAL: Elderly woman with high voice trying to sit up in bed HEENT: anicteric sclera, pink conjunctiva, MMM, good dentition  NECK: nontender supple neck, no LAD, no JVD  CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles  ABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly  EXTREMITIES: moving all extremities well, no cyanosis, clubbing or edema  PULSES: 2+ DP pulses bilaterally  NEURO: Alert, not oriented to place, time, events. Inattentive. CN II-XII intact. Motor function grossly normal. ___ answer remote historical questions very well. SKIN: warm and well perfused, no excoriations or lesions, no rashes  Pertinent Results: LABS: ___ 06:30AM BLOOD WBC-9.9 RBC-3.95* Hgb-12.2 Hct-38.1 MCV-97 MCH-30.8 MCHC-31.9 RDW-13.8 Plt ___ ___ 09:35AM BLOOD Glucose-120* Na-142 K-3.5 Cl-105 HCO3-24 AnGap-17 ___ 06:30AM BLOOD Albumin-3.1*
+
+STUDIES: + ___: CT L spine 1. Redemonstration of compression fracture of T12, better described on CT T spine. 2. Multilevel severe degenerative changes fluid soft chondral cyst, endplate sclerosis, and osteophytosis. Prominent osteophytes at the L2-L3 level with mild effacement of thecal sac noted. 3. Left renal artery stent noted. 4. Ectatic infrarenal aorta just above the level of its bifurcation into common iliac arteries. 5. Atrophic right kidney. Redemonstration of left superior pore non obstructing stone.
+
++ ___ CT T spine: Compression fraction of T12 vertebral body with retrolisthesis of the posterior aspect of the vertebral body resulting in moderate to severe canal narrowing at this level (2:104). 2. Nearly 50% anterior compression deformity at the T7 vertebral body. 3. 4.2 mm nonobstructing stone within the left renal collecting system. 4. Biapical scarring with atelectasis of the bases. Final report pending ___ dictation following work day.  Brief Hospital Course: ASSESSMENT & PLAN: ___ year old woman with ___ dementia and prior compression fracture who presents as transfer from ___ ___ for Spine evaluation of atraumatic compression fracture at T12. 
+
+#T12 COMPRESSION FRACTURE: Atraumatic by history. Patient has good distal sensation and strength. Ortho saw and evaluated and recommended against surgery. [] TLSO brace with activty [] ___ followup in two weeks. [] Home with ___ and outpatient ___.
+
+___ DEMENTIA: On Sinemet. Continued carbi/levo TID. 
+
+#HTN/HLD: Per chart history. not on antihypertensive or statin. Continue ASA at 81mg dose.
+
+#DEPRESSION: continued citalopram
+
+# Code: DNR, DNI # Emergency Contact: ___ (___) ___ RN
+
+ ___ on Admission: The Preadmission Medication list is accurate and complete. 1. Citalopram 20 mg PO DAILY 2. Carbidopa-Levodopa (___) 1 TAB PO ASDIR 3. Aspirin 325 mg PO DAILY 4. ALPRAZolam 0.5 mg PO TID:PRN anxiety, agitation 5. QUEtiapine Fumarate 50 mg PO QHS 
+
+ Discharge Medications: 1. ALPRAZolam 0.5 mg PO TID:PRN anxiety, agitation 2. Aspirin 81 mg PO DAILY RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 3. Carbidopa-Levodopa (___) 1 TAB PO ASDIR 4. Citalopram 20 mg PO DAILY 5. QUEtiapine Fumarate 50 mg PO QHS 6. Acetaminophen 1000 mg PO TID RX *acetaminophen 500 mg 2 tablet(s) by mouth three times a day Disp #*60 Tablet Refills:*0 7. OxycoDONE (Immediate Release) 2.5 mg PO Q4H:PRN pain RX *oxycodone 5 mg 0.5 (One half) capsule(s) by mouth every four to six hours Disp #*30 Capsule Refills:*0 8. Senna 17.2 mg PO HS RX *sennosides [senna] 8.6 mg 1 capsule by mouth at night Disp #*30 Capsule Refills:*0 9. Outpatient Physical Therapy ICD-9: 733.13. Gait, balance training. Evaluation and Treatment
+
+ Discharge Disposition: Home With Service  Facility: ___  ___: PRIMARY: Atraumatic T12 Compression fracture SECONDARY: ___ dementia  Discharge Condition: Mental Status: Confused - sometimes. Level of Consciousness: Alert and interactive. Activity Status: Out of Bed with assistance to chair or wheelchair.
+
+ Discharge Instructions: Dear Ms. ___,
+
+You were admitted for evaluation and treatment of the compression fracture in your back. You were seen by our orthopaedic surgeons who felt that you would benefit from a spine brace and would not benefit from surgery. You were fitted for the brace and you were given pain medications to make you comfortable. You were seen by physical therapy who recommended that you continue with physical therapy at home. You will see our orthopaedic surgeons and primary care physician in the next several weeks.
+
+We wish you the best, 
+
+Your ___ team  Followup Instructions: ___ 

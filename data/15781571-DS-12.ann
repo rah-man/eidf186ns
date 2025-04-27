@@ -1,0 +1,36 @@
+T2	Mobile_with_aid 18193 18196	aid
+A1	Type_of_aid T2 Two_sticks_or_frame
+T3	Falls 500 504	fall
+T4	Constipation 592 604	constipation
+A2	Diagnosis T4 History_of
+T5	Lower_respiratory_tract_infection 1851 1860	pneumonia
+A3	Diagnosis T5 Suspected
+T6	Intracranial_haemorrhage 2111 2115;2146 2158	Head intracranial
+A4	Negation T6
+T7	Urinary_incontinence 2689 2701	incontinence
+T8	Faecal_incontinence 2689 2701	incontinence
+T9	Visual_impairment 5120 5129	Cataracts
+T10	Delirium 6213 6221	Oriented
+A5	Negation T10
+T11	Lower_respiratory_tract_infection 9091 9100	pneumonia
+A6	Diagnosis T11 Suspected
+T12	Constipation 10652 10664	constipation
+T13	Malnutrition 15790 15802	malnutrition
+T14	Malnutrition 17935 17947	Malnutrition
+T16	Constipation 19063 19075	constipation
+T18	Constipation 16735 16747	Constipation
+T19	Upper_gastrointestinal_haemorrhage 946 952;989 994	emesis blood
+A8	Negation T19
+T20	Malnutrition 14927 14939	Malnutrition
+T21	Malnutrition 14954 14966	malnourished
+T22	Malnutrition 14988 15000	malnourished
+T23	Malnutrition 10770 10782	malnutrition
+T24	Malnutrition 6418 6427	Cachectic
+T25	Malnutrition 14517 14529	malnutrition
+T26	Malnutrition 5403 5412	Cachectic
+T1	Mobile_with_assistance 18157 18189	Ambulatory - requires assistance
+T27	Falls 217 221	fall
+A9	Low_confidence T7
+A10	Low_confidence T8
+T15	Delirium 18056 18079	Mental Status: Confused
+A7	Negation T15

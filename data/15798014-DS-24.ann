@@ -1,0 +1,34 @@
+T3	Mobile_with_aid 8460 8463	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Mobile_with_assistance 574 584	wheelchair
+A3	Type_of_aid T4 Wheelchair
+T5	Mobile_with_assistance 637 647	wheelchair
+A4	Type_of_aid T5 Wheelchair
+T6	Mobile_with_aid 6509 6513	cane
+A5	Type_of_aid T6 One_Stick
+T7	Urinary_incontinence 1002 1028	bowel/bladder incontinence
+A6	Negation T7
+T8	Faecal_incontinence 1008 1015	bladder
+A7	Negation T8
+T9	Weight_loss 1646 1657	weight loss
+A8	Negation T9
+T10	Constipation 2205 2217	constipation
+A9	Negation T10
+T11	Lower_gastrointestinal_haemorrhage 2219 2224	BRBPR
+A10	Negation T11
+T12	Upper_gastrointestinal_haemorrhage 2226 2232	melena
+A11	Negation T12
+T13	Delirium 2920 2925	aaox3
+A12	Negation T13
+T14	Has_carers 6713 6721	services
+T15	Seizures 2347 2355	seizures
+A13	Negation T15
+T16	Dementia 2378 2395	changes in memory
+A14	Negation T16
+T2	Mobile_with_assistance 8424 8456	Ambulatory - requires assistance
+T17	Delirium 971 979	confused
+A15	Negation T17
+T21	Weight_loss 1927 1938	weight loss
+A19	Negation T21
+T1	Delirium 8325 8358	Mental Status: Clear and coherent
+A1	Negation T1

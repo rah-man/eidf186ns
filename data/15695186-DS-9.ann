@@ -1,0 +1,57 @@
+T1	Dementia 422 430	dementia
+T2	Falls 454 458	fall
+T3	Falls 570 574	fell
+T4	Falls 698 702	fell
+T7	Falls 995 999	fall
+A3	Diagnosis T7 Implicit_mention
+T5	Urinary_incontinence 808 837	urinary or fecal incontinance
+A1	Negation T5
+T6	Faecal_incontinence 808 837	urinary or fecal incontinance
+A2	Negation T6
+T8	Delirium 1396 1404	confused
+T9	Urinary_tract_infection 1790 1799	pneumonia
+A4	Diagnosis T9 Suspected
+T12	Delirium 3470 3478	oriented
+A5	Negation T12
+T13	Lower_respiratory_tract_infection 4798 4807	pneumonia
+A6	Diagnosis T13 Suspected
+T14	Intracranial_haemorrhage 5003 5015;5043 5047;5096 5119	intracranial head intracranial hemorrhage
+A7	Negation T14
+T15	Falls 5208 5212	fall
+T16	Lower_respiratory_tract_infection 5249 5258	Pneumonia
+T17	Lower_respiratory_tract_infection 5382 5385	PNA
+T18	Falls 5805 5810	Falls
+A8	Diagnosis T18 History_of
+T19	Falls 5819 5823	fall
+A9	Diagnosis T19 History_of
+T20	Lower_respiratory_tract_infection 5878 5881;5915 5919	PNA fall
+A10	Diagnosis T20 Implicit_mention
+T21	Frailty 5942 5947	frail
+T22	Pressure_injury 6044 6056	Sacral Ulcer
+T23	Falls 6501 6505	fall
+T24	Lower_respiratory_tract_infection 6510 6513	PNA
+T25	Falls 6759 6764	falls
+A11	Diagnosis T25 Implicit_mention
+T26	Lower_respiratory_tract_infection 7273 7279	CA-PNA
+T27	Pressure_injury 7309 7350	Coccyx/sacral deep tissue pressure injury
+T28	Pressure_injury 7367 7410	glut full thickness stage 3 pressure injury
+T29	Pressure_injury 7429 7469	elbow, partial thickness traumatic ulcer
+T30	Pressure_injury 7552 7572	knee traumatic ulcer
+T31	Pressure_injury 7509 7531	tissue flap, skin tear
+T32	Pressure_injury 8097 8112	pressure injury
+A12	Diagnosis T32 Implicit_mention
+T33	Lower_respiratory_tract_infection 8950 8978	Community Acquired Pneumonia
+T37	Mobile_with_aid 9166 9176	wheelchair
+A13	Type_of_aid T37 Wheelchair
+T38	Falls 9240 9244	fall
+T39	Lower_respiratory_tract_infection 9271 9280;9282 9296	pneumonia lung infection
+T40	Pressure_injury 3768 3817	skin ulcerations on back buttocks and extremities
+T41	Pressure_injury 3822 3840	sacral ulcerations
+T42	Pressure_injury 3264 3313	skin ulcerations on back buttocks and extremities
+T43	Pressure_injury 3318 3336	sacral ulcerations
+A14	Low_confidence T8
+T44	Dementia 5154 5173	Alzheimer's disease
+T45	Lower_respiratory_tract_infection 5263 5285	Community Acquired PNA
+T35	Mobile_with_assistance 9127 9162	Out of Bed with assistance to chair
+T36	Delirium 1365 1376	disoriented
+T10	Delirium 9026 9049	Mental Status: Confused

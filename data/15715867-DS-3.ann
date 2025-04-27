@@ -1,0 +1,21 @@
+T1	Constipation 12361 12372	constipated
+A1	Diagnosis T1 Implicit_mention
+T2	Delirium 3307 3312	A&Ox3
+A2	Negation T2
+T3	Has_carers 5455 5463	services
+T4	Has_carers 7344 7351	Service
+T7	Constipation 9360 9372	constipating
+A4	Diagnosis T7 Implicit_mention
+T8	Falls 1979 1985	fallen
+A5	Diagnosis T8 History_of
+T9	Lower_respiratory_tract_infection 2975 2984	Pneumonia
+A6	Diagnosis T9 History_of
+T10	Constipation 6788 6800	Constipation
+A7	Diagnosis T10 Implicit_mention
+T11	Constipation 6359 6371	Constipation
+A8	Diagnosis T11 Implicit_mention
+T12	Constipation 9427 9439	constipation
+A9	Diagnosis T12 Implicit_mention
+T6	Independently_mobile 7538 7563	Ambulatory - Independent.
+T5	Delirium 7439 7472	Mental Status: Clear and coherent
+A3	Negation T5

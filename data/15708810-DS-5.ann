@@ -1,0 +1,10 @@
+T1	Falls 251 255	fall
+T4	Mobile_with_aid 3857 3860	aid
+A2	Type_of_aid T4 Two_sticks_or_frame
+T5	Constipation 4620 4632	constipation
+A3	Diagnosis T5 Implicit_mention
+T6	Mobile_with_aid 691 715	Ambulating with crutches
+A4	Type_of_aid T6 Two_sticks_or_frame
+T3	Mobile_with_assistance 3821 3853	Ambulatory - requires assistance
+T2	Delirium 3722 3755	Mental Status: Clear and coherent
+A1	Negation T2

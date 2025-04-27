@@ -1,0 +1,61 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Ciprofloxacin / Penicillins  Attending: ___.  Chief Complaint: Fall  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ with PMHx significant for extensive atherosclerosis disease including CAD s/p CABG x2, stent, ___ CEA, HTN, T2DM, and Alzheimers dementia presenting status post fall. 
+
+Patient is a poor historian at baseline and lives alone at assisted living facility. Per patient report, he fell 1x yesterday and then again today. Today he was trying to maneuver between the sink and the toilet in the bathroom when he fell. "I just lost my balance." He reports some lightheadedness and dizziness but denies any aura, no LOC, no urinary or fecal incontinance. He can't remember how long it took him to hoist himself up off the ground but thinks it was probably a while. He lives alone, in independent living and the fall was unwitnessed. He otherwise denies any chest pain, shortness of breath. No fevers or chills. Per ED, "patient is pleasant but unclear how reliable he is for a history." Of note, patient had an admission for fall in ___ where he sustained right ___ rib fractures. 
+
+In the ED, initial VS were: 99.6, 105, 149/86, 16, 93% RA Exam notable for: Mental Status: a&ox2, disoriented to date and place, confused at times, calm, cooperative and pleasant Ecchymosis on arms and legs however non-tender. Unremarkable exam. Labs showed: - CBC: 10.5/11.9/39.7/190 - Chem7: K 4.5, Cr 1.1 - CK 492 - Trp T: 0.31
+
+Imaging showed: - CT C-spine: No fracture or malalignment, multilevel multifactorial degenerative changes - CT Head: No acute process - CXR: Left base retrocardiac opacity raises concern for pneumonia or aspiration. Bilateral pleural effusions. Re-demonstrated fracture of the anterolateral right seventh rib. 
+
+ Received: ___ 17:16 IVF NS  ___ 18:01 IV Heparin bolus & gtt ___ 18:06 PO Aspirin 243 mg ___ 21:28 PO/NG Clopidogrel 75 mg ___ 21:29 PO Metoprolol Succinate XL 50 mg ___ 21:29 PO/NG Furosemide 20 mg 
+
+On arrival to the floor, patient is resting. he gives the history as above. Endorses a cough, only coughing up phlegm. No fever, chills, no chest pain.  Past Medical History: CAD s/p CABG ___ ___ in ___) s/p cardiac stents ___ s/p CABG ___ ___ in ___.)  DMII  HTN  Carotidendarterectomy in ___ (R) and ___ (L)  Mild CRI (Cr 1.5-1.8)  Anemia  Eczema  BPH 
+
+ Social History: ___ Family History: Mother - MI at age of ___ Father - brain tumor Brother - ___ MI at age ___ Brother - kidney failure
+
+ Physical Exam: ADMISSION EXAM: ============= VS: 97.6, 157/85, 93 20 94 RA 64.5kg GENERAL: NAD, AOx2 (to name and place, not year)  HEENT: EOMI, PERRL, anicteric sclera, pink conjunctiva, MMM NECK: supple, prominent carotid pulsation, JVP to mid neck at 30 degrees  HEART: RRR, S1/S2, no murmurs, gallops, or rubs  LUNGS: Coarse crackles diffusely with decreased breath sounds at Left base.  ABDOMEN: nondistended, nontender in all quadrants, +BS, no rebound/guarding EXTREMITIES: cool to mid shin, 2+ pitting edema bilaterally. PULSES: 2+ DP pulses bilaterally  NEURO: A&Ox2, strength ___ throughout non focal.  SKIN: scattered ecchymosis and superficial skin ulcerations on back buttocks and extremities, 2x sacral ulcerations. 
+
+DISCHARGE EXAM: ============== Vitals: 97.6 157 / 66 77 19 94 RA 62.4kg General: elderly man, in NAD, resting supine comfortably; oriented to self, year is ___, ___  HEENT: Sclerae anicteric, OP clear, hematoma on scalp Neck: JVP not significantly elevated Lungs: Normal WOB, lungs with basilar crackles CV: RRR, S1/S2, no m/r/g Abdomen: soft, NT/ND Ext: warm, well perfused, no edema SKIN: scattered ecchymosis and superficial skin ulcerations on back buttocks and extremities, 2x sacral ulcerations.  Pertinent Results: ADMISSION LABS: ============= ___ 04:08PM BLOOD WBC-10.5*# RBC-4.72 Hgb-11.9* Hct-39.7* MCV-84 MCH-25.2* MCHC-30.0* RDW-16.2* RDWSD-49.8* Plt ___ ___ 03:26AM BLOOD ___ PTT-40.0* ___ ___ 04:08PM BLOOD Glucose-131* UreaN-30* Creat-1.1 Na-141 K-4.5 Cl-101 HCO3-23 AnGap-17* ___ 04:08PM BLOOD ___ ___ 04:08PM BLOOD cTropnT-0.31* ___ 11:27PM BLOOD CK-MB-11* cTropnT-0.39* ___ 03:26AM BLOOD ALT-15 AST-32 AlkPhos-100 TotBili-1.0 ___ 03:26AM BLOOD Calcium-9.5 Phos-2.6* Mg-1.8
+
+INTERVAL LABS: ============ ___ 03:26AM BLOOD CK-MB-10 cTropnT-0.39* ___ 10:18AM BLOOD CK-MB-7 cTropnT-0.32*
+
+DISCHARGE LABS: ============= ___ 06:25AM BLOOD WBC-7.8 RBC-4.41* Hgb-11.0* Hct-36.8* MCV-83 MCH-24.9* MCHC-29.9* RDW-16.4* RDWSD-49.7* Plt ___ ___ 06:25AM BLOOD Glucose-118* UreaN-33* Creat-1.0 Na-143 K-4.5 Cl-104 HCO3-25 AnGap-14 ___ 06:25AM BLOOD Calcium-9.1 Phos-2.5* Mg-2.1
+
+REPORTS: ======= CXR ___ Left base retrocardiac opacity raises concern for pneumonia or aspiration. Bilateral pleural effusions. Re-demonstrated fracture of the anterolateral right seventh rib.
+
+CT HEAD ___. Small posterior scalp hematoma without underlying fracture. 2. No acute intracranial abnormality on noncontrast head CT.  Specifically no large territory infarct or intracranial hemorrhage.  Brief Hospital Course: ___ with Alzheimer's disease, CAD, HFpEF, who presented with a fall, found to have a Type II NSTEMI and Pneumonia.
+
+# Community Acquired PNA: Presented with mild leukocytosis and respiratory symptoms, with convincing imaging evidence of PNA.  Therapy complicated by allergy to both quinolone and penicillins. Initially started on Azithromycin ___ and Aztreonam given allergies. Ultimately received 5 day course of therapy with Azithromycin, last day ___.
+
+# ___ on CKD: Peak Cr of 1.5, from 1.1 on admission after receiving IV diuretics for suspected volume overload. Diuretics subsequently held, he remained euvolemic, and his Cr returned to baseline ~1. 
+
+# Falls: Second fall in the last year. No obvious cardiac etiology, though PNA could certainly have triggered a fall.  Patient is severely frail. Discontinued metoprolol, flomax, and plavix. Discharged to rehab following ___ evaluation. 
+
+# Sacral Ulcer: Will need continued close wound care and nutritional optimization. 
+
+# Swallowing: S+S team recommended nectar prethickened liquids and video swallow study. After discussion with family, decided to forgo plans for video swallow as family would like to optimize PO nutrition for patient. Family is aware of aspiration risk. Discharged on thin liquid and dysphagia diet. 
+
+# Type II NSTEMI # History of CAD: Likely demand ischemia in setting of fall and PNA. No complaint of chest pain or concerning EKG changes. Briefly on heparin drip, but was discontinued. Not a candidate for cath per Cardiology evaluation. Medical management was advised but Plavix and metoprolol were discontinued given risk from falls. Statin was also discontinued. Continue aspirin. 
+
+# HFpEF:  Admitted with elevated BNP, with some JVD elevation on admission exam. Received IV diuretics early on in admission, but Cr increased quickly peaked to 1.5 with this. Maintained euvolemia without diuretics for days prior to discharge so lasix was discontinued. 
+
+# BPH: Continued on finasteride. Discontinued flomax. 
+
+# Mood: Continued on sertralin. 
+
+TRANSITIONAL ISSUES ====================== - Antibiotics course: finished ___ Azithromcyin for CA-PNA. - Wound care assessment: -- Coccyx/sacral deep tissue pressure injury 2x0.5cm -- Left glut full thickness stage 3 pressure injury 1x~0.2cm -- Right elbow, partial thickness traumatic ulcer 1 x 0.5cm -- Left elbow traumatic full tissue flap, skin tear 2 x 2.5 cm -- Right knee traumatic ulcer ~ 2 x 1 cm Apply commercial wound cleanser or normal saline to cleanse wounds. Pat the tissue dry with dry gauze. Apply moisture barrier ointment to the periwound tissue with each dressing change. Apply xeroform to elbows, cover with ABD pad, secure with kling wrap. To right knee, cover with Adaptic gauze and secure with Kling change daily. Continue Mepilex Sacral Border dressing to coccyx and change q 3 days. To left glut continue Mepilex 4 x 4 and change q 3 days. Please offload heels as he is at risk for developing pressure injury. - Discharge diet: thin liquids, soft dysphagia diet
+
+#CODE: DNR/DNI confirmed #CONTACT: ___ ___ SON , ___ (daughter) ___  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Tamsulosin 0.4 mg PO QHS 2. Metoprolol Succinate XL 50 mg PO DAILY 3. Furosemide 20 mg PO DAILY 4. Clopidogrel 75 mg PO DAILY 5. Aspirin 81 mg PO DAILY 6. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 7. Finasteride 5 mg PO DAILY 8. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 9. Sertraline 25 mg PO DAILY 10. Pravastatin 40 mg PO QPM 
+
+ Discharge Medications: 1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  2. Aspirin 81 mg PO DAILY  3. Finasteride 5 mg PO DAILY  4. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  5. Sertraline 25 mg PO DAILY 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Community Acquired Pneumonia Type II NSTEMI Dementia
+
+ Discharge Condition: Mental Status: Confused - sometimes. Level of Consciousness: Alert and interactive. Activity Status: Out of Bed with assistance to chair or wheelchair.
+
+ Discharge Instructions: Mr. ___,
+
+You were admitted after a fall. You were found to have a pneumonia (lung infection). You were treated with antibiotics and got better. You will go to rehab to get stronger.
+
+We wish you the best, ___ Team  Followup Instructions: ___ 

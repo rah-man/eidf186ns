@@ -1,0 +1,8 @@
+T1	Delirium 2252 2261	oriented,
+A1	Negation T1
+T2	Lower_respiratory_tract_infection 3376 3385	pneumonia
+A2	Negation T2
+T3	Vertebral_compression_fracture 3539 3541;3604 3624	T8 compression fracture
+A3	Diagnosis T3 Suspected
+T4	Vertebral_compression_fracture 4534 4557	T8 compression fracture
+T5	Has_carers 6723 6730	Service

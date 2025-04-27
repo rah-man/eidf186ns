@@ -1,0 +1,22 @@
+T1	Lower_respiratory_tract_infection 815 818	PNA
+T4	Lower_respiratory_tract_infection 11991 12000	Pneumonia
+T7	Delirium 3175 3183	oriented
+A2	Negation T7
+T8	Constipation 1702 1714	constipation
+T9	Delirium 2541 2549	oriented
+A3	Negation T9
+T10	Lower_respiratory_tract_infection 4513 4522	pneumonia
+A4	Diagnosis T10 Suspected
+T28	Lower_respiratory_tract_infection 12379 12388	pneumonia
+T29	Weight_loss 1434 1445	weight loss
+A6	Diagnosis T29 History_of
+T3	Independently_mobile 12206 12229	Ambulatory - Independen
+T31	Lower_respiratory_tract_infection 236 239	CAP
+T11	Lives_alone 476 480	wife
+A5	Negation T11
+T12	Lives_alone 1520 1524	wife
+A8	Negation T12
+T5	Lower_respiratory_tract_infection 5023 5045	community-acquired PNA
+T6	Lower_respiratory_tract_infection 5058 5080	Community-acquired PNA
+T2	Delirium 12107 12140	Mental Status: Clear and coherent
+A1	Negation T2

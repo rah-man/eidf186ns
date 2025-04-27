@@ -1,0 +1,38 @@
+T1	Intracranial_haemorrhage 1314 1331	Subdural Hematoma
+A1	Diagnosis T1 History_of
+T2	Intracranial_haemorrhage 473 490	subdural hematoma
+A2	Diagnosis T2 History_of
+T3	Pressure_injury 548 554	ulcers
+T4	Delirium 10554 10572	Clear and coherent
+A3	Negation T4
+T6	Mobile_with_aid 10670 10673	aid
+A4	Type_of_aid T6 Two_sticks_or_frame
+T7	Pressure_injury 10781 10787	ulcers
+T8	Pressure_injury 10853 10858	ulcer
+T9	Intracranial_haemorrhage 10450 10467	Subdural Hematoma
+A5	Diagnosis T9 History_of
+T10	Lower_respiratory_tract_infection 6235 6239;6422 6432	lung infectious
+A6	Diagnosis T10 Suspected
+T11	Lower_respiratory_tract_infection 3627 3631;3814 3824	lung infectious
+A7	Diagnosis T11 Suspected
+T12	Pressure_injury 260 266	ulcers
+T13	Pressure_injury 329 334	ulcer
+T14	Lower_respiratory_tract_infection 648 659	pneumonitis
+A8	Diagnosis T14 Suspected
+T15	Delirium 625 634	confusion
+T17	Intracranial_haemorrhage 760 764;784 796	Head intracranial
+A9	Negation T17
+T19	Delirium 1486 1491	AAOx3
+A10	Negation T19
+T21	Lower_respiratory_tract_infection 4059 4068	pneumonia
+A11	Diagnosis T21 Suspected
+T24	Pressure_injury 6559 6564	ulcer
+T27	Pressure_injury 10371 10377	ulcers
+T5	Mobile_with_assistance 10634 10666	Ambulatory - requires assistance
+A12	Low_confidence T12
+A13	Low_confidence T13
+A14	Low_confidence T3
+A15	Low_confidence T24
+A16	Low_confidence T27
+A17	Low_confidence T7
+A18	Low_confidence T8
