@@ -1,0 +1,40 @@
+T1	Delirium 9359 9377	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 9443 9467	Ambulatory - Independent
+T3	Urinary_tract_infection 9850 9873	urinary tract infection
+A2	Diagnosis T3 Suspected
+T4	Has_carers 9196 9203	Service
+T5	Mobile_with_aid 7649 7669	walks with a walker.
+A3	Type_of_aid T5 Two_sticks_or_frame
+T6	Lower_respiratory_tract_infection 4825 4834	pneumonia
+A4	Negation T6
+T7	Delirium 3234 3239	A+OX3
+A5	Negation T7
+T8	Visual_impairment 2639 2647	cataract
+A6	Diagnosis T8 History_of
+T9	Urinary_tract_infection 1862 1865	UTI
+A7	Diagnosis T9 Suspected
+T10	Lower_respiratory_tract_infection 1705 1708	PNA
+A8	Negation T10
+T11	Lower_gastrointestinal_haemorrhage 1276 1293	blood in her stoo
+A9	Negation T11
+T12	Upper_gastrointestinal_haemorrhage 1296 1307	black stool
+A10	Negation T12
+T13	Upper_gastrointestinal_haemorrhage 1312 1323	hematemesis
+A11	Negation T13
+T14	Urinary_tract_infection 2327 2331	UTIs
+A12	Diagnosis T14 History_of
+T15	Constipation 5776 5788	constipation
+A13	Diagnosis T15 Suspected
+T16	Constipation 5896 5908	constipation
+T17	Urinary_tract_infection 6263 6289	Urinary Tract Colonization
+A14	Diagnosis T17 Suspected
+T18	Urinary_tract_infection 6646 6649	UTI
+A15	Negation T18
+T19	Visual_impairment 3316 3336	visual fields intact
+A16	Negation T19
+T20	Urinary_tract_infection 1462 1467;1475 1488	yeast urinary tract
+A17	Diagnosis T20 History_of
+T21	Falls 1103 1110	falling
+A18	Diagnosis T21 History_of
+T22	Hearing_impairment 2953 2968	hard of hearing

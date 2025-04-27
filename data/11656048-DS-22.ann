@@ -1,0 +1,25 @@
+T1	Delirium 8134 8152	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 8218 8242	Ambulatory - Independent
+T3	Weight_loss 2068 2079	Weight Loss
+T4	Visual_impairment 2088 2099	Photophobia
+T5	Visual_impairment 2103 2117	Visual Changes
+T6	Constipation 2250 2262	Constipation
+T7	Lower_gastrointestinal_haemorrhage 2266 2278	Hematochezia
+T8	Urinary_incontinence 2384 2396	Incontinence
+T9	Faecal_incontinence 2384 2396	Incontinence
+T10	Delirium 2748 2753	CAOx3
+A2	Negation T10
+T11	Independently_mobile 3099 3120	walking independently
+T12	Visual_impairment 1874 1889	corneal implant
+A3	Diagnosis T12 History_of
+A4	Low_confidence T8
+A5	Low_confidence T9
+T13	Delirium 2830 2835	AAOx3
+A6	Negation T13
+T14	Seizures 4529 4536	seizure
+A7	Negation T14
+T15	Seizures 4639 4646	seizure
+A8	Negation T15
+T16	Delirium 3077 3082	AAOx3
+A9	Negation T16

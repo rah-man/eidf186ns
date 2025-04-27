@@ -1,0 +1,47 @@
+T1	Bed_Chairbound 6915 6923	Bedbound
+T2	Delirium 5357 5365	delirium
+A1	Diagnosis T2 Implicit_mention
+T3	Urinary_tract_infection 359 362	UTI
+T4	Lower_respiratory_tract_infection 697 706	pneumonia
+T5	Dementia 1201 1209	dementia
+T6	Urinary_tract_infection 3240 3243	UTI
+T7	Delirium 3685 3693	Delirium
+T8	Delirium 3802 3810	delirium
+T9	Has_carers 5087 5097	care giver
+T10	Delirium 6737 6745	Delirium
+T11	Delirium 4927 4935	delirium
+A2	Diagnosis T4 Suspected
+T12	Upper_gastrointestinal_haemorrhage 1662 1670	GI Bleed
+A3	Low_confidence T12
+A4	Diagnosis T12 History_of
+T13	Lower_gastrointestinal_haemorrhage 1662 1670	GI Bleed
+A5	Diagnosis T13 Suspected
+A6	Low_confidence T13
+T14	Delirium 1958 1970	not oriented
+T15	Pressure_injury 2376 2381;2395 2399	ulcer foot
+A7	Low_confidence T15
+T16	Lower_respiratory_tract_infection 4000 4009	pneumonia
+T17	Urinary_incontinence 4348 4359	incontinent
+A8	Low_confidence T17
+T18	Faecal_incontinence 4348 4359	incontinent
+A9	Low_confidence T18
+T19	Has_carers 6689 6696	Service
+T20	Delirium 6940 6948	Confused
+T21	Lives_alone 6679 6683	Home
+A10	Negation T21
+T23	Mobile_with_assistance 5137 5143;5152 5159	assist patient
+T24	Lives_alone 4843 4847	home
+A12	Negation T24
+T25	Lives_alone 4886 4890	home
+A13	Negation T25
+T26	Lives_alone 5205 5209	home
+A14	Negation T26
+A15	In-hospital_event T8
+T27	Delirium 3930 3938	oriented
+A16	Diagnosis T27 Implicit_mention
+A17	Negation T27
+A18	Low_confidence T27
+T22	Lives_alone 5107 5111	home
+A11	Negation T22
+T28	Lives_alone 900 904	home
+A19	Negation T28

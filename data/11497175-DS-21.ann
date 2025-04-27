@@ -1,0 +1,23 @@
+T1	Falls 468 472	fall
+T2	Delirium 8938 8956	Clear and coherent
+A1	Negation T2
+T3	Mobile_with_assistance 9022 9054	Ambulatory - requires assistance
+T4	Mobile_with_aid 9058 9061	aid
+A2	Type_of_aid T4 Two_sticks_or_frame
+T5	Falls 9232 9236	fall
+T6	Lower_respiratory_tract_infection 9357 9366	pneumonia
+T7	Lower_respiratory_tract_infection 5540 5549	pneumonia
+T8	Falls 780 784	fall
+T10	Lower_respiratory_tract_infection 1085 1094	pneumonia
+T11	Lower_respiratory_tract_infection 5604 5613	Pneumonia
+T12	Lower_respiratory_tract_infection 5699 5708	pneumonia
+T13	Constipation 8071 8083	constipation
+A3	Diagnosis T13 Implicit_mention
+T14	Constipation 8112 8124	constipation
+A4	Diagnosis T14 Implicit_mention
+T15	Delirium 3457 3465	oriented
+A5	Negation T15
+T16	Pressure_injury 3424 3435	ulcerations
+A6	Negation T16
+A7	Low_confidence T16
+T9	Lower_respiratory_tract_infection 8787 8815	Community Acquired Pneumonia

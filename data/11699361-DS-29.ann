@@ -1,0 +1,29 @@
+T1	Delirium 14377 14395	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 14461 14485	Ambulatory - Independent
+T3	Lower_respiratory_tract_infection 14812 14821	pneumonia
+T4	Lower_respiratory_tract_infection 14260 14269	Pneumonia
+T5	Lower_respiratory_tract_infection 9912 9915	PNA
+T6	Delirium 6060 6065	A&Ox3
+A2	Negation T6
+T7	Lower_respiratory_tract_infection 4080 4108	community-acquired pneumonia
+A3	Diagnosis T7 Suspected
+T8	Upper_gastrointestinal_haemorrhage 1461 1472	hematemesis
+A4	Negation T8
+T9	Lower_gastrointestinal_haemorrhage 1474 1486	hematochezia
+A5	Negation T9
+T10	Upper_gastrointestinal_haemorrhage 1487 1493	melena
+A6	Negation T10
+T11	Visual_impairment 1299 1313	vision changes
+A7	Negation T11
+T12	Lower_gastrointestinal_haemorrhage 973 982	pneumonia
+A8	Negation T12
+T13	Delirium 6649 6654	A&Ox3
+A9	Negation T13
+T14	Visual_impairment 5348 5367	Occlusion of Retina
+A10	Diagnosis T14 History_of
+T15	Visual_impairment 4928 4945;4947 4953	right eye closure ptosis
+A11	Diagnosis T15 History_of
+T16	Lower_respiratory_tract_infection 7595 7604	pneumonia
+A12	Diagnosis T16 Suspected
+T17	Lower_respiratory_tract_infection 10456 10459	PNA

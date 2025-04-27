@@ -1,0 +1,79 @@
+T1	Lower_gastrointestinal_haemorrhage 227 239	hematochezia
+T2	Lower_gastrointestinal_haemorrhage 1053 1065	hematochezia
+T3	Lower_gastrointestinal_haemorrhage 1108 1113	BRBPR
+T4	Lower_gastrointestinal_haemorrhage 1298 1319	blood streaked stools
+T5	Lower_gastrointestinal_haemorrhage 1549 1554	BRBPR
+T6	Lower_gastrointestinal_haemorrhage 1771 1783	maroon stool
+T7	Constipation 2887 2899	constipation
+A1	Negation T7
+T8	Visual_impairment 4193 4201	cataract
+A2	Diagnosis T8 History_of
+T9	Lower_gastrointestinal_haemorrhage 5293 5315	Maroon stool in rectal
+T10	Upper_gastrointestinal_haemorrhage 5330 5336	melena
+A3	Negation T10
+T11	Delirium 5578 5582	AOx3
+A4	Negation T11
+T12	Lower_gastrointestinal_haemorrhage 9296 9301	BRBPR
+T13	Lower_gastrointestinal_haemorrhage 9302 9314	hematochezia
+T14	Lower_gastrointestinal_haemorrhage 9336 9357	maroon colored stools
+T15	Lower_gastrointestinal_haemorrhage 9406 9415	lower GIB
+T16	Upper_gastrointestinal_haemorrhage 10529 10537	GI bleed
+A5	Diagnosis T16 Implicit_mention
+T17	Lower_gastrointestinal_haemorrhage 10529 10537	GI bleed
+A6	Diagnosis T17 Implicit_mention
+T18	Urinary_tract_infection 10901 10904	UTI
+T19	Urinary_tract_infection 10915 10918	UTI
+A7	Diagnosis T19 History_of
+T20	Constipation 14268 14280	constipation
+A8	Diagnosis T20 Implicit_mention
+T21	Upper_gastrointestinal_haemorrhage 14689 14711	Gastrointestinal Bleed
+T22	Lower_gastrointestinal_haemorrhage 14689 14711	Gastrointestinal Bleed
+T23	Delirium 14975 14993	Clear and coherent
+A9	Negation T23
+T24	Mobile_with_assistance 15059 15091	Ambulatory - requires assistance
+T25	Mobile_with_aid 15095 15098	aid
+A10	Type_of_aid T25 Two_sticks_or_frame
+T26	Lower_gastrointestinal_haemorrhage 15246 15268	bloody bowel movements
+T27	Lower_gastrointestinal_haemorrhage 15729 15751	bloody bowel movements
+A11	Negation T27
+T28	Upper_gastrointestinal_haemorrhage 645 652;709 717	stomach bleeding
+A12	Negation T28
+T29	Visual_impairment 4174 4190	retinal bleeding
+A13	Diagnosis T29 History_of
+T30	Delirium 4788 4792	AOx3
+A14	Negation T30
+T31	Urinary_tract_infection 7003 7006	UTI
+T32	Lower_gastrointestinal_haemorrhage 7908 7916;7959 7970	bleeding hemorrhoids
+A15	Diagnosis T15 Suspected
+A16	Low_confidence T15
+T33	Lower_gastrointestinal_haemorrhage 9771 9789	Diverticular bleed
+T34	Upper_gastrointestinal_haemorrhage 10297 10308	GI bleeding
+A17	Low_confidence T34
+T35	Lower_gastrointestinal_haemorrhage 10297 10308	GI bleeding
+A18	Low_confidence T35
+T36	Upper_gastrointestinal_haemorrhage 10777 10785	GI bleed
+A19	Low_confidence T36
+T37	Lower_gastrointestinal_haemorrhage 10777 10785	GI bleed
+A20	Low_confidence T37
+T38	Constipation 12597 12609	constipation
+A21	Diagnosis T38 Implicit_mention
+A22	Low_confidence T21
+A23	Low_confidence T22
+A24	Low_confidence T26
+T39	Upper_gastrointestinal_haemorrhage 15246 15268	bloody bowel movements
+A25	Low_confidence T39
+A26	Low_confidence T27
+T40	Upper_gastrointestinal_haemorrhage 15729 15751	bloody bowel movements
+A27	Negation T40
+A28	Low_confidence T40
+T41	Has_carers 14623 14630	Service
+T42	Upper_gastrointestinal_haemorrhage 4761 4773	BM x2 bloody
+A29	Low_confidence T42
+T43	Lower_gastrointestinal_haemorrhage 4761 4773	BM x2 bloody
+A30	Low_confidence T43
+T44	Upper_gastrointestinal_haemorrhage 7486 7493;7550 7558	stomach bleeding
+A31	Negation T44
+T45	Urinary_tract_infection 11027 11030	uti
+A32	Low_confidence T9
+T46	Lower_gastrointestinal_haemorrhage 9285 9290	BRBPR
+A33	Diagnosis T46 History_of

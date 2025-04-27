@@ -1,0 +1,11 @@
+T1	Constipation 12522 12534	constipated,
+A1	Diagnosis T1 Implicit_mention
+T2	Constipation 12359 12371	constipating
+A2	Diagnosis T2 Implicit_mention
+T3	Delirium 10656 10674	Clear and coherent
+A3	Negation T3
+T4	Mobile_with_assistance 10742 10768	Out of Bed with assistance
+T5	Mobile_with_aid 10781 10791	wheelchair
+A4	Type_of_aid T5 Wheelchair
+T6	Delirium 1383 1391;1392 1394	Oriented x3
+A5	Negation T6

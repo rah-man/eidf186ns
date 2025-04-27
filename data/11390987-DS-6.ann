@@ -1,0 +1,8 @@
+T1	Bed_Chairbound 1023 1059	hasn't been able to get out of chair
+T2	Unspecified_cognitive_impairment 2344 2355	memory loss
+T3	Constipation 2499 2511	constipation
+A1	Negation T3
+T4	Lower_gastrointestinal_haemorrhage 2513 2518	BRBPR
+A2	Negation T4
+T5	Upper_gastrointestinal_haemorrhage 2520 2526	melena
+A3	Negation T5

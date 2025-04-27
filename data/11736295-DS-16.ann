@@ -1,0 +1,26 @@
+T1	Proximal_humeral_fracture 233 245;291 298	arm fracture humerus
+T2	Proximal_humeral_fracture 534 542;552 559	fracture humerus
+T3	Proximal_humeral_fracture 1116 1124;1163 1179	fracture proximal humerus
+T4	Proximal_humeral_fracture 1667 1674;1753 1761	Humerus fracture
+T5	Proximal_humeral_fracture 5636 5661	Proximal Humerus Fracture
+T6	Proximal_humeral_fracture 5370 5378;5388 5395	fracture humerus
+T7	Proximal_humeral_fracture 4982 4989;5006 5014;5049 5066	humerus fracture humeral diaphysis
+T8	Constipation 10058 10070	constipation
+A1	Diagnosis T8 Implicit_mention
+T9	Proximal_humeral_fracture 10646 10671	Proximal Humerus Fracture
+T10	Delirium 10819 10837	Clear and coherent
+A2	Negation T10
+T11	Independently_mobile 10903 10927	Ambulatory - Independent
+T12	Proximal_humeral_fracture 11080 11092	arm fracture
+T13	Mobile_with_aid 686 708	mobility with a walker
+A3	Type_of_aid T13 Two_sticks_or_frame
+T14	Mobile_with_aid 890 896	walker
+A4	Type_of_aid T14 Two_sticks_or_frame
+T15	Proximal_humeral_fracture 1234 1241;1486 1494	humeral fracture
+T16	Delirium 3118 3122	AOx3
+A5	Negation T16
+T17	Delirium 3979 3983	AOx3
+A6	Negation T17
+T18	Proximal_humeral_fracture 6943 6959	humeral fracture
+T19	Constipation 8879 8891	constipation
+A7	Diagnosis T19 Implicit_mention

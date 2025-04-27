@@ -1,0 +1,57 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics) / Imdur  Attending: ___.  Chief Complaint: chest pain  Major Surgical or Invasive Procedure: none 
+
+ History of Present Illness: ___ yo female with history of HTN, pulmonary HTN, dyslipidemia, dementia who presents from her nursing home with a 1 week history of intermittent sharp left sided chest pain and flank pain with associated nausea and diaphoresis. Patient is a poor historian due to baseline Alzheimers dementia but does not that pain has been coming and going for the past 1 week. She also notes fatigue and feeling generally unwell stating she feels as though "she was losing her mind." She is unable to classify the pain further but denies associated shortness of breath, dysuria, back pain, cough, chills or fever. She informed the nursing home staff of her pain and was transferred to the ED for further evaluation. . In ED her initial vitals were 98.9 82 143/58 20 100% on RA. Lab work and imaging were significant for a TropT of <0.01 and chronic tracheal deviation ___ to known goiter. Patient was found to have ST depressions in V4-5 that were evaluated by cardiology in the ED and were not believed to be suggetive of an acute event, felt to likely be due to subendocardial ischemia. Admission to medicine was advised with cardiology to follow. Per nightfloat the family has expressed that they do not want cardiac cath.  .  Overnight the patient was agitated on the floor. Stating she would "jump out of the window" and requiring haldol. This morning she is calm, confortable and denying any pain.  . ROS: as per hpi otherwise negative 
+
+ Past Medical History: Severe Pulmonary Hypertension  hypertensive cardiomyopathy  Hyperlipidemia  Dementia  Osteoarthritis  Small Bowel Obstruction ___  Cervical Cancer s/p hysterectomy ___  Hyperthyroidism  Osteopenia 
+
+ Social History: ___ Family History: Significant for DM, HTN, breast cancer (daughter), aunt with dementia at age ___. 
+
+ Physical Exam: ADMISSION EXAM VS: 97.5 145/73 78 24 98% on RA  Gen: pleasant and comfortable, thin female in no acute distress, very difficult of hearing, awake, alert, oriented to person and to the hospital but states it is the 1990s.  HEENT: anicteric, EOMI, PERRLA, OP clear  Neck: no JVD, no carotid bruits, patient declined thyroid exam. 
+
+CV: RRR, loud S2, IV/VI SEM LUSB  Pulm: clear to ausculation bilaterally,good air movement, no wheezes, crackles.  GI: soft nontender, no masses, no HSM  Extremities: no edema, 2+ pulses  Neuro: MSE: alert, A+O x 2 to person and the hospital. CN II-XII, with the exception of previously noted hearing difficulites, strength ___ thoughout. Sensation intact to light touch. Cerebellar testing deferred.  
+
+DISCHARGE EXAM VS: 97.9, 135/63 (100s-130s/40s-60s), 63, 18, 99% on RA Gen: pleasant and comfortable, very difficult of hearing, awake, alert, oriented to person only.  HEENT: anicteric, EOMI, PERRLA, OP clear  Neck: no JVD, no carotid bruits, patient declined thyroid exam. 
+
+CV: RRR, loud S2, IV/VI SEM LUSB  Pulm: good air movement, no wheezes, crackles.  GI: soft nontender, no masses  Extremities: no edema, 2+ pulses  Neuro: A&Ox1, moving all extremities  Pertinent Results: CBC ___ 06:55PM BLOOD WBC-9.2# RBC-4.46 Hgb-13.2 Hct-38.4 MCV-86 MCH-29.7# MCHC-34.4 RDW-12.7 Plt ___ ___ 06:55PM BLOOD Neuts-73.7* ___ Monos-3.6 Eos-2.2 Baso-0.1 . COAGULATION STUDIES ___ 06:55PM BLOOD ___ PTT-23.7 ___ . CHEMISTRIES ___ 06:55PM BLOOD Glucose-136* UreaN-23* Creat-1.1 Na-134 K-4.0 Cl-95* HCO3-27 AnGap-16 ___ 06:55PM BLOOD Albumin-4.6 Calcium-9.7 . LFTs ___ 06:55PM BLOOD ALT-14 AST-23 AlkPhos-45 TotBili-0.3 . Cardiac enzymes ___ 06:55PM BLOOD cTropnT-<0.01 ___ 06:45AM BLOOD CK-MB-4 cTropnT-0.03* ___ 11:22PM BLOOD CK-MB-4 cTropnT-0.04* ___ 06:10PM BLOOD CK-MB-5 cTropnT-0.04* ___ 02:30PM BLOOD CK-MB-5 cTropnT-0.03* . Thyroid studies ___ 06:55PM BLOOD TSH-2.7 ___ 06:55PM BLOOD Free T4-0.82* . MISC ___ 07:03PM BLOOD Lactate-2.2* . URINE STUDIES ___ 09:45PM URINE Color-Yellow Appear-Hazy Sp ___ ___ 09:45PM URINE Blood-NEG Nitrite-NEG Protein-TR Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-MOD ___ 09:45PM URINE RBC-2 WBC-5 Bacteri-FEW Yeast-NONE Epi-2 ___ 09:45PM URINE CastHy-32* . MICROBIOLOGY Urine Culutre: URINE CULTURE (Final ___:    MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN    AND/OR GENITAL CONTAMINATION. 
+
+___ Admission EKG: Sinus rhythm. Possible septal myocardial infarction. Left ventricular hypertrophy is suggested. Diffuse ST-T wave changes in leads I, aVL and V4-V6 may be related to left ventricular hypertrophy. Compared to the previous tracing of ___. ST-T wave changes are less prominent. 
+
+___ EKG: Atrial fibrillation/flutter is suggested. Compared to the previous tracing the rhythm is probably changed. 
+
+___ CXR: IMPRESSION: No acute intrathoracic process. Marked deviation of the trachea to the right, which has increased since the ___ study, likely due to large, predominantly substernal, thyroid mass. Further evaluation could be considered if indicated. 
+
+ Brief Hospital Course: Ms. ___ is a ___ year-old woman with history of dementia, hypertension, pulmonary hypertension presenting with chest pain.  Patient with ST depressions in leads V3 - V4 on admission EKG.   
+
+1. Chest pain: Given patient's age and risk factors of hypertension and hyperlipidemia, her presentation was concerning for ACS. Additionally, her EKG had ST depression V3 and V4 that were not present on ___ EKG and may be suggestive of myocardial ishcemia.  She was given ASA 325 in the ED. Patient was not started on heparin gtt. Her first set of troponins were negative, but her troponin trended up and peaked at 0.04 during hospitalization and trended down to 0.03. Beta-blockers were not advised by cardiology as patient had symptomatic bradycardia on beta blocekers in past. Patient received one dose of imdur 30 mg, but this was stopped as patient became hypotensive and syncopized after administration (see below for full details).  At discharge, patient was discharged on aspirin 81 mg daily.  She remained chest pain free throughout entire hospitalization. 
+
+2. Syncope: Patient given imdur 30 mg x1 as antianginal on ___. Following administration, patient was found unresponsive with systolic blood pressure of 84. Code Blue was called, but patient did not lose pulse or stop breathing. She received 1.5 L of IV fluid with improvement in blood pressure.  Syncope was thought secondary to hypotension in setting of imdur use. Imdur added to patient's allergies. Furthermore, lisinopril dose was decreased from 10 mg daily to 5 mg daily as to prevent further episodes of hypotension.   3. Atrial Fibrillation/Flutter: On telemetry patient was intermittently tachycardiac to the 130s. EKGs showed atrial fibrillation or atrial flutter. Patient was asymptomatic.  Patient triggered for tachycardia on day of discharge. Given patient's previous intolerance to beta blockade and sensitivity to blood pressure medications, we did not give patient nodal agent. This was discussed with patient's grandson ___ - the risks of anti-arrhythmic or nodal medications are likely more dangerous than the benefits of these medications. This was also discussed with the consulting cardiology team. Patient felt not to be a candidate for anticoagulation given fall risk. Patient discharged on daily aspirin. Patient set up with ___ at home for further monitoring.  4. Diastolic CHF: On admission patient appeared slightly dry to euvolemic. Cr is at baseline. Pt has not tolerated beta blockers in the past due to bradycardia. She was continued on lower dose of lisinopril and discharged on aspirin 81 mg daily.
+
+5. Hypertension: Decreased lisinopril to 5 mg daily. Continued nifedipine.  6. Goiter: Continued methimazole. 
+
+7. Dementia: make sure hearing aid is in place to minimize confusion. 
+
+TRANSITIONAL ISSUES: 1. Tachycardia: Felt at this time risks of treating atrial fibrillation do NOT outweigh the benefits. Please continue ongoing discussions with patient and family regarding goals of care.  Medications on Admission: Alendronate 70mg ___  Lisinopril 10 mg PO BID  Nifedepine 90 mg PO qday  Methimzaole 5mg daily  Tums 500mg BID  Vitamin D 400 IU daily  Colace 100 BID  Acetaminophen 500mg TID 
+
+ Discharge Medications: 1. alendronate 70 mg Tablet Sig: One (1) Tablet PO QMON (every ___.  2. nifedipine 90 mg Tablet Extended Release Sig: One (1) Tablet Extended Release PO DAILY (Daily).  3. methimazole 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  4. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1) Tablet PO DAILY (Daily).  5. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).  6. acetaminophen 500 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).  7. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO once a day.  8. lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day. 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Primary diagnosis: Angina Atrial fibrillation
+
+Secondary Diagnoses: Hypertension Hyperlipidemia Dementia 
+
+ Discharge Condition: Mental Status: Confused - always. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Dear ___,
+
+___ was a pleasure taking care of you while you were admitted to ___. As you know you were admitted because you were having chest pain.  Your pain was probably due to some small blockages in the arteries of your heart that can be managed with medication. We started aspirin. You should also take an aspirin daily.
+
+While you were here we gave you a medication called imdur to help treat your chest pain. It caused your blood pressure to fall and you fainted. We gave you IV fluids and your blood pressure improved. You should not take this medication again and we added it to your allergies.
+
+Your heart rate at times was in an irregular, fast rhythm called atrial fibrillation/flutter. We do not think it is safe to give you medications to slow your heart rate as you have not tolerated beta blockers in the past and we do not want your blood pressure to fall to an unsafe level. You are not having any symptoms from the fast heart rate. 
+
+In speaking to your grandson it seems you do not have a primary care doctor currently so we made you an appointment to follow-up with one of our doctors ___. 
+
+We made the following changes to your medications: 1. START aspirin 81 mg 2. DECREASE lisinopril to 5 mg daily
+
+You should continue to take all of your other medications as scheduled
+
+Please feel free to call if you have any questions or concerns.  Followup Instructions: ___ 

@@ -1,0 +1,65 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: CARDIOTHORACIC  Allergies: Penicillins / Morphine / Sulfur / Hydrochlorothiazide / Lipitor / simvastatin  Attending: ___  Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: ___ Coronary Artery Bypass surgery (LIMA-LAD,SVG-RPDA,SVG-OM1, SVG-OM2)
+
+ History of Present Illness: Ms. ___ is a ___ year old female status post coronary artery bypass grafting with Dr. ___ on ___. Her post-operative course was complicated by atrial fibrillation but was otherwise uneventful. She was transferred from the intensive care unit to ___ 6 post-operative day three, and then transferred to ___ ___ in ___, ___ rehab on post-operative day six.  Several calls have been received from the rehab reporting the ___ complaint of shortness of breath although room air sats have been >95%. She reportedly has been afebrile with a normal white blood cell count. The facility reports persistant shortness of breath now with irregular tachycardia.  Past Medical History: coronary artery bypass grafting ___, coronary artery disease (LAD stent ___ yrs ago, three RCA and PDA stents ___, NSTEMI ___, myocardial infarction ___, mild aortic stenosis ___ 1.2-1.9 cm2), poorly controlled diabetes (last HbA1C 7.5%), dyslipidemia, hypertension, cerebral vascular accident, ___ acute left posterior communicating artery infarct, atrial fibrillation (___ ___, spinal stenosis, s/p hysterectomy for fibroids 
+
+ Social History: ___ Family History: - Mother: had few MIs, died of MI at age ___ - Father: had emphysema - Mother's brother: died of MI at age ___  Physical Exam: Readmission Physical Exam: Pulse: 100 Resp: 20 O2 sat: 94% 2 liters NC B/P Right: 130/60  Left: Height:   Weight:
+
+General: Skin: Dry [x] intact [x] HEENT: PERRLA [x] EOMI [x] Neck: Supple [x] Full ROM [x] Chest: Lungs : bibasilar rales and wheezing, sternal wound C/D/I, sternum stable. Heart: RRR [] Irregular [x] Murmur [] grade ______ Abdomen: Soft [x] non-distended [x] non-tender [x] bowel sounds + [x] Extremities: Warm [x], well-perfused [x] Edema [x] _2+ pitting edema bilat ___ Varicosities: None [x] Neuro: Grossly intact [x] Pulses: Femoral   Right: 2+ Left: 2+ DP      Right: 1+ Left: 1+ ___      Right: 1+ Left: 1+ Radial    Right: 2+ Left: 2+
+
+Carotid Bruit    Right: no  Left: no
+
+ Pertinent Results: ___ 06:40AM BLOOD WBC-10.9 RBC-4.53 Hgb-11.7* Hct-36.2 MCV-80* MCH-25.8* MCHC-32.3 RDW-16.1* Plt ___ ___ 09:55PM BLOOD WBC-11.2* RBC-3.74* Hgb-9.9* Hct-30.3* MCV-81* MCH-26.5* MCHC-32.7 RDW-16.5* Plt ___ ___ 06:20AM BLOOD ___ ___ 09:55PM BLOOD ___ PTT-34.8 ___ ___ 06:20AM BLOOD Glucose-76 UreaN-29* Creat-1.1 Na-138 K-3.8 Cl-96 HCO3-36* AnGap-10 ___ 09:55PM BLOOD Glucose-168* UreaN-29* Creat-1.1 Na-135 K-3.8 Cl-93* HCO3-33* AnGap-13 ___ 07:30AM BLOOD ALT-57* AST-41* LD(LDH)-249 AlkPhos-99 Amylase-76 TotBili-0.6 
+
+___ ECHOCARDIOGRAPHY REPORT
+
+___    ___ MRN:  ___    Portable TTE (Complete) Done ___ at 8:58:04 AM   FINAL  Referring Physician   ___  ___ of Cardiothoracic Surg ___ ___ Status: Inpatient DOB: ___ Age (years): ___ F Hgt (in): 61  BP (mm Hg): 137/87 Wgt (lb): 176  HR (bpm): 100 BSA (m2): 1.79 m2  Indication: Tamponade. ?pericardial effusion.  ICD-9 Codes: 427.31, 441.2, 423.9, 424.1, 424.0, 424.2 ___ Information  Date/Time: ___ at 08:58  ___ MD: ___. ___, MD ___ Type: Portable TTE (Complete) Sonographer: ___ ___, ___ Doppler: Full Doppler and color Doppler ___ Location: ___ 6 Contrast: None Tech Quality: Suboptimal Tape #: ___-0:00 Machine: ___ Echocardiographic Measurements  Results Measurements Normal Range  Left Atrium - Long Axis Dimension: 3.9 cm <= 4.0 cm  Left Atrium - Four Chamber Length: *5.9 cm <= 5.2 cm  Right Atrium - Four Chamber Length: 4.9 cm <= 5.0 cm  Left Ventricle - Septal Wall Thickness: 1.1 cm 0.6 - 1.1 cm  Left Ventricle - Inferolateral Thickness: 1.1 cm 0.6 - 1.1 cm 
+
+Left Ventricle - Diastolic Dimension: 4.3 cm <= 5.6 cm  Left Ventricle - Ejection Fraction: 45% >= 55%  Left Ventricle - Stroke Volume: 72 ml/beat   Left Ventricle - Cardiac Output: 7.23 L/min   Left Ventricle - Cardiac Index: 4.04 >= 2.0 L/min/M2  Aorta - Sinus Level: 3.0 cm <= 3.6 cm  Aorta - Ascending: *3.9 cm <= 3.4 cm  Aorta - Arch: 2.9 cm <= 3.0 cm  Aortic Valve - Peak Velocity: *2.1 m/sec <= 2.0 m/sec  Aortic Valve - Peak Gradient: 19 mm Hg < 20 mm Hg  Aortic Valve - Mean Gradient: 9 mm Hg   Aortic Valve - LVOT VTI: 23   Aortic Valve - LVOT diam: 2.0 cm   Mitral Valve - E Wave: 1.1 m/sec   Mitral Valve - E Wave deceleration time: 154 ms 140-250 ms  TR Gradient (+ RA = PASP): *32 mm Hg <= 25 mm Hg   Findings  This study was compared to the prior study of ___.  LEFT ATRIUM: Elongated LA. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. 
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size. Mild regional LV systolic dysfunction. Mildly depressed LVEF. No resting LVOT gradient. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Normal aortic diameter at the sinus level. Focal calcifications in aortic root. Mildly dilated ascending aorta. Normal aortic arch diameter. Normal descending aorta diameter. No 2D or Doppler evidence of distal arch coarctation. 
+
+AORTIC VALVE: Moderately thickened aortic valve leaflets. Aortic valve not well seen. Minimal AS. Trace AR. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. Moderate mitral annular calcification. Mild to moderate (___) MR. [Due to acoustic shadowing, the severity of MR may be significantly UNDERestimated.] 
+
+TRICUSPID VALVE: Tricuspid valve not well visualized. Moderate [2+] TR. Mild PA systolic hypertension. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not visualized. No PS. Physiologic PR. 
+
+PERICARDIUM: Trivial/physiologic pericardial effusion. 
+
+GENERAL COMMENTS: Suboptimal image quality - poor subcostal views. Resting tachycardia (HR>100bpm). The rhythm appears to be atrial fibrillation. Left pleural effusion. 
+
+REGIONAL LEFT VENTRICULAR WALL MOTION: 
+
+         N = Normal, H = Hypokinetic, A = Akinetic, D = Dyskinetic  Conclusions  The left atrium is elongated. Left ventricular wall thicknesses and cavity size are normal. There is mild regional left ventricular systolic dysfunction with hypokensis of the basal inferior and the distal half of the suptum and apex. Overall left ventricular systolic function is mildly depressed (LVEF= 45%). Right ventricular chamber size and free wall motion are normal. The ascending aorta is mildly dilated. The aortic valve leaflets are moderately thickened. There is minimal aortic valve stenosis. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Moderate (2+) mitral regurgitation is seen. [Due to acoustic shadowing, the severity of mitral regurgitation may be significantly UNDERestimated.] Moderate [2+] tricuspid regurgitation is seen. There is mild pulmonary artery systolic hypertension. There is a trivial/physiologic pericardial effusion. 
+
+IMPRESSION: Normal left ventricular cavity size with regional systolic dysfunction c/w multivessel CAD. Moderate mitral regurgitation. Minimal aortic stenosis. Mild pulmonary hypertension. No significant pericardial effsusion. Compared with the prior study (images reviewed) of ___, regional left ventricular dysfunction is new and c/w interim ischemia/infarction. The severity of mitral regurgitation, tricuspid regurgitation, and PA systolic hypertension are now higher.
+
+CLINICAL IMPLICATIONS: The ___ has mild aortic valve stenosis. Based on ___ ACC/AHA Valvular Heart Disease Guidelines, a follow-up echocardiogram is suggested in ___ years. Based on ___ AHA endocarditis prophylaxis recommendations, the echo findings indicate prophylaxis is NOT recommended. Clinical decisions regarding the need for prophylaxis should be based on clinical and echocardiographic data.   Electronically signed by ___, MD, Interpreting physician ___ ___ 10:56   
+
+© ___ ___. All rights reserved.
+
+ Brief Hospital Course: ___ year old female s/p CABG w/Dr ___ on ___. Post-op course complicated by atrial fibrillation, otherwise uneventful. She transferred to rehab on POD6, ___ House in ___, ___. Have had several calls from rehab reporting ___ c/o SOB although room air sats have been >95%, ___ reportedly afebrile with normal WBC. Facility reports persistant SOB now with irreg tachycardia. ___ was transferred to ___ for further care. She was admitted to ___ and underwent cardiac transthoracic echocardiogram that revealed Normal left ventricular cavity size with regional systolic dysfunction c/w multivessel CAD. Moderate mitral regurgitation. Minimal aortic stenosis. Mild pulmonary hypertension. No significant pericardial effsusion.She was diuresed with IV Lasix and placed on nebulizer treatments for her shortness of ___ CXr showed decreasing bilateral pleural effusions. She continued on her Coumadin for atrial fibrillation. A 14 day course of antibiotics secondary to sternal drainage and lower extremity cellulitis will be completed on ___. Her clinical condition slowly improved and she was cleared for discharge back to ___ ___ on HD# 5. All follow up appointments were advised. 
+
+ Medications on Admission: Medications at transfer: 1. aspirin 81 ___ 2. ranitidine HCl 150 mg ___  3. rosuvastatin 5 mg ___ 4. glipizide 5 mg twice a day. 5. tramadol 50 mg every ___ hours as needed for pain.  6. docusate sodium 100 mg BID 7. diltiazem HCl 30 mg QID 8. metoprolol 50 mg PO TID 9. hydralazine 25 mg Q6H hold for sbp < 110.  10. furosemide 40 mg BID 11. potassium chloride 20 mEq ___  12. RISS 13. warfarin 2.5 ___ 14. albuterol nebs QID PRN 15. azythromycin 500 mg PO ___
+
+ Discharge Medications: 1. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO ___.  2. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO ___ (___).  3. rosuvastatin 5 mg Tablet Sig: One (1) Tablet PO ___ (___).  4. glipizide 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day).  5. tramadol 50 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed for pain.  6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day).  7. hydralazine 25 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours).  8. warfarin 1 mg Tablet Sig: ___ per MD ___ PO ___ at 4 ___.  9. insulin lispro 100 unit/mL Solution Sig: One (1)  Subcutaneous ASDIR (AS DIRECTED): per SS.  10. magnesium hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) ML PO Q6H (every 6 hours) as needed for constipation.  11. azithromycin 250 mg Tablet Sig: Two (2) Tablet PO ___ (___): last dose= ___.  12. diltiazem HCl 60 mg Tablet Sig: One (1) Tablet PO QID (4 times a day).  13. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal ___ as needed for constipation.  14. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO TID (3 times a day).  15. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for headache.  16. ipratropium-albuterol ___ mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation Q6H (every 6 hours).  17. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) Inhalation Q2H (every 2 hours) as needed for sob/wheezing.  18. warfarin 2 mg Tablet Sig: One (1) Tablet PO ONCE (Once) for 1 doses. 
+
+ Discharge Disposition: Extended Care  Facility: ___  ___ Diagnosis: Coronary artery disease (LAD stent ___ yrs ago,three RCA and PDA stents ___ Myocardial infarction ___ NSTEMI ___ mild aortic stenosis ___ 1.2-1.9 cm2) poorly controlled Diabetes (last HbA1C 7.5%) Dyslipidemia Hypertension CVA, ___ Acute left PCA infarct Atrial fibrillation (___ ___ Pradaxa Spinal stenosis 
+
+ Discharge Condition: Alert and oriented x3 nonfocal Ambulating with steady gait Incisional pain managed with oral analgesia Incisions: Sternal - healing well, no erythema or drainage Leg Right/Left - healing well, no erythema or drainage. 
+
+ Discharge Instructions: 1) Please shower ___ including washing incisions gently with mild soap, no baths or swimming until cleared by surgeon. Look at your incisions ___ for redness or drainage. 2) Please NO lotions, cream, powder, or ointments to incisions. 3) Each morning you should weigh yourself and then in the evening take your temperature, these should be written down on the chart provided. 4) No driving for approximately one month and while taking narcotics. Driving will be discussed at follow up appointment with surgeon when you will likely be cleared to drive. 5) No lifting more than 10 pounds for 10 weeks
+
+*Females: Please wear bra to reduce pulling on incision, avoid rubbing on lower edge
+
+**Please call cardiac surgery office with any questions or concerns ___. Answering service will contact on call person during off hours**
+
+ Followup Instructions: ___ 

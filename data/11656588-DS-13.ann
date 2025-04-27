@@ -1,0 +1,17 @@
+T1	Hip_fracture 351 363	hip fracture
+A1	Diagnosis T1 History_of
+T2	Lower_respiratory_tract_infection 372 381	pneumonia
+A2	Diagnosis T2 History_of
+T3	Lives_in_carehome 436 459	long-term care facility
+T4	Lower_respiratory_tract_infection 1548 1557	pneumonia
+A3	Diagnosis T4 History_of
+T5	Falls 1656 1660	fall
+A4	Diagnosis T5 History_of
+T6	Hip_fracture 1666 1682	femoral fracture
+A5	Diagnosis T6 History_of
+T7	Hip_fracture 3951 3957	hip fx
+A6	Diagnosis T7 History_of
+T8	Lower_respiratory_tract_infection 3962 3971	pneumonia
+A7	Diagnosis T8 History_of
+T9	Delirium 1888 1896	oriented
+A8	Negation T9

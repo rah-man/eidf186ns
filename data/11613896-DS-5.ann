@@ -1,0 +1,16 @@
+T1	Dementia 533 541	dementia
+T2	Falls 639 643	fall
+A1	Diagnosis T2 Suspected
+T3	Dementia 822 830	Dementia
+T4	Dementia 1110 1118	demented
+T5	Hip_fracture 4352 4364	hip fracture
+T6	Delirium 4403 4411	Confused
+T7	Mobile_with_assistance 4489 4515	Out of Bed with assistance
+T8	Mobile_with_aid 4528 4538	wheelchair
+A2	Type_of_aid T8 Wheelchair
+T9	Constipation 5850 5862	constipation
+A3	Diagnosis T9 Implicit_mention
+T10	Hip_fracture 398 419	femoral neck fracture
+T11	Hip_fracture 202 214	hip fracture
+A4	Low_confidence T2
+T12	Hip_fracture 1762 1783	femoral neck fracture

@@ -1,0 +1,41 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Vancomycin  Attending: ___.  Chief Complaint: Positive blood cultures  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ y/o male who was recently hospitalized for bowel obstruction and UTI treated with ceftazidime and was at ___ ___ who presents with positive blood cultures. He was noted to be lethargic. WBC was 26.2 on ___. He had blood cultures ___ bottles) drawn from ___ with GPCs. CXR was reportedly negative. He was being treated wtih levaquin and flagyl since ___ (prior to return of bcxs) for possible aspiration pneumonia. He had a midline replaced on ___. The old midline tip was cultured and grew MRSA reportedly. He is allergic to vancomycin. The wife reported that he looked well at Radius, only wanted to come home. 
+
+In the ED, initial VS were: 97.1 64 158/62 18 96. Exam was notable for rhoncherous lungs. Labs were notable for WBC 10.6.  CXR showed no consolidation. The patient received linezolid.  Vitals prior to transfer to the floor were: 98.9, 71, 126/70, 16, 96RA.   Review of Systems: Limited due to dementia--does not always respond to questions. Was able to deny pain, chest pain, sob, abdominal pain.  Past Medical History: Per OMR: Past Medical History: Paroxysmal atrial fibrillation Type IIb heart block: s/p dual chamber ___ ___  PE in ___ with placement of IVC filter.  ___ disease diagnosed ___  GERD/hiatal hernia  h/o pancreatitis (etiology unknown) and SBO in ___  Osteoarthritis  Chronic LBP - likely sciatica  Varicose veins s/p stripping in RLE  GI Bleed ___ ? Gastritis 
+
+Past Surgical History: Repair of hiatal hernia Open cholecystectomy, Gastrojejunostomy tube Gastropexy - for gastric volvulus ___ ___)  Social History: ___ Family History: N/C
+
+ Physical Exam: Vitals: 96.8, 112/64, 60, 20, 98RA Gen: NAD, alert, answers some questions, not oriented HEENT: MM dry, sclera anicteric, not injected Neck: no LAD, no JVD Cardiovascular: difficult to ausculate given diffuse upper airway sounds Respiratory: diffuse upper airway sounds Abd: normoactive bowel sounds, soft, non-tender, non distended Extremities: No edema, 2+ ___ pulses, no phenomenon suggestive of endocarditis Neurological: alert, cogwheeling in BUEs  Integument: Warm, moist, no rash, small ulcer on L lateral foot 
+
+ By time of discharge, was more often awake, axo ___, able to move all extremities and generally follow commands.  Pertinent Results: Admission labs: ___ 08:30PM  WBC-10.6 RBC-4.09* HGB-11.8* HCT-35.4* MCV-87 MCH-29.0 MCHC-33.5 RDW-14.2 ___ 08:30PM  NEUTS-66.2 ___ MONOS-2.3 EOS-2.0 BASOS-0.4 ___ 08:30PM  PLT COUNT-196 ___ 08:30PM  GLUCOSE-97 UREA N-20 CREAT-0.9 SODIUM-140 POTASSIUM-3.8 CHLORIDE-108 TOTAL CO2-20* ANION GAP-16 ___ 08:53PM  LACTATE-1.4 ___ 09:30PM URINE COLOR-Yellow APPEAR-Clear SP ___ ___ 09:30PM URINE BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-SM
+
+CXR: PCM, right sided midline, no obvious consolidation. ___ and ___ blood cultures without growth at time of discharge.
+
+ Brief Hospital Course: ___ y/o male who was recently hospitalized for bowel obstruction and UTI treated with ceftazidime and was at ___ ___ who presents with positive blood cultures. 
+
+# Bacteremia: Given positive blood cultures at ___ were concerning for MRSA, he was initially started on linezolid.  However, final cx results were obtained from them, and cultures were positive for micrococcus, which is a skin flora, and generally regarded as a contaminant. So, linezolid was stopped.  All blood cultures drawn here are negative. 
+
+# Delirium: Patient with altering levels of attention/awakeness during this admission. No clearly reversible causes of delirium, and likely represents consequence of prolonged hospitalization. However, by time of discharge, patient appearing more oriented and attentive. 
+
+#Aspiration: Patient treated for aspiration pneumonia at ___ ___, and evaluated at ___ by swallow service who found him at ongoing risk of aspiration as well, and advised thickened liquids, and eating all meals while at an upright, 90 degree angle.
+
+# Urinary retention: Arrived from ___ with foley catheter, which was removed. Patient able to void on his own after removal, and occasionally incontinent. Proscar and flomax continued. 
+
+# Paroxysmal atrial fibrillation: Regular rhythm currently.  Spoke with his cardiologist, who advised continued treatment with coumadin for CVA prevention.  # Type IIb heart block: s/p dual chamber ___ ___ 
+
+# ___ disease: Neurology evaluated patient, and they advised increase of sinemet from bid to tid. 
+
+# Code Status: Discussed at length with his wife and health Care proxy, and patient is now DNR/DNI.
+
+#Dispo: Wife has 24 hour care for him at home, and very much wanted to take patient home. However, due to deconditioning and delirium, patient weaker than baseline, and requiring full two person assist for all transfer. CM and palliative care team both spoke with wife about increased care giver needs at home, and need for two person assist for the patient at all times, and she insisted on taking him home, saying that she is well equipped to care for him, and refused any consideration of rehab/nh placement. 
+
+#Prognosis: Discussed with wife that his delirium, aspiration, decreased functional status all represent a decline from which he may not recover. She was fully understanding, and feels that he is best off coming home as soon as possible, with hospice.  She agrees that aggressive measures should be avoided in his case, and was amenable to discussion with palliative care team. 
+
+ # MIdline removed during this admission.  Medications on Admission: Tylenol prn Proscar 5 mg daily Flomax 0.4 mg daily MTV Oscal 500 with vitamin D Sinemet ___ tablet BID Spiriva 18 mcg daily hydrodiuril 12.5 mg daily levaquin 250 mg daily Flagyl 500 mg tid  Discharge Medications: 1. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  2. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1) Capsule, Sust. Release 24 hr PO HS (at bedtime).  3. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2) Tablet PO DAILY (Daily).  4. Multivitamin   Tablet Sig: One (1) Tablet PO DAILY (Daily).  5. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO BID (2 times a day).  6. Carbidopa-Levodopa ___ mg Tablet Sig: .5 tablet Tablet PO three times a day.  7. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily).  8. Warfarin 2 mg Tablet Sig: Three (3) Tablet PO once a day. 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: 1. Delirium 2. ___ Disease 3. Atrial Fibrillation 4. General weakness secondary to recurrent, prolonged hospitalization and deconditioning. 
+
+ Discharge Condition: Activity Status: Bedbound. Mental Status: Confused - sometimes. Level of Consciousness: Alert and interactive.
+
+ Discharge Instructions: You were admitted to the hospital because there was a question of bacteria in your blood. Our tests did not reveal any bacteria, so your antibiotics were discontinued. The neurologists also evaluated you regarding your ___, and your medications were adjusted. Your new dose of ___ medicine was called in to the ___ Pharmacy. Please take coumadin 6 mg a day, and the ___ will check your INR (coumadin level) on ___, and your dose will be adjusted by Dr ___.   Followup Instructions: ___ 

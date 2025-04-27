@@ -1,0 +1,42 @@
+T1	Lower_respiratory_tract_infection 677 686	pneumonia
+T2	Falls 925 929	fall
+A1	Diagnosis T2 History_of
+T3	Visual_impairment 2335 2355	Macular degeneration
+A2	Diagnosis T3 History_of
+T4	Visual_impairment 2370 2378	Cataract
+A3	Diagnosis T4 History_of
+T5	Delirium 2703 2711;2712 2714	oriented x3
+A4	Negation T5
+T6	Delirium 3306 3311	AAOx3
+A5	Negation T6
+T7	Delirium 3448 3456;3457 3459	oriented x3
+A6	Negation T7
+T8	Lower_respiratory_tract_infection 5609 5618	pneumonia
+T9	Lower_respiratory_tract_infection 5513 5522	pneumonia
+T10	Weight_loss 7531 7546	weight was down
+T11	Constipation 9103 9115	constipation
+A7	Diagnosis T11 Implicit_mention
+T12	Constipation 9370 9382	constipation
+A8	Diagnosis T12 Implicit_mention
+T13	Constipation 9409 9421	constipation
+A9	Diagnosis T13 Implicit_mention
+T14	Lower_respiratory_tract_infection 9864 9892	Community acquired pneumonia
+T15	Delirium 9989 10007	Clear and coherent
+A10	Negation T15
+T16	Mobile_with_assistance 10073 10105	Ambulatory - requires assistance
+T17	Mobile_with_aid 10109 10112	aid
+A11	Type_of_aid T17 Two_sticks_or_frame
+T18	Lower_respiratory_tract_infection 10319 10328	pneumonia
+T19	Delirium 4078 4083	AAOx3
+A12	Negation T19
+T20	Lower_respiratory_tract_infection 6296 6305	Pneumonia
+T21	Lower_respiratory_tract_infection 5870 5874	HCAP
+A13	In-hospital_event T21
+T22	Lower_respiratory_tract_infection 5942 5951	pneumonia
+T23	Constipation 9143 9155	constipation
+A14	Diagnosis T23 Implicit_mention
+T24	Lower_respiratory_tract_infection 5303 5312	pneumonia
+A15	Diagnosis T24 Suspected
+T25	Upper_gastrointestinal_haemorrhage 2289 2298;2325 2333	gastritis bleeding
+A16	Negation T25
+A17	Low_confidence T25

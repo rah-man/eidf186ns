@@ -1,0 +1,13 @@
+T1	Dementia 394 402	dementia
+T2	Falls 578 582	fall
+T3	Falls 659 663	fall
+T4	Dementia 899 907	dementia
+T5	Constipation 3288 3302	Constipation  
+A1	Diagnosis T5 Implicit_mention
+T6	Delirium 4098 4131	Mental Status: Clear and coherent
+A2	Negation T6
+T7	Mobile_with_assistance 4197 4207;4219 4229	Ambulatory assistance
+T8	Mobile_with_aid 4197 4207;4233 4236	Ambulatory aid
+T9	Dementia 4270 4278	Confused
+T10	Constipation 5695 5707	constipation
+A3	Diagnosis T10 Implicit_mention

@@ -1,0 +1,29 @@
+ Name: ___       Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: lisinopril / Macrobid  Attending: ___.  Chief Complaint: shortness of breath  Major Surgical or Invasive Procedure: none
+
+ History of Present Illness: ___ w/CKD presents w/dyspnea on exertion. At baseline pt is independent and without respiratory issues. However for the past week she has noted SOB with exertion. At present, she is unable to walk approximately 100-150 ft before coming quite dyspneic and having to rest. Her family states that they have noted over the past few weeks that she is "breathing heavily" frequently throughout the day. Yesterday while at her grandson's wedding her dyspnea became worse and she felt like she might pass out so her family brought her to ED. Pt denies chest pain, fevers, cough, wheezing. No lower extremity swelling, orthopnea, paroxysmal nocturnal dyspnea, immobilization, hemoptysis, or exogenous estrogen use. In ED DDimer was elevated and pt started on heparin drip for presumed PE. Currently, pt reports feeling well at rest. Has not had any routine cancer screening. No family history of clots.
+
+ROS: Denies fever, chills, chest pain, cough, abdominal pain, nausea, vomiting diarrhea, constipation, or dysuria. A full review of systems was performed and is otherwise unremarkable except as noted above
+
+ Past Medical History: HTN HLD Macular degeneration Stage 3 CKD Neurogenic bladder  Social History: ___ Family History: Brother Cancer Daughter ___ Mother ___ Son ___ Disorder/Kidney Stones 
+
+ Physical Exam: ON ADMISSION: VS: 97.8 138/84 103 22 99%2L PAIN: 0 GEN: no acute signs of distress.  CV: S1S2, reg rate and rhythm, no murmurs, rubs or gallops.  RESP: Good air movement bilaterally, crackles at left base  ABD: Soft, non-tender, non-distended, + bowel sounds.  EXTR: trace lower leg edema on L, no clubbing or cyanosis  Neuro: alert, follows commands, answering questions appropriately
+
+ON DISCHARGE: VS: 97.9 115/43 63 18 99%RA (ambulatory O2 sat also >96%) RESP: Good air movement, crackles L>R base EXT: No edema Otherwise unchanged  Pertinent Results: ___ 01:26AM  GLUCOSE-144* UREA N-50* CREAT-2.2* SODIUM-137 POTASSIUM-4.2 CHLORIDE-101 TOTAL CO2-24 ANION GAP-16 ___ 01:26AM  D-DIMER-GREATER THAN ___ ___ 01:26AM  WBC-8.1 RBC-3.56* HGB-11.1* HCT-33.1* MCV-93 MCH-31.3 MCHC-33.6 RDW-12.8 ___ 01:26AM  PLT COUNT-142* ___ 01:26AM  cTropnT-0.09* proBNP-6531*
+
+BILAT LOWER EXT VEINS Study Date of ___ 8:28 AM Non-occlusive thrombosis of both left peroneal veins. No DVT in Preliminary Reportthe right lower extremity. 
+
+LUNG SCAN Study Date of ___  Ventilation perfusion mustaches in the apical-posterior segment of the left upper lobe and in the right upper lobe, middle, and lower lobes. High likelihood ratio for pulmonary embolism. 
+
+TTE (Complete) Done ___ at 10:20:37 AM   FINAL Dilated RV with borderline/mildly depressed systolic function. Normal LVEF.   Brief Hospital Course: # Acute PE: Her symptoms were concerning for acute PE on admission. She was started on coumadin and a heparin gtt. LENIS showed a L peroneal DVT, VQ scan was consistent with PE, and TTE showed mildly depressed RV systolic function (see above for results). She was made aware of the potential for malignancy as the most likely cause of her DVT/PE. She will follow up with her PCP for further evaluation of this, should she choose to proceed with this. Of note, she has had a breast mass for ___ years that has not been evaluated. Social work was involved to deal with conflicting desires between the patient and her family. She did have ARF (see below) during his hospitalization that prevented initial lovenox bridge, but her kidney function returned to baseline (although her CrCl is still 39); she expressed that she would rather be on coumadin than lovenox as anticoagulation. Her warfarin on discharge was reduced to 4 mg po daily, given INR rise from 1.4 to 1.8 to 2.2 over last 3 days.
+
+# Acute renal failure: She had a Cr 2.2 on admission, but 1.5 on ___ visit ___. She was given some IVF, and her Cr returned to baseline. She also had a UA that was consistent with a UTI, and she was given a short course of ciprofloxacin that ended during the hospitalization.
+
+# HTN: her BP meds were held given her PE and the fact that her BP is currently not hypertensive # HLD: on statin # Hemorhoids: cont home meds # CODE: DNR/I  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Losartan Potassium 100 mg PO DAILY 2. Simvastatin 10 mg PO DAILY 3. Metoprolol Succinate XL 25 mg PO DAILY 4. Chlorthalidone 25 mg PO DAILY 5. Hydrocortisone (Rectal) 2.5% Cream ___ID PRN hemmorhoids 6. Docusate Sodium 100 mg PO HS 
+
+ Discharge Medications: 1. Docusate Sodium 100 mg PO HS 2. Hydrocortisone (Rectal) 2.5% Cream ___ID PRN hemmorhoids 3. Simvastatin 10 mg PO DAILY 4. Warfarin 4 mg PO DAILY16 RX *warfarin [Coumadin] 4 mg 1 tablet(s) by mouth daily Disp #*14 Tablet Refills:*0
+
+ Discharge Disposition: Home  Discharge Diagnosis: Acute pulmonary embolism
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: It was a pleasure taking care of you, Ms. ___. You were admitted with shortness of breath and a need for supplemental oxygen due to an acute pulmonary embolism. You should follow up with Dr. ___ to discuss further workup, if you wish to pursue this. Your new medication regimen is listed in this discharge summary. Of note, I have stopped your hypertension medications.  Followup Instructions: ___ 

@@ -1,0 +1,7 @@
+T1	Has_carers 5518 5525	Service
+T2	Delirium 5644 5652;5653 5656	oriented x3,
+A1	Negation T2
+T3	Mobile_with_assistance 5657 5686	ambulating without assistance
+T4	Dementia 1640 1644	AOx3
+A2	Negation T4
+T5	Independently_mobile 3538 3562	ambulating independently

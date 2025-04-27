@@ -1,0 +1,51 @@
+T1	Upper_gastrointestinal_haemorrhage 13778 13786	GI bleed
+A1	Diagnosis T1 History_of
+T2	Lower_gastrointestinal_haemorrhage 13778 13786	GI bleed
+A2	Diagnosis T2 History_of
+T3	Delirium 12948 12966	Clear and coherent
+A3	Negation T3
+T4	Mobile_with_assistance 12985 13017	Ambulatory - requires assistance
+T5	Mobile_with_aid 13021 13024	aid
+A4	Type_of_aid T5 Two_sticks_or_frame
+T6	Upper_gastrointestinal_haemorrhage 10089 10100	GI bleeding
+A5	Diagnosis T6 Implicit_mention
+T7	Lower_gastrointestinal_haemorrhage 10089 10100	GI bleeding
+A6	Diagnosis T7 Implicit_mention
+T8	Upper_gastrointestinal_haemorrhage 9403 9411	GI bleed
+A7	Diagnosis T8 Suspected
+T9	Lower_gastrointestinal_haemorrhage 9403 9411	GI bleed
+A8	Diagnosis T9 Suspected
+T10	Urinary_tract_infection 6631 6634	UTI
+T11	Delirium 3376 3384;3385 3387	Oriented x3
+A9	Negation T11
+T12	Upper_gastrointestinal_haemorrhage 557 576	upper G.I. bleeding
+A10	Diagnosis T12 History_of
+T13	Urinary_tract_infection 1380 1382	UT
+T14	Urinary_tract_infection 1384 1393	urosepsis
+T15	Falls 780 787	falling
+T16	Upper_gastrointestinal_haemorrhage 2995 3005	G.I. bleed
+A12	Low_confidence T16
+T17	Lower_gastrointestinal_haemorrhage 2995 3005	G.I. bleed
+A14	Low_confidence T17
+T18	Urinary_tract_infection 3084 3109	urinary tract infections,
+A11	Diagnosis T18 History_of
+T19	Delirium 4044 4048	AOX3
+A13	Negation T19
+T20	Upper_gastrointestinal_haemorrhage 9133 9136	GIB
+A15	Diagnosis T20 History_of
+A16	Low_confidence T20
+T21	Lower_gastrointestinal_haemorrhage 9133 9136	GIB
+A17	Diagnosis T21 History_of
+A18	Low_confidence T21
+A19	Low_confidence T8
+A20	Low_confidence T9
+T22	Urinary_tract_infection 9430 9433	UTI
+A21	Diagnosis T22 History_of
+T23	Upper_gastrointestinal_haemorrhage 9850 9861	GI bleeding
+A22	Diagnosis T23 Implicit_mention
+A23	Low_confidence T23
+T24	Lower_gastrointestinal_haemorrhage 9850 9861	GI bleeding
+A24	Diagnosis T24 Implicit_mention
+A25	Low_confidence T24
+A26	Low_confidence T1
+A27	Low_confidence T2

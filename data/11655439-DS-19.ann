@@ -1,0 +1,8 @@
+T1	Delirium 23971 23989	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 24055 24087	Ambulatory - requires assistance
+T3	Mobile_with_aid 24091 24094	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Mobile_with_aid 23152 23167	R OLLING WALKER
+A3	Type_of_aid T4 Two_sticks_or_frame
+T5	Has_carers 23245 23252	Service

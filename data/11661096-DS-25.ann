@@ -1,0 +1,24 @@
+T1	Delirium 13609 13627	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 13693 13717	Ambulatory - Independent
+T3	Has_carers 13525 13532	Service
+T4	Intracranial_haemorrhage 7283 7290;7338 7350	CT HEAD intracranial
+A2	Negation T4
+T5	Pressure_injury 3333 3339	ulcers
+A3	Negation T5
+
+- Cardiology was consulted: consistent with type I NSTEMI. If no contraindications, agree with ASA, high dose stati
+A4	Low_confidence T5
+T6	Urinary_tract_infection 11616 11622	Pyuria
+A5	Low_confidence T6
+T7	Intracranial_haemorrhage 1496 1503;1526 1538	CT head intracranial
+A6	Negation T7
+T8	Lower_gastrointestinal_haemorrhage 2191 2205	Lower GI bleed
+A7	Diagnosis T8 History_of
+T9	Malnutrition 2829 2843	well-nourished
+A8	Negation T9
+T10	Malnutrition 3437 3451	well-nourished
+A9	Negation T10
+T11	Pressure_injury 3941 3947	ulcers
+A10	Negation T11
+A11	Low_confidence T11

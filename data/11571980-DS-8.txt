@@ -1,0 +1,87 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: Pleural effusion  Major Surgical or Invasive Procedure: TIPS ___ 
+
+ History of Present Illness: Ms. ___ is a ___ yo F with PMH significant for HTN, GERD, recent diagnosis of NASH cirrhosis, recurrent hepatic hydrothorax, and profound unintentional weight loss over the past year, initially presenting to ___ with shortness of breath. 
+
+Patient was recently admitted to ___ in early ___ with right pleural effusion and returned to ___ 5 days after the most recent discharge with recurrence of her symptoms. Notably, she began experiencing symptoms 3 days after her discharge including fatigue with movement, dry cough and shortness of breath. Workup in ___ was significant for reaccumulation of the pleural fluid and she was admitted for further management.
+
+During her hospital stay at ___, she remained afebrile and hemodynamically stable. She was not hypoxic. The reaccumuluation of her pleural effusion was noted to be "moderate in size with passive right middle and lower lobe atelectasis, for which pulmonology was consulted. There were ongoing discussions with Dr. ___ ___ and Dr. ___ at ___ regarding ongoing therapeutic interventions and the decision was made to transfer her to ___ for an inpatient TIPS.
+
+Of note, the patient was recently diagnosed with cirrhosis and had a hospitalization at ___ from ___ - ___ at ___ for syncopal episode. The syncopal episode was presumed secondary to recent increases in her diuretic dosing given her recurrent pleural effusions. These effusions have required recurrent thoracentesis every ___ months, though she is now requiring thoracentesis every 2 weeks. She has undergone extensive work-up for her cirrhosis and the etiology is presumed NASH cirrhosis given lack of other risk factors and otherwise unremarkable laboratory work-up. She had a liver nodule at an OSH that was reevaluated with triple phase CT at ___ that was not concerning for ___.
+
+Labs at ___ were notable for: -Tbili 1.5, AST 52, ALT 25, Alk Phos 137, INR 1.4, Albumin 2.9 - BNP 87.2
+
+Studies performed include: -CXR: Moderate right sided effusionw with passive right middle and lower lobe atelectasis -CT A/p demonstrating cirrhosis with ascites and large right pleural effusion without definite focal hepatic abnormalities
+
+ Past Medical History: ___ Cirrhosis
+
+Diuretic-refractory hepatic hydrothorax
+
+Chronic hypotension (possibly related to aggressive diuretics for the effusion)
+
+Unintentional weight loss (~100 lbs)
+
+GERD
+
+ Social History: ___ Family History: Non-contributory
+
+ Physical Exam: ADMISSION PHYSICAL EXAM: ======================== VITALS:24 HR Data (last updated ___   Temp: 98.3 (Tm 98.3), BP: 103/62, HR: 90, RR: 18, O2 sat: 93%, O2 delivery: Ra  GENERAL: Alert and interactive. In no acute distress. HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without injection. MMM. CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No murmurs/rubs/gallops. LUNGS: Decreased breath sounds in RLL/RML with crackles in RLL. No wheezes or rhonchi ABDOMEN: Normal bowels sounds, mildly distended, non-tender to deep palpation in all four quadrants. No organomegaly. No rashes or telangiectasias. No rebound or guarding. EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 2+ bilaterally. SKIN: Warm. Cap refill <2s. No rash. NEUROLOGIC: No focal deficits. AAOx3
+
+DISCHARGE PHYSICAL EXAM: ======================== 24 HR Data (last updated ___ @ 620)   Temp: 97.9 (Tm 98.3), BP: 105/59 (100-111/59-72), HR: 85 (80-87), RR: 18, O2 sat: 92% (91-93), O2 delivery: Ra, Wt: 151.01 lb/68.5 kg  GENERAL: Alert and interactive. In no acute distress. HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without injection. MMM. CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No murmurs/rubs/gallops. LUNGS: Clear to auscultation beliterally. No wheezes or rhonchi ABDOMEN: Normal bowels sounds, mildly distended, non-tender to deep palpation in all four quadrants. No organomegaly. No rashes or telangiectasias. No rebound or guarding. EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 2+ bilaterally. SKIN: Warm. Cap refill <2s. No rash. NEUROLOGIC: No focal deficits. AAOx3; no asterixis  Pertinent Results: ADMISSION LABS: ==============
+
+___ 08:34PM BLOOD WBC-6.3 RBC-4.13 Hgb-13.0 Hct-38.9 MCV-94 MCH-31.5 MCHC-33.4 RDW-15.7* RDWSD-54.1* Plt ___ ___ 08:34PM BLOOD ___ PTT-27.8 ___ ___ 08:34PM BLOOD Glucose-92 UreaN-16 Creat-0.7 Na-140 K-4.0 Cl-94* HCO3-36* AnGap-10 ___ 08:34PM BLOOD ALT-21 AST-45* AlkPhos-117* TotBili-1.4 ___ 08:34PM BLOOD Calcium-8.6 Phos-2.9 Mg-1.8
+
+RELEVANT LABS: ==============
+
+___ 11:29AM BLOOD Type-ART pO2-204* pCO2-42 pH-7.48* calTCO2-32* Base XS-7 Intubat-INTUBATED ___ 11:29AM BLOOD Glucose-104 Lactate-1.2 Na-134 K-3.3 Cl-101 ___ 11:29AM BLOOD Hgb-13.2 calcHCT-40 O2 Sat-97 ___ 11:29AM BLOOD freeCa-1.10*
+
+MICROBIOLOGY: ============= NONE
+
+IMAGING: =======
+
+CXR ___: Interval resolution of right lower lobe atelectasis and substantial decrease of previous moderate right pleural effusion. New mild pulmonary edema.  CXR: ___: Pulmonary vasculature is mildly engorged and there is probably borderline pulmonary edema. Major abnormalities in the right hemithorax where there is probably a combination of substantial right lower lobe consolidation, either atelectasis or pneumonia, accompanied by moderate pleural effusion. The heart is normal size. No left pleural abnormality.
+
+TIPS ___: 1. Pre-TIPS right atrial pressure of 7mmHg and portal pressure measurement of 27mmHg resulting in portosystemic gradient of 20 mmHg. 2. Contrast enhanced portal venogram showing patency of the portal system. 3. Post-TIPS portal venogram showing flow through the TIPS from both the splenic and SMV. 4. Post-TIPS right atrial pressure of 12mmHg and portal pressure of 17mmHg resulting in portosystemic gradient of 6 mmHg. IMPRESSION: Successful right internal jugular access with transjugular intrahepatic portosystemic shunt placement with decrease in porto-systemic pressure gradient.
+
+DISCHARGE LABS: =============== ___ 07:20AM BLOOD WBC-9.0 RBC-3.89* Hgb-12.4 Hct-36.1 MCV-93 MCH-31.9 MCHC-34.3 RDW-16.1* RDWSD-54.8* Plt ___ ___ 07:20AM BLOOD ___ PTT-28.4 ___ ___ 07:20AM BLOOD Glucose-96 UreaN-15 Creat-0.5 Na-139 K-3.6 Cl-99 HCO3-31 AnGap-9* ___ 07:20AM BLOOD ALT-51* AST-107* LD(LDH)-245 AlkPhos-102 TotBili-2.8* ___ 07:20AM BLOOD Albumin-2.4* Calcium-8.3* Phos-2.0* Mg-2.___RIEF HOSPITAL COURSE: ====================== ___ yo F with NASH cirrhosis complicated by recurrent right sided hepatic hydrothorax. The patient had a TIPS placement on ___ with significant improvement in her pleural effusion and symptoms. 
+
+ACUTE ISSUES: ============= #Cough #Hepatic hydrothorax She has had recurrent pleural effusions presumed hepatic hydrothorax in setting of recent NASH cirrhosis diagnosis. She has had thoracentesis performed initially every ___ months, though is now having them performed almost every 2 weeks. She had trialed increasing doses of diuretics, though this resulted in hypotension ultimately leading to syncope. Given the ongoing reaccumulation, she was transferred to ___ for TIPS placement. She had a TIPS placed 10x7x2 dilated to 8 with gradient reduction from 20mmHg to 6mmHg on ___. CXR on ___ showed significant reduction in her pleural effusion. her diuretics were discontinued and she was saturating well on room air. Her Midodrine was also weaned off rapidly (as this was suspected to be simply treating a side effects of the diuretics). No thoracentesis was done during this admission and she will follow up with hepatology and have a repeat ultrasound done on ___ to evaluate for TIPS location and baseline velocities. Had expected elevation in AST/ALT/Tbili following the procedure. Otherwise, no complications. 
+
+#NASH Cirrhosis, Recently diagnosed NASH cirrhosis c/b hepatic hydrothorax and follows with Dr. ___ as an outpatient. Though patient also has a transferrin saturation of 77.9% concerning for possible component of hemochromatosis. She may need HFE gene mutation study as an outpatient. Anti-smooth muscle ab was also mildly elevated to 1:40. She has evidence of portal hypertension via her right hepatic hydrothorax which is an ascites equivalent as well as imaging consistent with varices and splenomegaly. She is not s/p TIPS with improvement in gradient from 20mmHg to 6mmHg. Her torsemide and spironolactone were discontinued after TIPS. She did not exhibit signs of hepatic encephalopathy following the procedure but we continued with lactulose for constipation. She will also need EGD screening for varices as an outpatient. MELD was 11 on admission which elevated to 15 after TIPS given expected Tbili elevation post procedurally. 
+
+#Severe protein-calorie Malnutrition #Possible depression Patient has had severe malnutrition per nutrition and also significant weight loss over the last year. She was started on multivitamin with minerals and Ensure frappes. She reports just having very low interest in food, which has resulted in consistently poor PO intake. She denies any nausea, dyspepsia, abdominal pain, dysphagia, or anything physical that is limiting her ability to tolerate PO intake. On history she also endorsed significant anhedonia and sleeping all the time, which made us consider that this may be a consequence of depression. She was started on mirtazapine (because it stimulates appetite) and should be considered for a second antidepressant during the day (SSRI, SNRI or bupropion).  She will also need age-appropriate cancer screening, in case the weight loss is due to an occult malignancy. 
+
+CHRONIC ISSUES: =============== #Thrombocytopenia #Coagulopathy At her baseline in setting of NASH cirrhosis. Discharge platelets 124 and INR of 1.5. 
+
+#GERD Continued omeprazole 20mg po daily
+
+TRANSITIONAL ISSUES: =================== Discharge MELD: 15 Discharge Tbili: 2.8 Discharge Plts: 124 Discharge Cr: 0.5 Discharge BP: 111 / 70
+
+[ ] Follow up with hepatology - will need EGD for varices screening [ ] consider HFE gene mutation for hemochromatosis given elevated transferrin saturation. [ ] Patient has had unintentional weight loss; ensure she is up to date on age-appropriate cancer screening including colonoscopy. [ ] She endorses many depression symptoms and we suspect that a mood disorder may be contributing to her poor PO intake. Make sure she is tolerating mirtazapine and consider adding another antidepressant (SSRI, SNRI or bupropion). [ ] Patient with severe malnutrition; continue to counsel on diet to ensure she is consuming enough calories (~___ kcal); will need to continue on frappes for supplementation [ ] Needs ultrasound scheduled for ___ to follow up TIPS location and baseline TIPS velocities (7 days post-TIPS) [ ] Patient was discharged off diuretics and midodrine, continue to reassess volume status and blood pressures; near resolution of right sided effusion post-TIPS [ ] Need to make sure patient having two loose BMs per day on current regimen on lactulose and miralax (because she doesn't like Lactulose). [ ] Please check LFTs in one week to monitor post-TIPs MELD labs, bili continued to slowly rise on discharge 
+
+# Full code  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Lactulose 15 mL PO DAILY 2. Midodrine 10 mg PO TID 3. Omeprazole 20 mg PO DAILY 4. Spironolactone 100 mg PO DAILY 5. Torsemide 40 mg PO DAILY 6. Guaifenesin-Dextromethorphan 5 mL PO Q4H:PRN cough 
+
+ Discharge Medications: 1. Mirtazapine 15 mg PO QHS RX *mirtazapine 15 mg 1 tablet(s) by mouth every night Disp #*30 Tablet Refills:*0 2. Multivitamins W/minerals 1 TAB PO DAILY RX *multivitamin,tx-minerals [Vitamins and Minerals] 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 3. Lactulose 15 mL PO QID RX *lactulose 10 gram/15 mL (15 mL) 15 mL by mouth four times a day Disp #*1 Bottle Refills:*0 4. Guaifenesin-Dextromethorphan 5 mL PO Q4H:PRN cough  5. Omeprazole 20 mg PO DAILY 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: PRIMARY DIAGNOSIS ================== Cirrhosis Hepatic Hydrothorax 
+
+SECONDARY DIAGNOSIS ===================== Severe malnutrition Thrombocytopenia Coagulopathy
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: ======================  DISCHARGE INSTRUCTIONS  ======================  Dear Ms. ___, 
+
+It was a privilege caring for you at ___. 
+
+WHY WAS I IN THE HOSPITAL?  - You were transferred to ___ for evaluation by interventional radiology to have a TIPS procedure to help remove the fluid around your lung. 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  - The interventional radiologists placed a Transjugular intrahepatic portosystemic shunt (TIPS) which will divert blood away from the liver which will decrease the amount of fluid accumulating in the lungs. - You were seen by our liver service, who will continue to follow up as an outpatient - We adjusted your medications to optimize your blood pressure. 
+
+- The fluid in your lungs improved after the procedure and you walked with no issues - We tried to make you have a bowel movement but were unsuccessful
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  - Continue to monitor for confusion. If you or your family notice more confusion, make sure to continue to take the lactulose such that you have ___ bowel movements a day. And call your Hepatologist. Dr. ___. ___ - You will need to try to maintain your oral intake for calories as you are considered to be severely malnourished based on your weight loss - You will need a follow up ultrasound in 1 week to monitor your TIPS. - Continue to take all your medicines and keep your appointments. 
+
+We wish you the best! 
+
+Sincerely,  Your ___ Team 
+
+ Followup Instructions: ___ 

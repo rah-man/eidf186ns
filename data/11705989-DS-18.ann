@@ -1,0 +1,12 @@
+T1	Delirium 9090 9108	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 9174 9206	Ambulatory - requires assistance
+T3	Mobile_with_aid 9210 9213	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Constipation 1978 1990	constipation
+A3	Negation T4
+T5	Lower_respiratory_tract_infection 1277 1280	PNA
+A4	Diagnosis T5 History_of
+T6	Weight_loss 1780 1791	weight loss
+A5	Negation T6
+T7	Has_carers 8868 8875	Service

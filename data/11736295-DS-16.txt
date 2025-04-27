@@ -1,0 +1,69 @@
+ Name: ___           Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: Right arm fracture  Major Surgical or Invasive Procedure: Right humerus ORIF
+
+ History of Present Illness: ___ PMH of castration-resistant metastatic prostate cancer (previously on docetaxel, now s/p cycle 4 radium), DVT (on Eliquis), T2DM, CAD, presented to ED with right arm pain found to have pathologic fracture of right humerus, admitted for pain control and further management
+
+Patient reported that he has been at rehab for the past 2 weeks working on mobility with a walker, due to chronic deficits in right lower leg. He noted that he did not make much progress overall. On day of admission, he tried to support himself with his arms to get up using his walker, heard a loud pop, and had immediate pain in his right upper arm. Called ___ and was brought to the ED. 
+
+In the ED, initial vitals: 98.1 92 104/50 18 100% RA. UA negative for infection. 
+
+Right Shoulder Xray: 1. Acute fracture extending obliquely through the right proximal humerus with minimal displacement. 2. Thickening of the right humeral cortex and heterogeneity of the medullary cavity is concerning for underlying infiltrative process, especially given patient history. MRI could be considered for further evaluation of underlying bone marrow to confirm that this is a pathologic fracture. 3. In addition, areas of relative increased sclerosis in regions of the right lateral ribs and inferior tip of the right scapula concerning for metastatic disease.
+
+Right Humerus Xray: Again seen is a mottled appearance of the right humerus with an oblique fracture through the proximal to mid right humeral diaphysis. No significant displacement. Distally, no additional fractures identified. 
+
+Ortho was consulted, rec'd sling for time being while awaiting final recs. Patient was given NS and oxycontin/oxycodone prior to admission. 
+
+ Past Medical History: -Metastatic Prostate Cancer c/b pathologic fracture of right femur s/p surgical correction ___ yr prior -CAD s/p MI -Type II Diabetes -Hypertension -DVT  Social History: ___ Family History: Brother with diabetes.  Physical Exam: Admission: GENERAL: laying in bed, appears calm, comfortable at rest, only in pain with movement EYES: PERRLA, anicteric HEENT: OP clear, MMM NECK: supple, normal ROM LUNGS: CTA anteriorly, no wheezes/rales/rhonchi, normal RR CV: RRR no m/r/g, normal distal perfusion ABD: soft, NT, nD, normoactive BS GENITOURINARY: no foley or suprapubic tenderness EXT: warm, has asymmetric swelling/edema of RLE which he noted is stable since last admission when he was diagnosed with DVT. ___ has chronic sensory issues s/p chemo extravasation in past, but sensation is at his baseline, has normal pulses and distal perfusion intact. Has weak grip strength of RUE which he noted is chronic ___ chemo extravasation incident. Has tenderness in right humerus with palpation. right arm in sling SKIN: warm, dry, has hyperpigmentation of RLE NEURO: AOx3, fluent speech ACCESS: PORT dressing c/d/I
+
+Discharge: General: NAD, calm, laying in bed, pleasant EYES: Anicteric HENT: MMM CV: RRR no m/r/g, normal distal perfusion PULM: CTAB anteriorly though as unable to sit forward. Speaking in full sentences ABD: BS+, Soft, NT, ND, normoactive BS EXT: warm, has asymmetric swelling/edema of RLE which he noted is stable since last admission when he was diagnosed with DVT. ___ has chronic sensory issues s/p chemo extravasation in past, but sensation is at his baseline, radial pulses b/l strong and synchronous, distal perfusion intact. slight edema of right hand. Has weak grip strength of RUE which he noted is chronic ___ chemo extravasation incident however post-op slightly weaker. Can lift his legs b/l a few inches off the bed, R weaker than L SKIN: No rashes on extremities, warm/dry NEURO: Speech fluent, AOx3 PSYCH: pleasant, calm ACCESS: port dressing c/d/I  Pertinent Results: Discharge:
+
+___ 04:49AM BLOOD WBC-2.7* RBC-2.78* Hgb-7.5* Hct-23.9* MCV-86 MCH-27.0 MCHC-31.4* RDW-17.5* RDWSD-55.0* Plt ___ ___ 04:49AM BLOOD ___ PTT-38.5* ___ ___ 04:49AM BLOOD Glucose-86 UreaN-7 Creat-0.4* Na-135 K-4.3 Cl-96 HCO3-27 AnGap-12 ___ 04:49AM BLOOD ALT-21 AST-40 AlkPhos-145* TotBili-0.7 ___ 04:49AM BLOOD Calcium-8.4 Phos-2.9 Mg-1.9
+
+Micro:
+
+___ 6:49 am BLOOD CULTURE
+
+  Blood Culture, Routine (Pending):  No growth to date. 
+
+Imaging: ___ CXR: Elevated right hemidiaphragm may be secondary to right lower lobe atelectasis. Bibasilar opacities likely reflect atelectasis. 
+
+___ Arm Xray:  10 intraoperative images were acquired without a radiologist present. Images show steps during an intramedullary nail fixation of the right humerus. For details of the Procedure, please refer to the operative note.  Total fluoroscopic time most 205.3 seconds. 
+
+Xray arm ___: Again seen is a mottled appearance of the right humerus with an oblique fracture through the proximal to mid right humeral diaphysis.  No significant displacement. Distally, no additional fractures identified. 
+
+ Brief Hospital Course: ___ PMH of castration-resistant metastatic prostate cancer (previously on docetaxel, now s/p cycle 4 radium), DVT (on Eliquis), T2DM, CAD, presented to ED with right arm pain found to have pathologic fracture of right humerus, now s/p ORIF ___, discharged to rehab with plan for close oncology/orthopedics f/u
+
+#Post Operative Fever Occurred post operatively, infectious workup identified atelectasis but no e/o infection. Abx withheld and fever self-resolved.
+
+# R Proximal Humerus Fracture Atraumatic, pathologic, and minimally displaced. Reassuringly had no new neurovascular deficits. Has baseline dysfunction in right arm ___ prior chemo extravasation event. Ortho-onc performed ORIF ___ that was uneventful. Rad onc evaluated patient, are considering radiation for symptom control but can not be done within 2 weeks of ORIF, so pt will need to followup with them as an outpatient for re-evaluation. Ortho appointment scheduled before discharge, patient will need to f/u to have repeat Xray's and staples removed. Length of stay expected to be less than 30 days. 
+
+# Castration-resistant metastatic prostate cancer Previously on docetaxel, now s/p C4 Radium-223. Unfortunately he has no other options for his prostate ca. He might be eligible for two more doses of Radium-223 but this will need to be done once he has convalesced and returned home. The benefits at this stage are limited and palliative. Per Dr ___ expectancy much less than 6 month, but as per my discussions with patient and his son/HCP ___, patient is to remain FULL CODE. 
+
+# Chronic Neoplasm Related Pain Per last outpatient pall care note, patient was supposed to be on oxycontin ___ but he noted that he was only taking 20 BID at home.Was increased to 30 QBID to account for increased pain from humeral fracture, and was written for lidocaine patches + gabapentin + capsacin + duloxetine to good effect.
+
+#Recent dx of DVT RLE presentation (edema/assymetric enlargement) unchanged per patient. Resumed apixaban POD1 and had no e/o bleeding
+
+#T2DM: Previously on metformin. AC1 5.5% this admit. has not needed insulin while here, can hold off on ___ at rehab
+
+#Anemia/Thrombocytopenia/Leukopenia: Chronic, likely from neoplastic disease, required intermittent blood transfusion during stay. Next CBC will need to be checked on ___ with transfusion as needed. 
+
+Transitional issues: 1. Ortho appointment scheduled before discharge, patient will need to f/u to have repeat Xray's and staples removed. 2. Patient will need to be referred to rad onc in outpatient setting if pain persists after 2 weeks 3. Patient will need to schedule outpatient f/u with Dr ___ in ___ weeks 4. Next CBC will need to be checked on ___ with transfusion as needed. 
+
+I personally spent 62 minutes preparing discharge paperwork, educating patient, answering questions, and coordinating care with outpatient providers
+
+___: Opiates were needed for acute pain as non-narcotic medications were not potent enough to control symptoms. PMP reviewed prior to prescribing
+
+This patient was prescribed, or continued on, an opioid pain medication at the time of discharge (please see the attached medication list for details). As part of our safe opioid prescribing process, all patients are provided with an opioid risks and treatment resource education sheet and encouraged to discuss this therapy with their outpatient providers to determine if opioid pain medication is still indicated.  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Aspirin 81 mg PO DAILY 2. Acetaminophen 1000 mg PO TID 3. Atorvastatin 40 mg PO QPM 4. Betamethasone Dipro 0.05% Oint 1 Appl TP BID right arm hyperpigmentation 5. Bisacodyl ___AILY:PRN constipation 6. Docusate Sodium 100 mg PO BID 7. Gabapentin 400 mg PO TID 8. Multivitamins 1 TAB PO DAILY 9. Omeprazole 20 mg PO DAILY 10. Polyethylene Glycol 17 g PO DAILY 11. Senna 17.2 mg PO BID 12. Vitamin D 1000 UNIT PO DAILY 13. Ascorbic Acid ___ mg PO DAILY 14. Calcium Carbonate 500 mg PO BID 15. Ondansetron ODT 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+
+16. Lidocaine 5% Patch 2 PTCH TD QAM 17. Apixaban 5 mg PO BID 18. OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - Moderate 19. OxyCODONE SR (OxyCONTIN) 20 mg PO Q12H 
+
+ Discharge Medications: 1. Capsaicin 0.025% 1 Appl TP TID to R knee and arm RX *capsaicin 0.025 % 1 application to arm and knee on right three times a day Refills:*0 2. DULoxetine ___ 30 mg PO DAILY  3. OxyCODONE SR (OxyCONTIN) 30 mg PO Q12H RX *oxycodone [OxyContin] 30 mg 1 tablet(s) by mouth every twelve (12) hours Disp #*10 Tablet Refills:*0 4. Polyethylene Glycol 17 g PO BID  5. Acetaminophen 1000 mg PO TID  6. Apixaban 5 mg PO BID  7. Ascorbic Acid ___ mg PO DAILY  8. Aspirin 81 mg PO DAILY  9. Atorvastatin 40 mg PO QPM  10. Betamethasone Dipro 0.05% Oint 1 Appl TP BID right arm hyperpigmentation  11. Bisacodyl ___AILY:PRN constipation  12. Calcium Carbonate 500 mg PO BID  13. Docusate Sodium 100 mg PO BID  14. Gabapentin 400 mg PO TID  15. Lidocaine 5% Patch 2 PTCH TD QAM  16. Multivitamins 1 TAB PO DAILY  17. Omeprazole 20 mg PO DAILY  18. Ondansetron ODT 4 mg PO Q8H:PRN Nausea/Vomiting - First Line  19. OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - Moderate RX *oxycodone 5 mg ___ tablet by mouth every four (4) hours Disp #*30 Tablet Refills:*0 20. Senna 17.2 mg PO BID  21. Vitamin D 1000 UNIT PO DAILY 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: #Fever # R Proximal Humerus Fracture # Castration-resistant metastatic prostate cancer # Acute on Chronic Neoplasm Related Pain #Recent dx of DVT
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Mr ___,
+
+It was a pleasure taking care of you while you were hospitalized at ___. As you know, you were admitted for a right arm fracture due to your cancer, and had an operation to stabilize it. You will need to attend your outpatient orthopedics appt in 1 week to have staples removed and arm re-evaluated. Your pain medications were increased as a result of your fracture
+
+Dr ___ was aware of your hospitalization. Please call him to schedule a followup appointment in ___ weeks.  Followup Instructions: ___ 

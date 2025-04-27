@@ -1,0 +1,85 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: cough, wrist pain  Major Surgical or Invasive Procedure: None  History of Present Illness: Mr. ___ is a ___ year old male with a PMHx of hypertension and asthma who presents as a transfer from ___ ___ with right wrist pain and swelling after fall. There was concern that the patient would need hand surgery evaluation and so he was transferred to ___ for further care. Prior to transfer he was given vancomycin and ceftriaxone.
+
+In the ED here, he was evaluated by hand surgery who felt that his pain and swelling were most likely an MSK injury from his fall and recommended volar resting splint and strict elevation with outpatient follow up.
+
+While in the ED, he also became hypoxic overnight to the ___ and had a temperature of 102.5. A chest x-ray was done which showed some focal opacities and the patient was started on ceftriaxone and azithromycin for pneumonia. He was admitted for further monitoring.
+
+Initial ED vitals: 97.0, 72, 135/64, 18, 99% on room air. T-max 102.5. Vitals prior to transfer to the floor: 100.8, 79, 132/65, 18, 99% on room air.
+
+The patient was given:
+
+___ 00:17 PO Benzonatate 100 mg ___ 00:17 PO/NG GuaiFENesin 10 mL  ___ 01:28 IVF NS 1000 mL  ___ 08:26 PO Benzonatate 100 mg ___ 08:26 PO Azithromycin 500 mg ___ 08:26 IV Ceftriaxone 1g ___ 08:57 PO/NG Hydrochlorothiazide 25 mg ___ 08:57 PO/NG Aspirin 81 mg ___ 08:57 PO Loratadine 10 mg ___ 08:57 PO Potassium Chloride 10 mEq ___ 09:42 IH Fluticasone-Salmeterol Diskus (250/50) 1 INH ___ 09:42 PO Verapamil 240 mg ___ 09:42 PO Calcitriol .25 mcg ___ 15:09 PO Benzonatate 100 mg ___ 15:39 PO Acetaminophen 1000 mg
+
+On arrival to the floor, he states that he had a cough which started roughly 10 days ago. He saw his PCP and received cough medications. He did not report any fevers. He has had some general upper respiratory symptoms. He had been doing well until 3 nights ago when he got out of his car and slipped on some ice. He fell on his right arm and hurt his wrist. 2 days ago the pain was worsening so he went to the ___ emergency room and was transferred here as above.
+
+ROS: Pertinent positives and negatives as noted in the HPI. Otherwise a 10-point ROS was reviewed and is negative.  Past Medical History: -Asthma (only problem given by patient, remainder per OMR review) -Hypertension -Gout -BPH -Likely CKD 3  Social History: ___ Family History: His father had asthma. He denies other family history.  Physical Exam: --------------- On Admission: --------------- VITALS: Afebrile and vital signs stable GENERAL: Alert and in no apparent distress EYES: Anicteric, no conjunctival injection, pupils equally round ENT: Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesions, erythema or exudate. CV: Heart regular, no murmur, no S3, no S4. RESP: Lungs with bilateral scattered rhonchi, with good air movement bilaterally. Breathing is non-labored GI: Abdomen soft, non-tender in all quadrants, non-distended.  No rebound or guarding. GU: No suprapubic fullness or tenderness to palpation. MSK: Neck supple, moves all extremities, right wrist is wrapped and elevated on pillows, he reports the swelling has improved EXT: No c/c/e, no ___ edema SKIN: No rashes or ulcerations noted. NEURO: Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs PSYCH: pleasant, appropriate mood and affect
+
+Discharge exam 97.6 PO 130 / 69 65 18 98 RA sitting in bed. lungs clear to auscultation bilaterally CV rrr without mrumurs appreciated Abdomen soft, NT, ND, NABS EXt with right wrist with mild swelling of hands and fingers, and ability to flex and extend more, and able to almost make a fist.  Pertinent Results: Admission Labs (___): 
+
+WBC-12.9* > HGB-11.4* / HCT-34.6* < PLT COUNT-238 RBC-4.17* MCV-83 MCH-27.3 MCHC-32.9 RDW-13.1 RDWSD-40.0 ___ 06:04AM  NEUTS-70.4 LYMPHS-13.0* MONOS-13.8* EOS-1.7 BASOS-0.2 IM ___ AbsNeut-9.05* AbsLymp-1.67 AbsMono-1.78* AbsEos-0.22 AbsBaso-0.03
+
+WBC-12.6* > HGB-11.9* / HCT-35.1* < PLT COUNT-233
+
+___ PTT-28.8 ___
+
+RBC-4.29* MCV-82 MCH-27.7 MCHC-33.9 RDW-13.2 RDWSD-39.2
+
+NEUTS-66.5 LYMPHS-11.8* MONOS-19.2* EOS-1.7 BASOS-0.2 IM ___ 
+
+AbsNeut-8.35* AbsLymp-1.49 AbsMono-2.42* AbsEos-0.22 AbsBaso-0.02
+
+HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-NORMAL 
+
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL  LACTATE-1.3 ANION GAP-15 UREA N-24* / CREAT-1.3* SODIUM-133* / POTASSIUM-3.4 CHLORIDE-94* / TOTAL CO2-24 GLUCOSE-105* 
+
+------ Micro: ------ FluAPCR-NEGATIVE FluBPCR-NEGATIVE
+
+URINE  COLOR-Yellow APPEAR-Clear SP ___ BLOOD-NEG NITRITE-NEG PROTEIN-TR* GLUCOSE-NEG KETONE-10* BILIRUBIN-NEG UROBILNGN-2* PH-6.0 LEUK-NEG RBC-1 WBC-1 BACTERIA-NONE YEAST-NONE EPI-<1 TRANS EPI-<1 HYALINE-3*
+
+-------- Studies: --------
+
+CXR ___: 1. Low lung volumes with bibasilar atelectasis, but no focal consolidations. 2. Mild cardiomegaly with pulmonary vascular engorgement.
+
+---------------- Discharge Labs: ----------------
+
+___ 07:11AM BLOOD WBC-17.6* RBC-4.02* Hgb-10.8* Hct-33.6* MCV-84 MCH-26.9 MCHC-32.1 RDW-13.5 RDWSD-41.1 Plt ___ (ON STEROIDS) ___ 07:11AM BLOOD Glucose-91 UreaN-47* Creat-1.3* Na-137 K-4.3 Cl-100 HCO3-26 AnGap-11  Brief Hospital Course: Mr. ___ is a ___ male with a past medical history of asthma who initially presented for evaluation of right wrist pain and swelling and was admitted for treatment of pneumonia, and supportive care of wrist pain. 
+
+Acute issues:
+
+#Pneumonia He had a chest xray with atelectasis but clinical picture felt to be consistent with pneumonia. Flu negative. CTX/azithro was started in the ED. Patient well appearing, switched to levofloxacin on admission , and completed this course with defervescence and no fever for days.
+
+#Right wrist pain and swelling: No acute fracture or dislocation. Possible tenosynovitis of the right thumb. Seen by hand surgery who recommended volar splinting mainly for comfort. He continued to have pain, and progressive decreased movement of the hand. He was treated for 3 days with prednisone in case this represented gout, but without significant improvement. He was treated with tramadol for pain control. With therapy, his hand movement improved, but he is at risk for loss of range of motion without therapy. If it does not return to baseline - he should have an MRI of the hand to rule out tendon injury.
+
+#CKDIII - Last Creatinine in ___ system was from several years ago and was 1.5. Currently 1.3, likely at baseline. 
+
+#Anemia - Last hemoglobin in ___ records from ___ was 12.8. Currently 11.4 and stable. No evidence of active bleeding. 
+
+ #Hypertension - blood pressure was elevated, and he was continued on verapamil. HCTZ was stopped due to gout and history of ckd, and he was started on lisinopril with good effect. 
+
+Chronic issues: COPD/asthma - continued on home agents
+
+transitional issues -MRI wrist if not improved by the time of dc from rehab -repeat bmp on lisinopril in 1 week -repeat cbc to verify resolution of leukocytosis 
+
+Daughter, ___, ___ Full Code 
+
+Call ___, through hostpialist office at ___ with any questions or concerns.
+
+ Medications on Admission: The Preadmission Medication list may be inaccurate and requires futher investigation. 1. Hydrochlorothiazide 25 mg PO DAILY 2. budesonide-formoterol 160-4.5 mcg/actuation inhalation BID 3. Dorzolamide 2% Ophth. Soln. 1 DROP BOTH EYES BID 4. Doxazosin 2 mg PO HS 5. Montelukast 10 mg PO QHS 6. Verapamil SR 240 mg PO Q24H 7. Aspirin 81 mg PO DAILY 8. Calcitriol 0.25 mcg PO DAILY 9. Fish Oil (Omega 3) 1200 mg PO DAILY 10. Loratadine 10 mg PO DAILY 11. Potassium Chloride 10 mEq PO DAILY 12. Travatan Z (travoprost) 0.004 % ophthalmic (eye) DAILY 13. vardenafil 10 mg oral DAILY 14. Finasteride 5 mg PO DAILY 
+
+ Discharge Medications: 1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  2. Docusate Sodium 100 mg PO BID  3. Lisinopril 10 mg PO DAILY  4. Polyethylene Glycol 17 g PO DAILY:PRN constipation  5. Senna 8.6 mg PO BID:PRN constipation  6. TraMADol ___ mg PO Q6H:PRN pain RX *tramadol 50 mg ___ tablet(s) by mouth every 6 hours as needed Disp #*15 Tablet Refills:*0 7. Aspirin 81 mg PO DAILY  8. budesonide-formoterol 160-4.5 mcg/actuation inhalation BID  9. Calcitriol 0.25 mcg PO DAILY  10. Dorzolamide 2% Ophth. Soln. 1 DROP BOTH EYES BID  11. Doxazosin 2 mg PO HS  12. Finasteride 5 mg PO DAILY  13. Fish Oil (Omega 3) 1200 mg PO DAILY  14. Loratadine 10 mg PO DAILY  15. Montelukast 10 mg PO QHS  16. Travatan Z (travoprost) 0.004 % ophthalmic (eye) DAILY  17. vardenafil 10 mg oral DAILY  18. Verapamil SR 240 mg PO Q24H 
+
+ Discharge Disposition: Extended Care  Facility: ___  ___ Diagnosis: Community Acquired Pneumonia Asthma Right wrist sprain Chronic Kidney Disease Stable Chronic Anemia Hypertension
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Dear Mr. ___,
+
+It was a pleasure to participate in your care.
+
+WHY WAS I ADMITTED TO THE HOSPITAL? You had wrist pain after a fall.
+
+WHAT HAPPENED WHILE I WAS HERE? You were seen by the hand doctors, who advised supportive care You were treated for a pneumonia We switched one of your blood pressure medications
+
+WHAT SHOULD I DO WHEN I GET HOME? Take all of your medications 
+
+We wish you the best! Sincerely, Your ___ Team  Followup Instructions: ___ 

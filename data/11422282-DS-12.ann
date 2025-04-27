@@ -1,0 +1,19 @@
+T1	Seizures 383 385	sz
+T2	Lower_respiratory_tract_infection 1243 1252	pneumonia
+A2	Diagnosis T2 Suspected
+T3	Lower_respiratory_tract_infection 1983 1992	pneumonia
+A3	Diagnosis T3 History_of
+T4	Urinary_tract_infection 3722 3725	UTI
+A4	Diagnosis T4 History_of
+T5	Seizures 4407 4414	seizure
+A5	Diagnosis T5 History_of
+A1	Diagnosis T1 History_of
+T6	Seizures 7017 7024	seizure
+A6	Diagnosis T6 History_of
+T7	Urinary_tract_infection 7725 7728	UTI
+A7	Negation T7
+T8	Lower_respiratory_tract_infection 8157 8166	pneumonia
+A9	Negation T8
+T9	Delirium 11354 11385	Mental status - Alert, coherent
+A8	Negation T9
+T10	Independently_mobile 11386 11417	Ambulatory status - independent

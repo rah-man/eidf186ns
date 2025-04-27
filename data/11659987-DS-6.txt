@@ -1,0 +1,51 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: ___  Attending: ___.  Chief Complaint: Hypoxia, thalamic bleed  Major Surgical or Invasive Procedure: none  History of Present Illness: ___ M with recent right thalamic cerebellar bleed, chronic c.diff colitis, h/o aspiration s/p PEG came to ER from rehab after fall 3 days ago and subsequent headache. He went to ___ where he was found to have saturation in ___. CXR showed aspiration, CTH showed "acute posterior right corona radiata intraparenchymal hemorrhage with mild mass effect" unclear if this was acute or chronic. He was then transferred. Here CT shows right thalamic bleed, unclear if acute or chronic without seeing prior image. Neurosurgery saw patient, no surgical indication. Neurology saw patient and rec holding lovenox, ASA, dilantin and getting films from ___ bleed, MRI if becomes stable. Patient was confirmed DNR/DNI. CXR confirms right aspiration PNA and right clavicle fracture. He was given 1.5 L NS and placed on NRB with saturations 92-96%. ECG with SR, TW flat V5 V6 and no acute ST-T changes.  In the ER vitals 92/48, was ___ systolic briefly, HR ___, NRB 100% with sats 92-96%  .  Review of sytems:  (+) Per HPI 
+
+ Past Medical History: Right thalamic hemorrhage, diagnosed ___  Chronic C. difficile colitis on daily vancomycin  Aspiration s/p PEG ___ c/b aspiration PNA  Bilateral DVT, previously on Coumadin  CAD  Hypertension  AAA s/p repair  Cervical spinal stenosis  History of lumbar disc surgery  Left cataract surgery 
+
+ Social History: ___ Family History: There is no family history of hypertension, DM, stroke. His father had lung cancer and was a smoker.  Physical Exam: Vitals: T: BP: P: R: 18 O2:  General: Alert, oriented, no acute distress  HEENT: Sclera anicteric, MMM, oropharynx clear  Neck: supple, JVP not elevated, no LAD  Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi  CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema 
+
+ Pertinent Results: ___ CXR: As compared to the previous radiograph, the pre-existing right sided parenchymal opacities have massively increased in extent. They now occupy the entire right lung bases. The presence of a combined dense lung parenchyma and air bronchograms suggests pneumonia. Mild increase in density is also seen at the left lung bases. The presence of a small right-sided effusion cannot be excluded, no larger left-sided pleural effusion. The size of the cardiac silhouette is unchanged. Round linear structure in the left lung base is caused by a skin fold. 
+
+___ CT Head: Right thalamic hemorrhage. Given the report of this having occurred on ___, without comparison study, cannot assess whether this appearance represents evolution of that hemorrhage or re-bleed. Recommend re-evalution when previous (OSH) study becomes available, or short-interval f/u study. 
+
+___ CHEST (PORTABLE AP): FRONTAL CHEST RADIOGRAPH: A right-sided PICC line is in unchanged position with tip in the mid SVC. The cardiomediastinal silhouette is stable. Diffuse right sided parenchymal opacities and a small right-sided pleural effusion are not significantly changed. A new opacity in the left lung base representing a developing consolidation possibly secondary to aspiration. There is a left sided small pleural effusion as well.    
+
+ Brief Hospital Course: Mr. ___ is a ___ year-old man w/ recent thalamic hemorrhage likely secondary to combination of supratheraputic INR and hypertension admitted with altered mental status and hypoxia likely due to aspiration pneumonia. 
+
+1) Aspiration pneumonia: He had a witnessed aspiration event immediately prior to becoming hypoxic and confused. CXR demonstrated a large RLL infiltrate consistent with aspiration pneumonia. He was initially treated with vancomycin and levofloxacin and zosyn was added on ___ for expanded coverage of hospical acquired aspiration pneumonia because his improvement was slow. His respiratory function gradually improved and his supplemental oxygen requirement decreased. Levofloxacin was also discontinued. A PICC line was also placed to facilitate IV antibiotics, and he will complete a 10-day course of vancomycin on ___ and zosyn on ___. He was also given albuterol, ipratropium, and budesonide nebulizer treatments to help his oxygenation and ventilation, and to treat likely COPD given his extensive smoking history. Aspiration precautions were also taken, including keeping the head of bed elevated to 30 degrees at all times. He was also continued on tube feeds.
+
+2)Right thalamic bleed: He suffered a CVA in his right thalamus on ___ that was thought to be secondary to hypertension and an elevated INR. He was on warfarin for a DVT that was diagnosed in ___. After he was stabilized (INR was corrected and patient was monitored to assess for resolution of bleed), he was started on ASA 325 mg daily and Lovenox 40 SC daily. He was then discharged to ___ ___, where he fell and hit his head on ___. He was complaining of a headache, however, and was readmitted for evaluation. At this time, there was concern that the patient may have had a recurrent bleed but his CT head was stable x 2.  Lovenox was stopped nonetheless. Heparin SC for DVT prophylaxis was continued.
+
+3) Right fractured clavicle/Left chest pain: The patient was placed in a sling and will need to follow-up appointment with orthopedics as an outpatient. His left chest pain was secondary to costochondritis and was managed with tylenol and ibuprofen.
+
+4) C.diff colitis: He has had recurrent c. diff and has been on a long taper with recent recurrence of cdiff after stopping po vanco.  He was continued on po vancomycin and will need a long taper after abx course completed.
+
+5) h/o DVT: Diagnosed in ___ and treatment was stopped after his thalamic bleed, as described above, and then restarted with lovenox. He has completed approximately six months of anticoagulation. A hypercoagulability evaluation has not been performed, however. 
+
+6) CAD/HTN: Continued on lopressor, ASA, and lisinopril.
+
+7)FEN: Fibersource HN (Full) - ___ 05:07 ___ 40 mL/hour
+
+8)Access: PICC placed ___: SQ UF Heparin, PPI
+
+10) Code status: DNR/DNI. We had a long discussion with family and they would not want CVL, a-line, or other aggresive therapies.
+
+ 
+
+ Medications on Admission: Medications on transfer:  -Lisinopril 20 mg PG bid  -Prevacid 30 mg PG daily  -Vancomycin 250 mg PG qid (changed from 125 mg on ___  -Flagyl 500 mg PO tid x14 days (started ___  -Vitamin D 1000 U PG daily and ___ U weekly x10 weeks  -Zanaflex 4 mg PG qhs  -Florastore 1 tab bid x3 months  -Metoprolol 50 mg PG bid  -ASA 325 mg PG daily  -Lovenox 40 mg SC daily  -Potassium 20 mEq PG daily  -Jevity 1.2 at 63 cc/hr, H2O bolus 150 mL q6 hr  -Duoneb qid  -Fe gluconate 300 mg PG bid  -Colace 100 mg bid  -Tylenol ___ mg PG q4 hr  -MOM 30 mL qhs  -Bisacodyl ___aily  -Mg oxide PG bid x2weeks 
+
+ Discharge Medications: 1. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation Q2H (every 2 hours) as needed for wheezing. neb 2. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical QID (4 times a day) as needed.  3. Vancomycin 125 mg Capsule Sig: One Hundred ___ (125) mg liquid PO Q6H (every 6 hours): per PEG.  4. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day): per PEG.  5. Acetaminophen 160 mg/5 mL Solution Sig: Six Hundred Fifty (650) mg PO Q6H (every 6 hours): per PEG.  6. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): per PEG.  7. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) ml Injection TID (3 times a day).  8. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily): per PEG.  9. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 hours) as needed: per PEG.  10. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours).  11. Budesonide 0.25 mg/2 mL Suspension for Nebulization Sig: Two (2) ML Inhalation bid ().  12. Ibuprofen 100 mg/5 mL Suspension Sig: Six Hundred (600) mg PO Q6H (every 6 hours).  13. Sodium Chloride 0.9% Flush 10 mL IV PRN line flush PICC, non-heparin dependent: Flush with 10 mL Normal Saline daily and PRN per lumen. 14. Piperacillin-Tazobactam-Dextrs 4.5 gram/100 mL Piggyback Sig: 4.5 g Intravenous Q8H (every 8 hours) for 6 days.  15. Vancomycin in Dextrose 1 gram/200 mL Piggyback Sig: One (1) g Intravenous Q 12H (Every 12 Hours) for 4 days. 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Primary: Aspiration pneumonia Subthalamic hemorrhage
+
+Secondary: Coronary artery disease Hypertension
+
+ Discharge Condition: Stable
+
+ Discharge Instructions: You were admitted because of shortness of breath. We diagnosed you with pneumonia and treated you with antibiotics. You were breathing more comfortably at the time of discharge. 
+
+Please take all of your medications as prescribed. Please keep all of your follow-up appointments. 
+
+Please call your doctor or return to the hospital if you experience fevers, chills, sweats, chest pain, shortness of breath or anything else of concern.
+
+ Followup Instructions: ___ 

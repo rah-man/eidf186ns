@@ -1,0 +1,24 @@
+T1	Delirium 15889 15897	Confused
+T2	Mobile_with_assistance 15977 16009	Ambulatory - requires assistance
+T3	Mobile_with_aid 16013 16016	aid
+A1	Type_of_aid T3 Two_sticks_or_frame
+T4	Hearing_impairment 2838 2850	Hearing loss
+A2	Diagnosis T4 History_of
+T5	Vertebral_compression_fracture 2887 2911	T12 compression fracture
+A3	Diagnosis T5 History_of
+T6	Delirium 746 760	encephalopathy
+T7	Delirium 897 905	confused
+A4	Diagnosis T7 Implicit_mention
+T8	Visual_impairment 962 982	change in the vision
+A5	Negation T8
+T9	Vertebral_compression_fracture 1415 1439	T12 compression fracture
+A6	Diagnosis T9 History_of
+T10	Constipation 1809 1821	constipation
+T11	Intracranial_haemorrhage 7991 8014	intracranial hemorrhage
+A7	Negation T11
+T12	Delirium 1210 1224	encephalopathy
+T13	Hearing_impairment 2858 2874	cochlear implant
+T14	Unspecified_cognitive_impairment 3458 3462	AOx2
+T15	Hearing_impairment 6841 6857	cochlear implant
+T16	Delirium 12978 12992	encephalopathy
+T17	Delirium 14286 14295	confusion

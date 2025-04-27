@@ -1,0 +1,32 @@
+T1	Constipation 18706 18718	constipation
+A1	Diagnosis T1 Implicit_mention
+T2	Urinary_tract_infection 17833 17856	urinary tract infection
+T3	Mobile_with_assistance 17011 17043	Ambulatory - requires assistance
+T4	Mobile_with_aid 17047 17050	aid
+A2	Type_of_aid T4 Two_sticks_or_frame
+T5	Delirium 16925 16933	Confused
+T6	Constipation 15603 15615	constipation
+T7	Lower_respiratory_tract_infection 13081 13090	pneumonia
+T8	Urinary_tract_infection 13092 13095	UTI
+T9	Urinary_tract_infection 12690 12694	UTI:
+T10	Unspecified_cognitive_impairment 4100 4104	AOx2
+T11	Lower_respiratory_tract_infection 1842 1851	pneumonia
+T12	Urinary_tract_infection 1856 1859	UTI
+T13	Lower_respiratory_tract_infection 950 959	pneumonia
+A3	Diagnosis T13 History_of
+T14	Urinary_tract_infection 1670 1673	UTI
+T15	Lower_respiratory_tract_infection 1191 1200	pneumonia
+A4	Diagnosis T15 History_of
+T16	Lower_respiratory_tract_infection 1262 1271	pneumonia
+T17	Unspecified_cognitive_impairment 4458 4462	AOX2
+T18	Lower_respiratory_tract_infection 10007 10016	pneumonia
+T19	Lower_respiratory_tract_infection 10208 10217	pneumonia
+T20	Lower_respiratory_tract_infection 10120 10129	pneumonia
+T21	Delirium 10974 10977	AMS
+T22	Urinary_tract_infection 12712 12715	UTI
+T23	Urinary_tract_infection 17666 17689	urinary tract infection
+T24	Lower_respiratory_tract_infection 1271 1289	/COPD exacerbation
+T25	Delirium 10853 10874	Altered Mental Status
+T26	Delirium 11434 11437	AMS
+A5	Low_confidence T10
+A6	Low_confidence T17

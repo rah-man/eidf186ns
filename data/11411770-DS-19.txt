@@ -1,0 +1,69 @@
+ Name: ___           Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: NEUROLOGY  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___  Chief Complaint: Decreased cognition, aphasia, and somnolence  Major Surgical or Invasive Procedure: Intubation  History of Present Illness: Ms. ___ is a ___ woman with past history of hypertension possibly off medications since ___ per prior records who presents the ED via EMS after being found earlier in afternoon on ___ by her neighbor to be aphasic and confused. Per the neighbor's report, her last seen normal time was on the evening of ___. In the ED, the patient had a NCHCT which demonstrated a large left parietal IPH. Neurosurgery was consulted for evaluation with no immediate intervention required.
+
+No additional corroborating information was available at the time of admission, nor was any evidence of antecedent event such as head trauma, falls, or any ingestions.  Past Medical History: - Hypertension - Allergic Rhinitis  Social History: ___ Family History: - Unable to obtain at this time
+
+ Physical Exam: #####Admission Examination#####
+
+HR=125, BP=229/112 to 155/88, RR=20, SaO2=97% RA General: Waxing/Waning consciousness, poorly attentive. HEENT: NC/AT Neck: Supple, no carotid bruits appreciated. No nuchal rigidity Pulmonary: CTABL Cardiac: RRR, no murmurs Abdomen: soft, nontender, nondistended  Neurologic: - Mental Status: Fluctuating consciousness, Able to answer how are you with "Im Fine, Okay" but no other appropriate answers, does not follow commands, and does not respond with other words.
+
+-Cranial Nerves: I: Olfaction not tested. II: PERRL 3 to 2mm, both directly and consentually; brisk bilaterally. Neglecting right FOV blink to threat, full in left. Funduscopic exam revealed no papilledema, exudates, or hemorrhages. III, IV, VI: Did not cross midline to the right, slight baseline left strabismus V/VII: Facial musculature symmetric with equal activation VIII: Hearing intact to finger-rub bilaterally. IX, X: Unable to cooperate XI: Unable to cooperate XII: Tongue protrudes in midline, and is equal ___ strength bilaterally as evidenced by tongue-in-cheek testing.  -Motor: Normal bulk, tone throughout. No adventitious movements, such as tremor, noted. No asterixis noted. Grossly moved right < left in upper and lower extremities  -DTRs:   Bi Tri ___ Pat Ach L  2  1   1   1  1 R  2  1   1   1  1 - Plantar response was mute bilaterally.  -Sensory: Grimaced to pinch in all extremities
+
+-Coordination/Gait: Did not cooperate. 
+
+#####Discharge Exam##### General: Awake and alert. No acute distress. HEENT: NC/AT, moist mucus membranes Neck: Supple, no carotid bruits appreciated. No nuchal rigidity Pulmonary: CTABL Cardiac: RRR, no murmurs Abdomen: soft, nontender, nondistended  Neurologic: - Mental Status: Awake. Alert. Intermittently oriented to place. Not oriented to time. Naming impaired. Perseverative. Repetition intact. Intermittently able to follow simple commands  -Cranial Nerves: Face symmetric. EOMI. PERRL 3 to 2mm, both directly and consentually; brisk bilaterally. Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No adventitious movements, such as tremor, noted. Moving all extremities spontaneously and antigravity.  -DTRs:   Bi Tri ___ Pat Ach L  2  1   1   1  1 R  2  1   1   1  1 - Plantar response was mute bilaterally.
+
+- Sensory: Grimaced to pinch in all extremities 
+
+- Coordination: No pronator drift. No dysmetria with object reach.    Pertinent Results: CT Head ___: IMPRESSION: Left parieto-occipital intraparenchymal hemorrhage with associated peripheral edema and mass effect. There is no evidence of midline shift or herniation. 
+
+MRI/MRA Brain, Head Neck ___: IMPRESSION: 1. Large lobar hematoma in the inferior left parietal lobe appears stable compared to 1 day earlier with stable mass effect. 2. Innumerable chronic microhemorrhages at the gray/ white matter junction of bilateral cerebral hemispheres, in bilateral midbrain and left greater to the right cerebellum, suggesting underlying amyloid angiopathy. 3. Apparent irregularity and mild narrowing of the proximal left subclavian artery, likely atherosclerotic. Some degree of stenosis at the left vertebral artery origin is likely present. 4. Apparent occlusion of the V2 and proximal V3 segments of the right vertebral artery, with reconstitution of the distal V3 and V4 segments. 5. Diffuse irregularity of the basilar artery with an moderate-to-severe focal stenosis at the junction of its proximal and middle thirds. 6. Atherosclerosis of the proximal internal carotid arteries, right greater than left, without flow-limiting stenosis by NASCET criteria. 7. Posterior cerebral, anterior cerebral, and middle cerebral arteries are patent but suboptimally assessed for stenoses. Overall, the brain MRA is technically limited. The cervical and intracranial arteries could be better assessed by CTA, if clinically warranted. 
+
+Renal US Doppler ___: 1. The left kidney is somewhat atrophic. Renal artery stenosis in the left kidney may be present but adequate arterial waveforms could not be obtained, due to the patient's inability to hold her breath. 2. No evidence of renal artery stenosis in the right kidney. Elevated resistive indices of the intraparenchymal arteries are noted. 
+
+___ CT Head, CTA Head/Neck 1. No evidence of pulmonary embolism or acute aortic abnormality. 2. Chronic atherosclerotic disease most prominent at the ostium and proximal portion of the left subclavian artery causing moderate narrowing as well as the celiac axis. 3. Noncalcified atheroma along the left aortic arch. 4. Small bilateral, left greater than right, nonhemorrhagic pleural effusions with associated compressive atelectasis. Slightly more confluent area within the left lower lobe is most consistent with atelectasis however clinical correlation is recommended to assess for superimposed infection. 5. Small pericardial effusion. 6. 2 mm left upper lobe pulmonary nodule. 
+
+___ 06:25AM BLOOD WBC-11.3* RBC-3.06* Hgb-9.6* Hct-29.6* MCV-97 MCH-31.4 MCHC-32.5 RDW-15.6* Plt ___ ___ 02:30PM BLOOD WBC-9.4 RBC-3.88* Hgb-12.2 Hct-37.2 MCV-96 MCH-31.5 MCHC-32.9 RDW-14.7 Plt ___ ___ 06:25AM BLOOD Neuts-82.1* Lymphs-9.8* Monos-5.7 Eos-2.2 Baso-0.2 ___ 06:25AM BLOOD Plt ___ ___ 05:02AM BLOOD ___ PTT-29.0 ___ ___ 02:30PM BLOOD ___ PTT-23.9* ___ ___ 02:30PM BLOOD ___ 06:25AM BLOOD Glucose-109* UreaN-17 Creat-1.1 Na-137 K-4.1 Cl-100 HCO3-25 AnGap-16 ___ 02:30PM BLOOD UreaN-11 Creat-0.9 ___ 06:30PM BLOOD Glucose-119* UreaN-12 Creat-1.0 Na-137 K-4.7 Cl-99 HCO3-24 AnGap-19 ___ 05:02AM BLOOD ALT-23 AST-21 ___ 06:30PM BLOOD CK(CPK)-260* ___ 02:30PM BLOOD Lipase-20 ___ 01:00AM BLOOD CK-MB-3 cTropnT-<0.01 ___ 03:20AM BLOOD CK-MB-3 cTropnT-<0.01 ___ 06:30PM BLOOD CK-MB-4 cTropnT-<0.01 ___ 06:25AM BLOOD Calcium-9.5 Phos-3.8 Mg-2.1 ___ 03:20AM BLOOD %HbA1c-5.7 eAG-117 ___ 01:00AM BLOOD Triglyc-68 HDL-80 CHOL/HD-2.4 LDLcalc-96 ___ 03:20AM BLOOD Triglyc-92 HDL-97 CHOL/HD-2.6 LDLcalc-140* ___ 02:37PM BLOOD ___ pH-7.35 Comment-GREEN TOP ___ 11:11PM BLOOD Type-ART pO2-187* pCO2-34* pH-7.44 calTCO2-24 Base XS-0  Brief Hospital Course: Ms. ___ is a ___ year old woman with history of hypertension who presented to the ___ ED on ___ after she was found at home with decreased cognition, aphasia, and somnolence and was found to have a large L IPH in the parietal lobe. This is likely secondary to hypertension and amyloid angiopathy. 
+
+# NEURO: In the ED she was intubated for airway protection. Her CT revealed a large left parietal IPH. She was admitted to the SICU for management. Her admission labwork was otherwise benign. Neurosurgery was consulted and felt no surgical management was indicated. She was started on mannitol hyperosmolar therapy to control cerebral edema and swelling, which was subsequently stopped. She was extubated without complications. MRI brain & MRA Head/Neck showed chronic microhemorrhages, narrowing of L subclavian, stenosis of L vertebral and areas of R vertebral, atherosclerosis of proximal internal carotids. During hospitalization, aspirin, NSAIDs, other anti-platelet agents were held. Stroke risk factors were evaluated and HgbA1c is 5.7 and LDL is 96. 
+
+# ___: In the SICU, her blood pressure was initially controlled with nicardipine gtt in ICU. Her blood pressures continued to be elevated and it was noted that the blood pressures measured in different arms were different by 50mmgHg. Cardiology was recommended measuring BP in RUE. CTA showed L subclavian stenosis. Currently she is on amlopidine 10mg qday, labetalol ___ and lisinopril 30mg qday. 
+
+# RENAL: Initially, she had ___ s/p contrast from CTA which resolved with IVF. Her chemistry panel has been within normal limits since.
+
+# INFECTIOUS DISEASE: Intially, she was febrile on ___ with leukocytosis with possible R sided infiltrate on CXR. Although there was possibility for an aspiration event, empiric antibiotics was not started at that time because she appeared clinicaly well and susequently remained afebrile. On ___, it was noted that she had a vesicular rash on her back. Dermatology was consulted and rash was consisent with HSV. Antigen testing indicated HSV type 2. She was on Valacyclovir from ___.  She was found to have a UTI on ___ and was treated with CTX until ___.  She again became febrile on ___ with a CXR concerning for a RLL PNA and a UA concerning for UTI and thus her antiobiotics was switched to Vancomycin and Zosyn from ___. She has been afebrile since. A video swallow on ___ did not show any aspiration.   # PSYCH: Initially, she had some agitation with confusion. Seroquel was started. As her neurologic exam improved and her confusion decreased over the hospitalization, Seroqel was discontinued and she has been doing well since. 
+
+# F/E/N: She passed speech and swallow evaluation. She is currently on ground solids and thin liquids and doing well. Her weights have been stable throughout hospital stay.
+
+AHA/ASA Core Measures for Intracerebral Hemorrhage
+
+1. Dysphagia screening before any PO intake? (x) Yes [performed and documented by admitting resident]  () No
+
+2. DVT Prophylaxis administered by the end of hospital day 2? (x) Yes - () No
+
+3. Smoking cessation counseling given? () Yes - (x) No [reason (x) non-smoker - () unable to participate]
+
+4. Stroke education given (written form in the discharge worksheet)? () Yes - (x) No (stroke education = personal modifiable risk factors, how to activate EMS for stroke, stroke warning signs and symptoms, prescribed medications, need for followup)
+
+5. Assessment for rehabilitation or rehab services considered? (x) Yes - () No [if no, reason not assessed: ____ ]  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Metoprolol Tartrate 100 mg PO BID 2. spironolacton-hydrochlorothiaz ___ mg oral daily 
+
+ Discharge Medications: 1. Docusate Sodium (Liquid) 100 mg PO BID 2. Senna 8.6 mg PO BID:PRN constipation 3. Amlodipine 10 mg PO DAILY 4. Labetalol 200 mg PO QPM 5. Labetalol 300 mg PO NOON 6. Labetalol 400 mg PO QAM 7. Multivitamins 1 TAB PO DAILY 8. Lisinopril 30 mg PO DAILY 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Left parietal lobe intraparenchymal hemorrhage
+
+ Discharge Condition: Mental Status: Confused - always. Level of Consciousness: Alert and interactive. Activity Status: Out of Bed with assistance to chair or wheelchair.
+
+ Discharge Instructions: Dear Ms. ___,
+
+You were hospitalized due to symptoms of confusion and trouble speaking resulting from an ACUTE HEMORRHAGIC STROKE, a condition in which a blood vessel providing oxygen and nutrients to the brain bleeds. The brain is the part of your body that controls and directs all the other parts of your body, so damage to the brain from bleeding can result in a variety of symptoms.
+
+Stroke can have many different causes, so we assessed you for medical conditions that might raise your risk of having stroke. In order to prevent future strokes, we plan to modify those risk factors. Your risk factors are: Hypertension Amyloid angiopathy
+
+Please follow your medication list closely and take your medications as prescribed. Do not take aspirin or NSAIDs, as these can increase your risk of bleeding.
+
+Please followup with Neurology and your primary care physician as listed below.
+
+If you experience any of the symptoms below, please seek emergency medical attention by calling Emergency Medical Services (dialing 911). In particular, since stroke can recur, please pay attention to the sudden onset and persistence of these symptoms: - sudden partial or complete loss of vision - sudden loss of the ability to speak words from your mouth - sudden loss of the ability to understand others speaking to you - sudden weakness of one side of the body - sudden drooping of one side of the face - sudden loss of sensation of one side of the body - sudden difficulty pronouncing words (slurring of speech) - sudden blurring or doubling of vision - sudden onset of vertigo (sensation of your environment spinning around you) - sudden clumsiness of the arm and leg on one side or sudden tendency to fall to one side (left or right) - sudden severe headache accompanied by the inability to stay awake It was a pleasure providing you with care during this hospitalization.
+
+ Followup Instructions: ___ 

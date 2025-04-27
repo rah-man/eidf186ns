@@ -1,0 +1,71 @@
+T1	Falls 595 599	fall
+T2	Falls 248 252	Fall
+T3	Dementia 449 457	dementia
+T4	Falls 492 497	falls
+A1	Diagnosis T4 History_of
+T5	Intracranial_haemorrhage 386 410	basal ganglia hemorrhage
+T6	Falls 556 560	fall
+T7	Dementia 1048 1056	dementia
+T8	Vertebral_compression_fracture 1152 1157;1168 1176	spine fracture
+A2	Negation T8
+T9	Falls 1292 1296	fall
+T10	Unspecified_cognitive_impairment 1695 1698;1699 1703	AAO x1-2
+T11	Falls 1765 1768	fal
+T12	Dementia 2184 2192	Dementia
+T13	Dementia 2203 2211	Dementia
+A3	Diagnosis T12 History_of
+A4	Diagnosis T13 History_of
+T14	Urinary_tract_infection 2247 2250	UTI
+A5	Diagnosis T14 History_of
+T15	Unspecified_cognitive_impairment 2981 2991	oriented x
+T16	Vertebral_compression_fracture 4596 4601;4628 4636	spine fracture
+A6	Negation T16
+T17	Intracranial_haemorrhage 5036 5059	subarachnoid hemorrhage
+A7	Diagnosis T17 Suspected
+T18	Vertebral_compression_fracture 5256 5264;5346 5351	fracture spine
+A8	Negation T18
+T19	Constipation 6900 6912	constipation
+A9	Diagnosis T19 Implicit_mention
+T20	Constipation 6973 6985	constipation
+A10	Diagnosis T20 Implicit_mention
+T21	Constipation 7199 7211	constipation
+A11	Diagnosis T21 Implicit_mention
+T22	Constipation 7525 7537	Constipation
+A12	Diagnosis T22 Implicit_mention
+T23	Delirium 7895 7903	Confused
+T24	Mobile_with_assistance 8029 8061	Ambulatory - requires assistance
+T25	Mobile_with_aid 8065 8068	aid
+A13	Type_of_aid T25 Two_sticks_or_frame
+T26	Intracranial_haemorrhage 8125 8141	Brain Hemorrhage
+T27	Seizures 8890 8898	seizures
+A14	Diagnosis T27 Implicit_mention
+T28	Delirium 8904 8913	confusion
+A15	Diagnosis T28 Implicit_mention
+T29	Delirium 8927 8950	change in mental status
+A16	Diagnosis T29 Implicit_mention
+T30	Constipation 8344 8356	constipation
+A17	Diagnosis T30 Implicit_mention
+T31	Intracranial_haemorrhage 7852 7855	SDH
+T32	Intracranial_haemorrhage 6359 6366;6393 6396	head CT SDH
+T33	Intracranial_haemorrhage 5609 5616;5675 5678	head CT SDH
+T34	Intracranial_haemorrhage 4798 4808;4878 4895	CT of Head subdural hematoma
+T35	Intracranial_haemorrhage 4307 4321;4363 4380	CT of the head subdural hematoma
+T36	Falls 1423 1427	fall
+T37	Intracranial_haemorrhage 1527 1540;1563 1573	basal ganglia hemorrhage
+A18	Diagnosis T37 Suspected
+T38	Intracranial_haemorrhage 1178 1185;1211 1214	CT head SDH
+T39	Unspecified_cognitive_impairment 970 994	poor congitive function,
+T40	Unspecified_cognitive_impairment 1671 1689	cognitive deficits
+T41	Urinary_incontinence 2127 2147	Urinary incontinence
+A19	Diagnosis T41 History_of
+T42	Hearing_impairment 3407 3421	Hearing intact
+A20	Negation T42
+T43	Unspecified_cognitive_impairment 4123 4144	oriented to self only
+T44	Intracranial_haemorrhage 4494 4517	subarachnoid hemorrhage
+A21	Diagnosis T44 Suspected
+T45	Falls 5571 5578	falling
+T46	Intracranial_haemorrhage 5845 5847;5855 5859;5907 5910	CT head SDH
+T47	Constipation 7605 7617	constipation
+A22	Diagnosis T47 Implicit_mention
+A23	Low_confidence T10
+A24	Low_confidence T15

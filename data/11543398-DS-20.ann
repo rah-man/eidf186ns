@@ -1,0 +1,16 @@
+T1	Delirium 7126 7144	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 7210 7242	Ambulatory - requires assistance
+T3	Mobile_with_aid 7246 7249	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Constipation 7614 7626	constipation
+A3	Diagnosis T4 Implicit_mention
+T5	Delirium 6176 6185	agitation
+T6	Delirium 5549 5558	agitation
+A4	Low_confidence T6
+A5	Low_confidence T5
+T8	Falls 382 386	fall
+T9	Mobile_with_aid 430 440	wheelchair
+A7	Type_of_aid T9 Wheelchair
+T7	Proximal_humeral_fracture 604 614	humeral fx
+A6	Diagnosis T7 History_of

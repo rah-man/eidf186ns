@@ -1,0 +1,45 @@
+Name: ___       Unit No: ___
+
+Admission Date: ___    Discharge Date: ___
+
+Date of Birth: ___    Sex: M
+
+Service: OME
+
+ HISTORY OF PRESENT ILLNESS: The patient is a ___ male with metastatic renal cell carcinoma admitted today to begin cycle 1 week 1 high-dose IL-2 therapy. His oncologic history began when he presented with anemia and right lower quadrant pain in ___. CT scan revealed a left kidney mass and lung nodules. Preoperatively, he signed consent for the dendritic cell vaccine protocol and underwent left radical laparoscopic nephrectomy by Dr. ___ on ___. Pathology revealed a 7.1-cm tumor, clear cell histology, firm and grade 3 with extension into perinephric tissues and veins. The adrenal gland was positive. He received the first dendritic cell vaccine on ___, the second vaccine on ___. Torso CT on ___, showed disease progression in the lung. High-dose IL-2 therapy was recommended and he began eligibility testing with a head CT on ___ revealing a probable left temporal lobe lesion. He underwent a brain MRI of neuro-oncology follow-up on ___ confirming CNS metastasis. On ___ he had Cyberknife to that lesion. Follow-up brain MRI 1 month later revealed stability of the lesion, but mild increased cerebral edema without mass effect. This was attributed to undergoing the procedure without steroids in order to start IL-2 on a timely fashion. He had no neurologic symptoms and was clear to begin IL-2 and presents today for therapy.
+
+PAST MEDICAL HISTORY: History of a bleeding ulcer in ___, hypertension, hyperlipidemia, GERD, diverticulosis, history of migraines, ___ esophagus, anemia related to folate deficiency, status post appendectomy in ___, status post hemorrhoidectomy in ___, status post back surgery in ___, rectal prolapse repair in ___, status post mastectomy x2.
+
+ALLERGIES: Penicillin.
+
+MEDICATIONS: Lipitor 20 mg p.o. daily, diltiazem 240 mg p.o. b.i.d. on hold, folate 1 mg daily, Protonix 40 mg daily, triamterene/hydrochlorothiazide 75/50 one tablet daily, valsartan 320 mg p.o. daily on hold, vitamin C 1000 mg p.o. daily, Citrucel 1000 mg p.o. b.i.d., vitamin B12 1000 mg subcu monthly.
+
+PHYSICAL EXAMINATION: GENERAL: Well-appearing male in no acute distress. Performance status zero. VITAL SIGNS: 97.8, 56, 18, 138/81, O2 sat 96% on room air. HEENT: Normocephalic, atraumatic. Sclerae anicteric. Moist oral mucosa without lesions. NECK: Supple. No JVD. LYMPH NODES: No cervical, supraclavicular or bilateral axillary lymphadenopathy. HEART: Regular rate and rhythm, S1/S2. CHEST: Clear bilaterally. ABDOMEN: Soft, round, nontender, no HSM or masses. EXTREMITIES: No lower extremity edema. SKIN: Intact. NEUROLOGIC EXAM: Alert, oriented x3. Speech clear and fluent. Strength ___ bilateral upper and lower extremities.
+
+ADMISSION LABS: WBC 5.1, hemoglobin 10.7, hematocrit 31.1, platelet count 269,000, INR 1.1, BUN 32, creatinine 1.7, sodium 144, potassium 3.4, chloride 107, CO2 27, ALT 11, AST 13, CK 101, total bili 0.3, albumin 4, calcium 9.2, phosphorus 3.0, magnesium 2.2.
+
+HOSPITAL COURSE: The patient was admitted and underwent central line placement to begin therapy. His admission weight was 89.6 kg and he received interleukin-2 600,000 international units per kilo equaling 53.8 million units IV every 8 hours times 14 potential doses. During this week he received 12 of 14 doses with 1 dose held related to acidosis and 1 dose held related to shock. On treatment day #5 he developed shock related to capillary leak syndrome from IL-2 therapy requiring initiation of dopamine vasopressor therapy. Maximum dopamine was 5.5 mcg per kilogram per minute. Continuous blood pressure bedside and central telemetry monitoring were instituted. Shortly after being placed on dopamine, he developed atrial fibrillation with rhythm between 130 and 140. He was changed to Neo-Synephrine with spontaneous conversion back to normal sinus rhythm. Digoxin was considered, but was not initiated due to reconversion to sinus rhythm. He was maintained on telemetry with frequent PAC and PVCs, but no recurrent atrial fibrillation. Further IL-2 therapy was held due to shock and atrial fibrillation. He was weaned from vasopressors over 5 to 6 hour period without recurrent hypotension noted.
+
+Other side effects during this week included rigors improved with Demerol; nausea and vomiting improved with antiemetic therapy; diarrhea improved with antidiarrheals, mucositis; development of an erythematous pruritic skin rash and fatigue.
+
+During this week he developed acute renal failure with a peak creatinine of 3.5 with associated oliguria. Metabolic acidosis was noted with a minimum bicarb of 17 improved with bicarbonate replacement intravenously. Electrolytes were monitored and repleted per protocol. Strict I's and O's and serum chemistries were maintained. IV fluids were continued given acute renal failure. He had no transaminitis, but developed hyperbilirubinemia with a peak bilirubin of 2.2. He was anemic without need for packed red blood cell transfusion. He had no coagulopathy or myocarditis noted. He developed thrombocytopenia with a platelet count low of 60,000 without evidence of bleeding. By ___, he had recovered from side effects to allow for discharge to home.
+
+CONDITION ON DISCHARGE: Stable. Alert and ambulatory.
+
+DISCHARGE STATUS: To home with his wife.
+
+DISCHARGE DIAGNOSES: ___ renal cell carcinoma, status post cycle 1, week 1, high-dose IL-2 therapy complicated by shock, acute renal failure and atrial fibrillation.
+
+DISCHARGE MEDICATIONS: Lasix 20 mg p.o. daily x5 days or until you reach pretreatment weight, Tylenol ___ tablets q.i.d. p.r.n. fever or pain, lorazepam 0.5 to 1 mg 3 times a day as needed for nausea/vomiting, insomnia or anxiety, Benadryl ___ mg q.i.d. p.r.n. pruritus, Compazine 10 mg q.i.d. p.r.n. nausea/vomiting, Cipro 250 mg p.o. b.i.d. x5 days, Lomotil ___ tablets q.i.d. p.r.n. loose stools, Eucerin cream topically, Sarna lotion topically, Protonix 40 mg p.o. daily, Nystatin 5 mL p.o. q.i.d. p.r.n. thrush. Gelclair 15 mL t.i.d. p.r.n. mucositis.
+
+FOLLOW-UP PLANS: The patient will return in 1 week for week #2 of therapy.
+
+
+
+            ___ ___
+
+Dictated By: ___, NP
+
+MEDQUIST36 D: ___ 14:41:26 T: ___ 16:56:13 ___: ___
+
+cc: ___ 

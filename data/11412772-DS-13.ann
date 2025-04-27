@@ -1,0 +1,4 @@
+T1	Delirium 2673 2681	oriented
+A1	Negation T1
+T2	Lives_alone 5315 5319	wife
+A2	Negation T2

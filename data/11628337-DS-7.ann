@@ -1,0 +1,6 @@
+T1	Delirium 12793 12811	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 12877 12909	Ambulatory - requires assistance
+T3	Mobile_with_aid 12913 12916	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Has_carers 12628 12635	Service

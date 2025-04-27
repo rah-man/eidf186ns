@@ -1,0 +1,40 @@
+T1	Lower_respiratory_tract_infection 14254 14263	pneumonia
+T2	Mobile_with_assistance 14005 14037	Ambulatory - requires assistance
+T3	Mobile_with_aid 14041 14044	aid
+A1	Type_of_aid T3 Two_sticks_or_frame
+T4	Lower_respiratory_tract_infection 14170 14179	pneumonia
+T5	Delirium 13921 13939	Clear and coherent
+A2	Negation T5
+T6	Lower_respiratory_tract_infection 13657 13685	Community-acquired pneumonia
+T7	Weight_loss 13783 13794	weight loss
+T8	Has_carers 13593 13602	Service  
+T9	Weight_loss 10553 10564	weight loss
+T10	Lower_respiratory_tract_infection 8946 8955	pneumonia
+A3	Diagnosis T10 Suspected
+T11	Lower_respiratory_tract_infection 8097 8100	PNA
+T12	Delirium 4461 4469	oriented
+A4	Negation T12
+T13	Weight_loss 8176 8187	weight loss
+T14	Delirium 944 957;974 981	mental status altered
+A5	Diagnosis T14 Implicit_mention
+T15	Lower_respiratory_tract_infection 8255 8258	CAP
+T16	Lower_respiratory_tract_infection 8600 8638	COMMUNITY ACQUIRED BACTERIAL PNEUMONIA
+T17	Intracranial_haemorrhage 9034 9054	intact mental status
+A6	Negation T17
+T18	Weight_loss 9852 9863	weight loss
+T19	Lives_alone 13583 13587	Home
+A7	Negation T19
+T20	Lives_alone 10616 10620	home
+A8	Negation T20
+T21	Lives_alone 10845 10849	home
+A9	Negation T21
+T22	Weight_loss 1987 1991;1995 1997	lost LB
+T23	Lower_respiratory_tract_infection 2545 2548	PNA
+A10	Diagnosis T23 Suspected
+T24	Delirium 8790 8793	AMS
+T25	Weight_loss 9885 9896	weight loss
+T26	Mobile_with_aid 10784 10798	rolling walker
+A11	Type_of_aid T26 Two_sticks_or_frame
+T27	Mobile_with_assistance 10752 10779	ambulation with supervision
+T28	Mobile_with_aid 13470 13484	Rolling Walker
+A12	Type_of_aid T28 Two_sticks_or_frame

@@ -1,0 +1,7 @@
+T1	Constipation 1279 1291	constipation
+A1	Negation T1
+T2	Visual_impairment 1428 1448	Macular degeneration
+T3	Urinary_tract_infection 4166 4169	UTI
+T4	Delirium 5099 5132	Mental Status: Clear and coherent
+A2	Negation T4
+T5	Independently_mobile 5198 5222	Ambulatory - Independent

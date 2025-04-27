@@ -1,0 +1,49 @@
+T1	Constipation 11125 11137	constipation
+A1	Diagnosis T1 Implicit_mention
+T2	Constipation 11619 11631	constipation
+A2	Diagnosis T2 Implicit_mention
+T3	Delirium 13571 13589	Clear and coherent
+A3	Negation T3
+T4	Has_carers 13479 13486	Service
+T5	Bed_Chairbound 13655 13663	Bedbound
+T6	Delirium 1382 1396	encephalopathy
+T7	Urinary_tract_infection 1401 1405	UTI.
+T8	Upper_gastrointestinal_haemorrhage 893 912	non-bloody vomiting
+A4	Negation T8
+T9	Delirium 1118 1121	AMS
+A5	Diagnosis T9 History_of
+T10	Delirium 529 532	AMS
+T11	Urinary_tract_infection 450 453	UTI
+T12	Has_carers 963 971	services
+T13	Delirium 2139 2147	delirium
+T14	Delirium 4690 4698;4699 4701	oriented x3
+A6	Negation T14
+T15	Intracranial_haemorrhage 6438 6445;6486 6498	CT HEAD intracranial
+A7	Negation T15
+T16	Urinary_tract_infection 6636 6639	UTI
+T17	Delirium 6653 6656	AMS
+T18	Delirium 6762 6770	Delirium
+T19	Delirium 6792 6795	AMS
+A8	Diagnosis T19 Suspected
+T20	Delirium 6991 7005	encephalopathy
+T21	Constipation 7011 7023	constipation
+T22	Lives_in_carehome 9901 9908	hospice
+T23	Constipation 12857 12869	constipation
+A9	Diagnosis T23 Implicit_mention
+T24	Constipation 13296 13308	constipation
+A10	Diagnosis T24 Implicit_mention
+T25	Delirium 13797 13806	confusion
+T26	Urinary_tract_infection 7087 7090	UTI
+A11	Diagnosis T26 Suspected
+T27	Intracranial_haemorrhage 7257 7264;7292 7304	Head CT intracranial
+A12	Negation T27
+T28	Constipation 7692 7704	Constipation
+T29	Has_carers 9909 9917	services
+T30	Lives_in_carehome 14108 14115	hospice
+T31	Lives_in_carehome 14206 14213	hospice
+T32	Delirium 13524 13532	Delirium
+T33	Urinary_tract_infection 1156 1170	pyelonephritis
+A13	Diagnosis T33 History_of
+A14	Diagnosis T11 History_of
+A15	Diagnosis T7 History_of
+A16	Diagnosis T6 History_of

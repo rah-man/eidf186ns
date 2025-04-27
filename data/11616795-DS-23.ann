@@ -1,0 +1,12 @@
+T1	Lives_in_carehome 433 445	nursing home
+T2	Upper_gastrointestinal_haemorrhage 948 957	UGI bleed
+A1	Diagnosis T2 History_of
+T3	Visual_impairment 959 967	Glaucoma
+A2	Diagnosis T3 History_of
+T4	Pressure_injury 1003 1014	ulcerations
+A3	Diagnosis T4 History_of
+A4	Low_confidence T4
+T5	Dementia 791 799	Dementia
+A5	Diagnosis T5 History_of
+T6	Urinary_incontinence 839 842;857 870	BPH incontinence,
+A6	Diagnosis T6 History_of

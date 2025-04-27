@@ -1,0 +1,10 @@
+T1	Delirium 13778 13796	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 13862 13886	Ambulatory - Independent
+T3	Delirium 3049 3058	oriented,
+A2	Negation T3
+T4	Intracranial_haemorrhage 1956 1959	ICH
+A3	Diagnosis T4 History_of
+T5	Delirium 2497 2505	oriented
+A4	Negation T5
+T6	Visual_impairment 9834 9848	vision changes

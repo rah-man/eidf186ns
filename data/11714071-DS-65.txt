@@ -1,0 +1,57 @@
+ Name: ___           Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Aspirin / Penicillins / Codeine / Inderal / Isordil Titradose / Iodine-Iodine Containing / Celexa / Glucophage / Atorvastatin / Dilaudid (PF) / Vioxx / Levofloxacin / Hydralazine And Derivatives / Ondansetron / Carbapenem / Lidocaine / Nortriptyline / Fosfomycin / Morphine / Trimethoprim / Latex / Aloe ___  ___  Chief Complaint: abdominal pain  Major Surgical or Invasive Procedure: none 
+
+ History of Present Illness: Ms. ___ is an ___ woman with a history of CAD, DVT s/p IVC filter, HTN, HLD, IDDM, urinary retention who presents with crampy abdominal pain since her discharge from the hospital 4 days ago. Associated symptoms include nausea, vomiting, diarrhea and "fainting". She attributes her symptoms to Effexor which was started upon her previous hospitalization when she presented for syncope and was diagnosed with anxiety. She says "I am not anxious, I am not crazy, there is something wrong with me and I can't take care of myself - I keep falling and it's not fair to my daughter". She also says she has been having subjective fevers and chills over the past few days, however she denies chest pain, SOB, cough, blood in her stool, black stool, or hematemesis.  She has a known ___ Mobitz I with no further evaluation needed per cardiology recs. She also has a history of chronic colonization with yeast in her urinary tract. In the ED, initial VS were: 96.6 70 126/57 16 97% RA. Labs notable for HCT 32, WBC 6.6, normal LFTs. UA with WBC 38, large leuk esterase, and few bacteria. CT abd/pelvis showed fecal loading. CXR showed no signs of PNA. She received lorazepam for anxiety and was started on macrobid. Vitals prior to transfer were not available at signout. She was admitted for a possible UTI and "need for more social support".  This morning she is complaining mostly of abdominal cramping which at first was RUQ then became lower and bilateral.  Past Medical History: Coronary artery disease (LHC ___ with 50% lesion in mid LAD,  50% lesion in OM1).  Hypertension.  Hyperlipidemia.  Valvular heart disease ___ MR, 2+ TR).  ?Symptomatic bradycardia.  Presyncope/?Syncope.  insulin-dependent diabetes  GERD  chronic kidney disease (Cr0.9-1.2)  recurrent UTIs  urinary retention  osteoporosis  status post CVA with residual left-sided weakness  status post DVT  status post IVC filter  L1-L2 discectomy, L5-S1 fusion  cervical stenosis and cervical spondylosis  arthritis  status post appendectomy  status post laparoscopic cholecystectomy  status post hysterectomy  cataract surgery x2   Social History: ___ Family History: Parents both died of CAD in their ___. She had two brothers die of CAD in their ___. One sister with ___ disease and one with lung cancer.  Physical Exam: VITALS: 98.0, 90, 140/80, 20, 98RA GENERAL: WD/WN, sleeping, easily awakened with a loud voice, NAD, hard of hearing  HEENT: PERRL, EOMI, MMM  NECK: no carotid bruits, no LAD  LUNGS: CTAB anteriorly without crackles or wheezes HEART: RRR, normal S1 S2, no MRG  ABDOMEN: Soft, non-tender to palpation, no R/G, ND, NABS, no organomegaly  EXTREMITIES: No c/c/e, no rashes  NEUROLOGIC: A+OX3, left grip strength ___, R ___, CN II-XII grossly intact, sensation normal, visual fields intact
+
+On discharge exam was essentially unchanged  Pertinent Results: Admission labs:
+
+___ 06:22PM BLOOD WBC-6.6 RBC-3.40* Hgb-10.6* Hct-32.0* MCV-94 MCH-31.1 MCHC-33.0 RDW-13.8 Plt ___ ___ 05:45AM BLOOD WBC-14.7*# RBC-3.67* Hgb-11.2* Hct-34.8* MCV-95 MCH-30.7 MCHC-32.3 RDW-13.6 Plt ___ ___ 05:45AM BLOOD Neuts-82.6* Lymphs-11.9* Monos-4.3 Eos-1.0 Baso-0.2 ___ 06:22PM BLOOD Glucose-193* UreaN-15 Creat-1.1 Na-138 K-4.1 Cl-105 HCO3-25 AnGap-12 ___ 06:22PM BLOOD ALT-21 AST-19 AlkPhos-85 TotBili-0.1 ___ 06:22PM BLOOD cTropnT-<0.01 ___ 05:45AM BLOOD cTropnT-<0.01 ___ 06:22PM BLOOD Albumin-3.8
+
+On Discharge:
+
+___ 06:15AM BLOOD WBC-7.7 RBC-3.39* Hgb-10.4* Hct-32.7* MCV-97 MCH-30.7 MCHC-31.8 RDW-13.9 Plt ___ ___ 06:15AM BLOOD Glucose-143* UreaN-17 Creat-1.0 Na-142 K-4.4 Cl-108 HCO3-24 AnGap-14
+
+EKG Normal sinus rhythm. P-R interval prolongation. Poor R wave progression. Non-specific ST-T wave changes. Left anterior hemiblock. Compared to the previous tracing of ___ no significant change
+
+CTabdomen: 1. No evidence of stump appendicitis or other acute intra-abdominal or intrapelvic pathology. 2. Small axial hiatal hernia. 3. Chronic L2 superior endplate wedge deformity.
+
+CXR: FINDINGS: PA and lateral views of the chest were provided, demonstrating clear well expanded lungs without focal consolidation, effusion, or pneumothorax. Cardiomediastinal silhouette is stable. A scoliotic deformity is again noted. There is no free air below the right hemidiaphragm. IMPRESSION: No signs of pneumonia.
+
+URINE CULTURE (Final ___:    Culture workup discontinued. Further incubation showed contamination    with mixed fecal flora. Clinical significance of isolate(s)    uncertain. Interpret with caution.    YEAST.  >100,000 ORGANISMS/ML..    GRAM NEGATIVE ROD(S).  10,000-100,000 ORGANISMS/ML.. 
+
+ Brief Hospital Course: Summary:
+
+___ year old woman with multiple medical problems including CAD, DVT s/p IVC filter, and anxiety presents five days after a recent discharge with abdominal pain, nausea, vomiting that she attributes to starting Effexor.
+
+Active Problems:  # Abdominal pain: Had some vomiting and diarrhea upon arrival to the floor which was self limited and improved on the same day, likely gastroenteritis. She had an elevated WBC count for one day which also resolved and was likely a stress response. CT abdomen showed no acute intraabdominal process. She did not have a bowel movement after her first day in the hospital, and constipation may have been contributing to her abdominal pain. The patient refused an enema or miralax to help with her constipation. Of note she has had previous admissions with similar complaints and on her last (recent) admission she was seen by psychiatry who felt that many of her complaints were psychosomatic. She appeared anxious throughout her hospital stay although she denied being anxious and refused to take Effexor or consider other psychopharmacological interventions. 
+
+#Urinary Tract Colonization - Yeast has been present chronically and represents colonization. She had multiple urine cultures grow yeast on this admission, however denied symptoms of urge, burning, itching or frequency. One culture on this admission grew 10,000-100,000 GNR's however the final results showed this to be consistent with fecal contamination.  She was not treated for a UTI. 
+
+#Urinary retention - She has a history of chronic urinary retention, and needs a foley or else straight cath BID, but since she cannot straight cath herself and does not have help at home, a foley is in place. She has the foley changed by ___ every 6 weeks. During her admission her foley was changed after an initial urine culture was growing GNR's, and repeat culture grew only yeast.  She should follow up for this problem with urology.
+
+# Anxiety: Needs more support at home. Per psych consult on her last admission she has significant somatization and GAD is likely although the patient denies that she is anxiuos. She has not tried effexor for long enough to see if she will benefit from it, and it seems unlikely that she is allergic to it. She believes she is "allergic to everything". She would benefit from outpatient treatment for anxiety, however it appears unlikely that she will agree to it. 
+
+#Deconditioning Patient is refusing ___ at home. Per ___ she is at her baseline now and walks with a walker. She may benefit from more frequent ___ visits at home if she continues to refuse ___.
+
+#Diabetes mellitus type II, uncontrolled: Last A1c ___ was 8.1. She was put on glargine with SSI and sugars were well controlled.
+
+Inactive Issues: # GERD: continued on omeprazole  # HTN: continued on ticlodipine  # Chronic pain: continue gabapentin  # Coronary artery disease: dobutamine stress ___ which was negative for inducible ischemia.  We deferred alteration of her medications given large allergy list and long history of care from cardiology. She was continued on her home simvastatin
+
+Transitional Issues: #Abdominal Pain - she will follow up with her PCP for this. No dangerous cause was found - it was likely viral gastroenteritis compounded by anxiety. 
+
+#Urinary retention - she will get ___ services to change her foley and will follow up with urology.  Medications on Admission: Preadmission medications listed are correct and complete.  Information was obtained from PatientwebOMR. 1. Gabapentin 300 mg PO DAILY 2. Gabapentin 100 mg PO HS 3. Omeprazole 20 mg PO DAILY 4. Ticlopidine HCl 250 mg PO BID 5. Venlafaxine XR 37.5 mg PO DAILY 6. Glargine 15 Units Bedtime Insulin SC Sliding Scale using HUM Insulin 7. Simvastatin 40 mg PO DAILY 
+
+ Discharge Medications: 1. Gabapentin 300 mg PO DAILY 2. Gabapentin 100 mg PO HS 3. Glargine 15 Units Bedtime Insulin SC Sliding Scale using HUM Insulin 4. Omeprazole 20 mg PO DAILY 5. Simvastatin 40 mg PO DAILY 6. Ticlopidine HCl 250 mg PO BID 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Primary Diagnosis Viral gastroenteritis
+
+Secondary Diagnoses Urinary retention 
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Ms ___,
+
+It was a pleasure participating in your care while you were admitted to ___. As you know you were admitted with nausea, vomiting and diarrhea. This was most likely due to a viral infection. You had a CT scan of your abdomen that did not have any concerning findings. You were given fluids and your symptoms improved. There was some concern for a urinary tract infection. However a urine culure did not show this. Per your request your venlafaxine was stopped. You should discuss this change with your primary care physician.
+
+We made the following changes to your medications 1. Stop venlafaxine
+
+You should continue to take all other medications as instructed  Followup Instructions: ___ 

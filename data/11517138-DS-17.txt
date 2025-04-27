@@ -1,0 +1,49 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: SURGERY  Allergies: Ceclor / Codeine  Attending: ___.  Chief Complaint: Abdominal pain  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: Ms. ___ is a ___ year old female with a history of EVAR in ___ and ___ stent in ___, followed by Dr. ___ seen in clinic on ___ with a mesenteric duplex showing celiac artery in-stent stenosis of the SMA of 70-99%, history of chronic abdominal pain, now presenting with increasing epigastric pain for 4 days. She reports that she felt constipated prior to ___ and then had several loose bowel movement which then prompted cramping and stabbing epigastric pain. She also endorses nausea, but no vomiting. She denies any bloody stools. She is passing flatus and currently having regular bowel movements, last BM was this afternoon and flatus was a 30 minutes ago. She denies any postprandial pain or recent weight loss. She has been on a clear liquid diet at ___ and tolerating well. Her initial CT scan at admission revealed borderline prominent small bowel loops in the lower abdomen and pelvis. She later underwent an aortoiliac duplex which showed high velocity flow at the origin and at the proximal level.   Past Medical History: Past Medical History: Diverticulosis, AAA, ventral hernia, angina, vertigo, renal cancer, bronchogenic carcinoma L lingula, mesenteric ischemia,carpal tunnel
+
+Past Surgical History: EVAR ___ (aortobiliac), SMA stent ___, appendectomy, TAH, L nephrectomy, L adrenalectomy, sigmoid colectomy w/colostomy, colostomy reversal, b/l TKA, cervical fusion, parathyroidectomy, LLL wedge resection, cholecystectomy, LOA, R THR  Social History: ___ Family History: Non-contributory  Physical Exam: ADMISSION EXAM:
+
+Vitals: 98.5/98.3 67 116/75 18 92%RA GEN: A&Ox3, NAD HEENT: No scleral icterus, mucus membranes moist CV: RRR, No M/G/R PULM: Clear to auscultation b/l, No W/R/R ABD: Soft, nondistended, no tenderness, no rebound or guarding. Rectal exam: stool in vault, no blood, external hemorrhoids non-bleeding Ext: No ___ edema, ___ warm and well perfused R: p/d/p/p L: p/d/p/p
+
+DISCHARGE EXAM:
+
+Vitals: T 98.7 HR 69 BP 136/72 RR 17 95%RA GEN: A&Ox3, NAD CV: RRR, No M/G/R PULM: normal respiratory effort, clear to auscultation b/l ABD: Soft, nondistended, minimal subcostal tenderness bilaterally, no rebound or guarding. Ext: No ___ edema, ___ warm and well perfused R: p/d/p/p L: p/d/p/p  Pertinent Results: ADMISSION LABS:
+
+___ 09:40PM BLOOD WBC-7.0 RBC-4.39 Hgb-13.3 Hct-40.5 MCV-92 MCH-30.3 MCHC-32.8 RDW-12.4 RDWSD-42.1 Plt ___ ___ 09:40PM BLOOD ___ PTT-32.9 ___ ___ 09:40PM BLOOD Glucose-93 UreaN-15 Creat-1.2* Na-140 K-3.9 Cl-101 HCO3-28 AnGap-15 ___ 09:40PM BLOOD Calcium-9.3 Phos-3.0 Mg-1.8
+
+DISCHARGE LABS:
+
+___ 07:00AM BLOOD WBC-5.3 RBC-4.12 Hgb-12.7 Hct-37.5 MCV-91 MCH-30.8 MCHC-33.9 RDW-12.5 RDWSD-41.0 Plt ___ ___ 08:15AM BLOOD PTT-69.1* ___ 08:15AM BLOOD Glucose-95 UreaN-11 Creat-1.1 Na-143 K-4.1 Cl-103 HCO3-25 AnGap-15 ___ 07:00AM BLOOD WBC-5.3 RBC-4.12 Hgb-12.7 Hct-37.5 MCV-91 MCH-30.8 MCHC-33.9 RDW-12.5 RDWSD-41.0 Plt ___ ___ 08:15AM BLOOD Glucose-95 UreaN-11 Creat-1.1 Na-143 K-4.1 Cl-103 HCO3-25 AnGap-15 ___ 08:15AM BLOOD Calcium-9.5 Phos-2.8 Mg-2.1
+
+IMAGING:
+
+___ CTA abdomen/pelvis:  1. Grossly unchanged appearance of the aorta and its major tributaries, status post aorto bi-iliac stents. Patent superior mesenteric artery. Stable mild ectasia of the right internal iliac artery. 2. No acute intra-abdominal or intrapelvic abnormalities.  Brief Hospital Course: Ms. ___ is a ___ year old female with a history of EVAR in ___ and SMA stent in ___, followed by Dr. ___ seen in clinic on ___ with a mesenteric duplex showing celiac artery in-stent stenosis of the SMA of 70-99%, history of chronic abdominal pain, who presented to ___ with increasing epigastric pain for 4 days. She reported that she felt constipated prior to admission and then had several loose bowel movement which then prompted cramping and stabbing epigastric pain. She also endorsed nausea, but no vomiting. She denied any bloody stools. She was passing flatus and currently having regular bowel movements, last BM was this afternoon and flatus was a 30 minutes ago. She denied any postprandial pain or recent weight loss. She was been on a clear liquid diet at ___ and tolerating well. Her initial CT scan at admission revealed borderline prominent small bowel loops in the lower abdomen and pelvis. She later underwent an aortoiliac duplex which showed high velocity flow at the origin and at the proximal level. She was transferred to the vascular surgery service at ___ for evaluation of possible mesenteric ischemia as the etiology of her abdominal symptoms. 
+
+On arrival, she was started on a heparin drip and underwent a CTA, which demonstrated a SMA stenosis, celiac artery stenosis, and mild ectasia of the right hypogastric artery, all of which were stable from prior imaging. As such, vascualr surgery believed that mesenteric ischemia was most likely not contributing to her acute abdominal pain, and the patient was not taken for a mesenteric angiogram. 
+
+Gastroenterology was consulted to see the patient. She was started on omeprazole and given bowel medications as she had not moved her bowels in 6 days. On ___, her abdominal pain had improved significantly. She was tolerating a regular diet and able to have a bowel movement. She was deemed ready for discharge to home, and she was given appropriate follow up instructions. She was scheduled to see Dr. ___ in 1 month with repeait mesenteric duplex and CTA (for her EVAR). She was also scheduled to see outpatient gastroenterology for furhter work up and management of her chronic abdominal pain. 
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Atenolol 25 mg PO DAILY 2. Simvastatin 20 mg PO QPM 3. Furosemide 40 mg PO DAILY 4. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 5. Aspirin 81 mg PO DAILY 
+
+ Discharge Medications: 1. Docusate Sodium 100 mg PO BID RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice a day Disp #*60 Capsule Refills:*0 2. Omeprazole 20 mg PO DAILY RX *omeprazole 20 mg 1 capsule(s) by mouth once a day Disp #*30 Capsule Refills:*0 3. Polyethylene Glycol 17 g PO DAILY RX *polyethylene glycol 3350 [Miralax] 17 gram 1 powder(s) by mouth once a day Disp #*30 Packet Refills:*0 4. Senna 8.6 mg PO BID:PRN constipation RX *sennosides [senna] 8.6 mg 1 by mouth twice a day Disp #*60 Tablet Refills:*0 5. Aspirin 81 mg PO DAILY  6. Atenolol 25 mg PO DAILY  7. Furosemide 40 mg PO DAILY  8. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY  9. Simvastatin 20 mg PO QPM 
+
+ Discharge Disposition: Home  Discharge Diagnosis: Constipation Abdominal pain
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Ms. ___,
+
+You were admitted to ___ as a transfer from ___ for acute on chronic abdominal pain. There was concern that your pain was due to narrowing of your superior mesenteric artery stent, so you underwent a CT scan to examine the arteries in your abdomen. The arteries appeared to be unchanged from previous imaging, so we decided not to intervene on the blood vessels in your abdomen. You have now recovered from your episode of abdominal pain and are ready to be discharged. Please follow the instructions below to continue your recovery:
+
+MEDICATION:  Take Aspirin 81mg (enteric coated) once daily  Continue all other medications you were taking before your hospital stay, unless otherwise directed
+
+Drink plenty of fluids and eat small frequent meals It is important to eat nutritious food options (high fiber, lean meats, vegetables/fruits, low fat, low cholesterol) to maintain your strength. To avoid constipation: eat a high fiber diet and use stool softener while taking pain medication.
+
+ACTIVITIES: When you go home, you may walk and use stairs You may shower gradually increase your activities and distance walk as you can tolerate No driving until you are no longer taking pain medications
+
+We have arranged a follow up appointment with gastroenterology. 
+
+ Thank you for allowing us to participate in your care. 
+
+Sincerely, Your ___ Team  Followup Instructions: ___ 

@@ -1,0 +1,57 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___  ___ Complaint: Broken AICD lead   Major Surgical or Invasive Procedure: NEW ICD LEAD PLACEMENT AND GENERATOR CHANGE
+
+ History of Present Illness: ___ dilated cardiomyopathy with EF 20% with TR/MR, h/o VT s/p single chamber ICD (fidelis lead), afib on coumadin who is directly admitted from Dr ___ for ICD lead and generator replacement. 
+
+Pt reports that he was in his USOH until last night when his pacemaker started alarming. He had a visit already scheduled with Dr. ___ today so presented for evaluation. ICD interrogation showed that his fidelis lead was inappropriately sensing. The ICD had been alarming for short V-V, noise on pace/sense, resulting in detections for VF. No shocks were given. The ICD was programmed off and he was transferred to ___ for new lead placement and generator change. 
+
+On arrival to the floor, he has no complaints. He denies chest pain, palpitations, lightheadedness, dizziness, presyncope or actual syncope. He has chronic 2+ lower extremity edema. 
+
+Of note, Mr. ___ was hospitalized for approximately one week last month with RML PNA. Since that time, he has felt relatively weak. He continues to have dyspnea during modest physical exertion and continues to utilize ___ liters of supplemental oxygen at night. He is undergoing evaluation for obstructive sleep apnea. He has paroxysmal dyspnea at night, which finds him gasping for air in the middle of the night. It is difficult to ascertain whether this is orthopnea or his presumptive sleep apnea.  
+
+Review of sytems:  (+) Per HPI  (-) Denies fever, chills, night sweats, recent weight loss or gain. Denies headache, sinus tenderness, rhinorrhea or congestion. Denies cough, shortness of breath. Denies chest pain or tightness, palpitations. Denies nausea, vomiting, diarrhea, constipation or abdominal pain. No dysuria. Denies arthralgias or myalgias. Ten point review of systems is otherwise negative. 
+
+  Past Medical History: 1. Nonischemic cardiomyopathy, EF ___.  2. Status post ___ EnTrust VRD 154 single chamber ICD  implanted in ___, which is followed routinely by Dr. ___ Dr. ___ at ___. Generator exchanged in ___. 3. Chronic atrial fibrillation.  4. Ventricular tachycardia status post appropriate ICD shock on  ___, currently on dofetilide. At that time, he was started on amiodarone but had GI upset/nausea so he was put on dofetilide.  5. History of prior right-sided pacemaker, which was explanted, but the leads were capped.  6. Hypertension.  7. Hyperlipidemia.  8. BPH-s/p TURP   Social History: ___ Family History: - premature CAD. Father deceased aged ___ CAD  Physical Exam: ADMISSION PHYSICAL EXAMINATION:  VS: 97.7 126/72 66 18 92 81.1kg from 179.6 pounds (yesterday) GENERAL: chronically ill-appearing elderly man in no acute distress. HEENT: NCAT, PERRL, EOMI Neck: supple, no JVP to mid-ear at 30 degrees CV: RR, normal rhythm. Soft holosystolic ejection murmurs at LLSB and Left axillary border Lungs: CTAB, no w/r/r Abdomen: soft, NT/ND, BS+ Ext: 2+ pitting pretibial edema, without thigh edema or sacral edema. The peripheral arterial pulsations are reduced in all four extremities. Skin changes of chronic venous stasis. Neuro: Moving all extremities grossly 
+
+DISCHARGE PHYSICAL EXAM: VS: 98.1 53-64 99-123/54-61 18 >96RA 94on2L overnight 79kg from 78.9kg (81.1kg admission) GENERAL: chronically ill-appearing elderly man in no acute distress. lying flat in bed. HEENT: NCAT, PERRL, EOMI Neck: supple, JVP to mid-ear at 30 degrees CV: RR, normal rhythm. Soft holosystolic ejection murmurs at LLSB and Left axillary border Lungs: Crackles at R midlung. Bases clear. No wheezes. Abdomen: soft, NT/ND, BS+ Ext: 1+ pitting pretibial edema, without thigh or sacral edema.  The peripheral arterial pulsations are reduced in all four extremities. Skin changes of chronic venous stasis. Neuro: Moving all extremities grossly  Pertinent Results: LABS: ___ 04:25PM BLOOD WBC-4.6 RBC-3.49* Hgb-11.2* Hct-35.8* MCV-103* MCH-32.0 MCHC-31.2 RDW-15.0 Plt ___ ___ 04:25PM BLOOD Glucose-83 UreaN-42* Creat-2.1* Na-140 K-4.0 Cl-98 HCO3-31 AnGap-15 ___ 04:25PM BLOOD Calcium-9.4 Mg-2.5
+
+___ 04:25PM BLOOD proBNP-7184*
+
+___ 04:25PM BLOOD ___ ___ 06:05AM BLOOD ___ ___ 05:45AM BLOOD ___ ___ 06:00AM BLOOD ___
+
+___ 06:00AM BLOOD WBC-5.4 RBC-3.36* Hgb-10.9* Hct-34.3* MCV-102* MCH-32.4* MCHC-31.8 RDW-14.8 Plt ___ ___ 06:00AM BLOOD Glucose-74 UreaN-33* Creat-2.0* Na-142 K-4.1 Cl-101 HCO3-31 AnGap-14
+
+STUDIES: + EKG - ___: Atrial fibrillation with a mean ventricular rate of 75 beats per minute. QRS duration is approximately 142 milliseconds. There is left axis deviation and left anterior fascicular block with QS deflections across the precordium. + EKG - ___: Irregularly irregular at rate of 67bpm. QRS 124msec LAD, LAFB. Multiple PVCs.
+
++ TTE ___: The left atrium is markedly dilated. The right atrium is markedly dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity is moderately dilated. There is severe global left ventricular hypokinesis (LVEF = ___. The right ventricular cavity is markedly dilated with severe global free wall hypokinesis. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Trace aortic regurgitation is seen. The mitral valve leaflets do not fully coapt. Moderate to severe (3+) mitral regurgitation is seen. Moderate to severe [3+] tricuspid regurgitation is seen. There is no pericardial effusion. IMPRESSION: Dilated left ventricle with severe global systolic dysfunction. Dilated right ventricle with severe global systolic dysfunction. Moderate to severe mitral and tricuspid regurgitation. Compared with the prior study (images reviewed) of ___, the findings are similar. 
+
++ ICD Interrogation - ___: ___ EnTrust implanted ___ with sprint fidelis lead (Advisory). Batter 2.64V, charge time 11.5 seconds. (ERI 2.62V) presenting rhythm: V pacing intermittently (20% of the time) at 50 beats a minute. R waves 3.0 (trended down from 4), threshold 4.0 @ 0.5ms, impedance 367 ohms. 3 detections in VF zone, all for noise on the ventricular channel, none resulted in therapy
+
++ CXR ___: As compared to the previous radiograph, no relevant change is seen. The leads wire partly changed. Massive cardiomegaly as well as pre-existing parenchymal perihilar scarring and opacities are constant. Minimal right pleural effusion cannot be excluded. No pneumothorax. 
+
+ Brief Hospital Course: ___ dilated cardiomyopathy with EF 20% with TR/MR, h/o VT s/p single chamber ICD (fidelis lead), afib on coumadin who is directly admitted from Dr ___ for ICD lead and generator replacement. 
+
+# AICD Battery Replacement and New RV Lead placement with capping of malfunctioning Fidelis lead: Has a history of VT with shock, but no episodes of VT since starting amiodarone. On ___ the ___ ICD generator was exchanged and new ICD wire implantation without complication. CXR on day of discharge confirmed proper placement of new lead. - f/u in device in clinic in one week - 1 week of antibiotics upon discharge
+
+# Chronic congestive heart failure: He was mildly volume overloaded on admission, though this appears to be chronic. He was continued on his home CHF regimen of 100mg Torsemide BID with low sait, low fluid diet. - f/u with Dr. ___ as an outpatient.
+
+# Afib on Coumadin: Currently in afib. Admission INR 2.3. Continue coumadin during hospital stay. INR remained therapeutic. - resume outpatient anticoagulation management.
+
+# HTN: Well controlled. Continued losartan.
+
+*) CODE: Full *) CONTACT: ___ Phone: ___ 
+
+ ___ on Admission: The Preadmission Medication list is accurate and complete. 1. Amiodarone 200 mg PO DAILY 2. Bethanechol 50 mg PO BID 3. Clonazepam 0.5 mg PO QHS:PRN insomnia 4. Docusate Sodium 100 mg PO BID 5. Losartan Potassium 25 mg PO DAILY 6. Omeprazole 20 mg PO DAILY 7. Warfarin 3 mg PO DAILY16 8. Torsemide 100 mg PO BID 9. Levothyroxine Sodium 112 mcg PO DAILY 10. Ferrous Sulfate 45 mg PO BID 11. Loratadine 10 mg PO DAILY 
+
+ Discharge Medications: 1. Amiodarone 200 mg PO DAILY 2. Bethanechol 50 mg PO BID 3. Clonazepam 0.5 mg PO QHS:PRN insomnia 4. Docusate Sodium 100 mg PO BID 5. Ferrous Sulfate 45 mg PO BID 6. Levothyroxine Sodium 112 mcg PO DAILY 7. Loratadine 10 mg PO DAILY 8. Losartan Potassium 25 mg PO DAILY 9. Omeprazole 20 mg PO DAILY 10. Torsemide 100 mg PO BID 11. Warfarin 3 mg PO DAILY16 12. Cephalexin 500 mg PO Q8H RX *cephalexin 500 mg 1 capsule(s) by mouth Three times a day Disp #*21 Capsule Refills:*0 13. Oxycodone-Acetaminophen (5mg-325mg) ___ TAB PO Q4H:PRN pain Duration: 2 Days RX *oxycodone-acetaminophen 5 mg-325 mg 1 tablet(s) by mouth Every 8 hours Disp #*10 Tablet Refills:*0
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: FIDELIS LEAD MALFUNCTION; VENTRICULAR TACHYCARDIA; NEW ICD LEAD PLACEMENT AND GENERATOR CHANGE; CHRONIC COMPENSATED SYSTOLIC HEART FAILURE
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Dear Mr. ___, 
+
+It was a pleasure taking care of you. You were admitted because your pacemaker/defibrillator needed a new battery and a new defibrillator lead to the heart. The proceudre was uncomplicated. While you have a complicated medical history, your problems were stable during your admission. You will need to followup in the device clinic in one week and take an antibiotic called Keflex for seven days. Also, please weigh yourself daily and if your weight goes up by more than three pounds, call your cardiologist or PCP. Discharge weight 81.1 kg.
+
+We wish you the best, 
+
+Your ___ Team  Followup Instructions: ___ 

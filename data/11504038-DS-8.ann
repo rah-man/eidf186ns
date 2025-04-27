@@ -1,0 +1,8 @@
+T1	Delirium 7618 7626;7627 7629	oriented x3
+A1	Negation T1
+T2	Visual_impairment 1326 1334	cataract
+A2	Diagnosis T2 History_of
+T3	Visual_impairment 1761 1776	embolic lesions
+A3	Negation T3
+T4	Visual_impairment 1780 1791	papilledema
+A4	Negation T4

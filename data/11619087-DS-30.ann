@@ -1,0 +1,7 @@
+T1	Delirium 6360 6378	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 6444 6468	Ambulatory - Independent
+T3	Constipation 7521 7533	constipation
+A2	Diagnosis T3 Implicit_mention
+T4	Hearing_impairment 2143 2151	auditory
+A3	Negation T4

@@ -1,0 +1,5 @@
+T1	Delirium 10512 10545	Mental Status: Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 10611 10635	Ambulatory - Independent
+T3	Visual_impairment 11877 11891	loss of vision
+A2	Diagnosis T3 Implicit_mention

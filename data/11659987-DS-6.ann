@@ -1,0 +1,36 @@
+T1	Lower_respiratory_tract_infection 2528 2537	pneumonia
+A1	Diagnosis T1 Suspected
+T2	Delirium 1804 1812	oriented
+A2	Negation T2
+T3	Intracranial_haemorrhage 1320 1340	thalamic hemorrhage,
+T4	Urinary_tract_infection 1444 1447	PNA
+A3	Diagnosis T4 History_of
+A4	Diagnosis T3 History_of
+T5	Lower_respiratory_tract_infection 1017 1020	PNA
+T6	Intracranial_haemorrhage 194 208	thalamic bleed
+T7	Intracranial_haemorrhage 306 331	thalamic cerebellar bleed
+A5	Diagnosis T7 History_of
+T8	Intracranial_haemorrhage 582 609	intraparenchymal hemorrhage
+T9	Intracranial_haemorrhage 716 730	thalamic bleed
+T10	Visual_impairment 1586 1594	cataract
+A6	Diagnosis T10 History_of
+T11	Delirium 3754 3775	altered mental status
+T12	Lower_respiratory_tract_infection 3813 3822	pneumonia
+A7	Diagnosis T12 Suspected
+T13	Lower_respiratory_tract_infection 4006 4015	pneumonia
+T14	Intracranial_haemorrhage 4803 4817	thalamic bleed
+T15	Lower_respiratory_tract_infection 8778 8787	pneumonia
+T16	Intracranial_haemorrhage 8788 8810	Subthalamic hemorrhage
+T17	Intracranial_haemorrhage 2831 2838;2846 2865	CT Head thalamic hemorrhage
+T18	Intracranial_haemorrhage 3648 3667	thalamic hemorrhage
+A8	Diagnosis T18 History_of
+T19	Lower_respiratory_tract_infection 8988 8997	pneumonia
+T20	Lower_respiratory_tract_infection 3840 3849	pneumonia
+T21	Delirium 3929 3937	confused
+T22	Lower_respiratory_tract_infection 4127 4165	hospical acquired aspiration pneumonia
+A9	In-hospital_event T22
+T23	Falls 5201 5205	fell
+T24	Intracranial_haemorrhage 6043 6057	thalamic bleed
+T25	Falls 408 412	fall
+T26	Intracranial_haemorrhage 5373 5388;5397 5404	recurrent bleed CT head
+A10	Diagnosis T26 Suspected

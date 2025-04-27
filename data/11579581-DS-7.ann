@@ -1,0 +1,43 @@
+T1	Mobile_with_assistance 8183 8215	Ambulatory - requires assistance
+T2	Mobile_with_aid 8219 8222	aid
+A1	Type_of_aid T2 Two_sticks_or_frame
+T3	Delirium 8097 8105	Confused
+T4	Lower_gastrointestinal_haemorrhage 6262 6274	hematochezia
+A2	Diagnosis T4 History_of
+T5	Delirium 4446 4467	mental status changes
+A3	Diagnosis T5 Implicit_mention
+T6	Constipation 1641 1653	constipation
+A4	Negation T6
+T7	Lower_gastrointestinal_haemorrhage 1177 1188;1196 1202	fresh blood stools
+A5	Diagnosis T7 Implicit_mention
+T8	Lower_gastrointestinal_haemorrhage 1223 1235	hematochezia
+A6	Negation T8
+T9	Falls 797 803	fallen
+T10	Delirium 985 993	confused
+A7	Diagnosis T10 Implicit_mention
+A8	Diagnosis T9 Implicit_mention
+T11	Mobile_with_assistance 744 759	needs assitance
+T12	Falls 8356 8361	falls
+T13	Seizures 8496 8503	seizure
+A9	Diagnosis T13 Suspected
+T14	Seizures 8052 8059	seizure
+T15	Lower_gastrointestinal_haemorrhage 6882 6894	Hematochezia
+T16	Falls 6290 6295	falls
+T17	Seizures 5051 5058	seizure
+A10	Negation T17
+T18	Seizures 4338 4346	seizures
+A11	Negation T18
+T19	Delirium 2782 2786	AOx3
+A12	Negation T19
+T20	Lives_alone 8381 8385	home
+A13	Negation T20
+T21	Faecal_incontinence 593 598;610 622	bowel incontinence
+A14	Negation T21
+T22	Urinary_incontinence 602 609;610 622	bladder incontinence
+A15	Negation T22
+T23	Lower_respiratory_tract_infection 2126 2135	pneumonia
+A16	Diagnosis T23 Suspected
+T24	Lower_respiratory_tract_infection 3614 3623	pneumonia
+A17	Negation T24
+T25	Delirium 5590 5604	encephalopathy
+T26	Seizures 6441 6448	seizure

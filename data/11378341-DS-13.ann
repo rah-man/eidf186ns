@@ -1,0 +1,12 @@
+T1	Dementia 370 378	dementia
+T2	Dementia 579 589	Alzheimers
+T3	Dementia 590 598	dementia
+T4	Dementia 1835 1845	Dementia  
+T5	Dementia 5230 5238	dementia
+T6	Dementia 7891 7899	Dementia
+T7	Hearing_impairment 7911 7922	hearing aid
+T8	Has_carers 9070 9087	Home With Service
+T9	Dementia 9221 9229	Dementia
+T10	Dementia 9269 9277	Confused
+T11	Mobile_with_assistance 9352 9362;9374 9384	Ambulatory assistance
+T12	Mobile_with_aid 9352 9362;9388 9391	Ambulatory aid

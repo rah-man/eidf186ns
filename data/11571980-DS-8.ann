@@ -1,0 +1,29 @@
+T1	Delirium 4346 4351	AAOx3
+A1	Negation T1
+T2	Weight_loss 473 484	weight loss
+T3	Delirium 3526 3531	AAOx3
+A2	Negation T3
+T4	Lower_respiratory_tract_infection 5481 5490	pneumonia
+A3	Diagnosis T4 Suspected
+T5	Malnutrition 8964 8976	malnutrition
+T6	Malnutrition 8907 8919	Malnutrition
+T7	Weight_loss 9012 9023	weight loss
+T8	Weight_loss 10293 10304	weight loss
+T9	Has_carers 12150 12157	Service
+T10	Delirium 12394 12412	Clear and coherent
+A4	Negation T10
+T11	Independently_mobile 12478 12502	Ambulatory - Independent
+T12	Delirium 13500 13509	confusion
+A5	Diagnosis T12 Implicit_mention
+T13	Malnutrition 13744 13756	malnourished
+T14	Weight_loss 13771 13782	weight loss
+T15	Delirium 13455 13464	confusion
+A6	Diagnosis T15 Implicit_mention
+T16	Malnutrition 12313 12325	malnutrition
+T17	Weight_loss 9718 9729	weight loss
+T18	Weight_loss 2645 2656	weight loss
+T19	Malnutrition 10645 10657	malnutrition
+T20	Constipation 8697 8709	constipation
+A7	Diagnosis T20 Implicit_mention
+T21	Delirium 8622 8636	encephalopathy
+A8	Negation T21

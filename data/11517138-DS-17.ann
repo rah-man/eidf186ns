@@ -1,0 +1,26 @@
+T1	Constipation 619 630	constipated
+T2	Lower_gastrointestinal_haemorrhage 803 815	bloody stool
+A1	Negation T2
+T3	Delirium 1864 1869	A&Ox3
+A2	Negation T3
+T4	Lower_gastrointestinal_haemorrhage 2061 2066;2080 2086	stool blood,
+A3	Negation T4
+T5	Lower_gastrointestinal_haemorrhage 2096 2120	hemorrhoids non-bleeding
+A4	Negation T5
+T6	Lower_gastrointestinal_haemorrhage 4136 4149	bloody stools
+A5	Negation T6
+T7	Delirium 6865 6883	Clear and coherent
+A6	Negation T7
+T8	Independently_mobile 6949 6973	Ambulatory - Independent
+T9	Constipation 7919 7931	constipation
+A7	Diagnosis T9 Implicit_mention
+T10	Weight_loss 989 1000	weight loss
+A8	Negation T10
+T11	Constipation 3946 3957	constipated
+T12	Constipation 6478 6490	constipation
+A9	Diagnosis T12 Implicit_mention
+T13	Constipation 6799 6811	Constipation
+T14	Delirium 2255 2260	A&Ox3
+A10	Negation T14
+T15	Weight_loss 4323 4334	weight loss
+A11	Negation T15

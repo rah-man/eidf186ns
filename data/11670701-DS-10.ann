@@ -1,0 +1,20 @@
+T1	Has_carers 5158 5165	Service
+T2	Mobile_with_assistance 5347 5379	Ambulatory - requires assistance
+T3	Mobile_with_aid 5383 5386	aid
+A1	Type_of_aid T3 Two_sticks_or_frame
+T4	Constipation 5517 5529	constipation
+A2	Diagnosis T4 Implicit_mention
+T5	Visual_impairment 1195 1204	cataracts
+A3	Diagnosis T5 History_of
+T6	Visual_impairment 1209 1217	glaucoma
+A4	Diagnosis T6 Implicit_mention
+T7	Constipation 917 929	constipation
+A5	Negation T7
+T8	Mobile_with_aid 4914 4928	rolling walker
+A6	Type_of_aid T8 Two_sticks_or_frame
+T9	Delirium 5263 5281	Clear and coherent
+A7	Negation T9
+T10	Mobile_with_aid 4891 4905	rolling walker
+A8	Type_of_aid T10 Two_sticks_or_frame
+T11	Mobile_with_aid 3914 3928	rolling walker
+A9	Type_of_aid T11 Two_sticks_or_frame

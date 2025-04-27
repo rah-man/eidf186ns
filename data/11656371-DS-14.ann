@@ -1,0 +1,15 @@
+T1	Visual_impairment 3236 3244	glaucoma
+T2	Constipation 4367 4379	constipation
+A1	Diagnosis T2 Implicit_mention
+T3	Lives_alone 1200 1204	home
+A2	Negation T3
+T4	Lives_alone 2064 2068	home
+A3	Negation T4
+T5	Lives_alone 2575 2579	home
+A4	Negation T5
+T6	Lives_alone 3131 3135	Home
+A5	Negation T6
+T7	Lives_alone 4508 4512	home
+A6	Negation T7
+T8	Lives_alone 3779 3783	home
+A7	Negation T8
