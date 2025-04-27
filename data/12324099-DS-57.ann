@@ -1,0 +1,17 @@
+T1	Has_carers 10586 10593	Service
+T2	Constipation 6698 6710	constipation
+A1	Diagnosis T2 Implicit_mention
+T3	Constipation 6602 6614	constipation
+A2	Diagnosis T3 Implicit_mention
+T4	Constipation 8834 8846	constipation
+A3	Diagnosis T4 Implicit_mention
+T5	Seizures 11432 11439	seizure
+A4	Diagnosis T5 Implicit_mention
+T6	Visual_impairment 1959 1967	glaucoma
+T7	Visual_impairment 1974 1987	eye blindness
+T8	Pressure_injury 2963 2969	ulcers
+A5	Negation T8
+A6	Low_confidence T8
+T9	Delirium 2309 2317	oriented
+A7	Negation T9
+T10	Visual_impairment 2413 2418;2427 2430	blind eye

@@ -1,0 +1,75 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: vancomycin / bacitracin / morphone / clindamycin  Attending: ___  Chief Complaint: shortness of breath, atrial fibrillation  Major Surgical or Invasive Procedure: none
+
+ History of Present Illness: ___ yo F with history of COPD/asthma (2L NC at home), breast cancer (s/p mastectomy), pAF/tachybrady syndrome with recent PPM placement c/b RV perforation with pericardial effusion, Afib with RVR, recent HCAP tx with Levofloxacin who presents with progressive SOB, sputum production, chills and recurrent atrial fibrillation with RVR.  In brief, patient was in usual state of health when she developed an episode of chest discomfort and unresponsiveness x 10 seconds with shaking of her extremities at home and was admitted to ___ ___. Had DDD ___ pacemaker implanted ___ for SSS w/HR ___ and 3.3 sec pauses. Subsequently developed ___ chest pain and Chest CT showed RV pacemaker lead extends 2 cm below the RV wall, tip lying in the pericardial fat pad just behind the left anterior lateral sixth  rib. TTE showed pericardial effusion without tamponade. She was transferred to ___ for further monitoring. She underwent lead extraction in the OR on ___ and was persistently hypotensive afterwards requiring intubation and pressors. In this setting she developed a transaminitis that was thought to be secondary to hypotension. Her pericardial effusion remained minimal and she was restarted on apixaban prior to discharge. Her course was otherwise complicated by recurrent afib with RVR, which was initially treated with DCCV and sotalol but she was subsequently transitioned to metoprolol for rate control. Finally she was noted to have a positive UA and productive cough and so was treated for HCAP UTI with levofloxacin. She was discharged on ___ to rehab.  At rehab she reports that she has been feeling unwell. She feels that her breathing has worsened and she is more SOB than her normal baseline. She reports that she has had worsening chills but no fevers and has had worsening cough with sputum production. Finally she notes that she has had worsening lower extremity swelling and was started on Lasix at rehab without significant improvement.  She states that in this setting she developed increased fatigue and SOB on morning of admission. This prompted an EKG, which showed a fib w/ RVR. This prompted her transport to ___.  She was taken to ___ where intial vitals were 99.4 89 131/65 18 94RA. She was ill appearing per their documentations. Labs were notable for Tnt <0.01, WBC 16.8 (89% N), Hgb 12.2. proBNP 2463. CXR showed left lower lobe consolidation with associated effusion. Given recent admission to ___ she was transferred for further care. No medications were given.  In the ED initial vitals were: 99.1 88 130/66 96% NC  EKG: NSR @ 87bpm. NA, Qtc 530, low limb volts. No ischemic changes.  Physical exam notable for: pitting edema, and decreased breath sounds.  Labs/studies notable for: WBC 16.5, Hgb 11.7. proBNP: 2629, Trop negative. UA bland. Bilateral LENIs negative for DVT, LUENI with no clot but phlebitis.  Patient was given: IV Piperacillin-Tazobactam 4.5 g  Vitals on transfer: 99.1 86 20 140/70 95% 2LNC  On arrival to the floor, patient reports that she feels fatigued from the days activities but does not have any specific complaints other than chills and LUE arms swelling. She endorses cough as above, DOE, PND, chest pain. No abdominal pain, nausea, vomiting, diarrhea. + Mild constipation. No dysuria.  REVIEW OF SYSTEMS:  (+) per HPI 
+
+ Past Medical History: 1. CARDIAC RISK FACTORS  - Dyslipidemia  2. CARDIAC HISTORY  - Coronaries: Unknown, no h/o CAD/MI  - Pump: EF > 55%  - Rhythm: NSR, PAF/tachy-brady Back up pacing. On apixaban  3. OTHER PAST MEDICAL HISTORY  - Breast cancer  - Skin cancer, squamous cell  - Gastroesophageal reflux disease  - Herpes zoster  - Diverticulitis  - Sinusitis  - Lung nodules  - History of C diff colitis  - Chronic obstructive pulmonary disease, severe  - Asthma  - Bilateral cataracts  - Hyperlipidemia  - Osteoarthritis 
+
+ Social History: ___ Family History: No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death. 
+
+ Physical Exam: ADMISSION PHYSICAL EXAM:  VS: 97.7 PO 132 / 93 87 18 96 3L  Admission Wt 69.2kg/152.56lb from 63.5kg/140lb on ___  GENERAL: Well appearing. Speaking in full sentences.  HEENT: OP clear, MMM.  NECK: JVP not appreciated at 90, 45, 15 degrees  CARDIAC: + Triphasic rub. Distant heart sounds but regular with normal S1,S2 with no appreciated m/r/g. Pulsus 10.  LUNG: Decreased breath sounds at L base with associated dullness to percussion and decreased fremitus. Otherwise no w/r/r  ABDOMEN: Soft, NT, ND. Liver without palpable pulsatiity. NABS 
+
+ EXTREMITIES: 2+ ___ edema to knee, 1+ edema to sacrum. LUE with swelling, no edema. RUE with diffuse echhymosis.  PULSES: 2+  NEURO: Pleasant, non-focal. Normal mentation. 
+
+PHYSICAL EXAM ON DISCHARGE VS: T 98, 113-117/56-66, HR 79-80, RR 18, O2 sat 99% 2L NC wt 65.0 kg GENERAL: WNWND female, appears tired but responding appropriately HEENT: JVP ~7 cm when assessed at upright CV: RRR, +pericardial friction rub Lungs: faint basilar crackles appreciated posteriorly on L Abd: soft, NTND Extrem: 2+ pitting edema to ankle; 2+ ___ pulses b/l
+
+ Pertinent Results: ADMISSION LABS ================
+
+___ 06:00PM BLOOD WBC-16.5* RBC-4.02 Hgb-11.7 Hct-38.2 MCV-95 MCH-29.1 MCHC-30.6* RDW-13.4 RDWSD-46.9* Plt ___ ___ 06:00PM BLOOD Glucose-90 UreaN-9 Creat-0.7 Na-141 K-3.7 Cl-101 HCO3-26 AnGap-18 ___ 06:00PM BLOOD Calcium-8.2* Phos-3.5 Mg-1.9
+
+PERTINENT LABS ================
+
+___ 06:00PM BLOOD proBNP-2629* ___ 06:00PM BLOOD cTropnT-<0.01 ___ 06:50AM BLOOD cTropnT-<0.01 ___ 06:50AM BLOOD ALT-52* AST-26 AlkPhos-69 TotBili-1.1 ___ 04:38PM BLOOD Type-ART pO2-82* pCO2-38 pH-7.46* calTCO2-28 Base XS-2 ___ 07:15AM BLOOD WBC-17.2* RBC-3.97 Hgb-11.8 Hct-38.1 MCV-96 MCH-29.7 MCHC-31.0* RDW-13.8 RDWSD-48.6* Plt ___ ___ 07:15AM BLOOD Glucose-81 UreaN-10 Creat-0.7 Na-140 K-4.1 Cl-102 HCO3-27 AnGap-15 ___ 07:15AM BLOOD Calcium-8.6 Phos-3.1 Mg-2.2 ___ 04:38PM BLOOD Type-ART pO2-82* pCO2-38 pH-7.46* calTCO2-28 Base XS-2
+
+___ Cardiovascular ECHO Conclusions   The left atrium is normal in size. No atrial septal defect is seen by 2D or color Doppler. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). There is no ventricular septal defect. with normal free wall contractility. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. The tricuspid valve leaflets are mildly thickened. There is moderate pulmonary artery systolic hypertension. There is a small pericardial effusion. There are no echocardiographic signs of tamponade. 
+
+ Compared with the prior study (images reviewed) of ___, the pericardial effusion is slightly larger.  
+
+___ Imaging CHEST (PA & LAT) IMPRESSION:  Comparison to ___. Stable appearance of the known left pleural effusion with subsequent atelectasis. Stable mild atelectasis at the right lung basis. No new parenchymal opacities or other abnormalities are noted in the right hemi thorax. Mild cardiomegaly persists. Stable position of the left pectoral pacemaker. 
+
+CT Chest with Contrast ___: 1. Small pleural effusions, no evidence of empyema. New small opacification at the right base may represent pneumonia. Mild mucous plugging right lower lobe. 2. Worsened pericardial effusion which is now moderate, with complex components, can be seen with hemorrhagic, inflammatory/infectious pericarditis. 3.  Pulmonary nodules, measuring up to 4 mm. If there is a history of smoking or other risk factor for primary lung malignancy, a ___ year follow-up low-dose, noncontrast chest CT is recommended. 4. A 0.6 cm splenic artery aneurysm. 
+
+TTE ___: This study was compared to the prior study of ___.  LEFT VENTRICLE: Overall normal LVEF (>55%). 
+
+RIGHT VENTRICLE: Normal RV systolic function. 
+
+PERICARDIUM: Small pericardial effusion. Effusion circumferential. Effusion echo dense, c/w blood, inflammation or other cellular elements. No echocardiographic signs of tamponade. 
+
+ Brief Hospital Course: ___ yo F with history of COPD/asthma (2L NC at home), pAF/tachybrady syndrome with recent PPM placement ___ c/b RV perforation with pericardial effusion, Afib with RVR, recent HCAP tx with Levofloxacin who presented with progressive SOB and recurrent atrial fibrillation with RVR. 
+
+ACTIVE ISSUES ============ # Dyspnea: Thought to be multifactorial and primarily driven by CHF symptoms in addition to pericarditis, pleural effusion and possible underlying pneumonia. 
+
+ # New Onset Diastolic Heart Failure Exacerbation: 69.1 kg on admission and req 2L NC during day. Her respiratory status improved after diuresing 4.7L during this hospital stay. Initially used BID Lasix 40 mg IV but transitioned to 20 mg torsemide PO daily. Please titrate this dose as necessary; estimated dry weight 64.5 kg. Please recheck electrolytes on ___ and consider daily repletion if necessary.
+
+ # Acute Pericarditis: surrounding small pericardial effusion seen on TTE. Thought to be ___ to recent pericardial procedures. She was started on colchicine 0.6 BID and planned to treated for 3 months (until ___. Aspirin and NSAIDs were deferred. Received TTE on ___ that showed small pericardial effusion stable from ___.
+
+# Chest Pain, Musculoskeletal: Pleuritic but less concern for PE as ABG normal and on apixaban. Responded well to Tylenol.
+
+ # Paroxysmal Atrial Fibrillation: Patient with known history of pAF and tachybrady syndrome s/p PPM and DCCV. continued apixaban 5 BID and incresaed metoprolol succinate to 150 AM and 50 pm.
+
+ # Health-care Associated Pneumonia: lack of improvement with levofloxacin. Coverage broadened to linezolid ___, dc'd after negative MRSA swab) and Zosyn (___). CT on ___ was negative for empyema.
+
+# Diarrhea: Thought to be due to pt's bowel regimen and lactose intolerance; may have been aggravated by antibiotics. C diff negative.
+
+CHRONIC ISSUES:  ========================  # HLD (chronic): Stable, treated at home. Continued atorvastatin   # GERD (chronic): PO PPI, on esomeprazole at home (non-formulary). switched to Omeprazole while inpatient
+
+ # COPD/Asthma: On 2LNC at home as well as tiotropium 1 capsule qd, montelukast 10 mg qd, and fluticasone 500-Salmeterol l50 1 puff BID, and albuterol 2.5 mg INH BID. continued home meds and encouraged IS.   TRANSITIONAL ISSUES ================== ***medication changes*** -added torsemide 20 mg daily -increased metoprolol succinate to 150 mg QAM and 50 mg QPM -added colchicine 0.6 mg BID
+
+FOLLOW UP: [ ] Please repeat chem-10 on ___ -- please replete potassium for goal of 4.0; may need daily potassium repletion [ ] f/u Cardiology within 2 weeks for heart failure, pericarditis atrial fibrillation [ ] continue colchicine for 3 months (end date ___ [ ] f/u in ___ clinic for pacemaker [ ] titrate torsemide dosing to weight [ ] patient noted to have moderate pulmonary hypertension on TTE. Please reevaluate. [ ] Pulmonary nodules, measuring up to 4 mm. If there is a history of smoking or other risk factor for primary lung malignancy, a ___ year follow-up low-dose, noncontrast chest CT is recommended. [ ] 0.6 cm splenic artery aneurysm seen on CT ___
+
+DISCHARGE WEIGHT: 65.0 kg standing DISCHARGE CR: 0.9 ___  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Apixaban 5 mg PO BID 2. DICYCLOMine 10 mg PO BID 3. Montelukast 10 mg PO DAILY 4. Tiotropium Bromide 1 CAP IH DAILY 5. Albuterol Inhaler 2 PUFF IH Q6H:PRN wheeze 6. Atorvastatin 20 mg PO QPM 7. esomeprazole magnesium 40 mg oral DAILY 8. fluticasone-salmeterol 500 mcg/100 mcg inh INHALATION BID 9. Levofloxacin 750 mg PO DAILY 10. Metoprolol Succinate XL 150 mg PO DAILY 11. Furosemide 20 mg PO DAILY 
+
+ Discharge Medications: 1. Calcium Carbonate 500 mg PO QID:PRN indigestion  2. Colchicine 0.6 mg PO BID take for 3 months RX *colchicine 0.6 mg 1 capsule(s) by mouth twice a day Disp #*90 Capsule Refills:*0 3. GuaiFENesin ER 600 mg PO Q12H  4. LOPERamide 2 mg PO QID:PRN diarrhea  5. Multivitamins W/minerals 1 TAB PO DAILY  6. Torsemide 20 mg PO DAILY RX *torsemide 10 mg 2 tablet(s) by mouth daily Disp #*30 Tablet Refills:*2 7. Metoprolol Succinate XL 50 mg PO QHS RX *metoprolol succinate 50 mg 1 tablet(s) by mouth every night Disp #*30 Tablet Refills:*2 8. Albuterol Inhaler 2 PUFF IH Q6H:PRN wheeze  9. Apixaban 5 mg PO BID RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day Disp #*30 Tablet Refills:*2 10. Atorvastatin 20 mg PO QPM  11. DICYCLOMine 10 mg PO BID  12. esomeprazole magnesium 40 mg oral DAILY  13. fluticasone-salmeterol 500 mcg/100 mcg inh INHALATION BID  14. Metoprolol Succinate XL 150 mg PO DAILY  15. Montelukast 10 mg PO DAILY  16. Tiotropium Bromide 1 CAP ___ DAILY 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: PRIMARY ======= New Onset Diastolic Heart Failure
+
+SECONDARY ========== Atrial ___ pneumonia
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear ___,   ___ was a pleasure taking care of you at the ___ ___. You were admitted because you had new onset heart failure. 
+
+ It is very important to take all of your heart healthy medications. This includes torsemide, to prevent your lungs from becoming overloaded with fluid, colchicine, to control inflammation of your heart lining, metoprolol, to control your heart rate, and apixaban, to prevent blood clots. 
+
+ At discharge, you weighed 143 lbs. Please weigh yourself every day in the morning after you go to the bathroom and before you get dressed. If your weight goes up by more than 3 lbs in 1 day or more than 5 lbs in 3 days, please call your heart doctor or your primary care doctor and alert them to this change. 
+
+ We wish you the best with your health,  Your ___ Cardiac Care Team   Followup Instructions: ___ 

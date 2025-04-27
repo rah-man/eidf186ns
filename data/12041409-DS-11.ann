@@ -1,0 +1,19 @@
+T1	Delirium 13971 13989	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 14055 14079	Ambulatory - Independent
+T3	Lower_respiratory_tract_infection 630 644	lung infection
+A2	Diagnosis T3 History_of
+T4	Delirium 2634 2642	oriented
+A3	Negation T4
+T5	Delirium 2796 2804	oriented
+A4	Negation T5
+T6	Delirium 3002 3010	oriented
+A5	Negation T6
+T7	Lower_respiratory_tract_infection 10535 10538	PNA
+A6	Negation T7
+T8	Lower_respiratory_tract_infection 10425 10428	PNA
+A7	Negation T8
+T9	Lower_respiratory_tract_infection 10444 10447	PNA
+A8	Negation T9
+T10	Weight_loss 11510 11521	weight loss
+A9	Diagnosis T10 Suspected

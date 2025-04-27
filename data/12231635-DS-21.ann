@@ -1,0 +1,61 @@
+T1	GS 30179 30197	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 30263 30295	Ambulatory - requires assistance
+T3	Mobile_with_aid 30299 30302	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Constipation 29230 29241	constiption
+T5	Urinary_incontinence 25845 25852;25862 25874	bladder incontinence
+A3	Negation T5
+T6	Faecal_incontinence 25856 25861;25862 25874	bowel incontinence
+A4	Negation T6
+T7	Faecal_incontinence 25900 25918	bowel incontinence
+T8	Has_carers 29926 29933	Service
+T9	Delirium 12018 12026;12027 12029	oriented x3
+A5	Negation T9
+T10	Hearing_impairment 11250 11256;11258 11273	intact Hard of hearing
+T11	Delirium 9199 9207;9208 9211	oriented x 4
+A6	Negation T11
+T12	Delirium 6367 6375;6376 6379	oriented x 3
+A7	Negation T12
+T13	Weight_loss 4761 4772	Weight loss
+T14	Faecal_incontinence 4700 4705;4717 4729	bowel incontinence
+A8	Negation T14
+T15	Urinary_incontinence 4709 4716;4717 4729	bladder incontinence
+A9	Negation T15
+T16	Visual_impairment 4524 4538	loss of vision
+A10	Negation T16
+T17	Visual_impairment 4540 4554	blurred vision
+A11	Negation T17
+T18	Visual_impairment 4556 4564	diplopia
+A12	Negation T18
+T19	Hearing_impairment 4603 4611	tinnitus
+A13	Negation T19
+T20	Hearing_impairment 4326 4343	Decreased hearing
+T21	Constipation 29531 29543	constipation
+A14	Diagnosis T21 Implicit_mention
+T22	Hearing_impairment 2478 2485;2494 2502	hearing worsened
+T23	Mobile_with_aid 3481 3491	wheelchair
+A15	Type_of_aid T23 Wheelchair
+T24	Mobile_with_assistance 3519 3529	assistance
+T25	Mobile_with_aid 3615 3621	walker
+A16	Type_of_aid T25 Two_sticks_or_frame
+T26	Constipation 4962 4974	constipation
+A17	Negation T26
+T27	Dementia 5733 5741	dementia
+A18	Diagnosis T27 Implicit_mention
+T28	Visual_impairment 7033 7041	diplopia
+A19	Negation T28
+T29	Hearing_impairment 7259 7273	Unable to hear
+T30	Hearing_impairment 7350 7364	could not hear
+T31	Hearing_impairment 7400 7426	sensorineural hearing loss
+T32	Visual_impairment 11232 11238	Vision
+A20	Negation T32
+T33	Hearing_impairment 9791 9803	hearing loss
+T34	Lives_alone 29916 29920	Home
+A21	Negation T34
+T35	Lives_alone 30863 30867	home
+A22	Negation T35
+T36	Lives_alone 2657 2661	home
+A23	Negation T36
+T37	Lives_alone 31068 31072	home
+A24	Negation T37

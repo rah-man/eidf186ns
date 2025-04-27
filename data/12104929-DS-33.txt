@@ -1,0 +1,63 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Amoxicillin / Dilantin Kapseal / adhesive tape / Atenolol / Zestril / Sulfa (Sulfonamide Antibiotics)  Attending: ___.  Chief Complaint: Lethargy  Major Surgical or Invasive Procedure: None  History of Present Illness: Ms. ___ is a ___ y/o female with a history of multiple drug resistant UTIs who presented today with increased lethargy x 1 day and unusual urine color. Per daughter (who lives with patient), patient slept all day 2 days PTA and 1 day PTA was unable to get out of bed, which is unusual for her. Per daughter patient also had unusual "milky white" colored urine starting 5 days PTA. patient has not had a Foley since this past ___ but normally uses Depends and is intermittently incontinent. ROS positive for some urgency and frequency of urination, as well as some loose nonbloody stools starting 2 days PTA. ROS also positive for some dehydration and decrease PO intake these past few days. ROS negative for fevers, chills, sweats, nausea, vomiting. 
+
+Of note, Ms. ___ was recently discharged to rehab on ___ with a UCx positive for EColi, sensitive to nitrofurantoin x 7 days. Per daughter patient did not actually receive nitrofurantoin, instead at rehab received some type of IV abx that she does not know the name of. 
+
+In the ED, vitals were 97.5 60 AV paced 139/84 20 100% RA. UA showed many bacteria, few yeast, 182 wbc, lg leuk, no nitrite and she was given 500 NS and transferred to the floor. 
+
+ Past Medical History: # ?Recurrent UTI -- multidrug resistant E Coli # C diff colitis -- completed treatment recently # Hypertension # Chronic kidney disease (baseline 1.0-1.3) # Pancytopenia -- Negative SPEP and UPEP in the past -- Felt to be most likely due to myelodysplastic syndrome # PPM -- ___ model ___ dual-chamber pacemaker -- placed in mid ___, last generator change in ___ -- last interrogated ___ and functioning normally # Sick sinus syndrome -- Sinus arrest with junctional tachycardia (mid ___ -- required pacemaker placement # Thoracic aortic aneurysm -- at level of the diaphragm -- CT on ___ showed aneurysm 4 cm and unchanged in size # Atrial fibrillation -- not anticoagulated due to past subdural hematoma # Graves' disease -- status post thyroidectomy and radiation # Hypothyroidism # Subdural hematoma # Frontal gait syndrome -- Diagnosed by Dr. ___ in ___ # TIA (___) # Shingles (___) # Osteoarthritis # Falls # Laryngeal spasm history # Colon polyps status post removal (___) # Hemorrhoids # Urethral polyps s/p cautery
+
+ Social History: ___ Family History: # Mother -- breast cancer, died of heart disease at age ___ # Father -- died of CAD at age ___ # Brother -- died of appendiceal cancer at age ___  Physical Exam: Admission: 98.2 104/63 64 18 99 RA Neuro: AOx2 (person and date, thinks that hospital is a restaurant). Patient in no accute distress, in good spirits Resp: Good air entry bilaterally, mild bibasilar crackles CV: RRR, ___ Systolic murmor heard most prominently RUSB. Abd: Abdomen soft, nontender, non-distended. Subcutaneous nodule felt below umbilicus. Foley: Urine milky white in color.
+
+Discharge: Refused vitals that AM, but night before: 97.6 115/68 62 18 100 RA Neuro: Refuses to answer questions. When told that her daughter had left her a note, states "I know all about my daughter." "Don't bother me." Resp: Good air entry bilaterally, no crackles appreciated CV: ___ systolic murmur heard throughout precordium Abd: Grossly nontender, soft, and non distended.
+
+ Pertinent Results: Admission: ___ 10:10AM BLOOD WBC-5.2 RBC-3.61* Hgb-10.5* Hct-32.4* MCV-90 MCH-29.0 MCHC-32.4 RDW-15.6* Plt ___ ___ 10:10AM BLOOD Neuts-71.5* Lymphs-16.4* Monos-5.8 Eos-4.6* Baso-1.7 ___ 10:10AM BLOOD Plt ___ ___ 10:10AM BLOOD Glucose-100 UreaN-25* Creat-1.3* Na-138 K-4.2 Cl-100 HCO3-31 AnGap-11 ___ 10:10AM BLOOD CK(CPK)-159 ___ 10:10AM BLOOD CK-MB-2 cTropnT-<0.01 ___ 10:31AM BLOOD Lactate-2.1* ___ 10:55AM URINE Color-Yellow Appear-Cloudy Sp ___ ___ 10:55AM URINE Blood-MOD Nitrite-NEG Protein-300 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-LG ___ 10:55AM URINE RBC-13* WBC->182* Bacteri-MANY Yeast-NONE Epi-0 NonsqEp-0 ___ 10:55AM URINE WBC Clm-MANY ___ 10:55AM URINE
+
+Discharge: ___ 05:35AM BLOOD WBC-6.3 RBC-3.69* Hgb-10.5* Hct-32.8* MCV-89 MCH-28.5 MCHC-32.0 RDW-15.4 Plt ___ ___ 05:35AM BLOOD Plt ___ ___ 05:35AM BLOOD Glucose-172* UreaN-16 Creat-1.0 Na-134 K-3.9 Cl-100 HCO3-26 AnGap-12
+
+Relevant: ___ 05:35AM BLOOD WBC-6.3 RBC-3.69* Hgb-10.5* Hct-32.8* MCV-89 MCH-28.5 MCHC-32.0 RDW-15.4 Plt ___ ___ 10:55AM URINE Color-Yellow Appear-Cloudy Sp ___ ___ 10:55AM URINE Blood-MOD Nitrite-NEG Protein-300 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-LG ___ 10:55AM URINE RBC-13* WBC->182* Bacteri-MANY Yeast-NONE Epi-0 NonsqEp-0 ___ 10:55AM URINE WBC Clm-MANY
+
+___ 10:55 am URINE
+
+              **FINAL REPORT ___
+
+  URINE CULTURE (Final ___:    KLEBSIELLA PNEUMONIAE.  >100,000 ORGANISMS/ML..      Cefazolin interpretative criteria are based on a dosage regimen of     2g every 8h.      Piperacillin/Tazobactam Susceptibility testing requested by ___     ___ (___) ___.      Piperacillin/Tazobactam sensitivity testing performed by ___     ___. 
+
+               SENSITIVITIES: MIC expressed in MCG/ML            _________________________________________________________               KLEBSIELLA PNEUMONIAE               |  AMPICILLIN/SULBACTAM--   8 S CEFAZOLIN-------------  <=4 S CEFEPIME--------------  <=1 S CEFTAZIDIME-----------  <=1 S CEFTRIAXONE-----------  <=1 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------  <=1 S MEROPENEM-------------<=0.25 S NITROFURANTOIN--------  64 I PIPERACILLIN/TAZO-----    S TOBRAMYCIN------------  <=1 S TRIMETHOPRIM/SULFA----  <=1 S
+
+___ 9:43 pm STOOL   CONSISTENCY: NOT APPLICABLE    Source: Stool. 
+
+              **FINAL REPORT ___
+
+  C. difficile DNA amplification assay (Final ___:    Negative for toxigenic C. difficile by the Illumigene DNA    amplification assay.       (Reference Range-Negative). 
+
+___ 10:15 am BLOOD CULTURE
+
+  Blood Culture, Routine (Preliminary):    GRAM POSITIVE COCCUS(COCCI).  IN PAIRS AND CLUSTERS. 
+
+  Aerobic Bottle Gram Stain (Final ___:    Reported to and read back by ___ ___ @ 4:28A ___.    GRAM POSITIVE COCCI.    IN PAIRS AND CLUSTERS. 
+
+___ 10:10 am BLOOD CULTURE
+
+  Blood Culture, Routine (Pending): 
+
+ Brief Hospital Course: #Lethargy: Ms. ___ is a ___ y/o female who presented with 1 day of lethargy most consistent, given her UA results, with a UTI. Her UTI was initially treated with zosyn and fluconazole (UA initially showed yeast before being corrected by the central laboratory). Her regimen was eventually transitioned to fluconazole (goal total 4 day course) and ceftriaxone (goal 7 day course total, including days already administered of zosyn). Her cultures grew Klebisiella sensitive to both zosyn and ceftriaxone. Given her history of recurrent UTIs Ms. ___ received a renal ultrasound that did not show any stone, abscess, or other nitus of infection. Interestingly blood cultures grew ___ tubes gram positive cocci in pairs and clusters, final speciation pending at time of discharge. It was thought that these cultures represented infection. As part of a full workup CDiff testing was sent which was negative. 
+
+#Cardiac: Home plavix was continued. While she was in house Ms. ___ had her regularly scheduled pacemaker interrogation conducted by the inpatient electrophysiology team that showed normal pacing and sensing thresholds. 
+
+#CKD: Creatinine levels were monitored in house and were normal
+
+#Hypothyroidism: Home synthroid was continued. 
+
+#Transitions of Care: - Please continued fluconazole and ceftriaxone after discharge. Patient requires 1 more dose of fluconazole and 2 more days of ceftriaxone. - Please f/u final blood culture results and speciation.  Medications on Admission: Preadmission medications listed are correct and complete.  Information was obtained from Family/Caregiver. 1. Clopidogrel 75 mg PO DAILY 2. Levothyroxine Sodium 75 mcg PO 4X/WEEK (___) Give before bedtime 3. Levothyroxine Sodium 50 mcg PO 3X/WEEK (___) Give before bedtime 4. Vitamin D 1000 UNIT PO DAILY 5. Calcium Carbonate 600 mg PO QAM 6. Ferrous Sulfate 325 mg PO 4X/WEEK (___) Give at lunch 
+
+ Discharge Medications: 1. Calcium Carbonate 600 mg PO QAM 2. Clopidogrel 75 mg PO DAILY 3. Ferrous Sulfate 325 mg PO 4X/WEEK (___) Give at lunch 4. Levothyroxine Sodium 75 mcg PO 4X/WEEK (___) Give before bedtime 5. Levothyroxine Sodium 50 mcg PO 3X/WEEK (___) Give before bedtime 6. Vitamin D 1000 UNIT PO DAILY 7. Fluconazole 100 mg IV Q24H Duration: 1 Days 8. CeftriaXONE 1 gm IV Q24H Duration: 2 Days 9. Miconazole 2% Cream 1 Appl TP BID rash  below breasts 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Urinary Tract Infection
+
+ Discharge Condition: Mental Status: Confused - always. Level of Consciousness: Lethargic but arousable. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Dear Ms. ___:
+
+You were admitted to the hospital for a urinary tract infection. While you were in the hospital we treated your infection with antibiotics and antifungal medications. You are being discharged to a nursing facility for further recovery.
+
+Medications Started: Fluconazole (for infection) Ceftriaxone (for infection)  Followup Instructions: ___ 

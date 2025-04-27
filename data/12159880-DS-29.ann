@@ -1,0 +1,21 @@
+T1	Delirium 193 214	Altered mental status
+T2	Delirium 404 425	altered mental status
+T3	Delirium 536 546	deliriuous
+T4	Urinary_tract_infection 1465 1468	UTI
+T5	Constipation 2402 2414	constipation
+A1	Negation T5
+T6	Weight_loss 2212 2223	weight loss
+A2	Negation T6
+T7	Unspecified_cognitive_impairment 3311 3319	oriented
+T8	Delirium 18250 18268	Clear and coherent
+A3	Negation T8
+T9	Mobile_with_assistance 18334 18360	Out of Bed with assistance
+T10	Mobile_with_aid 18373 18383	wheelchair
+A4	Type_of_aid T10 Wheelchair
+A5	Low_confidence T10
+T11	Delirium 18442 18451	confusion
+T12	Delirium 12543 12557	Encephalopathy
+T13	Delirium 12623 12628	A&Ox3
+A6	Negation T13
+T14	Lower_respiratory_tract_infection 18494 18498;18572 18581	lung infection
+A7	Negation T14

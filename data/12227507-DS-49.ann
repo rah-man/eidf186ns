@@ -1,0 +1,17 @@
+T1	Hip_fracture 1447 1459	hip fracture
+A1	Diagnosis T1 History_of
+T2	Delirium 12606 12624	Clear and coherent
+A2	Negation T2
+T3	Mobile_with_assistance 12690 12722	Ambulatory - requires assistance
+T4	Mobile_with_aid 12726 12729	aid
+A3	Type_of_aid T4 Two_sticks_or_frame
+T5	Visual_impairment 1873 1883	vitrectomy
+A4	Low_confidence T5
+T6	Delirium 2111 2119;2120 2123	oriented x 3
+A5	Negation T6
+T7	Constipation 15156 15168	constipating
+A6	Diagnosis T7 Implicit_mention
+T8	Constipation 15317 15328	constipated
+A7	Diagnosis T8 Implicit_mention
+T9	Hip_fracture 1789 1792;1832 1862	hip subtrochanteric femur fracture
+A8	Diagnosis T9 History_of

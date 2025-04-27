@@ -1,0 +1,15 @@
+T1	Weight_loss 4981 4985;4991 4997	lose weight
+A1	Diagnosis T1 Implicit_mention
+T2	Constipation 5206 5218	constipation
+A2	Diagnosis T2 Implicit_mention
+T3	Visual_impairment 6083 6097	loss of vision
+A3	Diagnosis T3 Implicit_mention
+T4	Visual_impairment 6099 6107	blurring
+A4	Diagnosis T4 Implicit_mention
+T5	Visual_impairment 6109 6122	double vision
+A5	Diagnosis T5 Implicit_mention
+T6	Visual_impairment 6124 6135	half vision
+A6	Diagnosis T6 Implicit_mention
+T7	Delirium 2438 2447	confusion
+T8	Visual_impairment 4501 4515	visual changes
+A7	Diagnosis T8 Implicit_mention

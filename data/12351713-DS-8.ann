@@ -1,0 +1,18 @@
+T1	Dementia 378 386	dementia
+A1	Diagnosis T1 History_of
+T2	Has_carers 4685 4692	Service
+T3	Independently_mobile 4876 4900	Ambulatory - Independent
+T4	Delirium 4837 4845	Confused
+T5	Constipation 4596 4608	constipation
+A2	Diagnosis T5 Implicit_mention
+T6	Constipation 4636 4648	constipation
+A3	Diagnosis T6 Implicit_mention
+T7	Constipation 5314 5326	constipation
+A4	Diagnosis T7 Implicit_mention
+T8	Dementia 3597 3605	dementia
+A5	Diagnosis T8 History_of
+T9	Malnutrition 392 404	malnutrition
+T10	Hearing_impairment 1053 1065	hearing loss
+T11	Malnutrition 3611 3623	malnutrition
+T12	Constipation 4112 4124	constipation
+A6	Diagnosis T12 Implicit_mention

@@ -1,0 +1,14 @@
+T1	Delirium 8791 8809	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 8875 8899	Ambulatory - Independent
+T3	Upper_gastrointestinal_haemorrhage 1622 1634	black stools
+A2	Negation T3
+T4	Lower_gastrointestinal_haemorrhage 1638 1648	red stools
+A3	Negation T4
+T5	Delirium 2204 2212;2213 2215	Oriented x3
+A4	Negation T5
+T6	Delirium 3112 3120;3121 3123	Oriented x3
+A5	Negation T6
+T7	Pressure_injury 2907 2913	ulcers
+A6	Negation T7
+A7	Low_confidence T7

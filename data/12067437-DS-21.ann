@@ -1,0 +1,67 @@
+T1	Delirium 15750 15768	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 15834 15860	Out of Bed with assistance
+T3	Mobile_with_aid 15873 15883	wheelchair
+A2	Type_of_aid T3 Wheelchair
+T4	Urinary_tract_infection 16238 16261	urinary tract infection
+T5	Lower_respiratory_tract_infection 16346 16355	penumonia
+T6	Lower_respiratory_tract_infection 15628 15655	Hospital Acquired Pneumonia
+A3	In-hospital_event T6
+T7	Urinary_tract_infection 15656 15659	UTI
+T8	Delirium 16009 16032	change in mental status
+T9	Delirium 16434 16457	change in mental status
+T10	Constipation 14286 14298	constipation
+A4	Diagnosis T10 Implicit_mention
+T11	Constipation 14538 14550	constipation
+A5	Diagnosis T11 Implicit_mention
+T12	Visual_impairment 10599 10610	Photophobia
+T13	Urinary_tract_infection 8553 8556	UTI
+T14	Delirium 250 273	change in mental status
+T15	Upper_gastrointestinal_haemorrhage 474 478	UGIB
+T16	Delirium 708 729	altered mental status
+T17	Lower_respiratory_tract_infection 1001 1004	HAP
+T18	Delirium 1189 1194	AAOx3
+A6	Low_confidence T18
+T19	Upper_gastrointestinal_haemorrhage 2406 2410	UGIB
+A7	Diagnosis T19 History_of
+T20	Weight_loss 2561 2572	Weight Loss
+A8	Diagnosis T20 History_of
+T21	Lower_respiratory_tract_infection 2608 2611	PNA
+A9	Diagnosis T21 History_of
+T22	Delirium 3797 3800	A&O
+A10	Negation T22
+T23	Delirium 4213 4216;4217 4220	A&O x 3
+A11	Negation T23
+T24	Intracranial_haemorrhage 4420 4427;4454 4466	CT Head intracranial
+A12	Negation T24
+T25	Delirium 7999 8019	mental status change
+T26	Lower_respiratory_tract_infection 8038 8041	HAP
+A13	In-hospital_event T26
+A14	In-hospital_event T17
+T27	Urinary_tract_infection 8610 8613	UTI
+T28	Lower_respiratory_tract_infection 8671 8674	HAP
+T29	Urinary_incontinence 8679 8699	Urinary incontinence
+T30	Urinary_incontinence 8724 8744	urinary incontinence
+T31	Urinary_incontinence 8875 8887	Incontinence
+A15	Low_confidence T31
+T32	Faecal_incontinence 8875 8887	Incontinence
+A16	In-hospital_event T32
+T33	Delirium 9557 9578	Altered Mental Status
+T35	Malnutrition 3383 3392	cachectic
+T36	Constipation 2294 2306	constipation
+A18	Negation T36
+T37	Visual_impairment 2157 2171	vision changes
+A19	Negation T37
+T38	Lower_gastrointestinal_haemorrhage 2308 2313	BRBPR
+A20	Negation T38
+T39	Upper_gastrointestinal_haemorrhage 2315 2321	melena
+A21	Negation T39
+T40	Lower_gastrointestinal_haemorrhage 2323 2335	hematochezia
+A22	Negation T40
+T41	Lower_respiratory_tract_infection 16155 16164	pneumonia
+T42	Lower_respiratory_tract_infection 8103 8107	HCAP
+A23	In-hospital_event T28
+T34	Urinary_tract_infection 8777 8782;8864 8873	Urine infection
+A17	Negation T34
+T43	Visual_impairment 2743 2763	Macular degeneration
+A24	Diagnosis T43 History_of

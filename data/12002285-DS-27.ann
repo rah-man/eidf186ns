@@ -1,0 +1,29 @@
+T1	Delirium 2856 2864;2865 2868	oriented x 3
+A1	Negation T1
+T2	Hearing_impairment 3465 3472;3477 3483	Hearing intact
+A2	Negation T2
+T3	Urinary_tract_infection 5560 5563	UTI
+A3	Diagnosis T3 Suspected
+T4	Constipation 6712 6724	constipation
+A4	Diagnosis T4 Implicit_mention
+T5	Constipation 7058 7070	constipation
+A5	Diagnosis T5 Implicit_mention
+T6	Constipation 7904 7916	constipation
+A6	Diagnosis T6 Implicit_mention
+T7	Has_carers 8466 8473	Service
+T8	Urinary_tract_infection 8554 8577	urinary tract infection
+T9	Delirium 8616 8634	Clear and coherent
+A7	Negation T9
+T10	Independently_mobile 8700 8724	Ambulatory - Independent
+T11	Urinary_tract_infection 9159 9180	urine tract infection
+T12	Visual_impairment 10126 10140	loss of vision
+A8	Diagnosis T12 Implicit_mention
+T13	Intracranial_haemorrhage 4675 4680;4703 4713	NCHCT hemorrhage
+A9	Negation T13
+T14	Constipation 7667 7679	constipation
+A10	Diagnosis T14 Implicit_mention
+T15	Urinary_tract_infection 9644 9667	urinary tract infection
+T16	Visual_impairment 3325 3333	diplopia
+A11	Negation T16
+T17	Visual_impairment 3221 3234;3240 3244	Visual fields full
+A12	Negation T17

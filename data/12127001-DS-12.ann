@@ -1,0 +1,58 @@
+T1	Constipation 10518 10530	Constipation
+A1	Diagnosis T1 Implicit_mention
+T2	Intracranial_haemorrhage 10791 10802	brain bleed
+T3	Intracranial_haemorrhage 10274 10284	Head Bleed
+T4	Delirium 8629 8637	Confused
+T5	Mobile_with_assistance 8717 8743	Out of Bed with assistance
+T6	Mobile_with_aid 8756 8766	wheelchair
+A2	Type_of_aid T6 Wheelchair
+T7	Falls 8869 8873	fall
+T8	Intracranial_haemorrhage 8881 8886;8895 8899	bleed head
+T9	Urinary_tract_infection 8974 8997	urinary tract infection
+T10	Dementia 331 339	dementia
+A3	Diagnosis T10 History_of
+T11	Falls 394 399	falls
+A4	Diagnosis T11 History_of
+T12	Falls 529 533	fall
+T13	Falls 601 605	fall
+T14	Intracranial_haemorrhage 607 614;663 666	Head CT sdh
+T15	Visual_impairment 785 793	Glaucoma
+A5	Diagnosis T15 History_of
+T16	Dementia 805 813	Dementia
+A6	Diagnosis T16 History_of
+T17	Unspecified_cognitive_impairment 1239 1247	Oriented
+T18	Visual_impairment 1481 1494	Visual fields
+A7	Negation T18
+T19	Hearing_impairment 1661 1675	Hearing intact
+A8	Negation T19
+T20	Unspecified_cognitive_impairment 2142 2150	Oriented
+T21	Intracranial_haemorrhage 3581 3588;3631 3648	CT HEAD subdural hematoma
+T22	Intracranial_haemorrhage 4112 4119;4154 4171	CT HEAD subdural hematoma
+T23	Delirium 4852 4861	confusion
+T24	Falls 4924 4928	Fall
+T25	Intracranial_haemorrhage 4951 4968	Subdural Hematoma
+T26	Intracranial_haemorrhage 5128 5131	SDH
+T27	Seizures 5221 5228	seizure
+A9	Diagnosis T27 Implicit_mention
+T28	Dementia 5701 5709	Dementia
+A10	Diagnosis T28 History_of
+T29	Urinary_tract_infection 5712 5715	UTI
+A11	Diagnosis T29 History_of
+T30	Delirium 5765 5773;5774 5776	oriented x3
+A12	Negation T30
+A13	Diagnosis T30 History_of
+T31	Delirium 5793 5802	confusion
+A14	Diagnosis T31 History_of
+T32	Visual_impairment 5966 5975	blindness
+T33	Visual_impairment 5992 5997	blind
+T34	Urinary_tract_infection 6022 6025	UTI
+A15	Diagnosis T34 Suspected
+T35	Visual_impairment 6452 6460	Glaucoma
+T36	Intracranial_haemorrhage 4778 4781	SDH
+T37	Dementia 4711 4719	dementia
+T38	Seizures 9646 9653	seizure
+A16	Diagnosis T38 Implicit_mention
+T39	Seizures 9952 9960	seizures
+A17	Diagnosis T39 Implicit_mention
+T40	Falls 439 443	fall
+T41	Intracranial_haemorrhage 205 208	SDH

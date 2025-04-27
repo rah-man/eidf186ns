@@ -1,0 +1,67 @@
+ Name: ___           Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: amlodipine  Attending: ___.  Chief Complaint: confusion  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ male with a history of hepatitis C, ___ transferred from outside hospital with concern for encephalopathy. 
+
+For 2 weeks, son reports increasing confusion. Patient has had nonbloody nonbilious vomiting for a few days. Has not noted bloody stools. No recent falls per son. ___ status has been waxing and waning, today was confused, trying to open up windows when he meant to open doors. Patient went to outside hospital, had normal head CT per physician report, elevated ammonia. On interview, patient is confused and cannot answer questions but reports "I am fine". Patient also thinks he is at home. Per son, patient has been compliant with his lactulose taking ___ times daily and having multiple bowel movements daily.
+
+- In the ED, initial vitals were: 97.6 79 183/75 18 100% RA  - Exam was notable for: guaiac negative brown stool, cannot perform asterixis exam, jaundiced, no edema; no ascites on POCUS  - Labs were notable for:  Lactate 1.8 BMP wnl aside from HCO3 17, Cl 113. Cr 1.1 ALT 17 AST 52 AP 140 Tbili 1.7 Alb 3 ___ 13.2 PTT 31.1 INR 1.2 WBC 4.8 H/H 9.8/28.8 Plt 64
+
+- Studies were notable for:  Liver doppler pending upon transfer to floor
+
+- Hepatology was consulted: agreed to admission  - Patient was given:  ___ 03:30 PO/NG Losartan Potassium 25 mg
+
+On arrival to the floor, he states he has no belly pain, no headache, no vision changes, no chest pain, no sob, no cough, no urinary problems, no pooping problems, per assistance with son who is translating.   REVIEW OF SYSTEMS:  ==================  Per HPI, otherwise 10-point review of systems was negative.  Past Medical History: PAST MEDICAL/SURGICAL HISTORY:  ==============================  - Hepatitis C - Cirrhosis, c/b HE and multifocal HCC in segment III post RF ablation in ___, with new OPTN 5A lesion - HTN  Social History: ___ Family History: noncontributory  Physical Exam: ADMISSION PHYSICAL EXAM:  ========================  VITALS: Reviewed in ___ GENERAL: Alert and interactive. In no acute distress.  HEENT: PERRL, EOMI. NECK: Supple CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No murmurs/rubs/gallops.  LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or rales. No increased work of breathing.  ABDOMEN: Normal bowels sounds, non distended, non-tender to deep palpation in all four quadrants. EXTREMITIES: No clubbing, cyanosis, or edema. SKIN: Warm. No rashes.  NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs spontaneously. ___ strength throughout. Normal sensation. No asterixis on examination
+
+DISCHARGE PHYSICAL EXAM: ========================= GENERAL: Alert and interactive, sitting up in bed, NAD CARDIAC: RRR, no m/r/g  LUNGS: symmetric chest rise, breathing comfortably ABDOMEN: Soft, NT, ND EXTREMITIES: No edema  NEUROLOGIC: More somnolent than yesterday. Moving all 4 extremities spontaneously, no asterixis. 
+
+ Pertinent Results: ADMISSION LABS ============== ___ 02:00AM  WBC-4.8 RBC-3.38* HGB-9.8* HCT-28.8* MCV-85 MCH-29.0 MCHC-34.0 RDW-16.3* RDWSD-50.1* ___ 02:00AM  NEUTS-67.1 LYMPHS-17.9* MONOS-12.5 EOS-1.7 BASOS-0.4 IM ___ AbsNeut-3.23 AbsLymp-0.86* AbsMono-0.60 AbsEos-0.08 AbsBaso-0.02 ___ 02:00AM  ___ PTT-31.1 ___ ___ 02:00AM  ALT(SGPT)-17 AST(SGOT)-52* ALK PHOS-140* TOT BILI-1.7* ___ 02:00AM  GLUCOSE-124* UREA N-17 CREAT-1.1 SODIUM-144 POTASSIUM-3.8 CHLORIDE-113* TOTAL CO2-17* ANION GAP-14 ___ 09:06AM BLOOD TSH-7.0*
+
+IMAGING ======== RUQUS (___) 1. chronic portal vein thrombosis with cavernous transformation. 2. Cirrhotic liver, with multiple lesions, as seen on recent MR. 
+
+ ___ LABS ============== ___ 06:00AM BLOOD WBC-3.6* RBC-3.24* Hgb-9.3* Hct-28.3* MCV-87 MCH-28.7 MCHC-32.9 RDW-16.3* RDWSD-51.1* Plt Ct-59* ___ 06:00AM BLOOD ___ PTT-32.4 ___ ___ 06:00AM BLOOD Glucose-108* UreaN-23* Creat-1.5* Na-140 K-4.2 Cl-115* HCO3-15* AnGap-10 ___ 06:00AM BLOOD ALT-19 AST-53* AlkPhos-130 TotBili-1.4  Brief Hospital Course: ================== SUMMARY STATEMENT: ================== ___ PMH HCV cirrhosis, GERD, HTN who presents with altered mental status, which was thought to be hepatic encephalopathy. Improved with lactulose.
+
+==================== ACUTE/ACTIVE ISSUES: ==================== #AMS #Concern for HE: Altered mental status thought to be ___ hepatic encephalopathy given +asterixis on exam although spoke with son and confirmed that he is taking both lactulose and rifaximin at home (though not always having ___ BM daily at home). Increased lactulose to Q2H until his mental status returned to baseline Alternatively his TSH was 7, but T3/T4 wnl, unclear how helpful this will be iso illness. Infectious workup was negative. Will send home on rifaximin BID and lactulose TID with goal ___ BMs daily. Discussed titrating lactulose at home and low threshold to call doctor if getting more confused or not having enough BMs.
+
+___: Likely in the setting of decrease PO intake while encephalopathic and not liking hospital food. Looking back at ED course, Cr seems to have risen after getting losartan and an increased dose of 50mg while on the floor. Held losartan and given albumin. Creatinine 1.5 on discharge, which is above baseline, but volume status and electrolytes wnl. Will have close follow up as outpatient and continue to hold ___ at discharge.
+
+#Non Anion Gap Metablic Acidosis, improving: Hyperchloremic metabolic acidosis. Unclear etiology as did not get NS while in ED. Could be ___ stool losses from Q2H lactulose or due to ___. VBG with normal pH and appropriate compensation.
+
+#HCV Cirrhosis: #Multifocal HCC Chronic hepatitis C s/p 24 weeks of ribavirin and sovaldi with SVR achieved. Complicated by multifocal HCC in segment III post RF ablation in ___, with new OPTN 5A lesion seen on most recent MRI. History of HE on lactulose and rifaximin -volume: no home diuretics -infection: no prior history of SBP. No ascites on U/S -bleeding: EGD on ___ no varices -encephalopathy: on home lactulose and rifaximin -screening: new OPTN 5A lesion in segment VIII - plan is for TACE in future, has been seen by ___ on ___
+
+#Normocytic Anemia: Appears close to baseline, no active signs of bleeding. Can consider iron studies, B12, and screening colonoscopy as outpatient. 
+
+#Hypothyroidism: TSH elevated with normal T3/T4. Unclear how helpful these values are iso acute illness. Should have repeat TFTs as outpatient. 
+
+#Thrombocytopenia: likely ___ cirrhosis. Baseline appears to fluctuate between 60K to 90K. At his baseline 
+
+#HTN: Initially had increased losartan to 50mg daily, but then had ___. Held losartan on discharge and added on carvedilol 12.5mg BID for hypertension with good effect.
+
+#GERD: Continued home omeprazole
+
+==================== TRANSITIONAL ISSUES: ==================== [] Consider iron studies, B12, and screening colonoscopy to complete anemia workup. Anemia on discharge thought to be ___ hemodilution as all counts were down. [] Please obtain Cr and electrolytes at outpatient hepatology follow up on ___ to ensure resolution ___ after holding losartan. [] Trend bicarb as had metabolic acidosis that was improving at time of discharge. [] Started carvedilol 12.5mg BID for hypertension while holding losartan. Please f/u BP and titrate BP meds as needed. [] Found to have elevated TSH to 7, but normal T3 and T4. Should have repeat TFTs as outpatient outside the setting of acute illness.
+
+Discharge Cr 1.5 Discharge Hgb 9.3 Name of health care proxy: ___ (son) ___
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Loratadine 10 mg PO DAILY 2. Losartan Potassium 25 mg PO BID 3. rifAXIMin 550 mg PO BID 4. Omeprazole 20 mg PO DAILY 5. Lactulose 15 mL PO TID 
+
+ Discharge Medications: 1. CARVedilol 12.5 mg PO BID RX *carvedilol 12.5 mg 1 tablet(s) by mouth twice a day Disp #*60 Tablet Refills:*0 2. Lactulose 30 mL PO TID RX *lactulose 20 gram/30 mL 20 g by mouth three times a day Disp #*1 Container Refills:*0 3. Loratadine 10 mg PO DAILY  4. Omeprazole 20 mg PO DAILY  5. rifAXIMin 550 mg PO BID  6. HELD- Losartan Potassium 25 mg PO BID This medication was held. Do not restart Losartan Potassium until your doctor tells you to do so
+
+ Discharge Disposition: Home  Discharge Diagnosis: Primary diagnosis: ================== Encephalopathy
+
+Secondary diagnosis: ==================== Non-anion gap metabolic acidosis ___ HCV cirrhosis HTN Elevated TSH
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr. ___,
+
+You were admitted to the hospital because you had confusion.
+
+WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL? - You were given lactulose to increase your bowel movements and your confusion improved - You had a decrease in your kidney function so your losartan was stopped and you were started on a different blood pressure medication (carvedilol) that is better tolerated by the kidneys - You improved and were ready to leave the hospital.
+
+WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL? - Please refrain from drinking alcohol because this can make your liver function much worse - Take all of your medications as prescribed (listed below) - Make sure you have ___ bowel movements daily. If you do not, please increase your lactulose frequency. - Keep your follow up appointments with your doctors - Weigh yourself every morning, before you eat or take your medications. Call your doctor if your weight changes by more than 3 pounds - Please stick to a low salt diet and monitor your fluid intake - If you experience any of the danger signs listed below please call your primary care doctor or come to the emergency department immediately.
+
+It was a pleasure participating in your care. We wish you the best!
+
+- Your ___ Care Team
+
+ Followup Instructions: ___ 

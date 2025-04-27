@@ -1,0 +1,9 @@
+T1	Delirium 4154 4158	AOx3
+A1	Negation T1
+T2	Constipation 3453 3465	constipation
+T3	Falls 665 669	fall
+T4	Falls 826 830	fell
+T5	Constipation 4882 4894	constipation
+A2	Diagnosis T5 Implicit_mention
+T6	Constipation 3907 3919	constipation
+A3	Diagnosis T6 Implicit_mention

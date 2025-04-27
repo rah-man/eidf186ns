@@ -1,0 +1,61 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: ibuprofen / Ambien  Attending: ___.  Chief Complaint: Left SDH  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: Mr. ___ is an ___ year-old male with history of dementia, HTN, bilateral DVTs, on Coumadin since ___. He had 2 falls during the past few days, with another fall on the day of admission. No LOC in both times. Can't remember the exact cause of the fall (perhaps unsteadiness) but remember all other things relate to the fall. Head CT from OSH demonstrated 9mm acute on chronic left sdh. No associated mass effect or midline shift. Transfered to ___ ED for further evaluation.
+
+ Past Medical History: DVT Glaucoma Depression Dementia Inguinal hernia repair (___)
+
+ Social History: ___ Family History: Non-contributory  Physical Exam: PHYSICAL EXAM ON ADMISSION: Vitals: T:98.9 HR:58 BP:122/65 RR:18 99% ra Gen: WD/WN, comfortable, NAD. HEENT: Pupils:PERRLA   Neck: Supple. Lungs: CTA bilaterally. Cardiac: RRR. S1/S2. Abd: Soft, NT, BS+ Extrem: Warm and well-perfused. Neuro: Mental status: Awake and alert, cooperative with exam, normal affect. Orientation: Oriented to person and date. Language: Speech fluent with good comprehension and repetition. Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves: I: Not tested II: Pupils equally round and reactive to light, to mm bilaterally. Visual fields are full to confrontation. III, IV, VI: Extraocular movements intact bilaterally without nystagmus. V, VII: Facial strength and sensation intact and symmetric. VIII: Hearing intact to voice. IX, X: Palatal elevation symmetrical. XI: Sternocleidomastoid and trapezius normal bilaterally. XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements, tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch, propioception, pinprick and vibration bilaterally.
+
+Handedness: Right
+
+***** PHYSICAL EXAM ON DISCHARGE: VS: 97.3 112/69 65 18 98%RA GENERAL: Cachectic. Oriented to self, year, ___. HEENT: R infraorbital superficial abrasion. No purulent drainage of the R eye today. Sclerae are anicteric, clear OP, MMM NECK: supple, JVP 6cm RESP: CTAB no wheezes, rales, rhonchi  CV: RRR, Nl S1, S2, No MRG  ABD: Soft, NT/ND bowel sounds present, no rebound tenderness or guarding, no organomegaly  GU: Foley in place, no urine in bag EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  NEURO: Face symmetric, ___ strength ___ bilaterally, ___ strength UE b/l  Pertinent Results: ADMISSION LABS: ___ 01:00AM BLOOD WBC-8.5 RBC-3.73* Hgb-10.8* Hct-33.6* MCV-90 MCH-29.0 MCHC-32.1 RDW-13.4 RDWSD-43.9 Plt ___ ___ 01:00AM BLOOD Neuts-77.3* Lymphs-11.7* Monos-8.8 Eos-1.4 Baso-0.4 Im ___ AbsNeut-6.57* AbsLymp-0.99* AbsMono-0.75 AbsEos-0.12 AbsBaso-0.03 ___ 01:00AM BLOOD ___ PTT-31.1 ___ ___ 01:00AM BLOOD Glucose-93 UreaN-20 Creat-0.6 Na-142 K-3.8 Cl-105 HCO3-26 AnGap-15 ___ 01:22AM BLOOD Lactate-1.1
+
+___ 02:15AM URINE Color-Yellow Appear-Cloudy Sp ___ ___ 02:15AM URINE Blood-SM Nitrite-NEG Protein-30 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-8.5* Leuks-LG ___ 02:15AM URINE RBC-17* WBC->182* Bacteri-FEW Yeast-MOD Epi-0
+
+OTHER LABS: ___ 07:13AM BLOOD TSH-3.0 ___ 07:13AM BLOOD VitB12-525 Folate-11.5
+
+___ 12:28PM URINE Color-Yellow Appear-Hazy Sp ___ ___ 12:28PM URINE Blood-SM Nitrite-NEG Protein-100 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-LG
+
+IMAGING: ___: CT HEAD Interval decrease in size of a small left subdural hematoma causing only minimal residual rightward shift of the typically midline structures. No new hemorrhage identified. 
+
+___: LENIS 1. Occlusive or nearly-occlusive deep venous thrombus in the LEFT CFV, extending to the proximal superficial and deep femoral veins.  Given its similar location compared to ___, it is not possible to determine whether this represents residual thrombus or acute clot. 2. No deep venous thrombus in the right lower extremity veins. 
+
+___: CT HEAD: IMPRESSION: 1. Evolution of left subdural hematoma. 2. No evidence of new hemorrhage. 3. Stable minimal rightward midline shift. 4. Stable left occipital subgaleal hematoma. 5. Please note MRI of the brain is more sensitive for the detection of acute infarct. 
+
+DISCHARGE LABS: ___ 05:55AM BLOOD WBC-8.5 RBC-3.94* Hgb-11.4* Hct-36.2* MCV-92 MCH-28.9 MCHC-31.5* RDW-13.3 RDWSD-44.7 Plt ___ ___ 05:55AM BLOOD Glucose-110* UreaN-15 Creat-0.6 Na-137 K-3.9 Cl-103 HCO3-28 AnGap-10 ___ 05:55AM BLOOD Calcium-8.6 Phos-2.4* Mg-2.0  Brief Hospital Course: Mr ___ is a ___ hx DVT in ___ on Coumadin, dementia, chronic indwelling Foley, s/p Fall with acute on chronic SDH without need for surgical intervention, transferred to Geriatrics for confusion, long-term anticoagulation management. 
+
+ACTIVE ISSUES: # s/p Fall with Acute on Chronic Subdural Hematoma: Mr. ___ was admitted to ___ on ___ for close neurological monitoring. His INR was reversed in the ED. Repeat imaging demonstrated interval improvement of the SDH. He remained at his neurologic baseline per outpatient providers. Keppra was started for seizure prophylaxis. He was mobilized with ___ who recommended rehabilitation at discharge. 
+
+# DVT previously on Coumadin: Anticoagulation had been started in ___ and continued since. ___ ultrasound was performed here with chronic clot in the LLE; this was reviewed by Vascular Surgery who believed the patient did not require ongoing systemic anticoagulation or IVC filter based on the chronic nature of the clot. Coumadin was discontinued here and on discharge. 
+
+# History of Dementia / UTI: Patient with waxing/waning medical status, from oriented x3 to intermittent confusion. Outpatient baseline is that he is slow to respond to questions, and will sometimes voluntarily not respond to questioning. Other contributors could include legal blindness (reportedly 90% blind in both eyes), possible UTI (patient admitted on Cipro started prior to admission, outpatient culture was growing 10K colonies each of three organisms, thought commensal flora, so this medication was stopped; for +yeast urine culture here x2, Geriatrics started diflucan to complete a 14 day course), and outpatient benzodiazepines (though these were continued so as not to precipitate withdrawal). TSH, B12 and Folate were all within normal limits. 
+
+# Glaucoma / Conjunctivitis: Continued home Alphagan. Held home Combigan (not on formulary). Started erythromycin eye drops for purulent secretions from the R eye, improved.   # Hypertension: Continued home Norvasc.  TRANSITIONAL ISSUES: - Diflucan to finish ___ - Erythromycin eye ointment to finish ___ - Patient recommended for aspiration precautions with modified diet. - Recommended to have physical therapy as outpatient - Continue Keppra prophylaxis until seen by Neurosurgery - Please call ___ to schedule a follow-up appointment with Dr. ___ in 4 weeks (please mention you will need a Head CT without Contrast beforehand) - Please call the ___ at ___ with any questions or concerns until your follow-up appointment - Patient is no longer on Coumadin - Patient is no longer taking Norvasc - Encourage patient to take fluids between meals  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES DAILY 2. Vyvanse (lisdexamfetamine) 70 mg oral QWeekly 3. Amlodipine 5 mg PO DAILY 4. ClonazePAM 0.5 mg PO DAILY AT 2PM 5. ClonazePAM 1 mg PO QHS 6. Combigan (brimonidine-timolol) 0.2-0.5 % ophthalmic BID 7. Finasteride 5 mg PO DAILY 8. Warfarin 1 mg PO 4X/WEEK (___) 9. Mirtazapine 15 mg PO QHS 10. Warfarin 2.5 mg PO 3X/WEEK (___) 11. Ciprofloxacin HCl 250 mg PO Q12H 
+
+ Discharge Medications: 1. LeVETiracetam 500 mg PO BID 2. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES DAILY 3. ClonazePAM 0.5 mg PO DAILY AT 2PM 4. ClonazePAM 1 mg PO QHS 5. Finasteride 5 mg PO DAILY 6. Mirtazapine 15 mg PO QHS 7. Acetaminophen 1000 mg PO Q8H 8. Docusate Sodium 200 mg PO BID Hold for loose stools. 9. Erythromycin 0.5% Ophth Oint 0.5 in BOTH EYES QID conjunctivitis Duration: 7 Days Last day = ___. Fluconazole 100 mg PO Q24H Duration: 14 Days Last day = ___. 11. Polyethylene Glycol 17 g PO DAILY Hold for loose stools. 12. Senna 8.6 mg PO BID Hold for loose stools. 13. Combigan (brimonidine-timolol) 0.2-0.5 % ophthalmic BID 14. Vyvanse (lisdexamfetamine) 70 mg oral QWeekly 
+
+ Discharge Disposition: Extended Care  Facility: ___  ___ Diagnosis: Left ___
+
+ Discharge Condition: Mental Status: Confused - sometimes. Level of Consciousness: Lethargic but arousable. Activity Status: Out of Bed with assistance to chair or wheelchair.
+
+ Discharge Instructions: Dear Mr ___,
+
+It was a pleasure to care for you. You were admitted after a fall with a bleed in your head that is stable by imaging. You are being started on treatment for a yeast urinary tract infection. You will also receive an antibiotic ointment for an eye infection. Please follow-up with your outpatient providers as below. There are further directions from the Neurosurgical team below that you should follow. 
+
+We wish you all the best, Your ___ Team
+
+Activity Recommendations: - We recommend that you avoid heavy lifting, running, climbing, or other strenuous exercise until your follow-up appointment. - You make take leisurely walks and slowly increase your activity at your own pace once you are symptom free at rest. ___ try to do too much all at once. - No driving while taking any narcotic or sedating medication. - If you experienced a seizure while admitted, you are NOT allowed to drive by law. 
+
+Medication Recommendations: - Please do NOT take any blood thinning medication (Aspirin, Ibuprofen, Plavix, Coumadin) until cleared by your Neurosurgeon. 
+
+- You have been discharged on Keppra (Levetiracetam). This medication helps to prevent seizures. Please continue this medication as indicated on your discharge instruction. It is important that you take this medication consistently and on time. - You may use Acetaminophen (Tylenol) for minor discomfort if you are not otherwise restricted from taking this medication.
+
+What You ___ Experience Following your Head Bleed: - You may have difficulty paying attention, concentrating, and remembering new information. - Emotional and/or behavioral difficulties are common. - Feeling more tired, restlessness, irritability, and mood swings are also common. - Constipation is common. Be sure to drink plenty of fluids and eat a high-fiber diet. If you are taking narcotics (prescription pain medications), try an over-the-counter stool softener.
+
+Information regarding Headaches: - Headache is one of the most common symptom after a brain bleed. - Most headaches are not dangerous but you should call your doctor if the headache gets worse, develop arm or leg weakness, increased sleepiness, and/or have nausea or vomiting with a headache. - Mild pain medications may be helpful with these headaches but avoid taking pain medications on a daily basis unless prescribed by your doctor. - There are other things that can be done to help with your headaches: avoid caffeine, get enough sleep, daily exercise, relaxation/meditation, massage, acupuncture, heat or ice packs.  Followup Instructions: ___ 

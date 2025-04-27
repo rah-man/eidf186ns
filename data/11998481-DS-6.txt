@@ -1,0 +1,65 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics) / Avelox / Lipitor / Elavil / Motrin / morphine / ellipta / Penicillins  Attending: ___.  Chief Complaint: Severe Aortic Stenosis s/p TAVR  Major Surgical or Invasive Procedure: TAVR (___) PPM (___)  History of Present Illness: Ms. ___ is a ___ y/o F w/ severe aortic stenosis, afib (on Elliquis), non-obstructive CAD, hypothyroidism, breast cancer s/p lumpectomy, hypertension, and HLD, who presents now for TAVR.
+
+Of note, patient was recently admitted from ___ to ___ for pre-syncope and afib w/ RVR. She was found to have severe AS, and her symptoms were thought secondary to this. She underwent emergent TAVR work-up, but unfortunately the day she was scheduled to undergo the procedure received apixiban. Thus, she instead was discharged with plan for TAVR ___.   
+
+Patient states since discharge she has essentially been home bound due to her significant dyspnea. She denies any chest pain or palpitations. She presented for her procedure as scheduled today. Given her baseline RBBB, she was felt high risk for arrhythmias, and thus a temporary pacemaker was placed prior to the procedure. The procedure itself was unremarkable, with successful placement of her prosthesis. She did, however, develop ___ Mobitz Type 1, and thus required pacing.  
+
+ Past Medical History: Cardiac History:  - Afib  - Non-obstructive CAD - HTN - HLD Other PMH:  - Breast cancer s/p lumpectomy - Fibromyalgia - GERD - Hypothyroidism  Social History: ___ Family History: There was no family history of stroke, diabetes, hypertension, heart disease. He mother died at ___ of an aneurysm and was a smoker. Her father died at ___ of dementia.  Physical Exam: ADMISSION PHYSICAL EXAMINATION:  ================================== VS: Reviewed in Metavision  GENERAL: Elderly appearing female in no acute distress HEENT: Normocephalic, atraumatic. Pacemaker temporary wire in place over RIJ.   CARDIAC: Regular rate and rhythm, loud S2  LUNGS: No increased work of breathing, CTAB ABDOMEN: Soft, non-tender, non-distended. EXTREMITIES: Warm, well perfused. No lower extremity edema. Bandage over right femoral area, c/d/I PULSES: Distal pulses palpable and symmetric.  NEURO: CNII-XII grossly intact  
+
+DISCHARGE PHYSICAL EXAM: ================================= VS: T 97.6 BP 120/54 HR 78 RR 18 SpO2 100% RA Wt: 157.6 lbs PE: Gen: Patient is comfortable, in no acute distress. HEENT: Face symmetrical, trachea midline. Neuro: A/Ox3. Speaking in complete, coherent sentences. No focal deficits. Pulm: Breathing unlabored. Breath sounds clear bilaterally. Cardiac: No JVD. No thrills or bruits heard on carotids bilaterally. S1, S2 RRR. No splitting of heart sounds, murmurs, S3, S4 or friction rubs heard. Vasc: No edema noted in bilateral upper or lower extremities. No pigmentation changes noted in bilateral upper or lower extremities. Skin dry, warm. Bilateral radial, ___ pulses palpable 2+. Integ: Bilateral femoral access sites soft, non-tender with no drainage, swelling or hematoma noted. Both sites are open to air. No bruits auscultated. L chest incision with dry gauze dressing. No swelling, drainage, redness or hematoma noted. Abd: Rounded, soft, non-tender. 
+
+ Pertinent Results: ADMISSION LABS ================== ___ 06:25PM BLOOD WBC-5.3 RBC-3.59* Hgb-9.3* Hct-30.1* MCV-84 MCH-25.9* MCHC-30.9* RDW-14.8 RDWSD-45.1 Plt ___ ___ 06:25PM BLOOD ___ PTT-50.2* ___ ___ 06:25PM BLOOD Glucose-90 UreaN-14 Creat-0.8 Na-142 K-4.5 Cl-109* HCO3-23 AnGap-10 ___ 06:25PM BLOOD Calcium-8.8 Phos-3.3 Mg-1.8
+
+DISCHARGE LABS: ============== ___ WBC-10.6* RBC-3.92 Hgb-10.3* Hct-33.2* MCV-85 MCH-26.3 MCHC-31.0* RDW-15.3 RDWSD-46.4* Plt ___ ___ ___ ___ UreaN-19 Creat-0.9 Na-142 K-3.8 Cl-105 HCO3-23 AnGap-14 Mg-2.0
+
+IMAGING ========== TTE ___ CONCLUSION: Pre-TAVR: Overall left ventricular systolic function is normal. The visually estimated left ventricular ejection fraction is 55-60%. The aortic valve leaflets are severely thickened. There is SEVERE aortic valve stenosis (valve area 1.0 cm2 or less). There is trace aortic regurgitation. The mitral valve leaflets are mildly thickened. There is mild [1+] mitral regurgitation. POST-PROCEDURE: The Evolut Pro TAVR prosthesis is well seated with normal leaflet motion and normal gradient. There is a paravalvular jet of trace aortic regurgitation. There is no pericardial effusion.
+
+TTE ___ CONCLUSION: The left atrial volume index is moderately increased. The estimated right atrial pressure is ___ mmHg. There is moderate symmetric left ventricular hypertrophy with a normal cavity size. There is normal regional and global left ventricular systolic function. Quantitative biplane left ventricular ejection fraction is 65% (normal 54-73%). There is no resting left ventricular outflow tract gradient. Normal right ventricular cavity size with normal free wall motion. The aortic sinus diameter is normal for gender with normal ascending aorta diameter for gender. The aortic arch diameter is normal with a mildly dilated descending aorta. An Evolut Pro aortic valve bioprosthesis is present. The prosthesis is well seated with normal gradient. There is trace aortic regurgitation. The mitral valve leaflets are mildly thickened with no mitral valve prolapse. There is moderate mitral annular calcification. There is mild [1+] mitral regurgitation, with evidence of flow in both systolic and diastole likely related to prolonged PR interval/AV delay. Due to acoustic shadowing, the severity of mitral regurgitation could be UNDERestimated. The pulmonic valve leaflets are normal. There is mild pulmonic regurgitation. The tricuspid valve leaflets appear structurally normal. There is mild [1+] tricuspid regurgitation with evidence of diastolic tricuspid regurgitation. Due to acoustic shadowing, the severity of tricuspid regurgitation may be UNDERestimated. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion. Compared with the prior TTE (images reviewed) of ___ , the aortic valve has been replaced with a normal functioning TAVR with trivial paravalvular regurgitation. Diastolic mitral and tricuspid regurgitation are present and pacing wire is new.
+
+EP Report ___:  Successful implant of a dual chamber PPM via the left cephalic vein.  Successful removal of the RIJ temp wire.  No complications.
+
+ Brief Hospital Course: Ms. ___ is an ___ y/o F w/ afib, HLD, and HTN, presenting now for TAVR c/b Mobitz type 1 3:2 block. 
+
+#CORONARIES: 40% proximal LAD stenosis (___) #PUMP: EF 55-60% #RHYTHM: V paced rate 60-85 bpm
+
+ACUTE ISSUES: ============= #. Mobitz Type I, 3:2 Block Noted on post-TAVR EKG to have new conduction defect c/w Mobitz I. Arrhythmia likely in setting of procedure given increased risk in setting of her baseline RBBB. Temp wire placed by EP, on VVI. Permanent dual chamber PPM placed and temp wire removed ___ with no complications. Site stable. Interrogation and post-op CXR were WNL. Home beta blockers and CCB restarted.
+
+#. Severe Aortic Stenosis s/p TAVR Pre-procedure, aortic valve area 1.0 cm2 or less. Underwent TAVR with placement of 29 mm EVOLUT Pro prosthesis on ___. Per post-procedure echo, TAVR prosthesis appears to be in appropriate location with trace aortic regurgitation (AV peak/mean gradients: 16 mmHg/8 mmHg), ___ 1.8 cm2. Anticoagulation: Asa, Apixaban 
+
+#. Atrial Fibrillation - RC: Continue Sotalol and Verapamil - Anticoagulation: Continue Apixaban
+
+#. Normocytic Hypochromic Anemia Hemoglobin decreased from 10.5 to 9.3 post-TAVR. Stable on dc (10.3). No overt evidence of bleeding, catheter insertion sites appeared stable. 
+
+CHRONIC ISSUES: =============== #. HTN: clinically stable - Continue Losartan
+
+#. HLD: FLP unknown - Continue Ezetimibe 
+
+#. Hypothyroidism - Continue Levothyroxine 
+
+#. GERD - Continue ranitidine 
+
+# Dispo: Home today with ___ services - Device clinic follow up in ___: ___ @ 1040, then ___ thereafter with ___, NP ___ @ 1400 - Structural follow up with concurrent TTE: ___ @ 1400, 1500 - PCP ___ Cardiology Dr. ___ ups requested for ___are Connections.  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Apixaban 5 mg PO BID 2. Docusate Sodium 100 mg PO BID 3. Ezetimibe 10 mg PO QPM 4. Levothyroxine Sodium 125 mcg PO DAILY 5. Losartan Potassium 25 mg PO DAILY 6. Multivitamins 1 TAB PO DAILY 7. Oxazepam 30 mg PO QHS 8. Ranitidine 150 mg PO DAILY:PRN GERD 9. Senna 8.6 mg PO QHS 10. Vitamin D ___ UNIT PO DAILY 11. Ascorbic Acid ___ mg PO DAILY 12. Bacillus coagulans 1 billion cell oral DAILY 13. Sotalol 80 mg PO BID 14. Verapamil SR 120 mg PO Q12H 
+
+ Discharge Medications: 1. Aspirin 81 mg PO DAILY  2. Apixaban 5 mg PO BID  3. Ascorbic Acid ___ mg PO DAILY  4. Bacillus coagulans 1 billion cell oral DAILY  5. Docusate Sodium 100 mg PO BID  6. Ezetimibe 10 mg PO QPM  7. Levothyroxine Sodium 125 mcg PO DAILY  8. Losartan Potassium 25 mg PO DAILY  9. Multivitamins 1 TAB PO DAILY  10. Oxazepam 30 mg PO QHS  11. Ranitidine 150 mg PO DAILY:PRN GERD  12. Senna 8.6 mg PO QHS  13. Sotalol 80 mg PO BID  14. Verapamil SR 120 mg PO Q12H  15. Vitamin D ___ UNIT PO DAILY 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Severe Aortic Stenosis
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+VS: T 97.6 BP 120/54 HR 78 RR 18 SpO2 100% RA PE: Gen: Patient is comfortable, in no acute distress. HEENT: Face symmetrical, trachea midline. Neuro: A/Ox3. Speaking in complete, coherent sentences. No focal deficits.  Pulm: Breathing unlabored. Breath sounds clear bilaterally. Cardiac: No JVD. No thrills or bruits heard on carotids bilaterally. S1, S2 RRR. No splitting of heart sounds, murmurs, S3, S4 or friction rubs heard. Vasc: No edema noted in bilateral upper or lower extremities. No pigmentation changes noted in bilateral upper or lower extremities. Skin dry, warm. Bilateral radial, ___ pulses palpable 2+. Integ: Bilateral femoral access sites soft, non-tender with no drainage, swelling or hematoma noted. Both sites are open to air. No bruits auscultated. L chest incision with dry gauze dressing. No swelling, drainage, redness or hematoma noted. Abd: Rounded, soft, non-tender. 
+
+ Discharge Instructions: You were admitted for a trans catheter aortic valve replacement (TAVR) to treat your aortic valve stenosis which was done on ___. By repairing the valve your heart can pump blood more easily and your dyspnea should improve.  After your TAVR procedure you had a slow heart rhythm and required a pacemaker implant. Activity restrictions and information regarding care of the procedure site on your chest are included in your discharge instructions. An appointment was made for you to return in 1 week to the device clinic to check the wound. This was made in ___ because there was no available appointments in ___. Subsequent follow ups for your pacemaker will be in ___. 
+
+It is very important to take all of your heart healthy medications. In particular, you are now taking Aspirin and Apixaban (Eliquis). A prescription for Aspirin was sent to your local ___. These medications help to prevent blood clots from forming on the new valve. If you stop these medications or miss ___ dose, you risk causing a blood clot forming on your new valve. This could cause it to malfunction and it may be life threatening. Please do not stop taking Aspirin and Apixaban without taking to your heart doctor, even if another doctor tells you to stop the medications. 
+
+You will need prophylactic antibiotics prior to any dental procedure. Please inform your dentist about your recent cardiac procedure, and obtain a prescription from your doctor before any procedure. 
+
+Please weigh yourself every day in the morning after you go to the bathroom and before you get dressed. If your weight goes up by more than 3 lbs in 1 day or more than 5 lbs in 3 days, please call your heart doctor or your primary care doctor and alert them to this change. Your weight at discharge is 158 lbs.   We have made changes to your medication list, so please make sure to take your medications as directed. You will also need to have close follow up with your heart doctor and your primary care doctor. 
+
+If you were given any prescriptions on discharge, any future refills will need to be authorized by your outpatient providers, primary care or cardiologist. 
+
+If you have any urgent questions that are related to your recovery from your procedure or are experiencing any symptoms that are concerning to you and you think you may need to return to the hospital, please call the ___ Heart Line at ___ to speak to a cardiologist or cardiac nurse practitioner. 
+
+It has been a pleasure to have participated in your care and we wish you the best with your health. 
+
+ Followup Instructions: ___ 

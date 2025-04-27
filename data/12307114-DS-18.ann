@@ -1,0 +1,16 @@
+T1	Falls 1283 1287	fall
+A1	Diagnosis T1 History_of
+T2	Delirium 1590 1595	a+ox3
+A2	Negation T2
+T3	Pressure_injury 1862 1868	ulcers
+A3	Negation T3
+A4	Low_confidence T3
+T4	Constipation 4920 4932	constipation
+A5	Diagnosis T4 Implicit_mention
+T5	Constipation 5006 5018	constipation
+A6	Diagnosis T5 Implicit_mention
+T6	Delirium 5147 5165	Clear and coherent
+A7	Negation T6
+T7	Independently_mobile 5231 5255	Ambulatory - Independent
+T8	Intracranial_haemorrhage 1245 1256	Brain bleed
+A8	Diagnosis T8 History_of

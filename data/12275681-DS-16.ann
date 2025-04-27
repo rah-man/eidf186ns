@@ -1,0 +1,16 @@
+T1	Urinary_incontinence 1593 1613	Urinary incontinence
+A1	Diagnosis T1 History_of
+T2	Visual_impairment 1644 1652	cataract
+A2	Diagnosis T2 History_of
+T3	Delirium 1867 1870	AO3
+A3	Negation T3
+T4	Urinary_incontinence 7004 7024	Urinary incontinence
+T5	Visual_impairment 7052 7060	Glaucoma
+T6	Delirium 7098 7116	Clear and coherent
+A4	Negation T6
+T7	Mobile_with_assistance 7182 7214	Ambulatory - requires assistance
+T8	Mobile_with_aid 7218 7221	aid
+A5	Type_of_aid T8 Two_sticks_or_frame
+T9	Has_carers 6780 6787	Service
+T10	Visual_impairment 1745 1753	Glaucoma
+A6	Diagnosis T10 History_of

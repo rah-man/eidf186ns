@@ -1,0 +1,59 @@
+ Name: ___       ___:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: ___ Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: headache  Major Surgical or Invasive Procedure: lumbar puncture ___
+
+ History of Present Illness: Dr. ___ is a ___ psychiatrist h/o of multiple myeloma s/p autologous stem cell transplant, 4 cycles CVD, 3 cycles Revlimid, on the dendritic cell fusion vaccine protocol and PD-1 antibody now six months after his last treatment p/w 1d h/o of headache. Described as throbbing, anterior forehead, sudden onset while seeing patients at work, constant, ___ at its worst, exacerbated slightly by light, associated with neck pain/stiffness, some nausea. Pain seems to be worse with turning his neck. Denies fevers or chills.
+
+Has active HSV infection for last few weeks on left chest for which he has completed a week course of Valtrex and now back on his prophylactic dose of acyclovir. 
+
+Also had recent dental work for which he was taking Amoxicillin.
+
+Denies confusion, ataxia, weakness, paresthesias, visual changes, numbness, CP/SOB, vomiting, abd pain, recent infection, recent travel, recent sick contacts (reports one patient he saw yesterday who returned from ___ > 1 month ago who was well-appearing asymptomatic), diarrhea/constipation, dysuria, or other symptoms. 
+
+The patient noted that he has been having significant emotional stress from the weekend with his partner. 
+
+ED VS: T: 98.9, 72, 134/80, 18, 98%RA Received 1000 mL NS 500 mL, had LP, and received following for possible meningitis:
+
+  23:57  Acyclovir 700 mg IV Q12H Start:  23:57  Ampicillin 2 g IV Q4H   23:54  CefePIME 2 g IV ONCE  23:54  Vancomycin 1000 mg IV ONCE
+
+REVIEW OF SYSTEMS: 10 point ROS reviewed in detail and negative except for what is mentioned above in HPI
+
+ Past Medical History: PAST HEMATOLOGIC HISTORY: - ___: symptoms of fatigue, dyspnea on exertion prompted visit to his PCP. Labs showed a HCT of 25%, creatinine of 3.0(prior to this it was 1.0) and a total protein level of 13.4.  - ___: admitted to ___, SPEP showed an IgG Kappa paraprotein with a level of 10,578. Free kappa:lambda light chain ratio was 1068. He underwent a bone marrow biopsy which showed increased cellularity with plasma cells occupying 90% of the marrow. Was started on dexamethasone 20 mg PO daily.  - ___: presented to ___ for consultation, admitted with serum viscosity of 5.0, IgG of ___. Received plasmapheresis ___ and creatinine improved to 1.9 on discharge. Velcade was started ___ and he received all 4 doses.  Cytoxan 500 mg/m2 was given on ___. Developed RSV infection with superimposed multifocal PNA, was treated with abx and discharged on Levaquin. Discharged on ___. - ___: started CVD x 4 cycles (day 8 Cytoxan omitted during cycle 1; cycle 4 velcade stopped due to neuropathy) - ___: readmitted with febrile neutropenia, diarrhea and rash. Symptoms resolved over the following 5 days, cultures were negative. Discharged on ___. - ___ - ___: Revlimid/dex x 3 cycles - ___ stem cell mobilization with HD Cytoxan - ___ - Autologous stem cell transplant
+
+09-061 Immunotherapy Program: ___ - Fusion Vaccine #1 and initiated GM-CSF x 4 days ___ - ___ #1 held for decreased ANC ___ - ___ #1 ___ - Fusion Vaccine #2 and initiated GM-CSF x 4 days ___ - ___ #2 held for the decreased platelet count and patient's travel schedule ___ - ___ #2 ___ - Fusion Vaccine #3 ___ - ___ #3
+
+PAST MEDICAL HISTORY: MULTIPLE MYELOMA                         THERAPEUTIC PLASMA EXCHANGE                   PROTOCOL ___ COHORT 2 (VACCINE + ___            AUTO DENDRITIC                          DEFERRED STEM CELL COLLECTION                  STEM CELL COLLECTION                       AUTO HPC,APHERESIS INFUSION   Social History: ___ Family History: Father had heart disease but live to ___. His uncle died of colon cancer at age ___. His mother's family lived until her ___. His aunt died of brain tumor at age ___.  Physical Exam: Admission physical exam: General: NAD VITAL SIGNS: 98.5F 138/79 65 18 100% RA HEENT: MMM, ___ OP lesions, ___ cervical, supraclavicular adenopathy, trapezius and cervical spinal muscles tense but not rigid, ROM neck intact CV: RR, NL S1, physiologically split S2 ___ S3S4 ___ MRG PULM: CTAB b/l anterior and posterior fields ABD: BS+, soft, NTND, ___ masses or hepatosplenomegaly LIMBS: WWP, ___ tremors SKIN: ___ rashes on the extremities NEURO: Grossly normal
+
+Discharge physical exam (same day): General: well-appearing middle-aged gentleman, lying comfortably in bed. pleasant, answering questions appropriately. VITAL SIGNS: 98.5F 122/76 70 18 97% RA. 144 lbs, 67" HEENT: PERRLA, EOMI, moist mucous membranes, ___ OP lesions, ___ cervical, supraclavicular adenopathy, trapezius and cervical spinal muscles with ___ tenderness to palpation, ___ stiffness. neck with full ROM, ___ pain with AROM. CV: RR, NL S1, physiologically split S2, ___ S3S4, ___ m/r/g PULM: CTAB b/l anterior and posterior fields ABD: BS+, soft, NTND, ___ masses or hepatosplenomegaly LIMBS: WWP, ___ tremors SKIN: ___ rashes on the extremities NEURO: Grossly normal
+
+ Pertinent Results: Admission labs: ___ 06:20PM BLOOD WBC-5.1 RBC-3.57* Hgb-12.4* Hct-37.3* MCV-105* MCH-34.8* MCHC-33.3 RDW-14.7 Plt ___ ___ 06:20PM BLOOD Neuts-59.7 ___ Monos-5.6 Eos-2.2 Baso-0.2 ___ 06:20PM BLOOD ___ PTT-26.8 ___ ___ 06:20PM BLOOD Glucose-106* UreaN-26* Creat-1.1 Na-138 K-3.7 Cl-102 HCO3-26 AnGap-14 ___ 06:20PM BLOOD Calcium-9.4 Phos-3.2 Mg-1.9
+
+___ discharge labs (same day)
+
+Head CT: Small amount of fluid is seen in the left maxillary sinus in addition to aerosolized secretions. The right frontal sinus is atretic. Mild mucosal thickening is also noted in the ethmoidal air cells. ___ lytic or sclerotic lesions identified in the ___ acute intracranial abnormality.
+
+ Brief Hospital Course: Dr ___ is a ___ psychiatrist with h/o of multiple myeloma s/p aSCT, 4 cycles CVD, 3 cycles Revlimid, on the dendritic cell fusion vaccine protocol and PD-1 antibody now six months after his last treatment p/w 1d h/o of frontal and occipital headache with mild photophobia and neck stiffness with unremarkable CSF. 
+
+#Headache CSF benign and does not reveal evidence of bacterial nor viral meningitis. Headache had resolved in ED. Applying pressure to neck muscles improved symptoms suggesting cervical tension, likely from carrying emotional stress and lifting heavy weights at gym. Other causes could be sinusitis seen on CT scan, though patient denies nasal discharge, maxillary tooth discomfort, facial pain or pressure, fever, fatigue, or cough. Due to these constellation of signs and symptoms, held off on antibiotics. Normal blood tests, CT, and CSF--low suspicion for infectious process. Headache and neck pain resolved. He notes that he does get crampy muscle pain when he exercises and that this pain felt similar. Likely musculoskeletal etiology to this neck pain, radiating to headache. Instructed patient to call physician and return for evaluation if repeat headache, or if any fever, worsening symptoms. CSF HSV PCR pending at time of discharge, to be followed up as outpatient. -- continued home oxycodone prn
+
+#Multiple Myeloma Continued acyclovir for prophylaxis Continued f/u with primary hematologist 
+
+#HSV skin rash Completed one week course of valtrex. Discharged on his prophlyactic dose of acyclovir.
+
+CODE STATUS: Full code, confirmed HCP: *** AS OF NOW, ___ LONGER ___, MD. ___ is his son ___ ___
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Acyclovir 400 mg PO Q8H 2. Lorazepam 1 mg PO HS:PRN insomnia 3. OxycoDONE (Immediate Release) 5 mg PO Q4H:PRN Pain 4. ValACYclovir 1000 mg PO Q8H 
+
+ Discharge Medications: 1. Acyclovir 400 mg PO Q8H 2. Lorazepam 1 mg PO HS:PRN insomnia 3. OxycoDONE (Immediate Release) 5 mg PO Q4H:PRN Pain 4. ValACYclovir 1000 mg PO Q8H 
+
+ Discharge Disposition: Home  Discharge Diagnosis: headache, musculoskeletal pain
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr ___,
+
+It was a pleasure to take care of you at ___. You were admitted because you had a headache and some pain in your neck. Both the headache and the pain resolved. The head CT, blood tests, and CSF tests from the lumbar puncture were all normal. We are not concerned that you have meningitis at this time. It seems that you may have had some muscle spasm in your neck that was related to the headache. 
+
+If you have any further headache, neck stiffness or pain, or fevers, please call your doctor or come to the emergency room if you are unable to reach a physician.
+
+We wish you all the best.
+
+-Your ___ team  Followup Instructions: ___ 

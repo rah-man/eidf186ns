@@ -1,0 +1,14 @@
+T1	Urinary_tract_infection 15198 15221	Urinary Tract Infection
+T2	Urinary_tract_infection 11651 11654	UTI
+A1	In-hospital_event T2
+T3	Urinary_tract_infection 15839 15862	urinary tract infection
+A2	In-hospital_event T3
+A3	In-hospital_event T1
+T4	Delirium 3232 3240	oriented
+A4	Negation T4
+T5	Urinary_tract_infection 11764 11767	UTI
+A5	Negation T5
+T9	Falls 10704 10717	risk for fall
+A12	Diagnosis T9 Implicit_mention
+T6	Lower_gastrointestinal_haemorrhage 16476 16481;16490 16495	blood stool
+A6	Diagnosis T6 Implicit_mention

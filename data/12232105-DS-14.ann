@@ -1,0 +1,21 @@
+T1	Delirium 13010 13018;13019 13022	oriented x 3
+A1	Negation T1
+T2	Visual_impairment 12947 12955	cataract
+A2	Diagnosis T2 History_of
+T3	Constipation 11841 11853	constipation
+A3	Diagnosis T3 Implicit_mention
+T4	Constipation 11244 11256	constipation
+A4	Diagnosis T4 Implicit_mention
+T5	Delirium 2594 2602;2603 2605	Oriented x3
+A5	Negation T5
+T6	Falls 12745 12749	fall
+A6	Diagnosis T6 History_of
+T7	Delirium 9539 9547	confused
+T8	Visual_impairment 2270 2278	cataract
+A7	Diagnosis T8 History_of
+T9	Vertebral_compression_fracture 5681 5701;5711 5734;5748 5751	Compression fracture thoracic vertebral body T11
+T10	Pressure_injury 3174 3180	ulcers
+A8	Low_confidence T10
+T11	Independently_mobile 10119 10136	ambulating freely
+T12	Falls 2071 2075	fall
+A9	Diagnosis T12 History_of

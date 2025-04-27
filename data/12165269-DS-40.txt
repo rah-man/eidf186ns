@@ -1,0 +1,69 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Amoxicillin / Shellfish / orange  Attending: ___.  Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: None  History of Present Illness: ___ hx of asthma on 2L home O2, HFpEF (LVEF 45% ___, severe aortic stenosis s/p TAVR (___) c/b ___ cardiac  arrest, coronary artery disease status post CABG complicated by in-stent restenosis ___, status post multiple PCIs with persistent stable angina (last DES to ___-Cx ___, HTN, HLD, DM, ESRD on HD ___ admitted with increasing hypoxia found to have RML, RLL PNA on CXR.
+
+Per report patient was brought in from her SNF after 2 hours of shortness of breath and tachypnea. She was also having nausea and dry heaves. She received her full HD session on ___.
+
+In the ED she was given zofran with no effect. She was briefly placed on BiPAP for hypoxemic hypercarbic respiratory failure but was unable to tolerate secondary to nausea. 
+
+ED Course notable for: Vitals: T 101.8; RR 28; HR 62; BP 109/55; SpO2 94% on ventimask
+
+Notable Labs: VBG: pH 7.22; pCO2 63; HCO3 27 Lactate: 8.3 Trop: 0.22 Chem: Na 136; K 5.7; BUN 20; Cr 1.9 BNP: >70,000 CBC: WBC 8.8; Hgb 10.2
+
+CXR showed: RLL PNA
+
+on arrival to the MICU she reports mild improvement in her breathing though continues to feel "lousy". She confirms that she would not like to be intubated if her respiratory status were to deteriorate
+
+ Past Medical History: 1. CARDIAC RISK FACTORS  - Type 2 diabetes mellitus with nephropathy and retinopathy  - Hypertension  - Hyperlipidemia 
+
+2. CARDIAC HISTORY  - CABG ___  - TAVR ___  - Congestive heart failure, diastolic dysfunction (LVEF 46% TTE ___ - Cartotid stenosis s/p CEA  - TIA   3. OTHER PAST MEDICAL HISTORY  - ESRD ___ DM/HTN) on HD ___ - Chronic anemia likely secondary to chronic renal insufficiency - Iron deficiency anemia  - Asthma (FVC 66%, FEV1 76%)  - Diverticulosis  - Gout - Temporal arteritis  Social History: ___ Family History: - Mother had MI in her ___  - Grandmother had diabetes  - Father passed away in an accident  Physical Exam: ADMISSION PHYSICAL EXAM: ======================== VITALS: Afebrile HR 69, BP 116/59 RR 30 O2 SAT 100 % on ___ mask GENERAL: Alert, oriented, in mild respiratory distress HEENT: Sclera anicteric, MMM, oropharynx clear NECK: supple LUNGS: Diffuse rhonchi throughout right lower lung field, speaking in >3 word sentences without difficulty CV: Regular rate and rhythm, ___ systolic murmur at apex ABD: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema SKIN: no rash NEURO: AOx3, moving 4 extremities with purpose
+
+DISCHARGE PHYSICAL EXAM: ======================== Patient expired.
+
+ Pertinent Results: ADMISSION LABS: =============== ___ 05:15AM BLOOD WBC-8.8 RBC-3.55* Hgb-10.2* Hct-34.9 MCV-98 MCH-28.7 MCHC-29.2* RDW-17.9* RDWSD-65.0* Plt ___ ___ 05:15AM BLOOD Glucose-97 UreaN-20 Creat-1.9* Na-136 K-5.7* Cl-94* HCO3-21* AnGap-21* ___ 05:15AM BLOOD proBNP->70000* ___ 12:30PM BLOOD Calcium-8.8 Phos-3.3 Mg-1.4* ___ 05:26AM BLOOD ___ pO2-14* pCO2-63* pH-7.22* calTCO2-27 Base XS--5 ___ 05:26AM BLOOD Lactate-8.3*
+
+IMAGING STUDIES: ================ CXR ___ 1. Consolidative right mid and lower lung airspace opacities with air bronchograms consistent with pneumonia. 2. Persistent moderate cardiomegaly and small bilateral pleural effusions, right greater than left. 
+
+MICROBIOLOGY: ============= __________________________________________________________ ___ 3:55 am STOOL   CONSISTENCY: SOFT   Source: Stool. 
+
+               **FINAL REPORT ___
+
+  C. difficile PCR (Final ___:    Reported to and read back by ___ ON ___ AT 3PM.    POSITIVE.       (Reference Range-Negative).      The C. difficile PCR is highly sensitive for toxigenic strains of     C. difficile and detects both C. difficile infection (CDI) and     asymptomatic carriage. Therefore, positive C. diff PCR tests     trigger reflex C. difficile toxin testing, which is highly     specific for CDI. 
+
+  C. difficile Toxin antigen assay (Final ___:    POSITIVE.       (Reference Range-Negative).  PERFORMED BY EIA.      This result indicates a high likelihood of C. difficile infection     (CDI). __________________________________________________________ ___ 6:17 am BLOOD CULTURE   Source: Line-dialysis #1. 
+
+              **FINAL REPORT ___
+
+  Blood Culture, Routine (Final ___:  NO GROWTH. 
+
+DISCHARGE LABS (PATIENT EXPIRED ___: ===================================== ___ 07:00AM BLOOD WBC-5.7 RBC-2.63* Hgb-7.7* Hct-24.1* MCV-92 MCH-29.3 MCHC-32.0 RDW-19.5* RDWSD-61.3* Plt ___ ___ 07:00AM BLOOD Glucose-76 UreaN-20 Creat-2.3* Na-139 K-4.2 Cl-97 HCO3-28 AnGap-14 ___ 01:40PM BLOOD CK-MB-3 cTropnT-0.35* ___ 07:00AM BLOOD Calcium-8.5 Phos-3.2 Mg-1.9
+
+ Brief Hospital Course: SUMMARY: ======== ___ was a ___ with a PMH significant for HFpEF (LVEF 45% ___, severe aortic stenosis s/p TAVR (___) c/b ___ cardiac arrest, coronary artery disease status post CABG complicated by in-stent restenosis ___, status post multiple PCIs with persistent stable angina (last DES to LMCA-Cx ___, HTN, HLD, DM, ESRD on HD ___ admitted with increasing hypoxia and pneumonia. She was treated with vancomycin and cefepime for pneumonia. 
+
+She developed chest pressure consistent with angina on ___ following dialysis. She was noted to have troponin leak and ECG was unchanged from prior, consistent with demand NSTEMI. SL Nitro and IV morphine were given with improvement in pain. In the evening of ___, she complained of generalized body pain and was given Tylenol.
+
+On the evening of ___, nursing staff found the patient to be unresponsive. MD was called to bedside. On exam, pulses could not be appreciated, and heartbeat and respirations were absent. Pupils were fixed and dilated. DNR/DNI code status had been confirmed with the patient earlier in the admission, and CPR was not attempted. The patient passed away at 2215 on ___. Next of kin (son ___, her HCP) had visited earlier that day. He was contacted and declined autopsy. 
+
+ACUTE ISSUES DURING HOSPITALIZATION: ==================================== #Type II NSTEMI Patient has history of multi-vessel CAD, and multiple admissions for chest pain related to HD sessions. Reported recurrence of chest pressure after HD ___. Gave sublingual nitro x 1, IV morphine 2mg, with improvement in pain. EKG unchanged from prior. Troponins 0.35 (prior baseline around 0.2-0.3). Did not have morning anti-anginal medications prior to HD, so these were administered, and chest pain resolved throughout the day. Trop leak thought most likely ___ demand, given known underlying coronary disease, and given her chest pain occurred in the setting of HD. She was not heparinized, as most likely that this represented demand ischemia, and pain resolved with anti-anginal medications.
+
+#C. Diff Noted to have non-bloody, watery diarrhea, beginning ___. Had 10 bowel movements per report. Has history of C.Diff and recently on broad spectrum antibiotics, including fluoroquinolone. C. Diff positive. Treated with vanc QID.  #Acute hypoxemic, hypercarbic respiratory Failure #HAP #Respiratory acidosis w/ secondary metabolic acidosis Patient was presenting from home with 2 hours of increasing shortness of breath and dyspnea. CXR in ED showed right sided consolidation consistent with pneumonia. S/p Vanc and Zosyn in the ED. She might also have component of heart failure given elevated BNP. She was briefly on BiPAP requiring ICU, then de-escalated to only 2 liters nasal cannula (which is her home O2 dose) and transferred to medicine floor. She completed 7 day course PO Levaquin (D1: ___. Volume managed with HD as below.
+
+CHRONIC ISSUES DURING HOSPITALIZATION: ====================================== #CAD s/p CABG #Type 2 NSTEMI Patient has history of multi-vessel CAD. She is s/p CABG ___ patent saphenous vein graft to diagonal, left internal mammary artery to left anterior descending, stent of left circumflex and OM1 (re-stented in ___, and stent and brachytherapy to OM2 with unrevascularizable LCx system cath in ___ and PCI on ___ with DES to Cx and POBAs. Continued home ASA, Atorvastatin, Plavix. Imdur was reduced further to 60 mg BID ___ and amlodipine was held for BP 90-100s.
+
+#Ischemic cardiomyopathy Last TTE with EF 45% in ___. No evidence of overload on exam. Volume managed with HD. 
+
+#Asthma Continued montelukast, duonebs, fluticasone inhaler.
+
+#ESRD Continued HD M, W, F.
+
+#Type 2 diabetes mellitus: Last HgbA1c 6.1, DM with nephropathy and retinopathy. Treated with ISS while inpatient.
+
+#Anemia of chronic disease She remains anemic, likely ___ decreased production of erythropoietin in the setting of ESRD. Treated with EPO during HD.
+
+#Hypertension  Reduced Imdur, held amlodpine in the setting of BP 90-100s.
+
+#Hyperlipidemia Continue Atorvastatin 80 mg PO QPM.  #Hypothyroidism Continued home levothyroxine.
+
+#GERD Continued home pantoprazole.
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. albuterol sulfate 90 mcg/actuation inhalation Q6H:PRN 2. Aspirin 81 mg PO DAILY 3. Atorvastatin 80 mg PO QPM 4. Calcitriol 0.25 mcg PO M, WED, FRI 5. Clopidogrel 75 mg PO DAILY 6. Fluticasone Propionate 110mcg 2 PUFF IH DAILY 7. Fluticasone Propionate NASAL 2 SPRY NU DAILY 8. Isosorbide Mononitrate (Extended Release) 240 mg PO DAILY 9. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 10. Levothyroxine Sodium 50 mcg PO ___ 11. Levothyroxine Sodium 100 mcg PO SUN 12. Montelukast 10 mg PO DAILY 13. Nephrocaps 1 CAP PO DAILY 14. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 15. Pantoprazole 40 mg PO Q24H 16. Polyethylene Glycol 17 g PO DAILY 17. Senna 17.2 mg PO BID 18. Thiamine 100 mg PO DAILY 19. B complex with C#20-folic acid 1 mg oral DAILY 20. mometasone-formoterol 200-5 mcg/actuation inhalation BID 21. amLODIPine 2.5 mg PO DAILY 22. Metoprolol Succinate XL 100 mg PO BID 
+
+ Discharge Medications: N/A  Discharge Disposition: Expired  Discharge Diagnosis: #Multifocal PNA #C. Diff colitis #ESRD on HD #NSTEMI  Discharge Condition: N/A  Discharge Instructions: N/A  Followup Instructions: ___ 

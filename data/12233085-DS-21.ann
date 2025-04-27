@@ -1,0 +1,11 @@
+T1	Delirium 4424 4442	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 4508 4533	Ambulatory - Independent.
+T3	Visual_impairment 956 974	retinal detachment
+A2	Diagnosis T3 History_of
+T4	Delirium 1329 1336	oriente
+A3	Negation T4
+T5	Delirium 1677 1682	A&Ox3
+A4	Negation T5
+T6	Constipation 6428 6440	constipation
+A5	Diagnosis T6 Implicit_mention

@@ -1,0 +1,83 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Persantine  Attending: ___.  Chief Complaint: Shortness of breath  Major Surgical or Invasive Procedure: Valvuloplasty (___)
+
+ History of Present Illness: Ms. ___ is a ___ year old female with 3 vessel CAD (s/p CABG in ___ - LIMA to LAD, SVG to LCX,OM and RCA and DES to SVG to RCA and left main ___, critical AS (valve area of 0.7 cm2, mean gradient of 39 mm Hg and peak gradient of 58 mm Hg), systolic heart failure with LVEF of ___ (TTE ___, hypertension and dylipidemia. She recently presented to ___ in ___ with NSTEMI in setting of acute heart failure and was discharged to rehab on ___ after DES to left main and SVG to RCA graft. 
+
+According to her sister, she did well at rehab for few days but had acute episode of shortness of breath and chest pressure leading to admission to ___ where according to notes was complicated by medically managed NSTEMI, acute on chronic heart failure treated with IV lasix and brief episodes of atrial fibrillation which self terminated. She was subsequently discharged to rehab on ___ though represented with similar symptoms of shortness of breath and chest pressure on ___. She was diuresed with IV lasix and transferred to ___ for futher evaluation and management.
+
+At ___, she does not report any other complaints.  Past Medical History: . CARDIAC RISK FACTORS: (-) Diabetes, (+) Dyslipidemia, (+) Hypertension  2. CARDIAC HISTORY:  -CABG: ___ - 3 vessel (to LAD, LCX OM and RCA)  -PERCUTANEOUS CORONARY INTERVENTIONS: none  -PACING/ICD: none 3. OTHER PAST MEDICAL HISTORY: - s/p left sided CVA in ___ manifest by lost of her peripheral vision.  She is being followed by a neurologist at ___, Dr. ___. - Glaucoma 
+
+ Social History: ___ Family History: Her mother died of ovarian cancer at age ___ her father died at ___ of "old age.  There is a family history of coronary artery disease.  Physical Exam: Admission Exam 98.6 83-103/58-68 64 20 100%2___ Gen: Elderly female in no acute distress. Alert and oriented x 3. Hard of hearing HEENT: JVP ~ 7 cm. Anicteric sclera. Moist mucous membranes Chest: CTAB. No crackles or wheezing noted Heart: Late peaking crescendo decrescendo murmur with mild S2 radiating to the carotids. No gallop appreciated Abdomen: Soft, NT and ND. NABS External: No edema. No rash Pulse: Faint DP pulses. 1+ radial pulses
+
+Discharge Exam 98.0 83-107/41-48 ___ 93-100%2LNC Wt: 63.9 kg  Gen: Elderly female in no acute distress. Alert and oriented x 3. Hard of hearing  HEENT: JVP ~ 7 cm. Anicteric sclera. Moist mucous membranes  Chest: CTAB. No crackles or wheezing noted  Heart: Late peaking crescendo decrescendo murmur with mild S2 radiating to the carotids. No gallop appreciated  Abdomen: Soft, NT and ND. NABS  External: No edema. No rash  Pulse: Faint DP pulses. 1+ radial pulses 
+
+ Pertinent Results: ___ 07:30PM BLOOD WBC-12.1*# RBC-3.75* Hgb-11.7* Hct-34.6* MCV-92 MCH-31.2 MCHC-33.7 RDW-14.7 Plt ___ ___ 08:09AM BLOOD WBC-7.9 RBC-3.43* Hgb-10.7* Hct-31.5* MCV-92 MCH-31.1 MCHC-33.8 RDW-15.1 Plt ___ ___ 04:44AM BLOOD WBC-7.8 RBC-3.25* Hgb-10.2* Hct-29.9* MCV-92 MCH-31.5 MCHC-34.2 RDW-14.9 Plt ___
+
+___ 08:09AM BLOOD ___ PTT-29.3 ___ ___ 04:44AM BLOOD ___ PTT-28.3 ___
+
+___ 08:09AM BLOOD Glucose-110* UreaN-28* Creat-0.7 Na-140 K-3.8 Cl-103 HCO3-28 AnGap-13 ___ 04:44AM BLOOD Glucose-91 UreaN-27* Creat-0.7 Na-140 K-4.2 Cl-104 HCO3-23 AnGap-17 ___ 08:09AM BLOOD ALT-17 AST-19 LD(LDH)-236 AlkPhos-54 TotBili-0.3
+
+___ 07:30PM BLOOD Calcium-9.3 Phos-4.3 Mg-2.0 ___ 08:09AM BLOOD Calcium-9.1 Phos-3.5 Mg-2.0 ___ 04:44AM BLOOD Calcium-8.7 Phos-3.8 Mg-2.0
+
+___ 07:30PM BLOOD CK-MB-4 cTropnT-0.17*
+
+CXR (___) 1. Mild pulmonary edema has completely resolved. 2. Stable mild cardiomegaly. 
+
+TTE (___) The left atrium is normal in size. There is mild symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. Overall left ventricular systolic function is mildly depressed (LVEF = 45 %) secondary to hypokinesis of the basal inferior and posterior walls as well as of the apex. Right ventricular chamber size and free wall motion are normal. The aortic arch is mildly dilated. There are focal calcifications in the aortic arch. There are three aortic valve leaflets. The aortic valve leaflets are moderately thickened. There is severe aortic valve stenosis (valve area 0.8 cm2). Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Mild (1+) mitral regurgitation is seen. There is no pericardial effusion. 
+
+Compared with the findings of the prior study (images reviewed) of ___, the aortic valve orifice area is slightly incerased, and the left ventricular ejection fraction (and stroke volume) are significantly increased. 
+
+Femoral Groin US (___) No evidence of hematoma or pseudoaneurysm.
+
+Valvuloplasty (___) Preliminary Catheterization Report
+
+Patient Information Patient Name ___, ___ ___             Study Date ___ Number ___ Date of Birth ___ ___ Years             
+
+ GenderFemale     Race Height157 cm (5'2'')Weight64.90 kg (143 lbs) BSA1.65 M2
+
+Procedures: Catheter placement, Coronary Angiography
+
+Indications: Aortic stenosis
+
+Staff Diagnostic ___, MD ___, MD ___, MD ___, RN, MBA ___, RN Technologist___, CVT TechnologistMat___, RT(R)
+
+Technical
+
+Anesthesia: Local Specimens: None Catheter placement via ___ Fr sheath right femoral artery; ___ Fr Sheath Right Femoral Vein Balloon aortic valvuloplasty using a 22 mm x 4.___allooon. 
+
+Blood Oximetry Information Baseline TimeSiteHgb (gm/dL)Sat (%)PO2 (mmHg)Content (ml per dl) 12:39 PMAO               ___ 1:02 PMPA               ___
+
+Cardiac Output Results PhaseFick C.O.(l/min)Fick C.I. (l/min /m2)TD CO (l/min)TD CI (l/min/m2) Baseline4.192.53
+
+Hemodynamic Measurements (mmHg) Baseline SiteSysDiasEndMeanA WaveV WaveHR AO               ___               ___ ___               ___               ___               ___               ___ LV               ___
+
+Contrast Summary ContrastTotal (ml) Omnipaque (300 mg/ml)30
+
+Radiation Dosage Effective Equivalent Dose Index (mGy)635.23
+
+Radiology Summary Total Runs Total Fluoro Time (minutes)20.4
+
+Interventional details
+
+The distal aortogram demonstrated diffusely diseased iliofemoral vessels with caliber > 4.0 mm. 
+
+Balloon aortic valvuloplasty was performed used.  The mean aortic valve gradient was 57.38 mmHg and an aortic valve area 0.48 cm2. After a single inflation of the aortic valvuloplasty 22 mm balloon, the residual aortic valve gradient was 31.58 mmHg and the aortic valve area was 0.71 cm2.  
+
+Assessment & Recommendations 1.Severe aortic stenosis 2.Successful balloon aortic valvuloplasty 3.Medical therapy  Brief Hospital Course: Ms. ___ is a ___ year old female with 3 vessel CAD (s/p CABG in ___ - LIMA to LAD, SVG to LCX,OM and RCA and DES to SVG to RCA and left main ___, critical AS (valve area of 0.7 cm2, mean gradient of 39 mm Hg and peak gradient of 58 mm Hg), systolic heart failure with LVEF of ___ (TTE ___, hypertension and dylipidemia. She recently presented to ___ in ___ with NSTEMI in setting of acute heart failure and was discharged to rehab on ___ after DES to left main and SVG to RCA graft. She has had two admission for acute on chronic systolic heart failure to ___ and now transferred to ___ for further management. She had successful balloon valvuloplasty on ___. She was euvolemic on exam upon discharge.  1. Acute on chronic systolic heart failure/severe AS/3 vessel CAD s/p DES to left main and SVG to RCA graft ___. s/p balloon valvuloplasty on ___. She was continued on aspirin 325 daily, plavix 75 daily, atorvastatin 40 daily (on amiodarone), metoprolol XL 75 mg daily and lisinopril 2.5 mg daily. She should be weighed everyday and if her weight goes up by more than 3 lbs over one day or 5 lbs over 3 days, she should get lasix oral.
+
+2. Atrial fibrillation: Continued amiodarone 200 mg BID for rhythm control which will need to be decreased 200 mg daily on ___ . Continued metoprolol for rate control. On asa/plavix for anticoagulation with CHADS2 of 5. 
+
+3. Glaucoma: Continue home eye drops 
+
+4. Depression/Anxiety: Continue quetiapine and venlafaxine. 
+
+Transitional issues: 1. She should be weighed everyday and if her weight goes up by more than 3 lbs over one day or 5 lbs over 3 days, she should get lasix oral.
+
+2. Amiodarone will need to be decreased 200 mg daily on ___  Medications on Admission: Aspirin 325 mg PO/NG DAILY Clopidogrel 75 mg PO/NG DAILY Metoprolol Succinate XL 25 mg PO DAILY Lisinopril 2.5 mg PO/NG DAILY Amiodarone 200 mg PO/NG BID Atorvastatin 40 mg PO/NG HS  Quetiapine Fumarate 25 mg PO/NG QHS Venlafaxine XR 75 mg PO DAILY Lumigan *NF* (bimatoprost) 0.01 % ___ HS Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID  Dorzolamide 2% Ophth. Soln. 1 DROP BOTH EYES BID  Docusate Sodium 100 mg PO BID Senna 2 TAB PO/NG HS Polyethylene Glycol 17 g PO/NG DAILY Multivitamins W/minerals 1 TAB PO DAILY  Discharge Medications: 1. Amiodarone 200 mg PO BID 2. Aspirin 325 mg PO DAILY 3. Atorvastatin 40 mg PO HS 4. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID 5. Clopidogrel 75 mg PO DAILY 6. Docusate Sodium 100 mg PO BID 7. Dorzolamide 2% Ophth. Soln. 1 DROP BOTH EYES BID 8. Lisinopril 2.5 mg PO DAILY 9. Lorazepam 0.5 mg PO Q4H:PRN anxiety 10. Lumigan *NF* (bimatoprost) 0.01 % ___ HS 11. Metoprolol Succinate XL 25 mg PO DAILY 12. Multivitamins W/minerals 1 TAB PO DAILY 13. Polyethylene Glycol 17 g PO DAILY 14. Quetiapine Fumarate 25 mg PO QHS 15. Senna 2 TAB PO HS 16. Venlafaxine XR 75 mg PO DAILY 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: 1. Severe aortic stenosis s/p valvuloplasty 2. Acute on chronic systolic left sided heart failure
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Weigh yourself every morning, call MD if weight goes up more than 3 lbs.
+
+You were transferred to the hospital with heart failure in setting of your severe aortic valve stenosis. You received valvuloplasty and are being discharged to rehab.  Followup Instructions: ___ 

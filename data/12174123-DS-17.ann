@@ -1,0 +1,79 @@
+T1	Delirium 14508 14526	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 14592 14616	Ambulatory - Independent
+T3	Urinary_tract_infection 14678 14701	urinary tract infection
+T4	Urinary_tract_infection 14703 14706	UTI
+T5	Urinary_tract_infection 14393 14396	UTI
+T6	Urinary_tract_infection 10008 10011	UTI
+T7	Urinary_tract_infection 9920 9923	UTI
+T8	Urinary_tract_infection 10037 10040	UTI
+T9	Lower_respiratory_tract_infection 10333 10342	pneumonia
+A2	Diagnosis T9 Suspected
+T10	Lower_respiratory_tract_infection 10393 10402	pneumonia
+A3	Diagnosis T10 Suspected
+T11	Hip_fracture 8550 8562	hip fracture
+A4	Diagnosis T11 History_of
+T12	Upper_gastrointestinal_haemorrhage 226 246	coffee ground emesis
+T13	Hip_fracture 484 496	hip fracture
+A6	Diagnosis T13 History_of
+T14	Upper_gastrointestinal_haemorrhage 587 607	coffee ground emesis
+T15	Constipation 14043 14055	constipation
+A8	Diagnosis T15 Implicit_mention
+T16	Upper_gastrointestinal_haemorrhage 1686 1706	coffee ground emesis
+A9	Low_confidence T16
+A7	Low_confidence T14
+A5	Low_confidence T12
+T17	Upper_gastrointestinal_haemorrhage 8663 8683	coffee ground emesis
+A10	Low_confidence T17
+T18	Urinary_tract_infection 8700 8703	UTI
+T19	Lower_respiratory_tract_infection 14862 14871	pneumonia
+T20	Lower_respiratory_tract_infection 14408 14417	Pneumonia
+T21	Constipation 13464 13476	constipation
+A11	Diagnosis T21 Implicit_mention
+T22	Constipation 13388 13400	constipation
+A12	Diagnosis T22 Implicit_mention
+T23	Hip_fracture 12637 12649	hip fracture
+A13	Diagnosis T23 History_of
+T24	Upper_gastrointestinal_haemorrhage 12449 12469	coffee-ground emesis
+A14	Low_confidence T24
+T25	Upper_gastrointestinal_haemorrhage 12358 12378	coffee-ground emesis
+A15	Low_confidence T25
+T26	Lower_respiratory_tract_infection 10184 10193	pneumonia
+T27	Delirium 9684 9698	encephalopathy
+T28	Dementia 9715 9723	dementia
+T29	Dementia 9765 9773	dementia
+T30	Delirium 9777 9785	delirium
+T31	Pressure_injury 5888 5899	ulcerations
+A16	Negation T31
+T32	Delirium 5328 5332	AOx3
+A17	Negation T32
+T33	Falls 4056 4060	fall
+A18	Diagnosis T33 History_of
+T34	Hip_fracture 4238 4244	Hip fx
+A19	Diagnosis T34 History_of
+T35	Dementia 6102 6119	memory impairment
+T36	Constipation 13832 13844	constipation
+A20	Diagnosis T36 Implicit_mention
+T37	Lower_gastrointestinal_haemorrhage 1727 1732	BRBPR
+A21	Negation T37
+T38	Upper_gastrointestinal_haemorrhage 1736 1754	black tarry stools
+A22	Negation T38
+T39	Upper_gastrointestinal_haemorrhage 1292 1303	NBNB emesis
+A23	Negation T39
+T40	Urinary_incontinence 1544 1564	urinary incontinence
+T41	Visual_impairment 3049 3063	vision changes
+A24	Negation T41
+T42	Constipation 3168 3180	constipation
+A25	Negation T42
+T43	Lower_gastrointestinal_haemorrhage 3182 3187	BRBPR
+A26	Negation T43
+T44	Upper_gastrointestinal_haemorrhage 3189 3195	melena
+A27	Negation T44
+T45	Lower_gastrointestinal_haemorrhage 3197 3209	hematochezia
+A28	Negation T45
+T46	Lower_respiratory_tract_infection 2389 2392	PNA
+A29	Negation T46
+T47	Urinary_tract_infection 2538 2552	pyelonephritis
+A30	Negation T47
+T48	Urinary_tract_infection 7516 7524	cystitis
+A31	Diagnosis T48 Suspected

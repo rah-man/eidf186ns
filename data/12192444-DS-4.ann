@@ -1,0 +1,28 @@
+T1	Delirium 15886 15904	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 15970 15994	Ambulatory - Independent
+T3	Upper_gastrointestinal_haemorrhage 13339 13347	GI bleed
+A2	Negation T3
+A3	Low_confidence T3
+T4	Lower_gastrointestinal_haemorrhage 13339 13347	GI bleed
+A4	Negation T4
+A5	Low_confidence T4
+T5	Constipation 1620 1631	constipated
+T6	Delirium 4860 4865	AAOX3
+A6	Negation T6
+T7	Constipation 2989 3001	constipation
+A7	Negation T7
+T8	Weight_loss 856 867	weight loss
+T9	Lower_gastrointestinal_haemorrhage 1736 1755	bleeding with stool
+A8	Negation T9
+T10	Lower_gastrointestinal_haemorrhage 1757 1773;1836 1838	bright red blood BM
+A9	Negation T10
+T11	Weight_loss 1889 1900	weight loss
+T12	Delirium 3765 3773	oriented
+A10	Negation T12
+T13	Lower_gastrointestinal_haemorrhage 6476 6509	Non-bleeding internal hemorrhoids
+A11	Negation T13
+T14	Lower_gastrointestinal_haemorrhage 13294 13315	hemorrhoidal bleeding
+A12	Low_confidence T14
+T15	Malnutrition 15643 15655	malnutrition
+T16	Malnutrition 11107 11119	malnutrition

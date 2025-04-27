@@ -1,0 +1,15 @@
+T1	Delirium 9832 9850	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 9916 9948	Ambulatory - requires assistance
+T3	Mobile_with_aid 9952 9955	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Visual_impairment 8135 8143	Glaucoma
+T5	Visual_impairment 1707 1711;1719 1736	lost peripheral vision
+A3	Diagnosis T5 History_of
+T6	Visual_impairment 1797 1805	Glaucoma
+A4	Diagnosis T6 History_of
+T7	Delirium 2097 2105;2106 2109	oriented x 3
+A5	Negation T7
+T8	Delirium 2556 2564;2565 2568	oriented x 3
+A6	Negation T8
+T9	Hearing_impairment 2570 2585	Hard of hearing

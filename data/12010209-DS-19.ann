@@ -1,0 +1,11 @@
+T1	Delirium 1075 1084	confusion
+A1	Negation T1
+T2	Visual_impairment 1118 1131	visual change
+A2	Negation T2
+T3	Constipation 1347 1359	constipation
+A3	Negation T3
+T4	Lower_respiratory_tract_infection 2697 2701	PNA,
+T5	Delirium 8029 8047	Clear and coherent
+A4	Negation T5
+T6	Independently_mobile 8113 8137	Ambulatory - Independent
+T7	Visual_impairment 6132 6143	photophobia

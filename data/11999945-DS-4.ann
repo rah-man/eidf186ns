@@ -1,0 +1,5 @@
+T1	Delirium 8420 8438	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 8504 8528	Ambulatory - Independent
+T3	Delirium 2785 2790	AAOx3
+A2	Negation T3

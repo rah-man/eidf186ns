@@ -1,0 +1,25 @@
+T1	Delirium 8950 8958	Confused
+T2	Mobile_with_assistance 9035 9067	Ambulatory - requires assistance
+T3	Mobile_with_aid 9071 9074	aid
+A1	Type_of_aid T3 Two_sticks_or_frame
+T4	Urinary_tract_infection 9174 9197	urinary tract infection
+T5	Urinary_tract_infection 8888 8911	Urinary Tract Infection
+T6	Urinary_tract_infection 6594 6597	UTI
+T7	Urinary_tract_infection 6585 6588	UTI
+T8	Urinary_tract_infection 6997 7001	UTIs
+A2	Diagnosis T8 History_of
+T9	Unspecified_cognitive_impairment 2859 2863	AOx2
+T10	Urinary_tract_infection 435 439	UTIs
+A3	Diagnosis T10 History_of
+T11	Urinary_incontinence 842 853	incontinent
+A4	Low_confidence T11
+T12	Faecal_incontinence 842 853	incontinent
+A5	Low_confidence T12
+T13	Urinary_tract_infection 1606 1609	UTI
+A6	Diagnosis T13 History_of
+T14	Falls 2500 2505	Falls
+A7	Diagnosis T14 History_of
+T15	Intracranial_haemorrhage 2379 2396	Subdural hematoma
+A8	Diagnosis T15 History_of
+T16	Intracranial_haemorrhage 2281 2298	subdural hematoma
+A9	Diagnosis T16 History_of

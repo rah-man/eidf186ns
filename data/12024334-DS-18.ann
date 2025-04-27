@@ -1,0 +1,29 @@
+T1	Lower_gastrointestinal_haemorrhage 5983 5998	rectal bleeding
+T2	Upper_gastrointestinal_haemorrhage 6073 6081;6092 6099	bleeding stomach
+T3	Lower_gastrointestinal_haemorrhage 6366 6381	rectal bleeding
+T4	Constipation 6411 6422	constipated
+T5	Delirium 5824 5842	Clear and coherent
+A1	Negation T5
+T6	Independently_mobile 5908 5932	Ambulatory - Independent
+T7	Constipation 5773 5785	constipation
+T8	Lower_gastrointestinal_haemorrhage 6204 6212;6244 6250	bleeding rectum
+A2	Diagnosis T8 Implicit_mention
+T9	Lower_gastrointestinal_haemorrhage 195 222	Bright red blood per rectum
+T10	Lower_gastrointestinal_haemorrhage 416 443	bright red blood per rectum
+T11	Lower_gastrointestinal_haemorrhage 899 926	bright red blood per rectum
+T12	Constipation 957 968	constipated
+T13	Upper_gastrointestinal_haemorrhage 1078 1084	melena
+A3	Negation T13
+T14	Lower_gastrointestinal_haemorrhage 1007 1012;1029 1045	bowel bright red blood
+T15	Upper_gastrointestinal_haemorrhage 1301 1307	melena
+A4	Negation T15
+T16	Upper_gastrointestinal_haemorrhage 1309 1320	hematemesis
+A5	Negation T16
+T17	Lower_gastrointestinal_haemorrhage 1396 1419	stool with red speckles
+T18	Delirium 2057 2062	AAOx3
+A6	Negation T18
+T19	Lower_gastrointestinal_haemorrhage 3008 3013	BRBPR
+T20	Upper_gastrointestinal_haemorrhage 6252 6267;6278 6286	Upper endoscopy bleeding
+A7	Negation T20
+T21	Lower_gastrointestinal_haemorrhage 3404 3412;3447 3458	bleeding hemorrhoids
+A8	Negation T21

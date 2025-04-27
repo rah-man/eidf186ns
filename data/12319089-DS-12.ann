@@ -1,0 +1,33 @@
+T1	Lower_gastrointestinal_haemorrhage 234 239	BRBPR
+T2	Lower_gastrointestinal_haemorrhage 382 387	BRBPR
+T3	Lower_gastrointestinal_haemorrhage 469 474	BRBPR
+T4	Upper_gastrointestinal_haemorrhage 573 579	melena
+A1	Negation T4
+T5	Lower_gastrointestinal_haemorrhage 643 648;707 713	blood stools
+T6	Lower_gastrointestinal_haemorrhage 899 904	BRBPR
+A2	Diagnosis T6 History_of
+T7	Lower_gastrointestinal_haemorrhage 1891 1896	BRBPR
+A3	Negation T7
+T8	Delirium 3233 3238	AAOx3
+A4	Negation T8
+T9	Lower_gastrointestinal_haemorrhage 3271 3285	blood in vault
+T10	Lower_gastrointestinal_haemorrhage 3639 3666	Bright red blood per rectum
+T11	Upper_gastrointestinal_haemorrhage 4115 4123	GI bleed
+A5	Negation T11
+A6	Low_confidence T11
+T12	Lower_gastrointestinal_haemorrhage 4115 4123	GI bleed
+A7	Negation T12
+A8	Low_confidence T12
+T13	Falls 4321 4326	Falls
+T14	Falls 4352 4356	fall
+T15	Intracranial_haemorrhage 4504 4511;4563 4573	CT head hemorrhage
+A9	Negation T15
+T16	Vertebral_compression_fracture 4674 4679;4716 4724	spine fracture
+A10	Negation T16
+T17	Lower_gastrointestinal_haemorrhage 8921 8935	blood in stool
+A11	Diagnosis T17 Implicit_mention
+T18	Has_carers 8661 8668	Service
+T19	Falls 5789 5794	falls
+A12	Diagnosis T19 Implicit_mention
+T20	Falls 5023 5027	fall
+A13	Diagnosis T20 Implicit_mention

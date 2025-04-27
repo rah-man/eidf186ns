@@ -1,0 +1,45 @@
+T1	Urinary_tract_infection 373 387	pyelonephritis
+A1	Diagnosis T1 History_of
+T2	Visual_impairment 448 459	visual loss
+T3	Visual_impairment 500 519	no change in vision
+A2	Negation T3
+T4	Visual_impairment 8715 8729	loss of vision
+T5	Visual_impairment 8845 8859	loss of vision
+T6	Visual_impairment 8528 8542	minimal vision
+T7	Visual_impairment 9627 9643	worsening vision
+A3	Diagnosis T7 Implicit_mention
+T8	Intracranial_haemorrhage 3566 3574;3593 3605	CTA Head intracranial
+A4	Negation T8
+T9	Visual_impairment 1179 1190	Weight loss
+A5	Negation T9
+T10	Visual_impairment 198 209	vision loss
+T11	Urinary_tract_infection 810 815	pyelo
+A6	Diagnosis T11 History_of
+T12	Constipation 1499 1511	Constipation
+A7	Negation T12
+T13	Upper_gastrointestinal_haemorrhage 1514 1525	Hematemesis
+A8	Negation T13
+T14	Lower_gastrointestinal_haemorrhage 1528 1540	Hematochezia
+A9	Negation T14
+T15	Upper_gastrointestinal_haemorrhage 1543 1549	Melena
+A10	Negation T15
+T16	Delirium 1748 1757	Confusion
+A11	Negation T16
+T17	Urinary_tract_infection 1599 1604	pyelo
+A12	Diagnosis T17 History_of
+T18	Visual_impairment 4484 4495	vision loss
+T19	Urinary_tract_infection 5772 5786	Pyelonephritis
+A13	Diagnosis T19 History_of
+T20	Visual_impairment 4199 4210	vision loss
+T21	Urinary_tract_infection 1913 1918	UTI's
+A14	Diagnosis T21 History_of
+T22	Urinary_tract_infection 4712 4717	pyelo
+A15	Diagnosis T22 History_of
+T23	Visual_impairment 596 620	retinal artery occlusion
+A16	Diagnosis T23 Suspected
+T24	Visual_impairment 4253 4277	Retinal artery occlusion
+T25	Visual_impairment 4390 4414	retinal artery occlusion
+T26	Visual_impairment 6817 6841	retinal artery occlusion
+T27	Visual_impairment 8404 8427	etinal Artery Occlusion
+T28	Visual_impairment 8802 8826	retinal artery occlusion
+T29	Visual_impairment 5364 5388	retinal artery occlusion

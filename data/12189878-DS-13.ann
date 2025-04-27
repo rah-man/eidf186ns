@@ -1,0 +1,36 @@
+T1	Delirium 9575 9593	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 9659 9693	Ambulatory - requires assistance o
+T3	Mobile_with_aid 9695 9698	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Constipation 9019 9033	CONSTIPATION  
+A3	Diagnosis T4 Implicit_mention
+T5	Constipation 8978 8990	CONSTIPATION
+A4	Diagnosis T5 Implicit_mention
+T6	Constipation 8838 8850	constipation
+A5	Diagnosis T6 Implicit_mention
+T7	Constipation 9261 9273	constipation
+A6	Diagnosis T7 Implicit_mention
+T9	Falls 1531 1536	falls
+A8	Diagnosis T9 History_of
+T10	Mobile_with_aid 1546 1551;1559 1563	walks cane
+A9	Type_of_aid T10 One_Stick
+T11	Falls 1610 1614	fell
+A10	Diagnosis T11 History_of
+T12	Falls 1680 1684	fall
+A11	Diagnosis T12 History_of
+T13	Malnutrition 2474 2488	well-nourished
+A12	Negation T13
+T14	Delirium 3384 3389	A+Ox3
+A13	Negation T14
+T15	Vertebral_compression_fracture 5641 5646;5776 5784	SPINE fracture
+A14	Negation T15
+T16	Vertebral_compression_fracture 5841 5846;5927 5935	spine fracture
+A15	Negation T16
+T17	Intracranial_haemorrhage 6079 6086;6201 6206	CT HEAD Brain
+T18	Falls 7766 7771	falls
+A16	Diagnosis T18 History_of
+T19	Falls 7734 7739	Falls
+A17	Diagnosis T19 History_of
+T20	Mobile_with_aid 7781 7796	walks with cane
+A18	Type_of_aid T20 One_Stick

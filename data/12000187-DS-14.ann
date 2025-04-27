@@ -1,0 +1,15 @@
+T1	Delirium 4818 4836	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 4902 4926	Ambulatory - Independent
+T3	Constipation 5750 5762	constipation
+A2	Diagnosis T3 Implicit_mention
+T4	Constipation 4390 4402	Constipation
+A3	Diagnosis T4 Implicit_mention
+T6	Visual_impairment 982 995	double vision
+A5	Diagnosis T6 History_of
+T7	Delirium 1336 1339;1340 1342	A&O x3
+A6	Negation T7
+T8	Intracranial_haemorrhage 897 914	subdural hematoma
+A7	Diagnosis T8 History_of
+T9	Intracranial_haemorrhage 916 929	pontine bleed
+T5	Has_carers 2866 2874	services

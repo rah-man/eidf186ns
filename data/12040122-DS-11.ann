@@ -1,0 +1,21 @@
+T1	Delirium 5343 5351	Confused
+T2	Mobile_with_assistance 5429 5461	Ambulatory - requires assistance
+T3	Mobile_with_aid 5465 5468	aid
+A1	Type_of_aid T3 Two_sticks_or_frame
+T4	Constipation 4712 4724	Constipation
+A2	Diagnosis T4 Implicit_mention
+T5	Constipation 4972 4984	Constipation
+A3	Diagnosis T5 Implicit_mention
+T6	Constipation 5026 5038	Constipation
+A4	Diagnosis T6 Implicit_mention
+T7	Constipation 6251 6263	constipation
+A5	Diagnosis T7 Implicit_mention
+T8	Falls 527 531	fall
+T9	Hip_fracture 5283 5304	femoral neck fracture
+T10	Hip_fracture 473 494	femoral neck fracture
+T11	Falls 503 507	fall
+T12	Hip_fracture 234 255	femoral neck fracture
+T13	Hip_fracture 617 638	femoral neck fracture
+T14	Hip_fracture 1494 1515	femoral neck fracture
+T15	Constipation 3416 3451	voiding/moving bowels spontaneously
+A6	Negation T15

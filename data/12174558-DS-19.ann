@@ -1,0 +1,32 @@
+T1	Delirium 8948 8959	confusion i
+T2	Delirium 8821 8830	confusion
+T3	Delirium 8620 8638	Clear and coherent
+A1	Negation T3
+T4	Independently_mobile 8704 8728	Ambulatory - Independent
+T5	Delirium 5034 5042	confused
+A2	Diagnosis T5 Implicit_mention
+T6	Delirium 2674 2678	AOx3
+A3	Negation T6
+T7	Delirium 373 387	encephalopathy
+A4	Diagnosis T7 Suspected
+T8	Delirium 427 436	confusion
+T9	Falls 539 544	falls
+A5	Diagnosis T9 History_of
+T10	Delirium 786 794	confused
+T11	Lower_gastrointestinal_haemorrhage 514 528	bloody stools.
+A6	Negation T11
+T12	Delirium 603 611	confused
+A7	Negation T12
+T13	Visual_impairment 1626 1640	vision changes
+A8	Negation T13
+T14	Delirium 4266 4287	altered mental status
+T15	Delirium 4321 4335	encephalopathy
+T16	Delirium 4448 4469	Altered mental status
+T17	Delirium 4496 4510	encephalopathy
+T18	Delirium 5125 5140	encephalopathic
+T19	Delirium 8456 8470	Encephalopathy
+T20	Upper_gastrointestinal_haemorrhage 454 463;475 483	nonbloody vomiting
+A9	Negation T20
+T21	Delirium 194 203	confusion
+T22	Delirium 6124 6138	encephalopathy
+A10	Negation T22

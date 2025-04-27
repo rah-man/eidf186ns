@@ -1,0 +1,81 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Sulfa(Sulfonamide Antibiotics) / prednisone / simvastatin  Attending: ___.  Chief Complaint: Bacteremia  Major Surgical or Invasive Procedure: 1. ERCP 2. TEE
+
+ History of Present Illness: Ms. ___ is an ___ with a PMHx significant for CHF, DMII, HLD, HTN, and Afib on coumadin who was found to be bacteremic with strep gallolyticus now on CTX at ___, and was transfered to ___ after a CT revealed a distal CBD stone requiring ERCP evaluation. 
+
+Ms. ___ was initially brought to ___ approximately on ___ for confusion, fevers, and chills. Here, she was thought to have urosepsis because she reported difficulty with urination and was treated with levofloxacin. After her blood culture grew step gallolyticus, she was broadened to vanc/levo before ID recommended monotherapy with CTX. 
+
+At admission, her labs were as follows:  WBC 9.4, Hgb 12.6, plt 192  Na 141, K 3.7, Cl 101, CO2 28, Glu 179, BUN 25, Cr 0.8, Ca 9.5  Lactate 1.4  Digoxin 0.8  UA cloudy, blood trace, protein 300, nitrite neg, ___ large, WBC ___, RBC ___.  ___ BCx has no growth to date 
+
+Importantly, Ms. ___ was previously at the ___ for an aortic ___ procedure in ___. Given this, she is at risk for endocarditis and will require TEE while in house for evaluation. 
+
+Currently, patient is alert, oriented, and without complaints.  Past Medical History: hepatitis B diagnosed ___ diabetes type II critical aortic stenosis atrial fibrillation arthritis hypertension Spinal stenosis Macular degeneration
+
+Past Surgical History: right knee replacement ___ back surgery (spinal stenosis) appendectomy
+
+ Social History: ___ Family History: No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory. Mother passed away from pancreatic cancer. Family hx HTN.
+
+ Physical Exam: At Admission: General: NAD, very pleasant elderly woman laying in bed.  HEENT: NC/AT, PERRL, EOMI, MMM  Neck: No JVD, no thyromegaly  Lungs: CTAB, no wheeze or crackles  Cardiovascular: S1 and S2 appreciated, no m/r/g  Abdomen: SNTND, without hepatosplenomegaly  Neurologic Examination: Alert and Oriented x 3  Skin: No clubbing or cyanosis. She does have two brown macules on left plantar food and right shin and various scar biopsies 
+
+At Discharge: VS: 98.3 141/63, 62, 18, 98%RA General: NAD, very pleasant elderly woman laying in bed.  HEENT: NC/AT, PERRL, EOMI, MMM  Neck: No JVD, no thyromegaly  Lungs: CTAB, no wheeze or crackles  Cardiovascular: S1 and S2 appreciated, no m/r/g  Abdomen: SNTND, without hepatosplenomegaly  Neurologic Examination: Alert and Oriented x 3  Skin: No clubbing or cyanosis. She does have two brown macules on left plantar food and right shin and various scar biopsies 
+
+ Pertinent Results: At Admission: ___ 06:30AM BLOOD WBC-5.6 RBC-3.52* Hgb-11.7* Hct-33.8* MCV-96 MCH-33.4* MCHC-34.7 RDW-12.2 Plt ___
+
+___ 06:30AM BLOOD Glucose-125* UreaN-25* Creat-0.7 Na-144 K-3.8 Cl-104 HCO3-31 AnGap-13
+
+___ 06:30AM BLOOD ALT-40 AST-29 AlkPhos-87 TotBili-0.4
+
+___ 06:40AM BLOOD CRP-23.1*
+
+At Discharge: ___ WBC-5.6 RBC-3.03* Hgb-9.7* Hct-29.0* MCV-96 MCH-32.1* MCHC-33.5 RDW-12.0 Plt ___ BLOOD ___ PTT-30.5 ___ BLOOD Plt ___ Glucose-102* UreaN-21* Creat-0.6 Na-142 K-3.9 Cl-103 HCO3-33* AnGap-10 ALT-35 AST-28 AlkPhos-75 TotBili-0.7
+
+MISC LABS: ___ BLOOD ESR-37* ___ BLOOD proBNP-1177* ___ BLOOD CRP-23.1*
+
+Studies: ___ CXR IMPRESSION: Right PICC line terminates in mid-to-low SVC. No pneumothorax.
+
+ECHO ___ IMPRESSION: No transesophageal echocardiographic evidence of valvular vegetations or abscesses. Normal global biventricular systolic function. Well seated aortic ___ prosthesis with minimal paravalvular leak. Mild to moderate mitral regurgitation. Moderate tricuspid regurgitation. Simple atheroma descending thoracic aorta and aortic arch.
+
+CT abdomen ___ 1. Uncomplicated colonic diverticulosis. Scattered hepatic cysts, calcified granulomata. Unchanged since ___. 2. Bilateral renal atrtery small aneurysms, 2 splenic hilum level splenic artery aneurysms, unchanged from ___. 3. Gallstones without evidence for cholecystitis. Distal CBC calculus ovserved, associated with mild intra/extra hepatic bile duct dilatation (12mm). 4. Mild constipation. No definite bowel mass. CT of abd and pelvis with full 3 hours or more prep enteric contrast may increase confidence of negative result. 
+
+ECG ___: Atrial fibrillation with PVCs. LAD. Poor R wave progression, probably normal variant. Non specific lateral ST T changes. 
+
+Procedure:  A sphincterotomy was performed in the 12 o'clock position using a sphincterotome over an existing guidewire. Then, a sphincteroplasty was performed using a CRE balloon from 10 mm to 12 mm over an existing wire. Several balloon sweeps were performed. Three large stones and small fragments of stones were extracted successfully using a balloon. Final cholangiogram showed no filling defects. Excellent flow of bile was noted.   Impression: Normal major papilla Cannulation of the biliary duct was successful and deep with a ___ tapered catheter A moderate diffuse dilation was seen at the biliary tree with the CBD measuring 12 mm. There were several filling defects in the common bile duct compatible with stones.  A sphincterotomy was performed Several balloon sweeps were performed. Three large stones and small fragments of stones were extracted successfully using a balloon. Final cholangiogram showed no filling defects. Excellent flow of bile was noted.   Brief Hospital Course: -Principle Reason for Admission- Ms. ___ is an ___ who was found to be bacteremic with strep gallolyticus now on CTX at ___, and was transfered to ___ after a CT revealed a CBD stone requiring ERCP evaluation. 
+
+#Bacteremia: Found to be growing Strep gallolyticus at OSH. OSH ___ BCx and ___ ___ BCx have no growth to date as she is being treated with 2mg IV ceftriaxone Q24. She has been asymptomatic, afebrile and HDS throughout her admission. Clinically, she did not have a murmor on exam, but given that she is at risk for endocarditis from her Aortic valve replacement, she received a TEE that showed normal valves without vegtation or infection. ID was consulted and recommend 4 weeks of IV CTX treatment (start date: ___ and follow up in their clinic. Pt offered inpatient colonoscopy but declined, would readdress as outpatient. 
+
+# Choledocolithiasis with obstruction: ERCP was successful and uncomplicated, removed stones and performed a sphincterotomy. 
+
+# Atrial fibrillation: Patient with history of chronic Afib on coumadin, diltiazem, and digoxin at home. Coumadin was held at OSH for anticipation of ERCP, but was restarted prior to discharge. Follow up with INR will be necessary. INR at d/c was 1.8, please check INR on ___, goal INR ___.  
+
+# ___ Study Eval: Patient had multiple tests conducted during this admission for her ___ AVR study. 
+
+Chronic Problems # Hypertension: Patient on home regimen of lisinopril, diltiazem, lasix. 
+
+# Diabetes: Januvia will be held while in house. Control with HISS.  # Spinal stenosis: No current symtpoms. Physical therapy will work with the patient while in house. 
+
+-Transitions of Care-
+
+1. The ERCP was successful and without complication, but did not reveal the etiology of her infection. Given this, she may need a colonoscopy to better evaluate her colon for another source of the infection. However, she adamantly reports that she does not want to a colonoscopy. This conversation should be had with her, her son, and her PCP in the outpatient setting.
+
+2. Per our ID team, she will require 4 weeks of CTX treatment for the bacteremia (day 1= ___ because of her prosthetic valve. 
+
+3. She has an appointment to meet with the ___ ID team in 4 weeks. She will require weekly CBC/Diff, BUN/Creat., LFTs, and ESR/CRP faxed to ___. 
+
+4. Follow up INR, goal ___.
+
+5. Rehab for less than 30 days.  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. CeftriaXONE 2 gm IV Q24H 2. Warfarin 2.5 mg PO DAILY16 3. Ezetimibe 10 mg PO DAILY 4. TraZODone 25 mg PO HS 5. Digoxin 0.125 mg PO MTTHSAT 6. Senna Dose is Unknown PO Frequency is Unknown 7. Acetaminophen Dose is Unknown PO Frequency is Unknown 8. Vitamin D 1000 UNIT PO DAILY 9. sitaGLIPtin *NF* 25 mg Oral daily 10. Lisinopril 5 mg PO DAILY 11. Furosemide 20 mg PO DAILY 12. Diltiazem Extended-Release 240 mg PO DAILY 13. Aspirin 81 mg PO DAILY 14. Calcium Carbonate Dose is Unknown PO Frequency is Unknown 15. Multivitamins 1 TAB PO DAILY 16. Fish Oil (Omega 3) Dose is Unknown PO Frequency is Unknown 
+
+ Discharge Medications: 1. Acetaminophen 650 mg PO Q8H:PRN Pain 2. Aspirin 81 mg PO DAILY 3. CeftriaXONE 2 gm IV Q24H Strep Bovis Bacteremia 4. Digoxin 0.125 mg PO ___ Hold if SBP <100 or HR<60.  5. Diltiazem Extended-Release 240 mg PO DAILY Hold if SBP<100 or HR<60.  6. Ezetimibe 10 mg PO DAILY 7. Furosemide 20 mg PO DAILY CHF Hold if SBP<100 or HR<60.  8. Lisinopril 5 mg PO DAILY HTN Hold if SBP<100 or HR<60.  9. TraZODone 25 mg PO HS:PRN insomnia 10. Vitamin D 1000 UNIT PO DAILY 11. Warfarin 2.5 mg PO DAILY16 12. Calcium Carbonate 500 mg PO QD Dose was unknown, please give at home dose 13. Fish Oil (Omega 3) 1000 mg PO DAILY Dose is unknown, please continue at home dose 14. Multivitamins 1 TAB PO DAILY 15. sitaGLIPtin *NF* 25 mg Oral daily 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Choledocolithiasis Bacteremia 
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Dear Ms. ___, 
+
+You were admitted to the ___ for an ERCP to treat your gallstones and assess for the cause of your blood infection. The procedure was successful and without complication. They removed 3 large stones and you responded well to the procedure. You were also evaluated to ensure that there was not an infection on your heart valves. You underwent a transesophageal echocardiogram (TEE) that suggests that you do not have a heart valve infection. 
+
+You will continue the intravenous antibiotics for 4 weeks at the rehab facility after discharge and follow-up with the Infectious Disease team as an outpatient. 
+
+You declined a colonoscopy to further work-up your bloodstream infection, as the two of them are related. Your outpatient providers ___ continue to address this with you.
+
+It was a pleasure to care for you at the ___.  Followup Instructions: ___ 

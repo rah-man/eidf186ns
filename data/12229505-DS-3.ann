@@ -1,0 +1,32 @@
+T1	Delirium 11022 11040	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 11106 11130	Ambulatory - Independent
+T3	Delirium 4632 4636	AOx3
+A2	Negation T3
+T4	Delirium 3319 3323	AOx3
+A3	Negation T4
+T5	Visual_impairment 2813 2827	vision changes
+A4	Negation T5
+T6	Constipation 2897 2909	constipation
+A5	Negation T6
+T7	Lower_gastrointestinal_haemorrhage 2911 2916	BRBPR
+A6	Negation T7
+T8	Upper_gastrointestinal_haemorrhage 2918 2924	melena
+A7	Negation T8
+T9	Lower_gastrointestinal_haemorrhage 2926 2938	hematochezia
+A8	Negation T9
+T10	Lower_respiratory_tract_infection 1818 1821	PNA
+A9	Negation T10
+T11	Pressure_injury 5065 5071	ulcers
+A10	Negation T11
+A11	Low_confidence T11
+T12	Pressure_injury 4386 4392	ulcers
+A12	Low_confidence T12
+T13	Lower_respiratory_tract_infection 6322 6331	pneumonia
+A13	Negation T13
+T14	Lower_respiratory_tract_infection 7511 7520	pneumonia
+A14	Negation T14
+T15	Upper_gastrointestinal_haemorrhage 9011 9014	GIB
+A15	Low_confidence T15
+T16	Lower_gastrointestinal_haemorrhage 9011 9014	GIB
+A16	Low_confidence T16

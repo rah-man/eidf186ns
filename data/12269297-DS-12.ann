@@ -1,0 +1,16 @@
+T1	Delirium 9543 9561	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 9627 9659	Ambulatory - requires assistance
+T3	Mobile_with_aid 9663 9666	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Delirium 652 661	confusion
+T5	Urinary_tract_infection 713 722	urosepsis
+A3	Diagnosis T5 Suspected
+T6	Delirium 1411 1419	oriented
+A4	Negation T6
+T7	Visual_impairment 1595 1615	Macular degeneration
+T8	Delirium 2235 2243;2244 2247	Oriented x 3
+A5	Negation T8
+T9	Delirium 2704 2712;2713 2716	Oriented x 3
+A6	Negation T9
+T10	Constipation 4311 4323	constipation

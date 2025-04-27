@@ -1,0 +1,77 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: Dyspnea  Major Surgical or Invasive Procedure: none  History of Present Illness: HPI:
+
+Patient is an ___ male physician with past history significant for multiple lower extremity DVTs (Factor V Leiden) who was transferred from ___ with a PE on CT scan of the chest.
+
+About 2 weeks ago, he developed a cough which he thought was allergies/asthma. He saw his allergist and then PCP who did ambulatory O2 saturations which he reports were normal.
+
+The night prior to admission it took 5 minutes to walk to the bathroom because of dyspnea.
+
+Finally, after his symptoms continued to worsen, yesterday he got a CT scan which showed pulmonary emboli.
+
+No ___ swelling or pain. No fevers or chills. No chest pain but some R back pain which he says felt muscular. No N/V. Decreased appetite. Weight loss just this week. No blood in bowel movements.
+
+In the ED, initial vitals were: 96.2 80 134/74 18 91% Nasal Cannula
+
+Labs notable for: ___ < 0.01; proBNP 97; Bicarb 21 (otherwise normal Chem7); WBC 11.5 (93% PMNs); INR 1.9; PTT 150. 
+
+Imaging notable for:
+
+Outside hospital CTA read: Vasculature: There are large bilateral pulmonary emboli, involving the right main pulmonary artery, as well as left upper lobar pulmonary artery. There are corresponding wedgelike opacities in the periphery of the right middle lobe and left upper lobe representing developing a pulmonary parenchymal infarcts there is no reversed bowing of the intraventricular septum to suggest right heart strain.
+
+Patient was given:
+
+___ 21:30 IV Heparin Started 1500  Past Medical History: Multiple DVTs Factor V Leiden Spinal stenosis (better with epidural blocks) Hypertension ADD Major Depression
+
+ Social History: ___ Family History: Depression, mother with ovarian and another cancer (leukemia)  Physical Exam: Admission exam PHYSICAL EXAM:  Vital Signs: 98.2, 166/77, 78, 18, 95% on 4L General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi  Abdomen: Soft, ___ GU: No foley  Ext: Warm, well perfused, no clubbing, cyanosis or edema, no palpable cords or pain with palpation of the legs
+
+Discharge Exam OBjective PHYSICAL EXAM:  Vital ___ ___  ___  22  95% 3l General: Alert, oriented, no acute distress, very good historian. HEENT: Sclera anicteric, MMM, oropharynx clear CV: Regular rate and rhythm, normal S1 + S2, ?S3, no rubs or murmurs Lungs: Clear to auscultation bilaterally. Abdomen: Soft, ___. Slightly tender to palpation in lower right back. GU: No foley  Ext: Warm, well perfused, no clubbing, cyanosis or edema, no palpable cords or pain with palpation of the legs
+
+ Pertinent Results: Admission Labs 
+
+___ 10:20PM BLOOD ___ ___ Plt ___ ___ 10:20PM BLOOD Plt ___ ___ 11:34PM BLOOD ___ ___ ___ 10:20PM BLOOD ___ ___ ___ 10:20PM BLOOD cTropnT-<0.01 ___ ___ 06:00AM BLOOD ___
+
+Outside hospital CTA read ___ Vasculature: There are large bilateral pulmonary emboli, involving the right main pulmonary artery, as well as left upper lobar pulmonary artery. There are corresponding wedgelike opacities in the periphery of the right middle lobe and left upper lobe representing developing a pulmonary parenchymal infarcts there is no reversed bowing of the intraventricular septum to suggest right heart strain.
+
+EKG: Sinus with rate of 81. No S1Q3T3. No concerning ___ changes.
+
+Ekg (___) showed normal sinus rhythm with no ischemic changes. 
+
+ Echo ___ IMPRESSION: Suboptimal image quality. Normal biventricular cavity sizes with preserved global biventricular systolic function. High normal estimated PA systolic pressure. 
+
+Discharge labs 
+
+___ 07:32AM BLOOD ___ ___ Plt ___ ___ 07:32AM BLOOD Plt ___ ___ 07:32AM BLOOD ___ ___ ___ 07:32AM BLOOD ___ ___ ___ 07:32AM BLOOD ___  Brief Hospital Course: This is an ___ old male retired card___ with past medical history of Factor V Leiden complicated by prior lower extremity DVTs on chronic Coumadin, recently off of anticoagulation for procedures, presenting with two weeks of intermittently worsening dyspnea on exertion, admitted ___ with acute pulmonary embolism, anticoagulated, seen by cardiology, clinically improving, able to be discharged home with home O2
+
+# Acute pulmonary embolism / Acute hypoxic respiratory failure - transferred from ___ after found to have acute pulmonary embolism with clinical concern for need for thrombolysis. On arrival here, PESI score placed patient at high risk, but had negative biomarkers, TTE without signs of right heart strain. Per MASCOT/cardiology consultation, no indication for thrombolysis. Oxygen requirement slowly improved, but did not resolve (he remained on 2L nasal canula, and had O2 Saturation drops to 87% with walking without o2), necessitating arrangement for home O2. Discharged on lovenox + Coumadin. INR 2.0 (but had not been therapeutic x full 48 hours).He is being discharged on home dose of 2.5 mg and close follow up with ___ and his primary care doctor. 
+
+#Chest pain: he experienced intermittent chest pain thought to either be musculoskeletal or to be manifestations of pulmonary infarction. His pain was controlled on PO medications and was not associated with EKG changes. 
+
+# HTN: Home Diltiazem was originally held in the setting of large clot burden. Blood pressure was well controlled with only valsartan. Diltiazem held upon discharge. 
+
+# Depression/ADD- Continued on home lamotrigine, citalopram
+
+# Pain- Celebrex was held becuase it was ___. Given Tylenol PRN
+
+#Reflux: Continued home omeprazole 
+
+# HLD- Continued pravastatin 
+
+CODE: FULL
+
+Transitional issues - check INR on ___ and ___ with results referred to patient's PCP - recommend bridging with lovenox until therapeutic x 48h on Coumadin (INR goal ___ - continue to assess requirements for home O2 - monitor BPs, consider restarting diltiazem if becoming hypertensive  Medications on Admission: The Preadmission Medication list may be inaccurate and requires futher investigation. 1. Warfarin 2.5 mg PO 6X/WEEK (___) 2. Warfarin 5 mg PO 1X/WEEK (WE) 3. Diltiazem ___ 180 mg PO DAILY 4. Omeprazole 20 mg PO DAILY:PRN heartburn 5. Celebrex ___ mg oral DAILY 6. LamoTRIgine 25 mg PO DAILY 7. LamoTRIgine 50 mg PO QPM 8. Valsartan 80 mg PO DAILY 9. Citalopram 10 mg PO DAILY 10. Pravastatin 20 mg PO QPM 
+
+ Discharge Medications: 1. Citalopram 10 mg PO DAILY 2. Enoxaparin Sodium 80 mg SC Q12H RX *enoxaparin [Lovenox] 80 mg/0.8 mL 80 mg SubQ every 12 hours Disp #*14 Syringe Refills:*0 3. LamoTRIgine 25 mg PO DAILY 4. LamoTRIgine 50 mg PO QPM 5. Omeprazole 20 mg PO DAILY:PRN heartburn 6. Pravastatin 20 mg PO QPM 7. Valsartan 80 mg PO DAILY 8. Acetaminophen 1000 mg PO Q8H:PRN Pain 9. Sodium Chloride Nasal ___ SPRY NU TID:PRN dry nose  10. Warfarin 2.5 mg PO DAILY16 11. Outpatient Lab Work PE (___.9) Draw ___ and INR on ___ and ___. fax to: Dr. ___ 12. TRIAzolam 0.125 mg PO QHS:PRN insomnia 
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Pulmonary Embolism
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent with O2
+
+ Discharge Instructions: Dr. ___,
+
+___ were admitted to ___ for treatment of a Pulmonary Embolism. A CT scan, Echocardiogram, and cardiac enzymes all showed that the PE did not damage your heart. ___ were originally placed on heparin for treatment of the pulmonary embolism. The interventional Cardiology team determined that an interventional procedure was not advisable and ___ were then placed on Lovenox and Warfarin for further treatment of the Pulmonary embolism. Please continue taking the lovenox and Warfarin after discharge until your primary care doctor tells ___ it is ok to stop the Lovenox. A visiting Nurse ___ come to your house tomorrow and ___ to check ___ INR. Please follow up with your primary care doctor at the appointment listed below for adjustment of ___ Warfarin dose. 
+
+While ___ were admitted we stopped given ___ Diltiazem. Your blood pressure was well controlled on valsartan. Please refrain from taking the Diltiazem until ___ have discussed your blood pressure control with your primary care doctor. 
+
+The night before discharge ___ had some pain on your right side. An ecg did not show any damage to the heart. It is likely this pain may be due to inflammation from the PE. Please let your primary care doctor know if the pain continues. 
+
+It has been a pleasure caring for ___. We wish ___ the best.  Followup Instructions: ___ 

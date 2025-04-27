@@ -1,0 +1,23 @@
+T1	Delirium 843 858	encephalopathic
+T2	Delirium 27319 27327	Confused
+T3	Mobile_with_assistance 27407 27433	Out of Bed with assistance
+T4	Mobile_with_aid 27446 27456	wheelchair
+A1	Type_of_aid T4 Wheelchair
+T5	Visual_impairment 2726 2735	cataracts
+T6	Unspecified_cognitive_impairment 3461 3469;3501 3509	Oriented not date
+T7	Delirium 24135 24149	encephalopathy
+T8	Delirium 24151 24160	Confusion
+T9	Delirium 4314 4319	A&Ox3
+A2	Negation T9
+T10	Visual_impairment 3815 3824	cataracts
+T11	Delirium 747 756	confusion
+T12	Delirium 2036 2044	confused
+A3	In-hospital_event T11
+T13	Visual_impairment 2283 2291	Glaucoma
+T14	Lower_respiratory_tract_infection 21456 21465	pneumonia
+A4	Negation T14
+T15	Lower_respiratory_tract_infection 21332 21341	pneumonia
+A5	Diagnosis T15 Suspected
+T16	Visual_impairment 24942 24950	Glaucoma
+T17	Lower_respiratory_tract_infection 9030 9039	pneumonia
+A6	Negation T17

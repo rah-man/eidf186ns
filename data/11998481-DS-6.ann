@@ -1,0 +1,10 @@
+T1	Delirium 9643 9648	A/Ox3
+A1	Negation T1
+T2	Dementia 1795 1803	dementia
+A2	Diagnosis T2 Implicit_mention
+T3	Delirium 2584 2589	A/Ox3
+A3	Negation T3
+T4	Has_carers 9276 9283	Service
+T5	Delirium 9382 9400	Clear and coherent
+A4	Negation T5
+T6	Independently_mobile 9466 9490	Ambulatory - Independent

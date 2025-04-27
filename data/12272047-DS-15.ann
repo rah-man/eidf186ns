@@ -1,0 +1,18 @@
+T1	Delirium 10033 10051	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 10117 10141	Ambulatory - Independent
+T3	Lower_respiratory_tract_infection 10192 10201	pneumonia
+T4	Lower_respiratory_tract_infection 9943 9952	Pneumonia
+T5	Delirium 5141 5149	oriented
+A2	Negation T5
+T6	Lower_respiratory_tract_infection 5922 5931	pneumonia
+T7	Lower_respiratory_tract_infection 6995 7004	Pneumonia
+T8	Lower_respiratory_tract_infection 7043 7046	PNA
+T9	Constipation 9076 9088	Constipation
+A3	Diagnosis T9 Implicit_mention
+T10	Lower_respiratory_tract_infection 1475 1478	PNA
+T11	Lower_respiratory_tract_infection 6073 6080	empyema
+A4	Diagnosis T11 Suspected
+A5	Low_confidence T11
+T12	Lower_respiratory_tract_infection 7187 7191	HCAP
+A6	In-hospital_event T12

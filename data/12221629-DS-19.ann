@@ -1,0 +1,23 @@
+T1	Lower_respiratory_tract_infection 13198 13207	pneumonia
+T2	Delirium 13246 13264	Clear and coherent
+A1	Negation T2
+T3	Independently_mobile 13330 13354	Ambulatory - Independent
+T4	Lower_respiratory_tract_infection 9877 9909	Health-care Associated Pneumonia
+T5	Constipation 3564 3576	constipation
+T6	Lower_respiratory_tract_infection 548 552	HCAP
+A2	In-hospital_event T6
+A3	Diagnosis T6 History_of
+T7	Lower_respiratory_tract_infection 1840 1844	HCAP
+A4	In-hospital_event T7
+T8	Urinary_tract_infection 1845 1848	UTI
+T9	Visual_impairment 4102 4111	cataracts
+A5	Diagnosis T9 History_of
+T10	Lower_respiratory_tract_infection 7561 7570	pneumonia
+A6	Diagnosis T10 Suspected
+T11	Lower_respiratory_tract_infection 8814 8823	pneumonia
+A7	Diagnosis T11 Suspected
+T12	Delirium 4991 5007	Normal mentation
+A8	Negation T12
+T13	Lower_respiratory_tract_infection 8533 8537	HCAP
+A9	In-hospital_event T13
+A10	Diagnosis T13 History_of

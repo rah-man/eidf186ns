@@ -1,0 +1,12 @@
+T1	Lower_respiratory_tract_infection 1277 1280	PNA
+T2	Lower_respiratory_tract_infection 10116 10119	PNA
+T3	Delirium 2744 2748	AOx3
+A1	Negation T3
+T4	Lower_respiratory_tract_infection 5288 5297	pneumonia
+T5	Lower_respiratory_tract_infection 5348 5357	pneumonia
+T6	Lower_respiratory_tract_infection 7446 7455	pneumonia
+T7	Lower_respiratory_tract_infection 7236 7239	HAP
+T8	Lower_respiratory_tract_infection 659 662	PNA
+T9	Delirium 2281 2289	oriented
+A2	Negation T9
+T10	Lower_respiratory_tract_infection 3429 3438	pneumonia

@@ -1,0 +1,7 @@
+T1	Dementia 922 926	AOx3
+A1	Negation T1
+T2	Has_carers 3032 3039	Service
+T3	Delirium 3165 3173	oriented
+A2	Negation T3
+T4	Constipation 4219 4231	constipation
+A3	Diagnosis T4 Implicit_mention

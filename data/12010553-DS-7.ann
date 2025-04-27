@@ -1,0 +1,12 @@
+T1	Constipation 7974 7986	Constipation
+A1	Diagnosis T1 Implicit_mention
+T2	Constipation 1012 1024	constipation
+A2	Negation T2
+T3	Dementia 1583 1591	DEMENTIA
+A3	Diagnosis T3 Implicit_mention
+T4	Delirium 2802 2810	oriented
+A4	Negation T4
+T5	Constipation 4839 4851	Constipation
+A5	Diagnosis T5 Implicit_mention
+T6	Independently_mobile 5208 5232	Ambulatory - Independent
+T7	Independently_mobile 5296 5314	Clear and coherent

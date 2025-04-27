@@ -1,0 +1,13 @@
+T1	Delirium 4396 4414	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 4480 4512	Ambulatory - requires assistance
+T3	Mobile_with_aid 4516 4519	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Visual_impairment 1339 1351	PSEUDOPHAKIA
+A3	Diagnosis T4 History_of
+T5	Delirium 2082 2087	A&Ox4
+A4	Negation T5
+T6	Constipation 5139 5151	constipation
+A5	Diagnosis T6 Implicit_mention
+T7	Hearing_impairment 1427 1439	OTITIS MEDIA
+A6	Low_confidence T7

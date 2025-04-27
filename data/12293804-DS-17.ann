@@ -1,0 +1,21 @@
+T1	Visual_impairment 1756 1776	Macular degeneration
+A1	Diagnosis T1 History_of
+T2	Delirium 2093 2098	AAOx4
+A2	Negation T2
+T3	Delirium 2853 2857	AOx3
+A3	Negation T3
+T4	Constipation 8213 8225	Constipation
+T5	Constipation 8254 8266	constipation
+T6	Has_carers 9122 9130	services
+T7	Has_carers 11533 11540	Service
+T8	Delirium 11834 11852	Clear and coherent
+A4	Negation T8
+T9	Mobile_with_assistance 11918 11950	Ambulatory - requires assistance
+T10	Mobile_with_aid 11954 11957	aid
+A5	Type_of_aid T10 Two_sticks_or_frame
+T11	Upper_gastrointestinal_haemorrhage 1704 1712	GI bleed
+A6	Low_confidence T11
+T12	Lower_gastrointestinal_haemorrhage 1704 1712	GI bleed
+A7	Low_confidence T12
+T13	Frailty 2105 2110	frail
+T14	Constipation 11712 11724	Constipation

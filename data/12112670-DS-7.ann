@@ -1,0 +1,50 @@
+T1	Urinary_tract_infection 22132 22155	urinary tract infection
+T2	Delirium 21290 21298	Confused
+T3	Mobile_with_assistance 21376 21402	Out of Bed with assistance
+T4	Mobile_with_aid 21415 21425	wheelchair
+A1	Type_of_aid T4 Wheelchair
+T5	Delirium 5951 5955	AOx3
+A2	Negation T5
+T6	Delirium 5044 5049	AxOx3
+A3	Negation T6
+T7	Dementia 4595 4603	dementia
+A4	Diagnosis T7 Suspected
+T8	Dementia 1821 1829	agitated
+T9	Unspecified_cognitive_impairment 2129 2140	disoriented
+A5	Low_confidence T8
+T10	Pressure_injury 6527 6548	Sacral pressure ulcer
+T11	Unspecified_cognitive_impairment 6735 6740;6778 6787	AAOx2 forgetful
+T12	Urinary_tract_infection 10200 10203	UTI
+T13	Delirium 10216 10224	delirium
+A6	Diagnosis T13 Suspected
+T14	Dementia 10237 10245	dementia
+A7	Diagnosis T14 Suspected
+T15	Urinary_tract_infection 13106 13109	UTI
+T16	Unspecified_cognitive_impairment 13273 13286;13306 13311;13500 13506	memory issues AxOx2 memory
+T17	Urinary_tract_infection 13756 13759	UTI
+T18	Urinary_incontinence 13845 13852;13878 13890	urinary incontinence
+T19	Pressure_injury 15779 15801	SACRAL DECUBITUS ULCER
+T20	Pressure_injury 15817 15829;15841 15848	sacral wound buttock
+T21	Pressure_injury 16913 16934	sacral pressure ulcer
+T22	Dementia 17357 17365	dementia
+A8	Diagnosis T22 Suspected
+T23	Constipation 19589 19601	constipation
+A9	Diagnosis T23 Implicit_mention
+T24	Pressure_injury 19643 19664	Sacral Pressure Ulcer
+T25	Constipation 19785 19797	constipation
+A10	Diagnosis T25 Implicit_mention
+T26	Urinary_tract_infection 21697 21700	UTI
+T27	Delirium 21052 21066	ENCEPHALOPATHY
+T28	Urinary_tract_infection 21067 21070	UTI
+T29	Delirium 12755 12763	delirium
+T30	Urinary_tract_infection 12573 12576	UTI
+T31	Unspecified_cognitive_impairment 12578 12598	Cognitive impairment
+T32	Dementia 12637 12645;12650 12658	agitated confused
+A11	Low_confidence T32
+T33	Delirium 12557 12571	ENCEPHALOPATHY
+T34	Pressure_injury 14418 14433	pressure ulcers
+T35	Dementia 13213 13222	agitation
+A12	Negation T35
+T36	Pressure_injury 5672 5684	sacral wound
+T37	Pressure_injury 2472 2489	ulcer over sacrum
+T38	Delirium 22218 22227	confusion

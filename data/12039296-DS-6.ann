@@ -1,0 +1,11 @@
+T1	Delirium 5714 5732	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 5798 5822	Ambulatory - Independent
+T3	Upper_gastrointestinal_haemorrhage 6723 6751;6761 6766;6777 6782	blood or dark/black material vomit bowel
+A2	Diagnosis T3 Implicit_mention
+T4	Constipation 5319 5331	Constipation
+A3	Diagnosis T4 Implicit_mention
+T5	Delirium 1278 1283	AAOx3
+A4	Negation T5
+T6	Delirium 3059 3067	oriented
+A5	Negation T6

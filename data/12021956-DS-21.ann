@@ -1,0 +1,11 @@
+T1	Delirium 9354 9372	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 9438 9470	Ambulatory - requires assistance
+T3	Mobile_with_aid 9474 9477	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Has_carers 9056 9063	Service
+T5	Visual_impairment 1930 1950	Macular degeneration
+A3	Diagnosis T5 History_of
+T6	Vertebral_compression_fracture 4675 4680;4782 4790	spine fracture
+A4	Negation T6
+T7	Weight_loss 6947 6966	drop in body weight

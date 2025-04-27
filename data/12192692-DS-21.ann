@@ -1,0 +1,11 @@
+T1	Weight_loss 1007 1018	Weight loss
+T2	Delirium 2096 2104	oriented
+A1	Negation T2
+T3	Delirium 2545 2553	oriented
+A2	Negation T3
+T5	Delirium 7297 7315	Clear and coherent
+A4	Negation T5
+T4	Has_carers 7195 7202	Service
+T6	Independently_mobile 7381 7404	Ambulatory - Independen
+T7	Lower_gastrointestinal_haemorrhage 1038 1052	blood in bowel
+A3	Negation T7

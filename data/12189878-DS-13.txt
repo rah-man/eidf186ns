@@ -1,0 +1,63 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: codeine / Sulfa (Sulfonamide Antibiotics)  Attending: ___.  Chief Complaint: Shortness of breath  Major Surgical or Invasive Procedure: Cardioversion 
+
+ History of Present Illness: Ms. ___ is an ___ y/o lady with PMH Afib on Rivaroxaban s/p recent DCCV (CHA2DS2-VASc 6), NIDDM2, HLD, CKD, depression, presenting with worsening dyspnea on exertion, ___ edema, and increased abdominal girth. She was referred for direct admission from her cardiologist Dr. ___ further management and consideration of elective LHC.  Pt c/o long history of dyspnea on exertion, worsening over a few weeks. Afib was diagnosed incidentally during a hospitalization a few years ago for diabetes, however she denies having been on any rate control agent or anticoagulation until a few weeks ago. One week after successful cardioversion, she developed shortness of breath and ___ edema, presented to PCP ___ ___, was found to be in AF again with rate ~100, with 2+ ___ edema and crackles. She was reevaluated ___ with respiratory status thought to be slightly worse, prompting request for admission.  At office, labs notable for BUN 19, creatinine 1.8, sodium 133, potassium 5.2, glucose 219.  She denies dyspnea at rest, previous episodes of CHF, chest pain at rest/with exertion, orthopnea, PND, palpitations, cough or recent URI symptoms, weight gain. Reported dry weight 157 lbs.  ROS positive for frequent falls at home, walks with a cane. A few weeks ago, her "legs gave out" and she fell on her L knee, without HS/LOC or cardiac symptoms related to the fall. 
+
+ Past Medical History: PAST MEDICAL HISTORY:  =====================  1. CARDIAC RISK FACTORS  - Diabetes mellitus II  - Hypertension  - Hyperlipidemia  2. CARDIAC HISTORY  - AF diagnosed ___, CHA2DS2-VASc 6, on rate control and Rivaroxaban,  - Electrical cardioversion for afib  3. OTHER PAST MEDICAL HISTORY  - Depression, longstanding after son's death ___ years ago  - hysterectomy and gallbladder removal 
+
+ Social History: ___ Family History: Father died from MI in his ___  Mother died when pt was ___ years old, had gallbladder removed and had surgical complications  3 sons: 2 deceased, one was "on drugs", one had an MI in his ___, other son is healthy 
+
+ Physical ___: ADMISSION EXAM: VITALS: 97.7 PO 115/80 88 18 95 RA  Wt: 157 lbs (dry wt 157 lbs)  GENERAL: Well-developed, well-nourished. NAD. Mood, affect appropriate.  HEENT: NCAT. Sclera anicteric. Conjunctiva pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  NECK: Supple with JVP approximately mid-neck.  CARDIAC: Regular rate, irregular rhythm, normal S1, S2. No murmurs/rubs/gallops. No thrills, lifts.  LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. Dry crackles ___ way up R lung, ___ way up L lung, no wheezes or rhonchi.  ABDOMEN: Soft, NTND, NABS, no guarding. No palpable HSM. Obese.   EXTREMITIES: Moving all extremities equally, trace ___ edema to the knees b/l, no c/c.  SKIN: No significant rashes, L chest wall 1cm deeply erythematous circular papule. R knee healing abrasions.  PULSES: Distal pulses palpable and symmetric 
+
+DISCHARGE EXAM: 98.5 PO BP99/63 L Sitting HR56 RR18 SaO2 94%RA GENERAL: elderly woman sitting in bedside chair, NAD, A+Ox3 HEENT: normocephalic, bruiseing above lip, sclera anicteric LUNGS: Mild dry crackles bilaterally, normal WOB at rest HEART: RR, irregular rhythm, no murmurs, rubs, gallops ABDOMEN: soft, nontender, nondistended EXTREMITIES: trace ___ edema bilaterally in ankles SKIN: no rashes; R knee has healing abrasions from previous falls PULSES: distal pulses palpable
+
+ Pertinent Results: ADMISION LABS ___ 11:41PM BLOOD WBC-6.9 RBC-3.59* Hgb-11.2 Hct-35.3 MCV-98 MCH-31.2 MCHC-31.7* RDW-13.3 RDWSD-47.8* Plt ___ ___ 11:41PM BLOOD ___ PTT-35.8 ___ ___ 11:41PM BLOOD Glucose-125* UreaN-22* Creat-1.7* Na-139 K-5.6* Cl-100 HCO3-27 AnGap-12 ___ 11:41PM BLOOD Albumin-4.0 Calcium-9.3 Phos-4.3 Mg-2.4
+
+OTHER ___ 11:41PM BLOOD ALT-21 AST-26 LD(LDH)-161 AlkPhos-40 TotBili-0.3
+
+DISCHARGE LABS ___ 05:50AM BLOOD Calcium-9.7 Phos-4.2 Mg-2.1 ___ 05:50AM BLOOD Glucose-142* UreaN-28* Creat-1.5* Na-142 K-4.8 Cl-102 HCO3-23 AnGap-17* ___ 05:50AM BLOOD WBC-7.7 RBC-3.80* Hgb-11.6 Hct-37.4 MCV-98 MCH-30.5 MCHC-31.0* RDW-13.3 RDWSD-47.9* Plt ___
+
+IMAGING/REPORTS: ECHO ___: The left atrium is normal in size. No atrial septal defect is seen by 2D or color Doppler. The estimated right atrial pressure is ___ mmHg. Left ventricular wall thickness, cavity size, and global systolic function are normal (LVEF=55%). Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. There is beat-to-beat variability of the left ventricular ejection fraction due to an irregular rhythm/premature beats. Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve leaflets are structurally normal. There is no mitral valve prolapse. Trivial mitral regurgitation is seen. There is mild pulmonary artery systolic hypertension. There is an anterior space which most likely represents a prominent fat pad. 
+
+ IMPRESSION: Normal global biventricular systolic function. Mild pulmonary hypertension. Atrial rhythm appears to be atrial tachycardia or atrial flutter. Prominent anterior fat pad. No pericardial effusion seen.
+
+T/C SPINE XRAY ___: C1-C6 visualized on the lateral projection. Bones appear demineralized.  There is mild anterolisthesis of C4 on C5. No fracture seen.  No prevertebral soft tissue swelling.   Thoracic spine: Bones appear diffusely demineralized, limiting sensitivity for detecting acute fracture. No definite fracture seen. There is moderate cardiomegaly with evidence of left atrial enlargement. Calcification in the aortic arch noted. 
+
+CT HEAD ___: No acute findings. Probable chronic lacunar infarct in left thalamus. Chronic small vessel ischemic changes. Brain parenchymal atrophy 
+
+CXR ___: Enlarged cardiac silhouette. No evidence of pulmonary edema. 
+
+ Brief Hospital Course: Ms. ___ is a ___ year old woman with PMH afib on rivaroxaban s/p DCCV several weeks ago, (CHA2DS2-VASc 6), NIDDM2, HLD, CKD, depression, who was a direct admit from home by her cardiologist Dr. ___ management of ?CHF and consideration for elective L heart cath. She presented with worsening dyspnea on exertion. Stated that she initially felt well after the DCCV, but a week later she was shopping and suddenly had SOB; found to have afib again at her PCP (cardiologist)'s office. Her SOB is not consistent with CHF picture, more likely due to AF. She had successful cardioversion on ___ to sinus rhythm.
+
+#Progressive Dyspnea on Exertion Patient states she has had worsening SOB with exertion. Previously thought to be CHF exacerbation, but does not sound like typical HF picture -> CXR at ___ showed no pulmonary edema but did show massive cardiomegaly, patient is at her reported dry weight of 71.2kg, patient has no SOB lying down but gets exertional SOB. BNP 4045, stable compared to result at PCP ___. -most likely due to Afib -home flecainide was d/c'd and patient switched to PO amiodarone 200mg BID ___ patient will need f/u TFTs, LFTs, PFTs outpatient -continued on rivaroxaban for afib, 15mg -successful cardioversion on ___
+
+#Recurrent Atrial fibrillation: CHA2DS2-VASc 6, rivaroxaban for anticoag. -cardioverted to sinus rhythm, as stated above
+
+___ on CKD: ___ Crt in ___ was 1.45, is now 1.5
+
+#Falls: Patient reports multiple falls at home, walks with cane at baseline. * patient will go to rehab after leaving the hospital
+
+CHRONIC ISSUES ============== #T2DM: Treated with ISS in hospital; takes glipizide and metformin at home
+
+#Depression: Continued home alprazolam, paroxetine -psyc consulted; and felt patient at low risk of self-harm
+
+#HLD: Continued home pravastatin
+
+TRANSITIONAL ISSUES Discharge weight: 69.4 kg Discharge Cr: 1.5 Medication changes: Flecainide and metoprolol were discontinued; Patient was continued on rivaroxaban and started on amiodarone 200mg BID on ___, may need dose adjustment. -will need annual PFTs, TFTs, and LFTs  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Pravastatin 20 mg PO QPM 2. Furosemide 20 mg PO DAILY 3. Flecainide Acetate 50 mg PO Q12H 4. Enalapril Maleate 20 mg PO DAILY 5. Metoprolol Tartrate 50 mg PO TID 6. MetFORMIN (Glucophage) 250 mg PO BID 7. GlipiZIDE 5 mg PO DAILY 8. PARoxetine 20 mg PO DAILY 9. ALPRAZolam 0.5 mg PO TID 10. Cyanocobalamin 500 mcg PO DAILY 11. Magnesium Oxide 400 mg PO DAILY constipation 12. Rivaroxaban 20 mg PO DAILY 
+
+ Discharge Medications: 1. Amiodarone 200 mg PO BID  2. Polyethylene Glycol 17 g PO DAILY:PRN CONSTIPATION  3. Senna 8.6 mg PO BID:PRN CONSTIPATION  4. Rivaroxaban 15 mg PO DINNER  5. ALPRAZolam 0.5 mg PO TID  6. Cyanocobalamin 500 mcg PO DAILY  7. Enalapril Maleate 20 mg PO DAILY  8. Furosemide 20 mg PO DAILY  9. GlipiZIDE 5 mg PO DAILY  10. Magnesium Oxide 400 mg PO DAILY constipation  11. MetFORMIN (Glucophage) 250 mg PO BID  12. PARoxetine 20 mg PO DAILY  13. Pravastatin 20 mg PO QPM 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Primary diagnosis Atrial fibrillation 
+
+Secondary diagnoses DM2 HTN HLD Depression
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Dear Ms. ___,
+
+You presented to ___ with shortness of breath. You had a heart condition called atrial fibrillation, which was causing your symptoms. We changed your heart medicine to amiodarone to help keep your heart rhythm normal. You also received a cardioversion and your heart rate and rhythm became normal. It is important that you continue taking amiodarone after you leave the hospital. You should also keep take your rivaroxaban this well reduce your chances of having a stroke.
+
+Please follow up with your cardiologist Dr. ___ in clinic.
+
+Sincerely,
+
+Your ___ care team  Followup Instructions: ___ 
