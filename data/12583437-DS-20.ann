@@ -1,0 +1,46 @@
+T1	Falls 960 965	falls
+A1	Negation T1
+T2	Visual_impairment 978 984	visual
+A2	Negation T2
+T3	Delirium 1276 1284;1285 1288	oriented x 3
+A3	Negation T3
+T4	Delirium 2530 2538;2539 2541	oriented x3
+A4	Negation T4
+T5	Intracranial_haemorrhage 3711 3728	subdural hematoma
+T6	Intracranial_haemorrhage 3794 3813	subacute hemorrhage
+T7	Intracranial_haemorrhage 4265 4270;4324 4341	NCHCT subdural hematoma
+T8	Intracranial_haemorrhage 5043 5060	subdural hematoma
+T9	Has_carers 8908 8915	Service
+T10	Delirium 9015 9033	Clear and coherent
+A5	Negation T10
+T11	Independently_mobile 9099 9123	Ambulatory - Independent
+T12	Constipation 11375 11387	Constipation
+A6	Diagnosis T12 Implicit_mention
+T13	Seizures 12440 12448	Seizures
+A7	Diagnosis T13 Implicit_mention
+T14	Visual_impairment 12458 12466;12477 12483	problems vision
+A8	Diagnosis T14 Implicit_mention
+T15	Delirium 12714 12723	confusion
+A9	Diagnosis T15 Implicit_mention
+T16	Seizures 10340 10348	seizures
+A10	Diagnosis T16 Implicit_mention
+T17	Urinary_tract_infection 7249 7252	UTI
+T18	Intracranial_haemorrhage 5241 5258	subdural hematoma
+T19	Hearing_impairment 1837 1851	Hearing intact
+A11	Negation T19
+T20	Intracranial_haemorrhage 316 333	subdural hematoma
+T21	Delirium 1606 1615	confusion
+A12	Negation T21
+T22	Intracranial_haemorrhage 2808 2827	subdural hemorrhage
+T23	Intracranial_haemorrhage 4461 4466;4544 4561	NCHCT subdural hematoma
+T24	Intracranial_haemorrhage 5392 5394;5419 5427;5484 5494	CT subdural hemorrhage
+T25	Intracranial_haemorrhage 8959 8976	subdural hematoma
+T26	Seizures 9880 9887	seizure
+A13	Diagnosis T26 Implicit_mention
+T27	Intracranial_haemorrhage 11625 11636	brain bleed
+T28	Intracranial_haemorrhage 226 245	Subdural hematoma  
+T29	Hearing_impairment 479 486;493 496	ringing ear
+T30	Intracranial_haemorrhage 3428 3445	subdural hematoma
+T31	Intracranial_haemorrhage 4064 4072;4153 4163	subdural hemorrhage
+T32	Intracranial_haemorrhage 5661 5668;5697 5707	head CT hemorrhage
+T33	Intracranial_haemorrhage 9228 9233;9252 9257	blood brain

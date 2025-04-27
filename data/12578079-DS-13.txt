@@ -1,0 +1,63 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Sulfa (Sulfonamide Antibiotics)  Attending: ___  ___ Complaint: Dilated common bile duct
+
+ Major Surgical or Invasive Procedure: ERCP  History of Present Illness: ___ yoF with h/o CAD, HTN, HL, renal cell carcinoma and CKD who presents after ERCP.
+
+She was hospitalized in ___ for BRBPR. At that time, she was incidentally found to have a dilated common bile duct to 21mm. She then underwent outpatient EUS in ___ which showed a dilated CBD to 10mm and ERCP was recomended for further evaluation. 
+
+Today she went for ERCP which showed a 12mm CBD without filling defect. Also found to have stenotic papilla and sphincterotomy was performed. Balloon sweeps were done with extraction of sludge.
+
+Currently, she reports mild nausea and vomited x 1 after the procedure. Denies abdominal pain. Reports she has felt well at home recently without any abdominal pain, nausea, vomiting, diarrhea, or constipation.
+
+REVIEW OF SYSTEMS: Denies fever, chills, night sweats, headache, vision changes, rhinorrhea, congestion, sore throat, cough, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, hematuria. All other 10-system review negative in detail. 
+
+ Past Medical History: CAD s/p NSTEMI ___, medically managed COPD CKD, stage III Renal cell carcinoma H/o respiratory failure ___ requiring trach placement Hyponatremia Colonic polyps ___ Hypercholesterolemia Hypertension Lobular carcinoma in situ ___ Osteoporosis ___ Overactive bladder UTI
+
+ Social History: ___ Family History: Father had HTN, mother died at ___.
+
+ Physical Exam: VS: 97.2 62 119/52 18 97%RA GEN: Alert, oriented, no acute distress  HEENT: NCAT MMM EOMI, sclera anicteric, OP clear  NECK: supple, no JVD PULM: CTAB without wheezes, rales, ronchi  CV: RRR normal S1/S2, no mrg ABD: Soft, NT, ND, bowel sounds present, no r/g EXT: WWP 2+ pulses palpable bilaterally, no c/c/e SKIN: no ulcers or lesions
+
+O2 sat at time of discharge: 93%RA  Pertinent Results: ___ 06:05AM BLOOD WBC-10.7 RBC-4.07* Hgb-12.2 Hct-34.8* MCV-86 MCH-30.0 MCHC-35.1* RDW-13.5 Plt ___ ___ 06:05AM BLOOD Neuts-81.9* Lymphs-11.2* Monos-5.5 Eos-1.1 Baso-0.2 ___ 06:05AM BLOOD Glucose-88 UreaN-14 Creat-1.1 Na-139 K-3.9 Cl-100 HCO3-29 AnGap-14 ___ 06:05AM BLOOD ALT-17 AST-23 AlkPhos-75 TotBili-0.6 ___ 06:05AM BLOOD Calcium-9.4 Phos-3.8 Mg-1.6
+
+___ CT abd/pelvis: 1. No evidence of active arterial extravasation. 2. Diverticulosis without diverticulitis. 3. Intra- and extra-hepatic bile duct dilation with CBD dilation to 21-mm is new from ___. 4. Enlarging enhancing left renal lesion is concerning for renal cell carcinoma. 
+
+___ EUS: The ampulla was viewed with the linear echoendoscope and was normal. EUS: The common bile duct was dilated to at least 1cm although EUS can understimate CBD diameter. Within the distal CBD there was a small non-shadowing filling defect within the duct that measured 4.1 mm in one plane. This could be consistent with a CBD polyp versus a tortuous S-shaped distal common bile duct. The pancreas was normal in the head. It was hyperechoic in the body and tail consistent with fatty pancreas. The pancreatic duct was normal and nondilated. The ampulla was normal. The visualized liver (left lobe) was normal. No ___, porta hepatis, gastro-hepatic or celiac lymphadenopathy was seen. Otherwise normal upper eus to second part of the duodenum Recommendations: Given EUS findings, recommend ERCP for further evaluation.
+
+___ ERCP: Normal major papilla Cannulation of the biliary duct was successful and deep with a sphincterotome using a free-hand technique. Dilatation of the CBD to 12mm and mild dilatation of the main intrahepatic bile ducts. No filling defect in the CBD. Sphincterotomy and balloon sweeps with extraction of sludge. The dilatation of the biliary tree was probably due to a long intraduodenal segment of the papilla which was somewhat stenotic. Otherwise normal ercp to third part of the duodenum.
+
+___ CXR: In comparison with study of ___, there are somewhat lower lung volumes. Some coarse interstitial markings are seen at the bases and there is again flattening of the hemidiaphragms, all consistent with chronic pulmonary disease. No definite acute focal pneumonia or vascular congestion.  Brief Hospital Course: ___ yoF with h/o CAD, HTN, HL, renal cell carcinoma and CKD who presents after ERCP, found to have common bile duct dilation.
+
+# CBD dilation: Found to have a dilated common bile duct on ERCP, likely related to stenosis of papilla. She had sphincterotomy performed without complication. She was kept NPO overnight and diet was advanced without complication. At the time of discharge she was tolerating a regular diet.
+
+# Hypoxemia: The day after her ERCP she developed hypoxemia to the high 80's on room air, which improved with ___ O2. She remained asymptomatic. CXR showed chronic pulmonary changes without acute process. Given that her hypoxia developed after receiving aggressive IV fluids after ERCP, she was given a dose of lasix and her hypoxia improved somewhat. She was 93% on room air at the time of discharge and remained asymptomatic. She should follow-up with her PCP for recheck and potentially further workup of her lung disease. She does have a history of COPD but had no wheezing on exam. She was kept on her home COPD meds.  # Renal cell carcinoma: Managed expectantly as outpatient.  Should have urology follow-up
+
+# CAD: s/p NSTEMI ___, medically managed: Recently seen by cardiology, no longer on Plavix given recent GI bleed. Held aspirin during this admission given her sphincterotomy, but it can be restarted in 5 days Continued her home beta blocker, ACE, and statin.
+
+# HTN: Continued home ACE, BB, CCB. Thiazide was held during this admission and restarted at discharge.
+
+# CKD: Recent baseline creatinine 1.3, was 1.1 on this admission.
+
+# Osteoporosis: Given calcium/vitamin D
+
+# GERD: Home ranitidine
+
+# Anemia: Home iron
+
+# Hyperlipidemia: Continued home statin
+
+CODE: Full code, confirmed EMERGENCY CONTACT: HCP is husband ___ (___), secondary is daughter ___ ___ or ___
+
+Transitional Issues: - Should have O2 sat/ambulatory sat checked as an outpatient and consideration of further evaluation of her lung disease  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Albuterol Inhaler 1 PUFF IH Q4H:PRN SOB, wheeze 2. Amlodipine 10 mg PO DAILY 3. Atorvastatin 40 mg PO DAILY 4. Calcium Carbonate 500 mg PO BID 5. Vitamin D 800 UNIT PO DAILY 6. Ferrous Sulfate 325 mg PO DAILY 7. Fluticasone-Salmeterol Diskus (250/50) 2 puffs IH BID 8. Lisinopril 30 mg PO DAILY 9. Metoprolol Succinate XL 150 mg PO BID 10. Ranitidine 300 mg PO DAILY 11. Tiotropium Bromide 1 CAP IH DAILY 12. traZODONE 75 mg PO HS:PRN insomnia 
+
+ Discharge Medications: 1. Albuterol Inhaler 1 PUFF IH Q4H:PRN SOB, wheeze 2. Amlodipine 10 mg PO DAILY 3. Atorvastatin 40 mg PO DAILY 4. Calcium Carbonate 500 mg PO BID 5. Ferrous Sulfate 325 mg PO DAILY 6. Fluticasone-Salmeterol Diskus (250/50) 2 puffs IH BID 7. Lisinopril 30 mg PO DAILY 8. Metoprolol Succinate XL 150 mg PO BID 9. Ranitidine 300 mg PO DAILY 10. Tiotropium Bromide 1 CAP IH DAILY 11. traZODONE 75 mg PO HS:PRN insomnia 12. Vitamin D 800 UNIT PO DAILY 13. Chlorthalidone 12.5 mg PO DAILY 
+
+ Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: Common bile duct dilation due to papillary stenosis Hypoxemia
+
+Secondary Diagnosis: CAD COPD Renal cell carcinoma
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: It was a pleasure taking care of you at ___.
+
+You were admitted to the hospital after ERCP for monitoring.  Your ERCP was uncomplicated and you were found to have a stenosis (narrowing) of your biliary duct which was treated with a procedure called a sphincterotomy to open up the narrowing.  You tolerated the procedure well without complications. You were tolerating a regular diet at the time of discharge.
+
+The oxygen level in your blood was also found to be low after the procedure and you were kept in the hospital for this reason.  It improved by the time of discharge. It is important that you weigh yourself every morning, and call your primary care doctor if your weight goes up more than 3 lbs.  Followup Instructions: ___ 

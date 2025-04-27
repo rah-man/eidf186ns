@@ -1,0 +1,31 @@
+T1	Constipation 1023 1035	constipation
+A1	Negation T1
+T2	Lower_gastrointestinal_haemorrhage 1037 1042	BRBPR
+A2	Negation T2
+T3	Upper_gastrointestinal_haemorrhage 1044 1050	melena
+A3	Negation T3
+T4	Lower_gastrointestinal_haemorrhage 1052 1064	hematochezia
+A4	Negation T4
+T5	Lower_respiratory_tract_infection 2154 2163	pneumonia
+T6	Lower_respiratory_tract_infection 2382 2391	pneumonia
+T7	Lower_respiratory_tract_infection 3752 3761	pneumonia
+A5	Diagnosis T7 Suspected
+T8	Lower_respiratory_tract_infection 3771 3788	COPD exacerbation
+A6	Diagnosis T8 Suspected
+T9	Lower_respiratory_tract_infection 3847 3856	pneumonia
+T10	Constipation 9332 9344	constipation
+A7	Diagnosis T10 Implicit_mention
+T11	Constipation 9662 9674	constipation
+A8	Diagnosis T11 Implicit_mention
+T12	Lower_respiratory_tract_infection 9869 9878	Pneumonia
+T13	Delirium 10005 10023	Clear and coherent
+A9	Negation T13
+T14	Independently_mobile 10087 10111	Ambulatory - Independent
+T15	Lower_respiratory_tract_infection 10317 10326	pneumonia
+T16	Lower_respiratory_tract_infection 10163 10172	pneumonia
+T17	Lower_respiratory_tract_infection 3793 3802	Pneumonia
+T18	Visual_impairment 907 921	vision changes
+A10	Negation T18
+T19	Visual_impairment 1424 1438	eye enucleated
+T20	Lower_respiratory_tract_infection 651 654	PNA
+A11	Diagnosis T20 Suspected

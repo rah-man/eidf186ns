@@ -1,0 +1,17 @@
+T1	Delirium 2313 2321	oriented
+A1	Negation T1
+T2	Pressure_injury 2789 2795	ulcers
+A2	Negation T2
+A3	Low_confidence T2
+T3	Delirium 2884 2892	oriented
+A4	Negation T3
+T4	Pressure_injury 3145 3151	ulcers
+A5	Negation T4
+A6	Low_confidence T4
+T5	Delirium 8437 8455	Clear and coherent
+A7	Negation T5
+T6	Mobile_with_assistance 8521 8553	Ambulatory - requires assistance
+T7	Mobile_with_aid 8557 8560	aid
+A8	Type_of_aid T7 Two_sticks_or_frame
+T8	Delirium 2704 2705;2710 2711;2712 2723	A O times three
+A9	Negation T8

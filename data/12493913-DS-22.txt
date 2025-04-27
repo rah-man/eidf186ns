@@ -1,0 +1,39 @@
+ Name: ___.      Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: Mr. ___ is a ___ with hx of HTN/HLP recently dx with DLBCL sp C1 DA-EPOCH-R c/b neutropenic fever. He is here today for planned admission for C2 EPOCH and port exchange. 
+
+ Major Surgical or Invasive Procedure: port placed
+
+ History of Present Illness: Mr ___ presented on ___ with 2 days of left flank pain. CT showed large L renal mass and multiple surrounding, necrotic nodes c/f malignancy. CT chest was clear. He underwent ___ biopsy 
+
+of tumor mass ___. Pathology returned positive for DLBCL and he was admitted to ___ from ___ - ___ to initiate treatment. - ___: C1 DA-EPOCH - ___: C1 Rituximab
+
+On ___ he presented to the ED and was admitted with neutropenic fever. He was started on vancomycin and cefepime that was narrowed on ___ to levofloxacin. Infectious workup including blood/urine culture and chest x-ray, influenza swab was negative. Respiratory Viral PCR Panel was positive for parainfluenza virus. He will complete a 10-day course of levofloxacin which will be complete on ___ d/t concern for superimposed bacterial pneumonia. His neupogen was held prior to discharge. He had a follow-up chest x-ray prior to discharge that showed no evidence of pneumonia. 
+
+ Past Medical History: HTN HLD Raynaud's Anxiety GERD Dyspnea on exertion Chronic cough BPH  Social History: ___ Family History: His mother has a history of breast cancer and stroke, father has a history of melanoma and alcohol use. There is no known family history of urologic malignancy.  Physical Exam: ADMISSION PHYSICAL ___ ___ Temp: 98.1 PO BP: 138/81 HR: 64 RR: 16 O2 sat: 98% O2 delivery: RA GENERAL: Well-appearing, no acute distress. NECK: Soft and supple. PSYCH: A&O x3, full affect. CARDIAC: Regular rate and rhythm. No murmurs, gallops, or rubs. CHEST: Clear to auscultation and percussion bilaterally. No wheezes, rales, or rhonchi. ABDOMEN: Soft, nontender, nondistended, no hepatosplenomegaly palpated or percussed. Positive bowel sounds. BACK: No spinal or CVA tenderness. SKIN: No rashes notes EXTREMITIES: No ___ edema. NEUROLOGIC: Normal gait and stance, rises easily from chair.
+
+DISCHARGE PHYSICAL Temp: 97.7 PO. BP143 / 74HR92R18 O296 GENERAL: Well-appearing, no acute distress. NECK: Soft and supple. PSYCH: A&O x3, full affect. CARDIAC: Regular rate and rhythm. No murmurs, gallops, or rubs. CHEST: Clear to auscultation and percussion bilaterally. No wheezes, rales, or rhonchi. ABDOMEN: Soft, nontender, nondistended, no hepatosplenomegaly palpated or percussed. Positive bowel sounds. BACK: No spinal or CVA tenderness. SKIN: No rashes notes EXTREMITIES: No ___ edema. NEUROLOGIC: Normal gait and stance, rises easily from chair. ACCESS: port in place on chest wall with minimal swelling.   Pertinent Results: ___ 12:00AM BLOOD WBC-3.9* RBC-3.73* Hgb-10.1* Hct-31.3* MCV-84 MCH-27.1 MCHC-32.3 RDW-14.1 RDWSD-41.2 Plt ___ ___ 12:00AM BLOOD Neuts-90.7* Lymphs-2.6* Monos-5.9 Eos-0.0* Baso-0.0 Im ___ AbsNeut-3.51 AbsLymp-0.10* AbsMono-0.23 AbsEos-0.00* AbsBaso-0.00* ___ 12:00AM BLOOD Glucose-133* UreaN-19 Creat-0.7 Na-145 K-4.2 Cl-107 HCO3-25 AnGap-13 ___ 12:00AM BLOOD ALT-41* AST-28 LD(LDH)-204 AlkPhos-70 TotBili-0.2 ___ 12:00AM BLOOD Albumin-3.3* Calcium-8.2* Phos-3.7 Mg-2.0 UricAcd-4.2  Brief Hospital Course: Mr. ___ is a ___ with hx of HTN/HLP recently dx with DLBCL sp C1D1 DA-EPOCH-R c/b neutropenic fever. 
+
+He was admitted for C2 EPOCH and port exchange. 
+
+ Etoposide 100 mg IV Days 1, 2, 3 and 4. ___ and ___ (50 mg/m2) *Dose before rounding 103 mg Admix with DOXOrubicin/vinCRIStine if ordered. Infuse each dose over 24 hours continuous infusion. Total of 4 doses.    DOXOrubicin 21 mg IV Days 1, 2, 3 and 4. ___ and ___ (10 mg/m2) *Dose before rounding 20.6 mg Admix with Etoposide/vinCRIStine if ordered. Infuse each dose over 24 hours continuous infusion. Total of 4 doses.    VinCRIStine (Oncovin) 0.4 mg IV Days 1, 2, 3 and 4. ___ and ___ (0.4 mg/m2 - dose reduced by 50% to 0.2 mg/m2)  Reason for dose reduction: capped at a total dose of 2mg *Dose before rounding 0.412 mg Admix with DOXOrubicin/Etoposide if ordered. Infuse each dose over 24 hours continuous infusion. Total of 4 doses.    CycloPHOSPHAMIDE 1540 mg IV Day 5. (___) (750 mg/m2) *Dose before rounding 1545 mg Infuse over 1 hour.   Chemotherapy - Supportive Medications  PredniSONE 120 mg PO BID Duration: 5 Days Start: On Regimen Day 1 60 mg/m2. 
+
+Access: port with poor blood return despite tPA. Will exchange tomorrow for double lumen port. No DVT ppx until after port exchange. 
+
+Acute kidney injury: Cr was 1.3 on admission. Did not improve with IV fluids overnight.  Of note presented with renal mass. Of note had been on levaquin for FN after last cycle which could be contributing.  Bactrim held during this admission. Creatine improved during stay and Bactrim was restarted at discharge.  Continue to follow and trend labs. 
+
+hypertension: continue home amlodipine. 
+
+anxiety: continue home escitalopram
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Acyclovir 400 mg PO Q12H 2. amLODIPine 5 mg PO DAILY 3. Bisacodyl 10 mg PO DAILY 4. Escitalopram Oxalate 10 mg PO QHS 5. Filgrastim-sndz 480 mcg SC Q24H 6. Omeprazole 20 mg PO DAILY 7. Senna 8.6 mg PO BID 8. Fluticasone Propionate NASAL 2 SPRY NU BID 9. Levofloxacin 750 mg PO Q24H 10. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third Line 11. Prochlorperazine 10 mg PO Q6H:PRN nausea and vomiting 12. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+
+ Discharge Medications: 1. Acyclovir 400 mg PO Q12H  2. amLODIPine 5 mg PO DAILY  3. Bisacodyl 10 mg PO DAILY  4. Escitalopram Oxalate 10 mg PO QHS  5. Filgrastim-sndz 480 mcg SC Q24H Please start taking ___ morning.   6. Fluticasone Propionate NASAL 2 SPRY NU BID  7. Omeprazole 20 mg PO DAILY  8. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third Line  9. Prochlorperazine 10 mg PO Q6H:PRN nausea and vomiting  10. Senna 8.6 mg PO BID  11. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+
+ Discharge Disposition: Home  Discharge Diagnosis: lymphoma
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr. ___, 
+
+It was a pleasure taking care of you at ___.
+
+You were admitted to the hospital for continued chemotherapy to treat your lymphoma. You received your second cycle of EPOCH. Please continue on your medications as listed below. As during your first cycle you will use neupogen, or filgastrim daily and continue taking this medication until being told to stop by your oncologist.  Followup Instructions: ___ 

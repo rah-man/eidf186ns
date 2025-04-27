@@ -1,0 +1,15 @@
+T1	Seizures 692 699	seizure
+T3	Delirium 4359 4367	delirium
+A1	Diagnosis T3 Implicit_mention
+T4	Delirium 4442 4450	delirium
+A2	Diagnosis T4 Implicit_mention
+T5	Constipation 7594 7606	constipation
+A3	Diagnosis T5 Implicit_mention
+T6	Delirium 1014 1022	confused
+T7	Intracranial_haemorrhage 2241 2248;2312 2324	CT HEAD intracranial
+A4	Negation T7
+T2	Delirium 4294 4303	confusion
+T8	Dementia 4308 4317	agitation
+A5	Low_confidence T8
+T9	Lower_respiratory_tract_infection 1960 1969	pneumonia
+A6	Negation T9

@@ -1,0 +1,18 @@
+T1	Delirium 16319 16337	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 16403 16435	Ambulatory - requires assistance
+T3	Mobile_with_aid 16439 16442	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Mobile_with_aid 15946 15960	Rolling Walker
+A3	Type_of_aid T4 Two_sticks_or_frame
+T5	Mobile_with_aid 15961 15975	Rolling walker
+A4	Type_of_aid T5 Two_sticks_or_frame
+T6	Urinary_tract_infection 3021 3024	UTI
+A5	Diagnosis T6 History_of
+T7	Pressure_injury 3106 3115	Leg ulcer
+A6	Low_confidence T7
+T8	Malnutrition 4024 4028	WDWN
+A7	Negation T8
+T9	Has_carers 16042 16049	Service
+T10	Pressure_injury 1857 1867	ulceration
+A8	Low_confidence T10

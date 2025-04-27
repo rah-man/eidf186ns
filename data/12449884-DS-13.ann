@@ -1,0 +1,10 @@
+T1	Has_carers 4357 4364	Service
+T2	Falls 376 380	fall
+T3	Falls 551 555	fall
+T4	Delirium 815 818;819 822	A&0 X 3
+A1	Negation T4
+T5	Hip_fracture 3447 3467	pubic ramus fracture
+A2	Diagnosis T5 History_of
+T6	Falls 3532 3536	fall
+T7	Delirium 5196 5205	confusion
+A3	Diagnosis T7 Implicit_mention

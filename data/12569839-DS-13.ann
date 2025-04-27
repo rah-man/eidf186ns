@@ -1,0 +1,34 @@
+T1	Delirium 1325 1333	confused
+T2	Delirium 1341 1346	A&Ox3
+A1	Negation T2
+T3	Delirium 2648 2651;2652 2655	A&O x 3
+A2	Negation T3
+T4	Delirium 14669 14687	Clear and coherent
+A3	Negation T4
+T5	Mobile_with_assistance 14753 14785	Ambulatory - requires assistance
+T6	Mobile_with_aid 14789 14792	aid
+A4	Type_of_aid T6 Two_sticks_or_frame
+T7	Delirium 14538 14546	Delirium
+T8	Constipation 14262 14274	constipation
+A5	Diagnosis T8 Implicit_mention
+T9	Constipation 13999 14010	constipatio
+T10	Constipation 13461 13473	constipation
+A6	Diagnosis T10 Implicit_mention
+T11	Constipation 13803 13815	constipation
+A7	Diagnosis T11 Implicit_mention
+T12	Delirium 11879 11892	encephlopathy
+A8	Negation T12
+T13	Pressure_injury 12236 12248	Sacral decub
+T14	Constipation 12424 12436	Constipation
+T15	Constipation 2094 2106	constipation
+A9	Negation T15
+T16	Delirium 226 235	confusion
+T17	Malnutrition 11496 11518	poor nutritional state
+T18	Delirium 11704 11712	Delirium
+T19	Delirium 14935 14944	confusion
+T20	Delirium 15001 15010	confusion
+A10	Negation T20
+T21	Malnutrition 11966 11989	poor nutritional status
+T22	Urinary_tract_infection 11008 11011	UTI
+T23	Delirium 9791 9801	delirium l
+T24	Malnutrition 12545 12563;12565 12569	Nutritional Status Poor

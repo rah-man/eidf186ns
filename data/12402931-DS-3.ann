@@ -1,0 +1,37 @@
+T1	Delirium 1176 1184	confused
+T2	Delirium 9819 9837	Clear and coherent
+A1	Negation T2
+T3	Independently_mobile 9903 9927	Ambulatory - Independent
+T4	Delirium 4758 4766;4767 4770	oriented x 3
+A2	Negation T4
+T5	Weight_loss 2872 2883	weight loss
+A3	Negation T5
+T6	Constipation 2998 3010	constipation
+A4	Negation T6
+T7	Visual_impairment 2437 2451	loss of vision
+A5	Negation T7
+T8	Visual_impairment 2453 2467	blurred vision
+A6	Negation T8
+T9	Visual_impairment 2469 2477	diplopia
+A7	Negation T9
+T10	Hearing_impairment 2528 2536	tinnitus
+A8	Negation T10
+T11	Hearing_impairment 2540 2558	hearing difficulty
+T12	Dementia 4092 4100	dementia
+A9	Diagnosis T12 Implicit_mention
+T13	Visual_impairment 5531 5544	double vision
+A10	Negation T13
+T14	Hearing_impairment 5684 5698	Hearing intact
+A11	Negation T14
+T15	Lives_alone 9730 9734	Home
+A12	Negation T15
+T16	Lives_alone 10687 10691	home
+A13	Negation T16
+T17	Lives_alone 10070 10074	home
+A14	Negation T17
+T18	Lives_alone 1587 1591	home
+A15	Negation T18
+T19	Lives_alone 1514 1518	home
+A16	Negation T19
+T20	Falls 3560 3565	falls
+A17	Diagnosis T20 History_of

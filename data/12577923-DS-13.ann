@@ -1,0 +1,9 @@
+T1	Vertebral_compression_fracture 217 234	L5 compression fx
+T2	Delirium 3801 3819	Clear and coherent
+A1	Negation T2
+T3	Mobile_with_assistance 3885 3917	Ambulatory - requires assistance
+T4	Mobile_with_aid 3921 3924	aid
+A2	Type_of_aid T4 Two_sticks_or_frame
+T5	Constipation 4552 4564	constipation
+A3	Diagnosis T5 Implicit_mention
+T6	Vertebral_compression_fracture 3719 3736	L5 compression fx

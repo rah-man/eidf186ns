@@ -1,0 +1,75 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: NEUROLOGY  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___  Chief Complaint: intraparenchymal hemorrhage  Major Surgical or Invasive Procedure: extubation (intubation done at outside hospital) PEG placement  History of Present Illness: ___ is an ___ M with h/o AFib on Coumadin who is transferred from ___ where he presented with dysarthria and L hemiparesis, found to have R basal ganglia IPH. 
+
+ Per ___ notes, pt was in his USOH this morning at 6:45am. He is currently residing at acute rehab after recent OSH admission for mechanical fall. At 7:30am, staff checked on him and found him dysarthric with dense L hemiparesis. He was brought to ___, where BP on arrival was 127/80, INR 2.1. Exam showed extreme R gaze deviation, left facial droop and left hemiplegia, initially awake and alert and following commands. Stat NCHCT showed large R basal ganglia hemorrhage. He received Profil 9, 2 units FFP, 10 units vit K, Keppra 1g IV. He became sleepy in the ___ so was induced with rocuronium/fent/midaz and intubated for airway protection. Transferred to ___ for further care. On arrival to ___ ___, SBP initially ~100, then became hypotensive to SBP ___ so Propofol was stopped. Neurology was consulted for assistance with management. 
+
+Of note pt was recently admitted to ___ from ___ after a mechanical fall at home resulting in R rib fracture, then sent to acute rehab on discharge. Had reportedly been doing well at rehab until today. At baseline he is apparently very independent, lives alone and performs all ADLs independently. 
+
+Neuro and General ROS: unable to obtain
+
+ Past Medical History: - AFib on Coumadin - Recent admission to ___ for fall, w R rib fx and also suspected ileus  Social History: ___ Family History: Son had a pulmonary embolism due to provoked DVT and then subsequent DVT without clear cause, now anticoagulated for life. Other family history unknown.  Physical Exam: ADMISSION PHYSICAL EXAM: - Vitals: 97.3, BP 100-68/50s-80s, P ___, SaO2 100% vent 40% FiO2 - General: intubated, off sedation x 30 min - HEENT: NC/AT - Neck: Supple, no carotid bruits appreciated. - Pulmonary: CTABL - Cardiac: RRR, no murmurs - Abdomen: soft, nontender, nondistended - Extremities: no edema, pulses palpated - Skin: no rashes or lesions noted. NEURO EXAM: - Mental Status: intubated, off sedation x 15 min. Doesn't open eyes to voice or sternal rub. Initially very sleepy and didn't follow any commands, later followed commands to squeeze hand/let go and wiggle toes on left. No evidence of neglect. - Cranial Nerves: Pupils initially 2mm and sluggish, then developed fluctuating anisocoria (L pupil ranging from 2-5mm in size). No corneals. Face symmetric but limited by ETT. VORs sluggish. No cough or gag. - Motor/Sensory: Withdraws right arm and leg purposefully to noxious stim and intermittently follows commands on the right. Extensor posturing of LUE to noxious stim, LLE weakly extensor posturing. Occasional rigor-like movements diffusely. - Reflexes: sluggish (1+) and symmetric in upper extrem, absent in lower extremities. - Coordination/Gait: unable to assess 
+
+==================================================
+
+DISCHARGE PHYSICAL EXAM: Oriented x 3. Dysarthric. Left sided neglect, starting to recognize left hand as his own. Left hemiplegia. Right gaze preference, but able to cross midline.  Pertinent Results: ADMISSION LABS: ___ 11:10AM BLOOD WBC-5.4 RBC-4.29* Hgb-14.0 Hct-42.2 MCV-98 MCH-32.5* MCHC-33.1 RDW-13.4 Plt ___ ___ 11:10AM BLOOD Neuts-75.0* Lymphs-14.0* Monos-5.0 Eos-4.1* Baso-1.9 ___ 11:10AM BLOOD ___ PTT-33.8 ___ ___ 11:10AM BLOOD Glucose-125* UreaN-14 Creat-0.6 Na-140 K-3.4 Cl-103 HCO3-22 AnGap-18 ___ 02:15AM BLOOD ALT-24 AST-27 AlkPhos-87 TotBili-0.6 ___ 02:15AM BLOOD Calcium-8.1* Phos-2.9 Mg-1.7 ___ 04:59PM BLOOD Osmolal-296 ___ 02:15AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG ___ 11:35AM BLOOD Lactate-1.1
+
+URINE: ___ 11:10AM URINE Color-Straw Appear-Clear Sp ___ ___ 11:10AM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG ___ 11:30AM URINE bnzodzp-POS barbitr-NEG opiates-NEG cocaine-NEG amphetm-NEG mthdone-NEG
+
+==============================================
+
+IMAGING: 
+
+CT HEAD ___: Acute parenchymal hemorrhage which appears to originate in the right centrum semiovale with associated rim of edema and mass effect is unchanged compared to OSH examination obtained roughly 5 hours earlier. No new focus of hemorrhage. NOTE ADDED IN ATTENDING REVIEW: The large hemorrhage, above, appears centered in the right corona radiata, and could relate either to underlying hypertension or cerebral amyloid angiopathy; the lack of an intraventricular component favors the latter, as does the paucity of sequelae of chronic small vessel ischemic disease. There is no central herniation.
+
+CT HEAD ___: Large right putaminal hematoma has minimally increased in size and there is a minimal increase in midline shift to the left. Basilar cisterns remain patent.
+
+CXR ___: As compared to the previous radiograph, the lung volumes have slightly decreased. There is moderate cardiomegaly and tortuosity of the thoracic aorta. Minimal bilateral symmetrical apical thickening. The course of the nasogastric tube is unremarkable.  The tube should be slightly advanced, given that the sidehole is at the level of the gastroesophageal junction. No evidence of pneumonia or other pathologic parenchymal process. The endotracheal tube has been removed in the interval. 
+
+CT head ___: IMPRESSION: 1. No significant interval change in the large right parenchymal hemorrhage with surrounding edema centered in the basal ganglia. 2. Stable 4-mm leftward midline shift. 3. No evidence of obstructive hydrocephalus.  
+
+TTE: The left atrium is mildly dilated. The right atrium is moderately dilated. No atrial septal defect is seen by 2D or color Doppler. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). There is no ventricular septal defect. The right ventricular cavity is mildly dilated with normal free wall contractility. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No masses or vegetations are seen on the aortic valve. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. No mass or vegetation is seen on the mitral valve. Moderate (2+) mitral regurgitation is seen. The tricuspid valve leaflets are mildly thickened. There is mild pulmonary artery systolic hypertension.  
+
+Swallow evaluation ___: RECOMMENDATIONS: 1. PO Diet: Nectar-thick liquids and pureed solids when optimally awake/alert 2. Meds crushed in applesauce or other pureed solid 3. TID Oral care if taking POs, Q4 if NPO 4. 1:1 supervision with strict aspiration precautions:   - sit fully upright during/30 min after PO intake   -feed only when awake, alert, and participatory   -small bites and sips   -slow pace 5. Encourage further discussion of long-term non-oral nutrition, hydration and medication  ==============================================
+
+ Brief Hospital Course: Mr. ___ is an ___ year-old man with a history of afib on ___ transferred to ___ from ___ after developing dense left hemiparesis and slurred speech, found to have large right basal ganglia IPH with midline shift. While at the OSH, his anticoagulation (INR 2.1) was reversed with Profil 9, 2units FFP and 10u vit K. He was intubated for airway protection at the OSH. 
+
+# NEURO - right basal ganglia intraparenchymal bleed At ___, he was monitored closely in the Neuro ICU from ___ through ___. Exam most notable for left hemiparesis, rightward gaze deviation and eyelid opening apraxia. Repeat CT head scans showed stable intraparenchymal hemorrhage in the right basal ganglia (roughly 6x3cm) with rim edema and slight midline shift (4mm). Etiology of bleed was thought to be related to either underlying hypertension or cerebral amyloid angiopathy. No neurosurgical intervention was indicated. He was successfully extubated on ___. He intially required an NG tube for enteral tube feeding and medications. He then passed swallowing eval and tolerated a diet of puree and nectar thicken with aspiration precautions. However, given concerns over not taking in enough oral nutrition, the patient and his family agreed for PEG placement as well to supplement oral nutrition. He will need continual ___ to improve function and to reduce chance of contractures. Warfarin will likely be indefinitely held due to the ICH. He has been started on aspirin 81mg daily for stroke prevention given his atrial fibrillation.
+
+# ___ - h/o atrial fibrillation He has a lonstanding history of atrial fibrillation, rate controlled on diltiazem and previously anticoagulated with Coumadin. His anticoagulation was reversed at OSH. Home rate control with diltiazem was continued. Dilt was switched to standing IV Metoprolol IV because of his ileus and then C diff colitis (see below). There was no evidence of RVR or cardiac decompensation. Anticoagulation is likely going to be indefinitely held given his sizable intraparenchymal bleed in the setting of INR of only 2.1. He was started on aspirin 81mg daily in place of the warfarin. He takes dilt ER 240 daily at home but has been taking 30mg qid via PEG tube with HR running in the 90's. The dilt dose may be up-titrated as needed and as tolerated by his BP.
+
+# ID: gram positive bacteremia and UTI. C diff colitis. History of right toe cellulitis previously on dicloxacillin.  This was restarted while inpatient and then discontinued. His UTI is treated with 7 days of ceftriaxone. His gram positive bactermia was treated with vancomycin (started on ___ and should be continued for 14 days. He was also found to have C diff colitis on ___ and was started on PO vancomycin.
+
+#GI: Ileus He was noted to have large residual on TF. KUB identified ileus.  His NGT was placed to suction for 2 days. He clinically improved and passed swallow eval and diet was advanced to puree and nectar thicken.
+
+# PULMONARY He was intubated for airway protection and easily extubated on ___.  
+
+# MSK Recent right rib fracture after mechanical fall. He was on standing tylenol for a few days for pain control and occasionally require oxycodone.
+
+# TRANSITIONAL ISSUES:  - His son, ___, and daughter, ___, live in ___. - His IV vancomycin for gram positive bactermia should be continued through ___. - His PO vancomycin for C diff colitis should be continued through ___. - He takes dilt ER 240 daily at home but has been taking 30mg qid via PEG tube with HR running in the 90's. The dilt dose may be up-titrated as needed and as tolerated by his BP.
+
+AHA/ASA Core Measures for Intracerebral Hemorrhage
+
+1. Dysphagia screening before any PO intake? (x) Yes [performed and documented by admitting resident]  () No
+
+2. DVT Prophylaxis administered by the end of hospital day 2? (x) Yes - () No
+
+3. Smoking cessation counseling given? () Yes - (x) No [reason (x) non-smoker - () unable to participate]
+
+4. Stroke education given (written form in the discharge worksheet)? (x) Yes - () No (stroke education = personal modifiable risk factors, how to activate EMS for stroke, stroke warning signs and symptoms, prescribed medications, need for followup)
+
+5. Assessment for rehabilitation or rehab services considered? (x) Yes - () No [if no, reason not assessed: ____ ]  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Diltiazem Extended-Release 240 mg PO DAILY ___ MD to order daily dose PO DAILY16 3. DiCLOXacillin 500 mg PO Q12H 4. Senna 8.6 mg PO DAILY:PRN constipation 5. Docusate Sodium 100 mg PO BID 
+
+ Discharge Medications: 1. Docusate Sodium 100 mg PO BID 2. Senna 8.6 mg PO DAILY:PRN constipation 3. Aspirin 81 mg PO DAILY 4. Vancomycin 1000 mg IV Q 12H - end date ___ 5. Vancomycin Oral Liquid ___ mg PO Q6H - end date ___ 6. Diltiazem 30 mg PO QID - It can be up-titrated in the future, not yet at previous home dose 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Right putamen intraparenchymal hemorrhage
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Lethargic but arousable. Activity Status: Bedbound. Neuro exam: left sided hemiplegia and neglect.
+
+ Discharge Instructions: Dear Mr. ___,
+
+You were in ___ because of left arm and leg weakness due to a bleed in the right side of your brain likely caused by high blood pressure. Your warfarin was discontinued to reduce the chance of future bleeds. Physical therapy worked with you here and recommended rehab to help with your recovery.
+
+Medication changes: - we discontinued warfarin because you had a bleed in your brain - we started aspirin 81mg daily to replace your warfarin - we change the dose of your diltiazem to 30mg four times a day which can be given through the PEG tube - we started IV vancomycin for your blood stream infection. Please take until ___ - we started PO vancomycin for your C diff colitis. Please take until ___
+
+Please continue to the take medications as listed in the discharge medication list.
+
+Please seek medical attention if you experience any of the danger signs listed  Followup Instructions: ___ 

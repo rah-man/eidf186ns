@@ -1,0 +1,11 @@
+T1	Delirium 5322 5340	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 5406 5430	Ambulatory - Independent
+T3	Delirium 3328 3336	confused
+A2	Negation T3
+T4	Upper_gastrointestinal_haemorrhage 2229 2254	gastrointestinal bleeding
+A3	Diagnosis T4 Implicit_mention
+A4	Low_confidence T4
+T5	Lower_gastrointestinal_haemorrhage 2229 2254	gastrointestinal bleeding
+A5	Diagnosis T5 Implicit_mention
+A6	Low_confidence T5

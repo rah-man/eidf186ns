@@ -1,0 +1,45 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: minoxidil / lisinopril  Attending: ___.  Chief Complaint: Shortness of breath and chest pain  Major Surgical or Invasive Procedure: thoracentesis of left pleural effusion  History of Present Illness: ___ year old man, smoker, with COPD, HTN, CKD stage II, recent admission for elective (uncomplicated) left common iliac aneurysm coil embolization ___, who presents with chest pain and associated shortness of breath. Symptoms began 2 weeks ago, but worsened over the past 3 days. Pain is described as a tightness in left chest, no radiation, worse with exertion, alleviated by rest. Feels as though he cannot get enough air.  No cough or hemoptysis. Denies ___ swelling, pain or erythema.  Denies fevers/chills, nausea/vomiting, abdominal pain, diarrhea.  He has had an unintentional ___ lb in the past 5 months.  Denies night sweats. He used to be able to walk a flight of stairs without difficulty, but now cannot due to SOB. No orthopnea or PND. Recently quit smoking 2 weeks ago, about the same time that his SOB started. 
+
+In the ED, initial vitals: 99.1 91 116/90 20 100% RA. Labs notable for WBC 11 with 19.6% eos, Cr 1.4, d-dimer positive, trop <0.01. CXR showing worsening left pleural effusion with LLL and partial LUL collapse. CT torso confirmed large left pleural effusion with pleural nodularity concerning for malignant effusion, collapsed LLL, no PE. No medications or fluids given. Urgent thoracentesis with pigtail catheter placed, 2L bloody fluid removed, with significant improvement in pleural effusion demonstrated on repeat CXR. Vitals prior to transfer: 98.4 79 151/103 22 97% on unknown amount of oxygen.
+
+Upon arrival to the floor, he notices a dramatic improvement in his SOB and chest tightness after thoracentesis.  ROS: per HPI, denies fever, chills, night sweats, headache, vision changes, rhinorrhea, congestion, sore throat, abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, hematuria. 
+
+ Past Medical History: L CIA aneurysm w mural thrombus GERD COPD HTN smoking osteoarthritis gout glucose intolerance CKD stage II pancreatitis (thought to be alcoholic) s/p debridement
+
+ Social History: ___ Family History: No family history of lung disease.  Physical Exam: Admission Physical Exam: ================================================= VS: T 98.5 BP 157/96 P 73 RR 20 O2sat 93% RA General: NAD, AOx3 lying comfortably in bed HEENT: MMM, NCAT, no conjuctival pallor Neck: no visible JVD, no LAD Axilla: no LAD bilaterally CV: RRR, no M/R/G Lungs: crackles at right base, decreased breath sounds left base, no wheezes/rhonchi, pigtail pleural catheter draining serosanguinous from L base, no accessory muscle use Abdomen: NABS, ND, NT, floating ribs felt anteriorly bilaterally Ext: 2+ pulses in all extremities, WWP, no c/c/e, no erythema or swelling Neuro: CN2-12 grossly intact, a&O x3, normal strength and sensation, gait deferred
+
+Discharge Physical Exam: ================================================= VS: Tm 99.2 Tc 98.8 BP 131/93 P 79 RR 20 O2sat 97% RA, I/O: 1000/void ___ yesterday, not recorded/600 since midnight General: NAD, AOx3 lying comfortably in bed HEENT: MMM, NCAT, no conjuctival pallor Neck: no visible JVD, no LAD Axilla: no LAD bilaterally CV: RRR, no M/R/G Lungs: crackles at right base, decreased breath sounds left base with crackles over rest of L lung posteriorly, no wheezes/rhonchi, pigtail pleural catheter draining serosanguinous from L base, no accessory muscle use Abdomen: NABS, ND, NT, floating ribs felt anteriorly bilaterally, large prior surgical vertical scar mid-abdomen Ext: 2+ pulses in all extremities, WWP, no c/c/e, no erythema or swelling Neuro: CN2-12 grossly intact, a&O x3, normal strength and sensation, gait deferred
+
+ Pertinent Results: Admission Labs: ======================================= ___ 12:43PM BLOOD WBC-11.0# RBC-5.72 Hgb-15.3 Hct-47.8 MCV-84 MCH-26.8* MCHC-32.1 RDW-14.4 Plt ___ ___ 12:43PM BLOOD Neuts-60.1 Lymphs-11.9* Monos-7.8 Eos-19.6* Baso-0.6 ___ 12:43PM BLOOD Plt ___ ___ 12:43PM BLOOD Glucose-110* UreaN-28* Creat-1.4* Na-144 K-4.7 Cl-106 HCO3-32 AnGap-11 ___ 12:43PM BLOOD LD(LDH)-161 ___ 12:43PM BLOOD cTropnT-0.01 ___ 07:20PM BLOOD cTropnT-<0.01 ___ 12:43PM BLOOD TotProt-6.3* ___ 12:43PM BLOOD D-Dimer-3129*
+
+Discharge Labs: ======================================= ___ 07:15AM BLOOD WBC-11.5* RBC-5.43 Hgb-14.6 Hct-45.1 MCV-83 MCH-26.9* MCHC-32.4 RDW-14.3 Plt ___ ___ 07:15AM BLOOD Glucose-108* UreaN-22* Creat-1.2 Na-144 K-4.3 Cl-107 HCO3-26 AnGap-15 ___ 07:15AM BLOOD ALT-13 AST-11 ___ 07:15AM BLOOD Calcium-8.5 Phos-3.1 Mg-1.9
+
+Imaging Studies: ======================================= ___: CTA Chest with and without contrast: IMPRESSION: 1. Large left pleural effusion increased from ___ and new since ___ with left lower lung collapse. Scattered left pleural nodularity raises concern for malignancy, differential includes but is not limited to mesothelioma or lung cancer. Thoracentesis is recommended with cytology for further evaluation. 2. No evidence of pulmonary embolism. 3. Partially thrombosed celiac artery aneurysm measures up to 1.6 cm in diameter, stable since ___, close monitoring is recommended. 4. Uncomplicated aorto-bi-iliac stent graft with coiling of the left internal iliac artery.  Brief Hospital Course: ___ year old male smoker, with chronic obstructive pulmonary disease, hypertension, chronic kidney disease with shortness of breath and chest tightness found to have a large left pleural effusion with pleural nodularity concerning for malignancy.
+
+# Pleural effusion: patient presented with shortness of breath and had more than 2.5 L of blood drained from left pleural space in the emergency department with improvement in his shortness of breath. Pleural cultures sent did not show any growth, cytology was also sent. CT scan showed nodularity in the pleura concerning for malignancy. Fluid met exudate criteria, but he remained afebrile during his stay and antibiotics were never given. Before discharge, he had his pigtail pleural catheter removed with plans to return to the hospital later in the week for a lung biopsy and possible talc pleurodesis.
+
+# Acute kidney injury: Creatinine bumped on admission to 1.4, likely in the setting of diminished food intake prior to admission. Nephrotoxic hypertension medications were held and he was given fluids. Creatine trended down during his stay.
+
+# Hypertension: all home medications that were not nephrotoxic were continued when he was admitted. Never had signs of a hypertensive crisis.
+
+# Chronic obstructive pulmonary disease: did not have exacerbation, but was placed on dual nebulizer as needed for shortness of breath.
+
+Code status: the patient was full code throughout the hospital stay.
+
+Transitional issues: - needs to return on ___ for admission to ___ for talc pleurodesis and possible lung biopsy - follow up cytology results from pleural effusion sample on ___
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Eplerenone 50 mg PO BID hold for SBP <90 2. Hydrochlorothiazide 25 mg PO DAILY hold for SBP <90 3. irbesartan *NF* 300 mg Oral qHS hold for SBP <90 4. Labetalol 600 mg PO BID hold for SBP <90 or HR <60 5. NIFEdipine CR 90 mg PO DAILY hold for SBP <90 or HR <60 6. Aspirin 81 mg PO DAILY 7. OxycoDONE (Immediate Release) ___ mg PO Q4H:PRN pain 8. Docusate Sodium 100 mg PO BID 
+
+ Discharge Medications: 1. Aspirin 81 mg PO DAILY 2. Docusate Sodium 100 mg PO BID 3. Labetalol 600 mg PO BID 4. Eplerenone 50 mg PO BID 5. Hydrochlorothiazide 25 mg PO DAILY 6. irbesartan *NF* 300 mg ORAL QHS 7. NIFEdipine CR 90 mg PO DAILY 8. OxycoDONE (Immediate Release) ___ mg PO Q4H:PRN pain 
+
+ Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: Serosanguinous pleural effusion Acute kidney injury
+
+Secondary Diagnosis: COPD HTN
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr. ___,
+
+   You were seen at the ___ for worsening shortness of breath and chest pain. Imaging in the emergency department showed that you had fluid surrounding your left lung, and the fluid was drained with improvement of your shortness of breath. The laboratory values and imaging obtained are concerning for cancer, and more studies will be necessary to determine the diagnosis. Cytology was sent from the fluid drained, your lung doctor ___ inform you of the results when available. You will need to be readmitted on ___ for thoracoscopy, possible biopsy and possible talc pleurodesis to help prevent the fluid from re-accumulating. Please continue to take all of your home medications as prescribed.
+
+Thank you for letting us take care of you.  Followup Instructions: ___ 

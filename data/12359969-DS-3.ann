@@ -1,0 +1,17 @@
+T1	Delirium 7317 7335	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 7401 7425	Ambulatory - Independent
+T3	Upper_gastrointestinal_haemorrhage 1721 1731	hemoptysis
+A2	Negation T3
+T4	Upper_gastrointestinal_haemorrhage 1733 1745	black stools
+A3	Negation T4
+T5	Lower_gastrointestinal_haemorrhage 1749 1759	red stools
+A4	Negation T5
+T6	Visual_impairment 2318 2326	cataract
+A5	Diagnosis T6 History_of
+T7	Pressure_injury 3191 3197	ulcers
+A6	Negation T7
+A7	Low_confidence T7
+T8	Urinary_tract_infection 6589 6592	UTI
+A8	Negation T8
+T9	Visual_impairment 2675 2693	cornea hazy/cloudy

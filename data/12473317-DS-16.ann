@@ -1,0 +1,30 @@
+T1	Delirium 11011 11029	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 11095 11127	Ambulatory - requires assistance
+T3	Mobile_with_aid 11131 11134	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Has_carers 10843 10850	Service
+T5	Lives_alone 9062 9066	home
+A3	Negation T5
+T6	Lives_alone 10833 10837	Home
+A4	Negation T6
+T7	Has_carers 9126 9134	services
+T8	Lives_alone 8543 8547	home
+A5	Negation T8
+T9	Lives_alone 8644 8648	home
+A6	Negation T9
+T10	Delirium 6737 6751	encephalopathy
+T11	Delirium 3108 3122	encephalopathy
+A7	Diagnosis T11 History_of
+T12	Hip_fracture 3216 3228	hip fracture
+A8	Diagnosis T12 History_of
+T13	Upper_gastrointestinal_haemorrhage 2935 2941	melena
+A9	Negation T13
+T14	Lower_gastrointestinal_haemorrhage 2946 2958	hematochezia
+A10	Negation T14
+T15	Falls 1421 1426	falls
+A11	Diagnosis T15 History_of
+T16	Delirium 1203 1212	confusion
+A12	Low_confidence T16
+T17	Delirium 555 569	encephalopathy
+T18	Delirium 6933 6947	encephalopathy

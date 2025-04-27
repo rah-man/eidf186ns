@@ -1,0 +1,20 @@
+T1	Has_carers 5631 5638	Service
+T2	Delirium 5748 5766	Clear and coherent
+A1	Negation T2
+T3	Independently_mobile 5832 5856	Ambulatory - Independent
+T4	Urinary_tract_infection 6106 6129	Urinary tract infection
+A2	Negation T4
+T5	Urinary_tract_infection 3974 3978	UTI,
+A3	Diagnosis T5 Suspected
+T6	Urinary_tract_infection 3785 3788	UTI
+T7	Upper_gastrointestinal_haemorrhage 2114 2120	melena
+A4	Negation T7
+T8	Lower_gastrointestinal_haemorrhage 2121 2133	hematochezia
+A5	Negation T8
+T9	Pressure_injury 2763 2774	ulcerations
+A6	Low_confidence T9
+T10	Constipation 1503 1515	constipation
+A7	Negation T10
+T11	Urinary_tract_infection 1936 1939	UTI
+T12	Delirium 2788 2792	AOx3
+A8	Negation T12

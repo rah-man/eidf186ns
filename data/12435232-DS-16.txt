@@ -1,0 +1,51 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: bee stings / latex  Attending: ___.  Chief Complaint: Shortness of breath  Major Surgical or Invasive Procedure: Mitraclip ___  History of Present Illness: Mr. ___ is a ___ year old male with past medical history significant for HFrEF, PAF no on anticoagulation, ICD, CKD, alcoholic liver cirrhosis, psoriasis and severe mitral regurgitation. He presents to integrated valve clinic for consideration of treatment options. The patient reports significant shortness of breath over the past few months. He notes swelling in his lower extremities and notes shortness of breath with climbing stairs slowly. He was hospitalized last ___ and has required increasing amounts of Bumex to manage his CHF. At times he reports shortness of breath at rest. He denies syncope, presyncope and chest pain. Per GI, patient has no active varices, no issues, no hx banding. Cleared for TEE. Admitted ___ for Mitraclip procedure.  Past Medical History: HFrEF with partially recovered EF (40-45%) Severe MR PAF ___ on anticoagulation ___ GIB and DIC) Mild Pulmonary Hypertension CKD stage III Alcoholic Liver Cirrhosis/Varices Psoriasis Cholecystectomy Rotator Cuff repair, bilateral ICD ___ ___  Social History: ___ Family History: Mother deceased ___, father deceased ___.
+
+ Physical Exam: ADMISSION: VS: VPaced with rate of 56, Afebrile, 110/60, 95% on 2L NC, RR 13 PE: General: Alert and oriented male in no acute distress. HEENT: Normocephalic, anicteric, moist mucous membranes, poor dentition Neck: Supple, no lymphadenopathy; no JVD or carotid bruits Chest: Respirations unlabored, CTA. No wheezes/rubs/rhonchi Heart: RRR, S1/S2 no murmurs/rubs/gallops or clicks Abdomen: +BSx4. Soft, non-tender, non-distended Extremities: +peripheral pulses, ___ and no clubbing, cyanosis or edema noted Access: Bilateral groin access with no hematoma, +sanguineous drainage from rt groin site, no back pain, soft/NT Neuro: Alert and oriented, asking questions appropriately
+
+DISCHARGE: VS: 97.6, 112-131/52-64, 58-76, 16, 92%ra General: Alert and oriented male in no acute distress. HEENT: Normocephalic, anicteric, moist mucous membranes, poor dentition Neck: Supple, no lymphadenopathy; no JVD or carotid bruits Chest: Respirations unlabored, CTA. No wheezes/rubs/rhonchi Heart: RRR, S1/S2 no murmurs/rubs/gallops or clicks Abdomen: +BSx4. Soft, non-tender, non-distended Extremities: +peripheral pulses, ___ and no clubbing, cyanosis or edema noted Access: Bilateral groin access soft with no hematoma, + R>L ecchymosis, tenderness with palpation, no back pain Neuro: Alert and oriented, asking questions appropriately  Pertinent Results: Admission Labs: ___ 01:26PM BLOOD WBC-6.6 RBC-3.71* Hgb-12.4* Hct-36.9* MCV-100* MCH-33.4* MCHC-33.6 RDW-15.9* RDWSD-58.2* Plt ___ ___ 01:26PM BLOOD ___ PTT-150* ___ ___ 01:26PM BLOOD Glucose-77 UreaN-30* Creat-1.7* Na-148* K-4.2 Cl-108 HCO3-22 AnGap-18 ___ 11:00AM BLOOD ALT-33 AST-119* AlkPhos-160* TotBili-2.6* ___:26PM BLOOD Calcium-9.2 Phos-4.7* Mg-2.0 ============================ Discharge Labs:
+
+============================ Procedure Report ___: TransSEPTAL transcatheter MITRAL valve repair Anesthesia: GA Blood loss: <10 ml Devices Used: Mitraclip XTR
+
+Vascular access was obtained in the right femoral vein using vascular ultrasound techniques. RHC and LHC performed by transeptal approach and showed giant v waves up to 50 mmHg Transeptal Puncture was done Using Lamp 45 and needle under fluoro and TEE guidance to ensure 4 cm clearance from annulus 
+
+The Mitraclip was advanced through the guide and positioned across A2 and P2 under fluoro and TEE guidance. First Grab resulted in reduction in MR to 1+, and great hemodynamics. and gradient of <5 mmHg
+
+There was no evidence of complications following the procedure. =========================== TTE ___: The left atrial volume index is SEVERELY increased. The right atrium is moderately enlarged. There is a secundum atrial septal defect. The estimated right atrial pressure is ___ mmHg. There is normal left ventricular wall thickness with a moderately increased/dilated cavity. There is moderate-severe global left ventricular hypokinesis. Quantitative biplane left ventricular ejection fraction is 32 %. There is no resting left ventricular outflow tract gradient. Normal right ventricular cavity size with normal free wall motion. The aortic sinus diameter is normal for gender. The aortic valve leaflets (3) are mildly thickened. There is no aortic valve stenosis. There is no aortic regurgitation. A MitraClip prosthesis is present. There is mild [1+] mitral regurgitation. Due to acoustic shadowing, the severity of mitral regurgitation could be UNDERestimated. The tricuspid valve leaflets appear structurally normal. There is mild [1+] tricuspid regurgitation. Due to acoustic shadowing, the severity of tricuspid regurgitation may be UNDERestimated. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion.
+
+Compared with the prior TEE (images reviewed) of ___ , MitraClip now present. Mitral regurgitation is markedly reduced.
+
+ Brief Hospital Course: Mr. ___ is a ___ year old male with past medical history significant for HFrEF, PAF no on anticoagulation, ICD, CKD, alcoholic liver cirrhosis, psoriasis and severe mitral regurgitation now s/p Mitraclip
+
+Assessment/Plan:  # Mitral regurgitation s/p mitraclip. R groin suture removed ___ by cardiology fellow -ASA 81 mg lifelong -Plavix 75 mg x 1 month -One month f/u with structural with repeat TTE -Unable to secure appt with cardiologist/PCP prior to discharge, pt will call and arrange -SBE prophylaxis for any dental procedures in 6 months
+
+ # HFpEF on diuretics at home with last echocardiogram with LVEF 55% -Continue diuretics Epleronone, Bumex -Instructed on checking daily weights
+
+ # CKD Stage III, baseline creatinine unknown but Cr up to 2.8 in ___. Cr 1.5-2.0 during hospitalization - Ongoing follow up with PCP 
+
+=============== CHRONIC ISSUES: =============== # PAF, Vpaced in the ___, not candidate for AC given prior history of GIB, esophageal varices 
+
+ # Alcoholic Liver Cirrhosis/Varices, monitor for bleeding, he reports no further drinking episodes, no hematemesis
+
+ # Psoriasis, well controlled  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Nadolol 20 mg PO QHS 2. Bumetanide 4 mg PO BID 3. Eplerenone 50 mg PO QHS 4. Multivitamins 1 TAB PO DAILY 5. Potassium Chloride 20 mEq PO BID 6. Thiamine 100 mg PO DAILY 
+
+ Discharge Medications: 1. Amoxicillin ___ mg PO PREOP  2. Aspirin 81 mg PO DAILY  3. Clopidogrel 75 mg PO DAILY  4. Bumetanide 4 mg PO BID  5. Eplerenone 50 mg PO QHS  6. Multivitamins 1 TAB PO DAILY  7. Nadolol 20 mg PO QHS  8. Potassium Chloride 20 mEq PO BID Hold for K >  9. Thiamine 100 mg PO DAILY 
+
+ Discharge Disposition: Home  Discharge Diagnosis: Mitral regurgitation CKD Stage III HFpEF
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+VS: 97.6, 112-131/52-64, 58-76, 16, 92%ra General: Alert and oriented male in no acute distress. HEENT: Normocephalic, anicteric, moist mucous membranes, poor dentition Neck: Supple, no lymphadenopathy; no JVD or carotid bruits Chest: Respirations unlabored, CTA. No wheezes/rubs/rhonchi Heart: RRR, S1/S2 no murmurs/rubs/gallops or clicks Abdomen: +BSx4. Soft, non-tender, non-distended Extremities: +peripheral pulses, ___ and no clubbing, cyanosis or edema noted Access: Bilateral groin access soft with no hematoma, + ecchymosis, positive tenderness with palpation, no back pain Neuro: Alert and oriented, asking questions appropriately
+
+ Discharge Instructions: You were admitted for your mitral valve clip procedure. By repairing the valve your heart can pump blood more easily and your shortness of breath should improve. 
+
+It is very important to take all of your heart healthy medications. In particular, you are now taking aspirin and clopidogrel (Plavix). These medications help to prevent blood clots from forming in/around the heart valve. If you stop these medications or miss ___ dose, you risk causing a blood clot forming on your heart valve. This could cause it to malfunction and it may be life threatening. Please do not stop taking aspirin or Plavix without taking to your heart doctor, even if another doctor tells you to stop the medications. 
+
+You will need prophylactic antibiotics prior to any dental procedure. Please inform your dentist about your recent cardiac procedure. One hour prior to your dental procedure take amoxicillin 2 gram once. 
+
+Please weigh yourself every day in the morning after you go to the bathroom and before you get dressed. If your weight goes up by more than 3 lbs in 1 day or more than 5 lbs in 3 days, please call your heart doctor or your primary care doctor and alert them to this change. Your weight at discharge is 75.7 kg/167 lb
+
+We have made changes to your medication list, so please make sure to take your medications as directed. You will also need to have close follow up with your heart doctor and your primary care doctor. 
+
+If you have any urgent questions that are related to your recovery from your procedure or are experiencing any symptoms that are concerning to you and you think you may need to return to the hospital, please call the ___ HeartLine at ___ to speak to a cardiologist or cardiac nurse practitioner. 
+
+It has been a pleasure to have participated in your care and we wish you the best with your health!   Followup Instructions: ___ 

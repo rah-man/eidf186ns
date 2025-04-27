@@ -1,0 +1,24 @@
+T1	Delirium 4731 4749	Clear and coherent
+A1	Negation T1
+T2	Lives_alone 4815 4847	Ambulatory - requires assistance
+T3	Mobile_with_aid 4851 4854	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Vertebral_compression_fracture 4637 4663	T1 anterior wedge fracture
+T5	Vertebral_compression_fracture 4665 4669;4678 4693	T3-6 compressions fx
+T6	Falls 4952 4956	fall
+T7	Vertebral_compression_fracture 5108 5110;5126 5134	T1 fracture
+T8	Vertebral_compression_fracture 5136 5140;5162 5171	T3-6 fractures
+T9	Delirium 1214 1222	Oriented
+A3	Negation T9
+T10	Delirium 1467 1470;1471 1474	AAO x 3
+A4	Negation T10
+T11	Falls 334 338	fall
+T12	Falls 205 209	fall
+T13	Falls 368 372	fell
+T14	Hip_fracture 867 880	hip fractures
+A5	Diagnosis T14 History_of
+T15	Falls 2440 2444	fell
+T16	Vertebral_compression_fracture 592 622	thoracic compression fractures
+T17	Vertebral_compression_fracture 635 658	L1 compression fracture
+A6	Diagnosis T17 History_of
+T18	Vertebral_compression_fracture 2365 2406	thoracic and lumbar compression fractures

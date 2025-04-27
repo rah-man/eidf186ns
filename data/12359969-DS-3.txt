@@ -1,0 +1,47 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: lightheadedness  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ with HTN who woke up with lightheadedness, presyncope and n/v this morning. She was taken to ___ and was found to be in "sinus bradycardia to 25" per report (no EKG available from ___. She was given 1L NS and 0.5 of atropine and went to a fib with RVR at 150. She denies having had any chest pain or shortness of breath. For her afib, she received a total of 30 mg IV of diltiazem with good response. Upon presentation here denies f/c, nausea/vomiting, headache, chest pain or shortness of breath. She still complains of some lightheadedness that is not changed by position. Also complains of some urinary frequency but no dysuria.
+
+In ___, she was given full dose aspirin and started on dilt drip at 10 mg/hr at 0750. Vitals on transfer: T 97.0 HR 119, RR 21, BP 115/49, O2 Sat 95% 4 LNC.
+
+On arrival to the floor, patient's vitals were 97.5 124/74 106 (90-140s) 20 93% RA. Patient is feeling comfortable, no chest pain and shortness of breath, slight lightheadedness. Of note, she recalls a similar episode of lightheadedness and feeling like she is going to faint about ___ year ago. She had gone to ___ at that time as well and they gave her IV fluid and discharged her because her symptoms had resolved.
+
+REVIEW OF SYSTEMS On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. She denies recent fevers, chills or rigors. She denies exertional buttock or calf pain. +urinary frequency, denies dysuria.
+
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, or syncope.  Past Medical History: 1. CARDIAC RISK FACTORS: (-)Diabetes, (-)Dyslipidemia, (+)Hypertension 2. CARDIAC HISTORY: -CABG: none -PERCUTANEOUS CORONARY INTERVENTIONS: none -PACING/ICD: none 3. OTHER PAST MEDICAL HISTORY: - hypertension - colon polyp - prolapsed valve - cataract (L eye)  Social History: ___ Family History: Brother died of "massive heart attack" in his ___. No family history of arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.  Physical Exam: ADMISSION EXAM: VS: 97.5 124/74 106 20 93% RA GENERAL: WDWN lady in NAD. Mood, affect appropriate. HEENT: NCAT. Sclera anicteric, L cornea hazy/cloudy with slight ptosis (old per patient). PERRL (right), EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. MMM. No xanthalesma. NECK: Supple with JVP at clavicle sitting up. CARDIAC: irregularly irregular, slightly tachycardic, normal S1/S2. No m/r/g. LUNGS: No chest wall deformities, scoliosis or kyphosis. Unlabored respiration. CTAB, bibasilar crackles, no wheezes or rhonchi. ABDOMEN: Soft, NTND. No HSM. EXTREMITIES: No c/c/e. DP 2+ bilaterally. SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+DISCHARGE EXAM: VS: 98.4 147/80 58 18 95% RA CARDIAC: regular rate and rhythm, no murmurs. Rest of the exam unchanged.  Pertinent Results: ADMISSION LABS: ___ 10:40AM BLOOD WBC-6.1 RBC-5.00 Hgb-14.5 Hct-41.9 MCV-84 MCH-29.0 MCHC-34.6 RDW-13.1 Plt ___ ___ 10:40AM BLOOD Glucose-127* UreaN-13 Creat-0.8 Na-143 K-3.9 Cl-106 HCO3-30 AnGap-11 ___ 10:40AM BLOOD Calcium-8.6 Phos-3.5 Mg-2.1
+
+DISCHARGE LABS: ___ 06:40AM BLOOD Glucose-108* UreaN-14 Creat-0.7 Na-143 K-3.8 Cl-105 HCO3-28 AnGap-14
+
+CARDIAC ENZYME: ___ 10:40AM BLOOD CK-MB-4 cTropnT-<0.01
+
+TSH: ___ 10:40AM BLOOD TSH-1.3
+
+MICROBIOLOGY: UA ___: Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG UCX: Mixed flora, likely contaminated.
+
+IMAGING: TTE ___: The left atrium is elongated. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%). Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. There is no mitral valve prolapse. The pulmonary artery systolic pressure could not be determined. There is an anterior space which most likely represents a prominent fat pad. 
+
+ IMPRESSION: Suboptimal image quality. Normal biventricular cavity sizes with preserved global and regional biventricular systolic function.  Brief Hospital Course: ___ yo F with HTN who presented with symptomatic bradycardia to ___ at ___, given atropine 0.5 mg and changed to afib with RVR, which was controlled with IV diltiazem bolus and gtt. Patient converted to sinus rhythm and remained in it overnight. Decision was made to monitor the patient with holter monitor and Zio Patch given that patient has not had dangerous arrhythmia causing syncope (pt just noted mild lightheadedness when she was in afib with RVR) and to defer decision about pacemaker placement until after the study. Patient was instructed to follow up with a cardiologist in ___ and was given an appointment. 
+
+# Rhythm: patient with report of "sinus bradycardia" from ___, but no strips or EKGs seen. On admission, patient was in atrial fibrillation with RVR, rate controlled with IV diltiazem. She spontaneously converted to sinus rhythm and remained in sinus overnight without further medication. Given the history of sinus bradycardia is unclear and etiology could not be pointed to increased vagal tone vs. heart block, decision was made to defer the pacemaker placement until further data could be gathered from her Holter and Zio Patch monitoring. Echocardiogram was obtained and did not show evidence of tachycardia induced cardiomyopathy. 
+
+TSH and cardiac enzymes were checked neither of them showed evidence of hyperthyroidism or ischemia. 
+
+Patient was instructed to follow up with a cardiologist in ___ ___ for further assessment and plan re: medication vs. pacemaker placement in the future. 
+
+# HTN: Her amlodipine was initially held given her low blood pressure on diltiazem. She became more hypertensive on day 2 of hospitalization and was restarted on amlodipine 10 mg daily with good effect. 
+
+# Urinary frequency: UA checked and negative for UTI. # Nutrition: Continued on home multivitamin and omega 3  Medications on Admission: - Norvasc 10 mg daily - aspirin 81 mg daily - multivitamin daily - vitamin B daily - omega 3 daily  Discharge Medications: 1. amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.  2. multivitamin   Tablet Sig: One (1) Tablet PO DAILY (Daily).  3. omega-3 fatty acids   Capsule Sig: One (1) Capsule PO DAILY (Daily).  4. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO once a day.  5. Vitamin B Complex Oral
+
+ Discharge Disposition: Home  Discharge Diagnosis: Primary Diagnosis: atrial fibrillation, atrial tachycardia Secondary Diagnosis: Hypertension
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear ___ was a pleasure to take care of you at ___ ___. You were admitted to the hospital because of your fast heart rate. You were given medications to control your heart rate and then your heart spontaneously converted back to normal sinus rhythm. You were monitored on telemetry overnight without a repeat event. It was decided that we would monitor you with a heart monitor as an outpatient so we can see if your heart goes in and out of the fast rhythm, which may need different medications and pacemaker in the future.
+
+You are being sent home with two different kind of monitors. Please wear the holter monitor and Zio patch as directed and return them to appropriate places. 
+
+Please follow up with Dr. ___ Dr. ___ new cardiologist) as listed below. Dr. ___ will be in touch with electrophysiologists here and will let you know about further options regarding whether or not you need a pacemaker.
+
+No change has been made to your medications.  Followup Instructions: ___ 

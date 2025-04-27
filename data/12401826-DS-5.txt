@@ -1,0 +1,91 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: Exertional chest pain  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: ___ man with stage II (T2aN1M0) squamous cell lung carcinoma s/p chemo/XRT (last ___ in remission, COPD, paroxysmal afib, and newly diagnosed renal mass pending biopsy. He presented to ___ for renal biopsy today and told the physicians there that he has been having exertional chest pain so sent to ED for further evaluation
+
+Patient reports exertional fatigue and burning central chest pain which improves with rest, sometimes associated with radiation to the jaw, and worsening dypsnea on exertion. This has been going on for the past ___ months and he has been referred for a stress test on multiple occasions but has missed his appointments due to other systemic illness. He reports that his exertional symptoms are not worse than prior. 
+
+Of note, patient was recently seen by his oncologist and was noted have generalized fatigue and weakness and poor exercise tolerance. He was found to have a left 6cm renal mass that was concerning for malignancy, either lymphoma, collecting duct carcinoma, or urothelial carinoma. Metastasis or RCC felt to be less likely. He was scheduled for a renal biopsy by ___ for evaluation. 
+
+Of note, patient was recently admitted for c. diff colitis, completed course of PO vancomycin on ___. He denies any fever/chills, n/v. He has occasional left lower abdominal pain and one episode of non-bloody diarrhea x 1 in the ED.  In the ED, initial VS were: 97.8 ___ 18 97% RA 
+
+Labs showed:  140|102|22 ----------< 98 4.6|25|1.1
+
+MB 1 Trop <0.01
+
+   9.8 6.6 >---< 185   30.4
+
+Imaging showed: CXR with no signs of pneumonia. Right hilar and perihilar scarring similar to the prior CT. 
+
+Consults: none
+
+Patient received: + Albuterol neb + Ipratropium neb + Pravastation + Metop XL 25 + Omeprazole 20  Transfer VS were:  98.5 108 120/73 18 96% RA 
+
+On arrival to the floor, patient denies CP currently. Does have DOE.  REVIEW OF SYSTEMS:  10 point ROS reviewed and negative except as per HPI 
+
+ Past Medical History: PAST ONCOLOGIC HISTORY: --In ___, the patient noted a cough that was productive of sputum, no hemoptysis noted. The cough worsened, and he ended up going to ___ ER where he was given antibiotics and improved. He ended up getting a chest x-ray that was obtained on ___ that showed interval soft tissue fullness of the right hilum.  --A subsequent CT scan was obtained on ___ and that showed a cavitary right hilar mass extending into the upper lobe, highly suspicious for malignancy. He was then referred here to ___ for multidisciplinary thoracic care --___: he underwent bronchoscopy, which showed a right upper lobe endobronchial lesion, biopsy of the lesion as well as EBUS with TBNA of 4L, 7 and 11R were done. He also had cauterization of the right upper lobe endobronchial lesion. The results from that procedure showed that the lesion was an invasive squamous carcinoma. FNA of level 7 and lymph node was negative, level 4L was negative, but 11R was positive. --___: . Mediastinoscopy ___ with 2 level 7 and 2 4Rs were biopsied which were negative for malignancy. He was staged IIa (T2aN1M0) --___: Dr. ___ further imaging including a recent contrast CT, which showed the proximity of the tumor to the right main pulmonary artery, raising concern that he would require pneumonectomy. Given the patient's symptoms, poor performance status and PFTs Dr. ___ that he might well not tolerate that and suggested definitive chemoradiation. --___: Started XRT --___: C1D1 cisplatin/etoposide. Had significant light-headedness, a fall, and positive orthostatics throughout the first week with ___ of 1.5. Needed to hold D8 of cisplatin and give a total of 5L IVF over two days.  --___: C2D1 cis/etoposide --___: Completed XRT 6120 cGy over 34 fractions.
+
+PAST MEDICAL/SURGICAL HISTORY: -Hypertension -anxiety -nephrolithiasis -depression -irritable bowel syndrome -hep B -prostatitis.  -Latent TB, treated in ___ with nine months of INH. 
+
+ Social History: ___ Family History: His father died of an MI at age ___. He was heavy smoker  Physical Exam: ADMISSION PHYSICAL EXAM: VS: 98.2 PO 101 / 67 104 18 95 GENERAL: NAD HEENT: AT/NC, EOMI, PERRL, anicteric sclera, MM dry HEART: RRR, S1/S2, no murmurs, gallops, or rubs  LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles  ABDOMEN: nondistended, mild tenderness with deep palpation in LLQ, no rebound/guarding, no hepatosplenomegaly  EXTREMITIES: no cyanosis, clubbing, or edema  NEURO: A&Ox3, moving all 4 extremities with purpose  SKIN: warm and well perfused, no excoriations or lesions, no rashes  DISCHARGE PHYSICAL EXAM: VS: 98.1 ___ GENERAL: NAD HEENT: AT/NC, EOMI, PERRL, anicteric sclera, MM dry HEART: RRR, S1/S2, no murmurs, gallops, or rubs  LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles  ABDOMEN: nondistended, mild tenderness with deep palpation in LLQ, no rebound/guarding, no hepatosplenomegaly  EXTREMITIES: no cyanosis, clubbing, or edema  NEURO: A&Ox3, moving all 4 extremities with purpose  SKIN: warm and well perfused, no excoriations or lesions, no rashes  Pertinent Results: ADMISSION LABS: ___ 12:00PM BLOOD WBC-6.6 RBC-3.76* Hgb-9.8* Hct-30.4* MCV-81* MCH-26.1 MCHC-32.2 RDW-15.1 RDWSD-44.8 Plt ___ ___ 12:00PM BLOOD Neuts-75.3* Lymphs-11.1* Monos-10.8 Eos-2.3 Baso-0.2 Im ___ AbsNeut-5.00 AbsLymp-0.74* AbsMono-0.72 AbsEos-0.15 AbsBaso-0.01 ___ 12:00PM BLOOD Plt ___ ___ 07:30AM BLOOD ___ PTT-30.7 ___ ___ 12:00PM BLOOD Glucose-98 UreaN-22* Creat-1.1 Na-140 K-4.6 Cl-102 HCO3-25 AnGap-13 ___ 12:00PM BLOOD CK-MB-1 cTropnT-<0.01
+
+DISCHARGE LABS: ___ 07:30AM BLOOD WBC-9.0 RBC-3.84* Hgb-9.9* Hct-30.7* MCV-80* MCH-25.8* MCHC-32.2 RDW-15.2 RDWSD-43.9 Plt ___ ___ 07:30AM BLOOD Plt ___ ___ 07:30AM BLOOD ___ PTT-30.7 ___ ___ 07:30AM BLOOD Glucose-99 UreaN-26* Creat-1.1 Na-140 K-4.3 Cl-98 HCO3-25 AnGap-17 ___ 07:30AM BLOOD Calcium-9.5 Phos-3.7 Mg-1.6
+
+MICRO: ___ 12:57 am STOOL   CONSISTENCY: WATERY   Source: Stool. 
+
+              **FINAL REPORT ___
+
+  C. difficile DNA amplification assay (Final ___:    Reported to and read back by ___ (___) @ 0524AM ON ___.    CLOSTRIDIUM DIFFICILE.      Positive for toxigenic C difficile by the Cepheid nucleic     amplification assay.      (Reference Range-Negative). 
+
+___ 7:20 pm URINE
+
+              **FINAL REPORT ___
+
+  URINE CULTURE (Final ___:    MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN    AND/OR GENITAL CONTAMINATION. 
+
+IMAGING: CXR PA and Lateral ___ No signs of pneumonia. Right hilar and perihilar scarring similar to the prior CT.  Exercise Stress test ___: INTERPRETATION: This ___ year old man with a history of stage II lung cancer, atrial fibrillation, hypertension, dyslipidemia, and new renal mass presented to the stress lab from the ___ Emergency Department for the evaluation of chest pain after serial negative cardiac biomarkers. The patient exercised 5.25 minutes of a Gervino protocol (3.3 METs, poor functional capacity for age/gender) and the test was terminated due to fatigue. At 5 minutes of exercise, the patient related the onset of ___ central chest burning radiating to his jaw which persisted into 5 minutes of recovery. Within the context of a right bundle branch block, there were no ischemic ECG changes. The baseline rhythm was sinus and near peak exercise there were several short runs of atrial tachycardia ___ beats) and isolated VPCs. In recovery there were several isolated VPCs. There was resting asymptomatic systemic hypotension (BP 86/60) and there was an appropriate hemodynamic response to exercise. IMPRESSION: Possible anginal symptoms without ischemic ECG changes. Echo report sent separately.
+
+ECHO Stress Test ___: The patient exercised for 5 minutes and 15 seconds according to a Gervino treadmill protocol ___ METS) reaching a peak heart rate of 155 bpm and a peak blood pressure of 124/56 mmHg. The test was stopped because of fatigue. This level of exercise represents a poor exercise tolerance for age and gender. In response to stress, the ECG showed no diagnostic ST-T wave changes (see exercise report for details). There is a low resting blood pressure with normal blood pressure and heart rate responses to stress. . Resting images were acquired at a heart rate of 106 bpm and a blood pressure of 86/60 mmHg. These demonstrated normal regional and global left ventricular systolic function. Right ventricular free wall motion is normal. There is no pericardial effusion. Doppler demonstrated no aortic stenosis, aortic regurgitation or significant mitral regurgitation..
+
+Echo images were acquired within 45 seconds after peak stress at heart rates of 151 - 146 bpm. These demonstrated appropriate augmentation of all left ventricular segments. There was augmentation of right ventricular free wall motion.
+
+IMPRESSION: Poor functional exercise capacity for age and gender. No ECG or 2D echocardiographic evidence of inducible ischemia to achieved workload. Resting hypotension.
+
+Compared with the prior study (TTE only - images reviewed) of ___, the findings are similar. 
+
+ Brief Hospital Course: ___ man with stage II (T2aN1M0) squamous cell lung carcinoma s/p chemo/XRT in remission, COPD, paroxysmal afib, and newly diagnosed renal mass pending biopsy presents with persistent exertional chest pain.
+
+# Exertional chest pain: Patient with persistent exertional chest pain. Reassuring that EKG stable from prior, troponin negative x 2, stress TTE in ED with hypotension prior to start of test but with increase during exercise and no ischemic changes. The patient was started on pravastatin 80mg PO qhs. Aspirin continued to be held for potential renal biopsy as per instructions. We continued his home metoprolol XL. The patient was tachycardic (near baseline) but had no hypoxia, so no CTA completed.
+
+# Renal mass: Plan initially to have renal biopsy while inpatient but unable to coordinate. Therefore, patient will get biopsy as an outpatient.
+
+# Diarrhea: Reports one episode of diarrhea in ED, recently completed treatment on ___ for c. diff colitis. C diff positive. Difficult to elucidate if this was recurrence as patient will have positive PCR few months after initial positive result. However, given diarrhea, patient started on MetroNIDAZOLE 500 mg PO/NG Q8H and Vancomycin Oral Liquid ___ mg PO/NG Q6H. The patient was discharged with two weeks of PO vancomycin.
+
+# COPD: We gave Duoneb PRN. Budesonide is nonformulary so we gave advair while in house
+
+# Anxiety We continued home clonazepam 1.5 mg BID PRN
+
+# Depression We continued home sertraline
+
+# Paroxysmal afib: CHADS2VASC 3, not on anticoagulation We continued home metoprolol.
+
+Transitional Issues: =================== [ ] Monitor tachycardia and consider CTA if persistents especially given underlying potential cancer diagnosis [ ] Renal biopsy of renal mass as an outpatient per patient preference. Hold aspirin until after biopsy. [ ] Discuss with patient about anticoagulation given elevated CHADS2VASC after biopsy [ ] If diarrhea/c diff recurs, consider that episode as a ___ recurrence and would need treatment with vanc/flagyl [ ] new medications: --Pravastatin 40mg PO qpm increased to 80 mg PO QPM --vancomycin 125mg PO q6h, please continue for two week course to end ___
+
+#CODE: Full (confirmed) #CONTACT: ___ wife Phone: ___  ___ on Admission: The Preadmission Medication list is accurate and complete. 1. albuterol sulfate 90 mcg inhalation Q4H:PRN Shortness of Breath 2. Aspirin 81 mg PO DAILY 3. ClonazePAM 1.5 mg PO BID:PRN anxiety 4. Metoprolol Succinate XL 12.5 mg PO DAILY 5. Omeprazole 20 mg PO DAILY 6. Sertraline 200 mg PO DAILY 7. Budesonide 180 mcg/actuation inhalation DAILY 8. Pravastatin 40 mg PO QPM 
+
+ Discharge Medications: 1. Vancomycin Oral Liquid ___ mg PO Q6H RX *vancomycin 125 mg/2.5 mL 2.5 ml by mouth every 6 hours Disp #*55 Syringe Refills:*0 2. Pravastatin 80 mg PO QPM RX *pravastatin 80 mg 1 tablet(s) by mouth daily at night Disp #*30 Tablet Refills:*0 3. albuterol sulfate 90 mcg inhalation Q4H:PRN Shortness of Breath  4. Budesonide 180 mcg/actuation inhalation DAILY  5. ClonazePAM 1.5 mg PO BID:PRN anxiety  6. Metoprolol Succinate XL 12.5 mg PO DAILY  7. Omeprazole 20 mg PO DAILY  8. Sertraline 200 mg PO DAILY  9. HELD- Aspirin 81 mg PO DAILY This medication was held. Do not restart Aspirin until after renal biopsy
+
+ Discharge Disposition: Home  Discharge Diagnosis: Primary diagnosis: Clostridium Difficile Infection 
+
+Secondary diagnoses: stage II (T2aN1M0) squamous cell lung carcinoma status post chemotherapy and radiation therapy (last ___ in remission Chronic Obstructive Pulmonary Disease Paroxysmal atrial fibrillation Renal mass pending
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Mr. ___,
+
+WHY WAS I ADMITTED? You were admitted because you were having chest pain
+
+WHAT WAS DONE WHILE I WAS HERE? We tested your heart and it did not show evidence of a heart attack. You were positive for a bacteria in your diarrhea called clostridium difficile so we started you on antibiotics 
+
+WHAT SHOULD I DO NOW? -You should take your medications as instructed -You should go to your doctor's appointments as below -Please call ___ to schedule your renal biopsy 
+
+We wish you the best! -Your ___ Care Team  Followup Instructions: ___ 

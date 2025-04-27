@@ -1,0 +1,9 @@
+T1	Delirium 1812 1820;1821 1823	Oriented x3
+A1	Negation T1
+T2	Pressure_injury 2377 2383	ulcers
+A2	Negation T2
+A3	Low_confidence T2
+T3	Has_carers 8393 8400	Service
+T4	Delirium 8569 8587	Clear and coherent
+A4	Negation T4
+T5	Independently_mobile 8653 8677	Ambulatory - Independent

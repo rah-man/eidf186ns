@@ -1,0 +1,19 @@
+T1	Constipation 1848 1860	constipation
+A1	Negation T1
+T2	Delirium 2222 2225	AAO
+A2	Negation T2
+A3	Low_confidence T2
+T3	Delirium 7602 7620	Clear and coherent
+A4	Negation T3
+T4	Independently_mobile 7686 7710	Ambulatory - Independent
+T5	Constipation 8485 8497	constipating
+A5	Diagnosis T5 Implicit_mention
+T6	Unspecified_cognitive_impairment 3335 3351	Cognition intact
+A6	Negation T6
+T7	Pressure_injury 3600 3606	ulcers
+A7	Negation T7
+A8	Low_confidence T7
+T8	Constipation 7157 7169	constipation
+A9	Diagnosis T8 Implicit_mention
+T9	Visual_impairment 1994 2005	eye disease
+A10	Low_confidence T9

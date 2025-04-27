@@ -1,0 +1,17 @@
+T1	Mobile_with_aid 7410 7432	Two crutches or walker
+A1	Type_of_aid T1 Two_sticks_or_frame
+T2	Delirium 4395 4413	Clear and coherent
+A2	Negation T2
+T3	Mobile_with_assistance 4479 4511	Ambulatory - requires assistance
+T4	Mobile_with_aid 4515 4518	aid
+A3	Type_of_aid T4 Two_sticks_or_frame
+T5	Has_carers 4281 4288	Service
+T6	Mobile_with_aid 7634 7652	crutches or walker
+A4	Type_of_aid T6 Two_sticks_or_frame
+T7	Mobile_with_aid 3318 3338	walker or 2 crutches
+A5	Type_of_aid T7 Two_sticks_or_frame
+T8	Delirium 895 898;899 901	A&O x3
+A6	Negation T8
+T9	Constipation 5361 5373	constipation
+A7	Diagnosis T9 Implicit_mention
+T10	Has_carers 3390 3398	services

@@ -1,0 +1,51 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Patient recorded as having No Known Allergies to Drugs  Attending: ___  Chief Complaint: Palpitations  Major Surgical or Invasive Procedure: TEE/Cardioversion
+
+ History of Present Illness: ___ c relatively little PMH (prostate ca managed conservatively, chronic leg pain) and two prior presentations for atypical cp (once to Dr ___ in ___ and once to ED in ___ p/w ___nd palpitations and DOE this afternoon after playing a round of golf this am. Pt denied excessive caffeine or Etoh use. He initially felt like perhaps he had gerd but continued to feel "a little odd" and decided to take his pulse and noted that it was irregular. He thus decided to drive over to the ___ for further evaluation. His Cp resolved in the ED before he got any meds or had any ekgs.  .  In ED found to be in afib c rvr 150s-180s not hypotensive with ST dep in lateral leads and ST elev in aVR. Pt was given 325 asa and dilt 20IV, 25IV dilt and then dilt gtt started at 10. Initially pt's bp dropped in setting of dilt drip to ___ but now in the 110s ssytolic. CXR was checked and was unremarkable. VS on admission were 97 108/57 110s 16 96% RA. 
+
+ Past Medical History: Cardiac Risk Factors: no Diabetes, + Dyslipidemia (not on statin), mild Hypertension (SBP in 140s per pt)   Other Past History:  1. History of gout, last flare ___ years ago.  2. History of prostate cancer, treated with conservative  measures and observation. 
+
+ Social History: ___ Family History: FH is positive for Fa had an MI at age ___, died at age ___. Mother died suddenly at ___. Brother with bypass surgery and shunts.  Physical Exam: VS: 93.9 axillary, 140/82, 150 18 92%NC  Gen: WDWN elderly male in NAD. Oriented x3. Mood, affect appropriate.  HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma. 
+
+Neck: Supple without JVD.  CV: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  Chest: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.  Ext: No c/c/e. No femoral bruits.  Skin: No stasis dermatitis, ulcers, scars, or xanthomas.  .  Pulses:  Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+  Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ ___ 2+ 
+
+ Pertinent Results: ___ 08:41PM URINE BLOOD-SM NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG ___ 03:40PM  GLUCOSE-102* UREA N-30* CREAT-1.2 SODIUM-139 POTASSIUM-4.3 CHLORIDE-104 TOTAL CO2-24 ANION GAP-15 ___ 03:40PM  cTropnT-LESS THAN ___ 03:40PM  CALCIUM-8.3* PHOSPHATE-4.6* MAGNESIUM-2.4 ___ 03:40PM  TSH-1.6 ___ 03:40PM  WBC-12.5*# RBC-5.25 HGB-15.5 HCT-45.6 MCV-87 MCH-29.5 MCHC-34.0 RDW-15.0 ___ 03:40PM  NEUTS-82.8* LYMPHS-12.3* MONOS-3.8 EOS-0.9 BASOS-0.2 ___ 03:40PM  ___ PTT-25.6 ___
+
+EKG: 1. Atrial fibrillation with rapid ventricular response. Compared to the previous tracing of ___ the rate and rhythm have changed. TRACING #1 
+
+2. Atrial fibrillation with controlled ventricular response. Compared to the previous tracing the rate is slower. TRACING #2 
+
+Imaging: TTE: The left atrium and right atrium are normal in cavity size. No left atrial mass/thrombus seen (best excluded by transesophageal echocardiography). The right atrial pressure is indeterminate. There is mild symmetric left ventricular hypertrophy with normal cavity size and global systolic function (LVEF>55%). Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. [Intrinsic left ventricular systolic function is likely more depressed given the severity of valvular regurgitation.] Right ventricular chamber size and free wall motion are normal. The aortic root is mildly dilated at the sinus level. The ascending aorta is mildly dilated. The aortic valve leaflets are moderately thickened. There is no aortic valve stenosis. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Moderate (2+) mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is high normal. Significant pulmonic regurgitation is seen. There is no pericardial effusion. IMPRESSION: Suboptimal image quality. Mild symmetric left ventricular hypertrophy with preserved global biventricular systolic function. Moderate mitral regurgitation. Dilated ascending aorta. Aortic valve sclerosis. 
+
+TEE: The left atrium and right atrium are normal in cavity size. No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage. Left atrial appendage ejection velocities are vigorous (>0.4m/s). A small, intermittent left-to-right shunt across the interatrial septum is seen at rest consistent with color flow Doppler c/w a small secundum atrial septal defect/stretched PFO. Overall left ventricular systolic function is normal (LVEF>55%). Right ventricular chamber size and free wall motion are normal. There are simple atheroma in the ascending aorta, aortic arch, and descending thoracic aorta. The aortic valve leaflets (3) are mildly thickened. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Moderate (2+) mitral regurgitation is seen. There is no pericardial effusion. IMPRESSION: No left atrial/appendage thrombus seen. Small secundum atrial septal defect. Moderate mitral regurgitation. 
+
+CXR: IMPRESSION: Subsegmental atelectasis, otherwise no acute cardiopulmonary disease. 
+
+ Brief Hospital Course: ___ c relatively little PMH p/w presumed new onset atrial fibrillation, though hard to know as pt was prompted to check his pulse based on chest pressure which could be ___nd atrial fibrillation that is older. 
+
+CAD: No known CAD.     Pump: Normal  Rhythm: Presumed new onset afib with RVR. Unclear etiology. TSH was wnl. Left atrial chambers within normal limits. ___ complete. No infectious etiology found. He was started on coumadin with a heparin bridge. Patient's heart rate was controlled on diltizem drip and was transitioned to po metoprolol. Since he did not convert into sinus rhythm, he was TEE/Cardioverted with good effect. He remained in sinus rhythm and was discharged on Metoprolol succinate 50 mg daily with close follow up in the outpatient with cardiology. He was sent home with lovenox injections to bridge to coumadin for INR goal of ___. He has close follow up with his pcp for further ___ of his coumadin.  Elevated WBC count: Mildly elevated to 12.7. Infectious work up negative. Differential with a left shift. Repeat white blood cell count should be performed in the outpatient. 
+
+Hematuria: Mild amount of blood noted in urine. Urine culture negative. Repeat UA should be performed in the outpatient to ensure this has resolved.  Chronic Kidney Disease: Pt has mildly decreased GFR, likley stage 3 ckd. Patient was advised to stop taking ibuoprofen, as he was taking this on a regular basis. Further management will be deferred to outpatient.  Prostate ca: Stable during admission. 
+
+Leg pain: Continued tylenol prn. Held ibuprofen as above.
+
+Gout: Renally dosed allopurinol and discharged on reduced dose.   Code: DNR/DNI during this admission
+
+ Medications on Admission: 1. Tylenol.  2. Advil.  3. Arnica.  4. Allopurinol.  5. Multivitamin.  6. Saw ___.  7. occasional ambien 
+
+ Discharge Medications: 1. Lovenox ___ mg/mL Syringe Sig: One (1) Subcutaneous once a day for 3 days. Disp:*3 1* Refills:*0* 2. Allopurinol ___ mg Tablet Sig: 1.5 Tablets PO DAILY (Daily). 
+
+3. Warfarin 2.5 mg Tablet Sig: Two (2) Tablet PO once a day. Disp:*60 Tablet(s)* Refills:*2* 4. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO every six (6) hours as needed for pain: do not exceed 4 gram in 24 hours.  5. Multivitamin   Tablet Sig: One (1) Tablet PO once a day.  6. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day. Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2* 7. Outpatient Lab Work INR check: ___ and send results to Ms. ___, Nurse ___. Her phone number is ___. 8. Saw ___ Oral
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: Primary: Atrial Fibrillation with Rapid Ventricular Response Secondary: Prostate Cancer Gout
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: You were admitted because of a fast heart rate and an irregular rhythm called atrial fibrillation. You were cardioverted back to a regular rhythm. You will need to stay on blood thinners for at least one month and have close follow up with your primary care doctor. You were also started on a medication to slow your heart rate called metoprolol. 
+
+You should continue all of your medications as prescribed with the following important changes: 1. Warfarin 5 mg daily (you will have further instruction from your primary care doctor's office as this dose may change) 2. Lovenox ___ mg syringe daily until your coumadin level is therapeutic. Your primary care doctor's office should direct how many days to take this medication. 3. Metoprolol Succinate 50 mg daily 4. DECREASE Allopurinol to 150 mg daily (this was decreased based on your kidney function) 5. STOP Ibuprofen given your depressed kidney function 6. STOP Ambien because you were mildly confused overnight and this medication
+
+You will need to follow closely with your PCP for coumadin/INR checks to ensure you are taking the appropriate dosage. 
+
+It is important that you keep all of your doctor's appointments.
+
+It is important that you keep all of your doctor's appointments.  Followup Instructions: ___ 

@@ -1,0 +1,20 @@
+T1	Delirium 1129 1132;1133 1136	AAO x 3
+A1	Negation T1
+T2	Has_carers 4643 4649	Servic
+T3	Delirium 4753 4771	Clear and coherent
+A2	Negation T3
+T4	Mobile_with_assistance 4837 4869	Ambulatory - requires assistance
+T5	Mobile_with_aid 4873 4876	aid
+A3	Type_of_aid T5 Two_sticks_or_frame
+T6	Has_carers 5512 5520	services
+T7	Upper_gastrointestinal_haemorrhage 771 779	GI Bleed
+A4	Diagnosis T7 History_of
+T8	Lower_gastrointestinal_haemorrhage 771 779	GI Bleed
+A5	Diagnosis T8 History_of
+A6	Low_confidence T8
+A7	Low_confidence T7
+T9	Frailty 1314 1319	frail
+T10	Constipation 4378 4390	constipation
+A8	Diagnosis T10 Implicit_mention
+T11	Constipation 4497 4509	constipation
+A9	Diagnosis T11 Implicit_mention

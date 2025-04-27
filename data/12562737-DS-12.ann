@@ -1,0 +1,38 @@
+T1	Falls 239 243	Fall
+T2	Intracranial_haemorrhage 707 730	subarachnoid hemorrhage
+T3	Vertebral_compression_fracture 760 775	spine fractures
+T4	Falls 893 897	fall
+T5	Intracranial_haemorrhage 2882 2889;2930 2953	CT HEAD subarachnoid hemorrhage
+T6	Intracranial_haemorrhage 3771 3794	subarachnoid hemorrhage
+T7	Delirium 12621 12629	Confused
+T8	Mobile_with_assistance 12708 12739	mbulatory - requires assistance
+T9	Mobile_with_aid 12743 12746	aid
+A1	Type_of_aid T9 Two_sticks_or_frame
+T10	Vertebral_compression_fracture 12913 12927	spine fracture
+T11	Intracranial_haemorrhage 12941 12946;12955 12960	bleed brain
+T12	Constipation 10697 10709	Constipation
+A2	Diagnosis T12 Implicit_mention
+T13	Constipation 11118 11130	Constipation
+A3	Diagnosis T13 Implicit_mention
+T14	Intracranial_haemorrhage 7834 7837	SAH
+T15	Delirium 8023 8026	AMS
+T16	Falls 963 967	fell
+T17	Delirium 2386 2395	confusion
+A4	Negation T17
+T19	Hip_fracture 3674 3682;3737 3740	fracture hip
+A6	Negation T19
+T18	Vertebral_compression_fracture 4991 5009	T1 lamina fracture
+T20	Vertebral_compression_fracture 5105 5131	L1 vertebral body fracture
+T21	Intracranial_haemorrhage 7600 7603	SAH
+T22	Delirium 7947 7956	delerious
+T23	Intracranial_haemorrhage 9298 9301	SAH
+T24	Mobile_with_assistance 9981 10016	out of bed to chair with assistance
+T25	Intracranial_haemorrhage 11772 11795	subarachnoid hemorrhage
+T26	Vertebral_compression_fracture 11833 11851	T1 lamina fracture
+T27	Lower_respiratory_tract_infection 11814 11823	Pneumonia
+T28	Vertebral_compression_fracture 11864 11887	L1 compression fracture
+T29	Delirium 13205 13213	delerium
+T30	Delirium 2356 2360	AA&O
+A5	Negation T30
+T31	Falls 7197 7201	fall
+A7	Low_confidence T31

@@ -1,0 +1,19 @@
+T1	Delirium 12712 12730	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 12796 12819	Ambulatory - assistance
+T3	Mobile_with_aid 12821 12835	rolling walker
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Lower_gastrointestinal_haemorrhage 10899 10904	BRBPR
+A3	Negation T4
+T5	Upper_gastrointestinal_haemorrhage 10884 10895	dark stools
+A4	Negation T5
+T6	Upper_gastrointestinal_haemorrhage 1952 1963	dark stools
+A5	Negation T6
+T7	Lower_gastrointestinal_haemorrhage 1967 1972	BRBPR
+A6	Negation T7
+T8	Upper_gastrointestinal_haemorrhage 2297 2309	black stools
+A7	Negation T8
+T9	Lower_gastrointestinal_haemorrhage 2313 2323	red stools
+A8	Negation T9
+T10	Hip_fracture 3286 3298	hip fracture
+A9	Diagnosis T10 History_of

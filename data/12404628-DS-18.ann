@@ -1,0 +1,14 @@
+T1	Delirium 1556 1564	oriented
+A1	Negation T1
+T2	Delirium 1730 1735	AAOx3
+A2	Negation T2
+T3	Seizures 5443 5451	seizures
+A3	Diagnosis T3 Implicit_mention
+T4	Constipation 4877 4889	constipation
+A4	Diagnosis T4 Implicit_mention
+T5	Delirium 5462 5471	confusion
+A5	Diagnosis T5 Implicit_mention
+T6	Delirium 5485 5508	change in mental status
+A6	Diagnosis T6 Implicit_mention
+T7	Delirium 4192 4200	oriented
+A7	Negation T7

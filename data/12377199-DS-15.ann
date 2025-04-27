@@ -1,0 +1,65 @@
+T1	Delirium 16721 16739	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 16805 16837	Ambulatory - requires assistance
+T3	Mobile_with_aid 16841 16844	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Visual_impairment 17107 17122	vision problems
+T5	Seizures 17656 17663	seizure
+A3	Diagnosis T5 Implicit_mention
+T6	Seizures 17571 17579	seizures
+A4	Diagnosis T6 Implicit_mention
+T7	Seizures 17746 17753	seizure
+A5	Diagnosis T7 Suspected
+T8	Urinary_tract_infection 17959 17976	urinary infection
+T9	Urinary_incontinence 1939 1951	incontinence
+A6	Negation T9
+A7	Low_confidence T9
+T10	Faecal_incontinence 1939 1951	incontinence
+A8	Negation T10
+A9	Low_confidence T10
+T11	Visual_impairment 2100 2113	blurry vision
+T12	Visual_impairment 2258 2266	diplopia
+A10	Negation T12
+T13	Hearing_impairment 2279 2287	tinnitus
+A11	Negation T13
+T14	Hearing_impairment 2291 2309	hearing difficulty
+A12	Negation T14
+T15	Constipation 2709 2721	constipation
+T16	Faecal_incontinence 2613 2618;2630 2642	bowel incontinence
+A13	Negation T16
+T17	Urinary_incontinence 2622 2629;2630 2642	bladder incontinence
+A14	Negation T17
+T18	Dementia 3032 3040	dementia
+A15	Diagnosis T18 History_of
+T19	Unspecified_cognitive_impairment 4057 4065;4104 4112	oriented not date
+T20	Delirium 4221 4230	confusion
+A16	Negation T20
+T21	Urinary_tract_infection 16659 16682	Urinary tract infection
+T22	Visual_impairment 803 816	double vision
+A17	Negation T22
+T23	Visual_impairment 1320 1339;1344 1348	difficulty focusing eyes
+T24	Intracranial_haemorrhage 6925 6933;7006 7018	CTA HEAD intracranial
+A18	Negation T24
+T25	Visual_impairment 741 754	blurry vision
+T26	Visual_impairment 244 258	gaze deviation
+T27	Visual_impairment 544 558	gaze deviation
+T28	Visual_impairment 1538 1552	gaze deviation
+T29	Visual_impairment 1809 1822	eye deviation
+T30	Visual_impairment 2122 2136	gaze deviation
+T31	Hearing_impairment 4741 4755	Hearing intact
+A19	Negation T31
+T32	Intracranial_haemorrhage 8111 8118;8403 8413	MR HEAD hemorrhage
+A20	Negation T32
+T33	Lower_respiratory_tract_infection 9500 9509	pneumonia
+A21	Negation T33
+T34	Visual_impairment 11983 11997	gaze deviation
+T35	Urinary_tract_infection 14784 14787	UTI
+T36	Seizures 16591 16598	seizure
+A22	Diagnosis T36 Suspected
+T37	Visual_impairment 16980 16984	gaze
+T38	Seizures 13628 13635	seizure
+A23	Diagnosis T38 Suspected
+T39	Seizures 13784 13791	seizure
+A24	Negation T39
+T40	Seizures 13833 13841	seizures
+A25	Diagnosis T40 Implicit_mention

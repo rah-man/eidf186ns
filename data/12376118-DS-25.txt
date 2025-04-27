@@ -1,0 +1,75 @@
+ Name: ___        Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___.  Chief Complaint: Hypotension  Major Surgical or Invasive Procedure: None  History of Present Illness: Ms. ___ is a ___ year-old woman with a history of sCHF (EF 25% in ___ s/p ICD placement, CAD with twin LAD system on ___ cath, and AFib on coumadin who presented for abnormal EKG findings found to be hypotensive. 
+
+Today ___, the patient went to outpatient pre-op appointment for planned LLE cyst removal on ___. During triage, patient was found to have concerning EKG changes (unavailable for viewing), and subsequently sent into ___ ED for further evaluation. 
+
+In ED, In the ED, initial VS were 96.7 66 113/58 18 96%. Labs were notable for unremarkable CBC, unremarkable LFTs, Chem-7 with K 5.6 and BUN/Cr 98/3.9, Coags with INR 3.0, proBNP 3050, lactate 0.9, and ABG 7.___. CXR showed cardiomegaly, AICD leads in RA and RV, no acute intrathoracic process, calcified left ventricular aneurysm. Bedside ECHO notable for minimal pericardial effusion without tamponade physiology, normal RV function, poor LV function. While in the ED, the patient was found to be hypotensive to sBP 70-80s, for which RIJ line was placed, patient was started on norepinephrine and administered fluid boluses (2x 250cc NS) with improvement in SBP to 120s. She was also administered Vancomycin/Cefepime x 1 for a concern for sepsis. CVP was measured ___ VS prior to transfer were 59 114/72 19 99%RA. 
+
+Upon arrival to the floor, VS were on 0.12 Levophed. Patient was otherwise well-appearing without complaint. EKG upon arrival notable for ventricular pacing @ 60bpm.
+
+ROS is notable for diarrhea 5 days PTA that responded to immodium which then recurred 3 days PTA but resolved yesterday.  At it's worse, patient had ___ loose but not watery stools. Denies any dark stools or BRBPR but has had some associated lightheadedness. Denies chest pain, shortness of breath, dysuria, cough, abdominal pain. 
+
+REVIEW OF SYSTEMS: On review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. She denies recent fevers, chills or rigors. She denies exertional buttock or calf pain. All of the other review of systems were negative.
+
+Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, ankle edema, palpitations, syncope or presyncope. She sleeps in a recliner at baseline but has not had not had to change the steepness of her recliner over the past few weeks.
+
+ Past Medical History: PAST MEDICAL HISTORY:  - Dilated cardiomyopathy (LVEF = ___ with a distal akinesis, felt secondary to a silent myocardial infarction many years ago. - CAD s/p cath ___ demonstrating a twin LAD system with a chronic mid to lower vessel occlusion. There was an eccentric 60% stenosis in the major OM and ___ ostial RCA stenosis. - Hypertension. - Hyperlipidemia. - Paroxysmal atrial fibrillation on Coumadin and amiodarone. - ICD implantation for primary prevention of sudden cardiac death - Prior history of hip fracture - Arthritis - Obesity - Chronic venous stasis - Hypothyroidism
+
+ Social History: ___ Family History: Mother died of MI in her ___, father died of MI in his ___.   Physical Exam: ADMISSION EXAM ============== General: Obese woman, lying in bed, NAD HEENT: NC/AT, EOMI, oropharynx clear Neck: RIJ CVL in place, supple, unable to assess JVP due to body habitus CV: Distant heart sounds, RRR, +S1/S2, no m/r/g Lungs: Trace crackles in bilateral bases, otherwise CTAB Abdomen: Obese, soft, NT/ND GU: No Foley Ext: Extensive hyperpigmentation of bilateral lower extremities c/w chronic venous stasis changes. Pain with palpation but no erythema, warmth. No pitting edema Neuro: CN, motor, and sensation grossly intact. Moves extremities sponatenously PULSES: DP pulses dopplerable bilaterally
+
+DISCHARGE EXAM ============== VS: 97.7 106-115/49-69, ___, 22, 97%RA I/O: 24HR ___ 8HR: ___ Wt: 110.4 (111.6) GENERAL: Obese woman, lying in bed, NAD HEENT: NC/AT, EOMI, oropharynx clear Neck: Supple, JVD about ___ up sitting in chair CV: Distant heart sounds, RRR, ___ systolic murmur at RUSB Lungs: crackles in bilateral bases, otherwise CTAB Abdomen: Obese, soft, NT/ND, bowel sounds presetn GU: No Foley Ext: Extensive hyperpigmentation of bilateral lower extremities c/w chronic venous stasis changes. Pain with palpation but no erythema, warmth. 2+ pitting edema in bilateral feet/ankles Neuro: CN, motor, and sensation grossly intact. Moves extremities sponatenously PULSES: DP pulses dopplerable bilaterally  Pertinent Results: ADMISSION LABS ============== ___ 11:50AM BLOOD WBC-6.7 RBC-3.39* Hgb-11.4* Hct-36.1 MCV-107*# MCH-33.5* MCHC-31.5 RDW-14.2 Plt ___ ___:00PM BLOOD Neuts-71.1* ___ Monos-7.7 Eos-2.4 Baso-0.8 ___ 11:50AM BLOOD UreaN-105* Creat-3.9*# Na-136 K-5.6* Cl-104 HCO3-20* AnGap-18 ___ 11:50AM BLOOD Glucose-89 ___ 02:00PM BLOOD ALT-13 AST-16 AlkPhos-84 TotBili-0.3 ___ 02:00PM BLOOD Albumin-4.4 Calcium-8.2* Phos-5.4*# Mg-2.7* ___ 05:05PM BLOOD Type-CENTRAL VE pO2-64* pCO2-41 pH-7.27* calTCO2-20* Base XS--7 Comment-GREEN TOP ___ 05:05PM BLOOD Lactate-0.9
+
+PERTINENT LABS ============== ___ 01:17AM BLOOD WBC-9.1 RBC-3.26* Hgb-10.7* Hct-34.4* MCV-106* MCH-32.7* MCHC-31.0 RDW-14.2 Plt ___ ___ 11:16PM BLOOD Glucose-152* UreaN-94* Creat-3.5* Na-135 K-9.4* Cl-106 HCO3-17* AnGap-21* ___ 01:17AM BLOOD Calcium-7.9* Phos-4.4 Mg-2.5 ___ 04:55AM BLOOD WBC-5.0 RBC-2.81* Hgb-9.3* Hct-29.8* MCV-106* MCH-33.2* MCHC-31.3 RDW-14.1 Plt ___ ___ 04:55AM BLOOD Glucose-82 UreaN-67* Creat-2.1* Na-137 K-5.7* Cl-113* HCO3-20* AnGap-10 ___ 04:55AM BLOOD Calcium-7.6* Phos-4.0 Mg-2.3 ___ 08:01AM BLOOD WBC-4.6 RBC-2.94* Hgb-9.8* Hct-31.3* MCV-106* MCH-33.2* MCHC-31.2 RDW-14.2 Plt ___ ___ 08:01AM BLOOD Glucose-101* UreaN-51* Creat-1.7* Na-139 K-5.9* Cl-110* HCO3-21* AnGap-14 ___ 06:15AM BLOOD Glucose-90 UreaN-48* Creat-1.6* Na-140 K-5.9* Cl-110* HCO3-22 AnGap-14
+
+ANTICOAGULATION =============== ___ 02:00PM BLOOD ___ PTT-44.2* ___ ___ 01:17AM BLOOD ___ ___ 06:27AM BLOOD ___ PTT-43.9* ___ ___ 04:55AM BLOOD ___ PTT-44.4* ___ ___ 08:01AM BLOOD ___ ___ 08:50AM BLOOD ___ PTT-40.0* ___
+
+CARDIAC BIOMARKERS ================== ___ 02:00PM BLOOD proBNP-3050* ___ 02:00PM BLOOD cTropnT-0.05* ___ 11:16PM BLOOD CK-MB-3 cTropnT-0.05*
+
+DISCHARGE LABS ============== ___ 07:10AM BLOOD Glucose-87 UreaN-50* Creat-1.8* Na-141 K-4.5 Cl-106 HCO3-27 AnGap-13
+
+MICROBIOLOGY ============ ___ MRSA SCREEN MRSA SCREEN-NO MRSA ISOLATED
+
+___ URINE CULTURE-NO GROWTH  ___ Blood Culture, Routine-PENDING
+
+___ Blood Culture, Routine-PENDING 
+
+IMAGING ======= EKG ___ Regular wide complex rhythm without convincing organzied P wave activity. Right axis deviation with left bundle-branch block morphology and the morphological pattern of the QRS complex suggests accelerated idioventricular rhythm with secondary repolarization abnormalities. Prolonged Q-T interval. Compared to the previous tracing of ___ ventricular arrhythmia has replaced atrial pacing with P-R interval prolongation. Current QRS configuration is unlike any of the prior QRS morphologies seen with ventricular pacing or native left bundle-branch block. ST segment elevation in leads I, aVL and V2 most likely secondary to the conduction abnormality. An ongoing ischemic process with ventricular arrhythmia cannot be excluded. Clinical correlation is suggested. Wide complex with a downward frontal plane axis argues against ventricular pacing as an explanation.   Intervals Axes Rate PR QRS QT/QTc P QRS T 82 92 ___ 0 0 0 
+
+ECHO ___ Overall left ventricular systolic function is severely depressed (LVEF = ___ %). The right ventricular free wall thickness is normal. Right ventricular chamber size is normal with borderline normal free wall function. There is an anterior space which most likely represents a prominent fat pad. 
+
+Compared with the prior study (images reviewed) of ___, no major change is evident, but the technically suboptimal nature of both studies precludes definitive comparison. 
+
+CXR ___ IMPRESSION: Cardiomegaly with no acute intrathoracic process.  Stable calcified rounded density in the left lung base is unchanged and relates to a calcified left ventricular aneurysm.  Brief Hospital Course: Ms. ___ is a ___ with sCHF (EF 25% in ___ s/p ICD placement, CAD with twin LAD system on ___ cath, and AFib on coumadin who presented for abnormal EKG findings found to be hypotensive. 
+
+# Hypotension: Initial differential diagnosis included hypovolemia, infection/sepsis, cardiogenic shock, and arrhythmia with decreased diastolic filling time and decreased forward flow. Most likely etiology is hypovolemia given recent diarrhea and ongoing diuretic use. Infectious work-up negative and patient without fevers or other signs/sx of infection. No signs of decompensated heart failure on radiology or exam. She initially required levophed, which was weaned off with the help of small volume fluid boluses. Orthostatics were negative after levophed weaned. 
+
+# CHF: EF of 25% in ___ s/p AICD. Home regimen is spironolactone 25mg daily, torsemide 10mg daily, metoprolol 25XL at home. proBNP was elevated on admission, though she appeared euvolemic on exam. Home spironolactone, torsemide, and metoprolol were initially held in the setting of hypotension. Torsemide and metoprolol were restarted when her blood pressures were stable and within normal limits. Spironolactone was held given her hyperkalemia.
+
+# Acute on Chronic kidney disease: Patient presented with a Creatinine of 3.9, baseline per OMR 0.8-1.3. Likely pre-renal in etiology given BUN/Cr and recent history of diarrhea with continued diuretic use. FeUrea (recent diuretic use) <35% c/w pre-renal etiology. Improved to ___ s/p fluid boluses, and on discharge was 1.8.
+
+# Hyperkalemia: Potassium on admission was 5.6 and increased to peak of 5.9 without any EKG changes. Most likely ___ ___ in the setting of spironolactone and ace-inhibitor. Spironolactone and lisinopril were initially held and hyperkalemia was treated with kayexylate. K on discharge was 4.5 and spironolactone was held. 
+
+# Atrial Fibrillation: Patient with CHADS2 score of 3, currently on metoprolol and warfarin as an outpatient. INR supratherapeutic to 3.7 on admission. Warfarin restarted at 1 mg when INR 3.1. Metoprolol restarted when blood pressures stabilized as above. 
+
+# Diarrhea: Patient endorsed diarrhea 5 days prior to admission that responded to immodium which then recurred 3 days PTA but resolved on the day prior to admission. Likely a large contributing factor to the patient's hypotension. At its worst, the patient had ___ loose but not watery stools. She denied any dark stools or BRBPR but has had some associated lightheadedness. She had no further episodes of diarrhea during her hospitalization.
+
+# Hyperlipidemia: Continued with home Atorvastastin 10 mg
+
+# Hypothyroidism: Continued with home Levothyroxine 75 mcg 
+
+# GERD: Continued with home Ranitidine 150 mg BID
+
+Transitional Issue: - Please trend creatinine to monitor kidney function, likely some component of baseline CKD, baseline creatinine 0.8-1.3 - Spironolactone held during hospitalization due to hyperkalemia. - Toursemide restarted at 10mg daily, please monitor weights daily. Dry weight likely 230-235 pounds - Cyst removal postponed, will need to reschedule per Dr. ___ ___  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Acetaminophen 1000 mg PO BID 2. Amiodarone 200 mg PO DAILY 3. Aspirin 81 mg PO DAILY 4. Atorvastatin 10 mg PO DAILY 5. Levothyroxine Sodium 75 mcg PO DAILY 6. Lisinopril 5 mg PO DAILY 7. Ranitidine 150 mg PO BID 8. Warfarin 1.5 mg PO DAYS (MO,WE) 9. Metoprolol Succinate XL 25 mg PO DAILY 10. Vitamin D 50,000 UNIT PO QMONTH 11. Spironolactone 12.5 mg PO DAILY 12. Torsemide 10 mg PO DAILY 13. Warfarin 1 mg PO DAYS (___) 
+
+ Discharge Medications: 1. Acetaminophen 325-650 mg PO Q6H:PRN pain 2. Amiodarone 200 mg PO DAILY 3. Aspirin 81 mg PO DAILY 4. Atorvastatin 10 mg PO DAILY 5. Ranitidine 150 mg PO BID 6. Levothyroxine Sodium 75 mcg PO DAILY 7. Metoprolol Succinate XL 25 mg PO DAILY 8. Vitamin D 50,000 UNIT PO QMONTH 9. Torsemide 10 mg PO DAILY 10. Warfarin 1.5 mg PO DAYS (MO,WE) 11. Warfarin 1 mg PO DAYS (___) 12. Lisinopril 5 mg PO DAILY Hols SBP < 90 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Primary Diagnosis: Hypotension
+
+Secondary Diagnoses: ___ CHF Atrial fibrillation
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - assistance (rolling walker).
+
+ Discharge Instructions: Dear Ms. ___,
+
+You were admitted to the CCU for close monitoring because your blood pressure was found to be very low. This was likely due to several episodes of diarrhea you had in the days leading up to your hospitalization. Your blood pressure increased to a normal range with fluids. After you had the fluids, you were found to have swelling in your feet and ankles. Additional torsemide was given to remove the extra fluid. You will need to weigh yourself every day without fail in the morning before breakfast. Call Dr. ___ your weight increases more than 3 pounds in 1 day or 5 pounds in 3 days. Your weight at discharge is 142 pounds and your goal weight is 135 pounds. 
+
+ Followup Instructions: ___ 

@@ -1,0 +1,5 @@
+T1	Bed_Chairbound 7531 7539	Bedbound
+T2	Delirium 7447 7465	Clear and coherent
+A1	Negation T2
+T3	Delirium 1839 1844	A&Ox3
+A2	Negation T3

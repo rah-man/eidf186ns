@@ -1,0 +1,14 @@
+T1	Delirium 7613 7631	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 7697 7721	Ambulatory - Independent
+T3	Delirium 3198 3206	oriented
+A2	Negation T3
+T4	Visual_impairment 1692 1706	vision changes
+A3	Negation T4
+T5	Delirium 1711 1720	confusion
+A4	Negation T5
+T6	Weight_loss 1963 1974	weight loss
+A5	Negation T6
+T7	Constipation 1902 1914	constipation
+T8	Delirium 2583 2591	oriented
+A6	Negation T8

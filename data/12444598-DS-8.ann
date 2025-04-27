@@ -1,0 +1,12 @@
+T1	Delirium 1811 1819;1820 1822	oriented x3
+A1	Negation T1
+T2	Delirium 9940 9948;9949 9951	oriented x3
+A2	Negation T2
+T3	Visual_impairment 9887 9895	Cataract
+A3	Diagnosis T3 History_of
+T4	Visual_impairment 1152 1160	Cataract
+A4	Diagnosis T4 History_of
+T5	Visual_impairment 994 1013	vitreous detachment
+A5	Diagnosis T5 History_of
+T6	Visual_impairment 9756 9775	vitreous detachment
+A6	Diagnosis T6 History_of

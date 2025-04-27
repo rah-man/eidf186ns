@@ -1,0 +1,30 @@
+T1	Delirium 7635 7653	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 7719 7743	Ambulatory - Independent
+T3	Lower_gastrointestinal_haemorrhage 426 431	BRBPR
+T4	Constipation 1036 1048	constipation
+A2	Negation T4
+T5	Visual_impairment 1116 1130	vision changes
+A3	Negation T5
+T6	Constipation 1253 1265	constipation
+A4	Negation T6
+T7	Lower_gastrointestinal_haemorrhage 1267 1272	BRBPR
+A5	Negation T7
+T8	Upper_gastrointestinal_haemorrhage 1274 1280	melena
+A6	Negation T8
+T9	Lower_gastrointestinal_haemorrhage 1282 1294	hematochezia
+A7	Negation T9
+T10	Urinary_tract_infection 1653 1656	UTI
+A8	Diagnosis T10 History_of
+T11	Delirium 1788 1796	oriented
+A9	Negation T11
+T12	Pressure_injury 2067 2073	ulcers
+A10	Negation T12
+A11	Low_confidence T12
+T13	Lower_respiratory_tract_infection 4365 4374	pneumonia
+A12	Diagnosis T13 Suspected
+A13	Low_confidence T13
+T14	Upper_gastrointestinal_haemorrhage 5661 5669	GI bleed
+A14	Low_confidence T14
+T15	Lower_gastrointestinal_haemorrhage 5661 5669	GI bleed
+A15	Low_confidence T15

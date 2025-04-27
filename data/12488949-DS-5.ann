@@ -1,0 +1,10 @@
+T1	Delirium 5381 5399	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 5465 5497	Ambulatory - requires assistance
+T3	Mobile_with_aid 5501 5504	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Constipation 6136 6148	constipation
+A3	Diagnosis T4 Implicit_mention
+T5	Falls 825 829	fall
+T6	Vertebral_compression_fracture 862 870;874 876	fracture L3
+T7	Vertebral_compression_fracture 1010 1012;1041 1049	L3 fracture

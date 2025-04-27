@@ -1,0 +1,33 @@
+T1	Urinary_tract_infection 6301 6304	UTI
+T2	Pressure_injury 6541 6556	Pressure ulcers
+T3	Pressure_injury 6565 6586	sacral pressure ulcer
+T4	Urinary_incontinence 6694 6714	urinary incontinence
+T5	Pressure_injury 6716 6722	ulcers
+T6	Urinary_incontinence 7034 7054	urinary incontinence
+T7	Constipation 8453 8465	constipation
+A1	Diagnosis T7 Implicit_mention
+T8	Urinary_tract_infection 9690 9713	Urinary tract infection
+T9	Delirium 9774 9782	Confused
+T10	Bed_Chairbound 9860 9868	Bedbound
+T11	Delirium 10213 10221	confused
+T12	Pressure_injury 2786 2814	sacral decub pressure ulcers
+T13	Delirium 2864 2869	A&Ox3
+A2	Negation T13
+T14	Delirium 11964 11972	delerium
+A3	Diagnosis T14 Implicit_mention
+T15	Constipation 11748 11760	constipation
+A4	Diagnosis T15 Implicit_mention
+T16	Constipation 11362 11374	constipation
+A5	Diagnosis T16 Implicit_mention
+T17	Delirium 10572 10580	confused
+T18	Constipation 8919 8931	constipation
+A6	Diagnosis T18 Implicit_mention
+T19	Delirium 9311 9319	delerium
+A7	Diagnosis T19 Implicit_mention
+T20	Pressure_injury 7069 7088	sacral decub ulcers
+T21	Delirium 5809 5817	delerium
+T22	Delirium 5291 5300	confusion
+T23	Delirium 5559 5568	Confusion
+T24	Unspecified_cognitive_impairment 5627 5636	disorient
+T25	Delirium 10747 10756	confusion
+T26	Visual_impairment 5683 5696	hallucinating

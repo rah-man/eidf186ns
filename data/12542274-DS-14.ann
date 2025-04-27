@@ -1,0 +1,74 @@
+T1	Intracranial_haemorrhage 457 461	SDHs
+T2	Intracranial_haemorrhage 245 249	SDHs
+T3	Intracranial_haemorrhage 351 355	SDHs
+T4	Intracranial_haemorrhage 587 591	SDHs
+T5	Intracranial_haemorrhage 942 946	SDHs
+T6	Delirium 1553 1562	confusion
+A1	Negation T6
+T7	Visual_impairment 1564 1578	visual changes
+A2	Negation T7
+T8	Falls 1643 1648	falls
+A3	Negation T8
+T9	Falls 1682 1686	fall
+A4	Diagnosis T9 History_of
+T10	Falls 1763 1767	fall
+A5	Diagnosis T10 History_of
+T11	Visual_impairment 2000 2008	cataract
+A6	Diagnosis T11 History_of
+T12	Malnutrition 2204 2213	nourished
+A7	Negation T12
+T13	Delirium 2442 2450	Oriented
+A8	Negation T13
+T14	Hearing_impairment 2730 2744	Hearing intact
+A9	Negation T14
+T15	Intracranial_haemorrhage 4779 4783	SDHs
+T16	Intracranial_haemorrhage 5124 5128	SDHs
+T17	Falls 7311 7316	falls
+A10	Diagnosis T17 History_of
+T18	Delirium 9734 9752	Clear and coherent
+A11	Negation T18
+T19	Mobile_with_assistance 9818 9844	Out of Bed with assistance
+T20	Mobile_with_aid 9857 9867	wheelchair
+A12	Type_of_aid T20 Wheelchair
+T21	Seizures 11078 11086	seizures
+A13	Diagnosis T21 Implicit_mention
+T22	Intracranial_haemorrhage 4401 4405;4531 4541	SDHs hemorrhage
+A14	Diagnosis T22 History_of
+T23	Intracranial_haemorrhage 4572 4576	SDHs
+T24	Intracranial_haemorrhage 4572 4576	SDHs
+A15	Diagnosis T24 History_of
+T25	Intracranial_haemorrhage 5430 5433	IPH
+T26	Intracranial_haemorrhage 5487 5490	IPH
+T27	Intracranial_haemorrhage 5567 5571	SDHs
+T28	Intracranial_haemorrhage 6725 6743	subdural hematomas
+T29	Intracranial_haemorrhage 6605 6612;6646 6665;6819 6829	CT head cerebellar hematoma hemorrhage
+T30	Intracranial_haemorrhage 6906 6927	cerebellar hemorrhage
+T31	Constipation 7391 7403	Constipation
+T32	Intracranial_haemorrhage 9635 9639	SDHs
+T33	Intracranial_haemorrhage 9635 9639	SDHs
+A16	Diagnosis T33 History_of
+T34	Intracranial_haemorrhage 9692 9695	IPH
+T35	Intracranial_haemorrhage 12039 12051	Constipation
+A17	Diagnosis T35 Implicit_mention
+T36	Seizures 13251 13259	Seizures
+A18	Diagnosis T36 Implicit_mention
+T37	Delirium 13484 13493	confusion
+A19	Diagnosis T37 Implicit_mention
+T38	Delirium 3247 3258	Orientation
+A20	Negation T38
+T39	Intracranial_haemorrhage 5716 5719;5727 5731;5821 5829	CTA head hematoma
+T40	Urinary_incontinence 6477 6489	incontinence
+A21	Low_confidence T40
+T41	Faecal_incontinence 6477 6489	incontinence
+A22	Low_confidence T41
+T42	Constipation 8873 8885	Constipation
+A23	Diagnosis T42 Implicit_mention
+T43	Intracranial_haemorrhage 12258 12269	brain bleed
+T44	Intracranial_haemorrhage 5162 5165	IPH
+T45	Visual_impairment 13116 13124;13135 13141	problems vision
+A24	Diagnosis T45 Implicit_mention
+T46	Seizures 10807 10814	seizure
+A25	Diagnosis T46 Implicit_mention
+T47	Visual_impairment 1916 1924	Glaucoma
+A26	Diagnosis T47 History_of
+T48	Intracranial_haemorrhage 9936 9941;9960 9965	blood brain

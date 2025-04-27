@@ -1,0 +1,8 @@
+T1	Constipation 6145 6157	constipation
+A1	Diagnosis T1 Implicit_mention
+T2	Frailty 1575 1580	frail
+T3	Delirium 1611 1619;1620 1622	Oriented x3
+A2	Negation T3
+T4	Pressure_injury 2080 2086	ulcers
+A3	Negation T4
+A4	Low_confidence T4

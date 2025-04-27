@@ -1,0 +1,9 @@
+T1	Frailty 1891 1896	frail
+T2	Delirium 2618 2621;2622 2625	A+O x 3
+A1	Negation T2
+T3	Hearing_impairment 2627 2642	hard of hearing
+T4	Has_carers 5646 5653	Service
+T5	Intracranial_haemorrhage 1667 1692	occipital lobe hemorrhage
+A2	Diagnosis T5 History_of
+T6	Intracranial_haemorrhage 3573 3591	hemorrhagic stroke
+A3	Diagnosis T6 History_of

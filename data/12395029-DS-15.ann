@@ -1,0 +1,21 @@
+T1	Delirium 8028 8046	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 8112 8136	Ambulatory - Independent
+T3	Visual_impairment 1952 1966	vision changes
+A2	Negation T3
+T4	Constipation 2049 2061	constipation
+A3	Negation T4
+T5	Lower_gastrointestinal_haemorrhage 2063 2068	BRBPR
+A4	Negation T5
+T6	Upper_gastrointestinal_haemorrhage 2070 2076	melena
+A5	Negation T6
+T7	Lower_gastrointestinal_haemorrhage 2078 2090	hematochezia
+A6	Negation T7
+T8	Delirium 2522 2526	AOx3
+A7	Negation T8
+T9	Delirium 3267 3271	AOx3
+A8	Negation T9
+T10	Delirium 3846 3849;3850 3852	a&O x3
+A9	Negation T10
+T11	Delirium 3007 3010;3011 3013	a&O x3
+A10	Negation T11

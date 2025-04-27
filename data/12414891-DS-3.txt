@@ -1,0 +1,89 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Imdur / ___  Attending: ___.  Chief Complaint: Orthopnea, leg pain and swelling  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: Mr. ___ is a ___ year old gentleman with history of CAD s/p stent to LAD and LCx x2 in ___, HTN, HLD, DM, CKD, AF on apixaban, presenting with several days of worsening BLE swelling, orthopnea, and weight gain.
+
+Over the past several weeks, he has been fluid overloaded, which was being managed as an outpatient by Dr. ___ in nephrology. He was started on torsemide, uptitrated from 5 -> 10 -> 20mg. His weight was initially 222 lbs several weeks ago, and improved to 207 lbs. However, over the past two days, his weight increased to 209 lbs. Additionally, he has had worsening pain in his LLE for the past 1.5 weeks, to the point where he was being woken up by the pain and had to cut his dressings. After cutting open his dressings, he found the LLE was erythematous compared to the RLE. Additionally, over the past 1.5 months, he has been having progressively worsening dyspnea on exertion, orthopnea, and PND requiring him to sleep upright. He denies and chest pain/pressure, cough, URI symptoms, fevers, chills, palpitations, lightheadedness, n/v/d, or urinary symptoms. Per his daughter, he likely has had some dietary indiscretion over the past two days, with higher amounts of sodium intake.
+
+In the ED, he was afebrile, mildly hypetensive to 140/45, with a HR of 55 and satting 99% on room air. His exam was notable for JVD and ___ wounds and blister, some ruptured, with warmth of the LLE anteriorly. His exam was concerning for nec fasc, and he had a CT of the lower extremities revealing diffuse subcutaneous edema, areas of skin thickening and ulceration, and no underlying drainable fluid collection or soft tissue gas. Surgery was consulted and felt that presentation was not consistent with nec fasc, but was more consistent with bilateral ___ edema with weeping ulcerated bullae consistent with venous stasis, and recommended admission for diuresis. The patient's labs were notable for BNP of 8499, Cr elevated to 3.3 from 2.8 in ___, and stable anemia. CXR revealed mild pulmonary edema. EKG revealed atrial fibrillation with slow response at 55bpm, IVCD, and sub-mm ST depressions in II and V4-V6. He was given clindamycin.
+
+Upon arrival to the cardiology floor, he reports the history above. He continues to have orthopnea, and denies any chest pressure. He is otherwise comfortable. He reports taking his torsemide 20mg at 5pm, and has had increased urinary output from this.
+
+ Past Medical History: - Ischemic HFpEF - CAD s/p stent ___ (and ___ per outpatient cardiology note): LAD and LCx x2 - Atrial fibrillation (onset ___ - Skin grafts ___ - Diabetes - Hypertension - Dyslipidemia - CKD - Obesity - Venous insufficency - Nephrolithiasis - Spinal stenosis L4-L5 - Cervical radiculopathy - E coli UTI ___ - BPH - Anemia - radial ulnar fracture ___ - L ankle fracture s/p ORIF ___ - Leg ulcer ___  Social History: ___ Family History: Father and mother - heart disease, unspecified Sister - lung cancer  Physical Exam: ADMISSION PHYSICAL EXAM ====================== VS: 97.6, BP-135/67, HR-55, RR-16, O2-99 RA GENERAL: No distress, well appearing HEENT: AT/NC, anicteric sclera, MMM NECK: JVP elevated to ___ neck at 45 degrees (12) CV: irregular rhythm, bradycardic, S1/S2, no murmurs, gallops, or rubs PULM: mild bibasilar crackles GI: abdomen soft, nondistended, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly EXTREMITIES: LLE with erythema and warmth, bilateral pitting edema to the knees with multiple bullae, both feet are cold, but with peripheral pulses in tact PULSES: 1+ radial pulses bilaterally NEURO: Alert, moving all 4 extremities with purpose, face symmetric
+
+DISCHARGE PHYSICAL EXAM ====================== VS: 98.6F, 100/48, HR 64, RR 18, O2 99% on RA General: WDWN elderly male, pleasant, NAD. HEENT: MMM, nonicteric sclera. EOMI. Neck: JVP not elevated Lungs: Faint bibasilar crackles. No wheezing, rhonchi. No coughing. Normal WOB on RA. CV: Irregular, normal S1, S2. No murmur, rubs, or gallop appreciated. Abdomen: Soft, ND. NT to palpation. Ext: Warm, well perfused. Legs wrapped in bandages due to bleeding ulcers. LLE dressing is c/d/i. Trace pitting edema around ankles bilaterally. 
+
+ Pertinent Results: ================== ADMISSION LABS ================== ___ 08:51PM BLOOD WBC-6.5 RBC-3.36* Hgb-10.3* Hct-33.6* MCV-100* MCH-30.7 MCHC-30.7* RDW-13.8 RDWSD-50.3* Plt ___ ___ 07:25AM BLOOD ___ PTT-32.8 ___ ___ 08:51PM BLOOD Glucose-130* UreaN-74* Creat-3.3* Na-146 K-4.0 Cl-105 HCO3-26 AnGap-15 ___ 08:51PM BLOOD CK-MB-3 cTropnT-0.04* proBNP-84___* ___ 08:51PM BLOOD Calcium-9.2 Phos-4.8* Mg-2.4
+
+====================== PERTINENT INTERIM LABS ====================== ___ 04:45PM BLOOD LD(LDH)-214 TotBili-0.4 DirBili-<0.2 IndBili-0.4 ___ 04:45PM BLOOD calTIBC-243* ___ Folate-7 ___ Ferritn-523* TRF-187* ___ 07:30AM BLOOD %HbA1c-7.4* eAG-166*
+
+=========== IMAGING =========== ___ CXR FINDINGS:  There is mild enlargement of the cardiac silhouette with pulmonary vascular congestion evidence of mild pulmonary edema. There is left lung base retrocardiac atelectasis. Trace right pleural effusion. No pneumothorax. No acute osseous abnormality. 
+
+TTE ___ The left atrial volume index is moderately increased. The right atrium is moderately enlarged. The estimated right atrial pressure is >15mmHg. Overall left ventricular systolic function is mildly depressed secondary to focal inferobasal and posterobasal hypokinesis. The visually estimated left ventricular ejection fraction is 45%. Moderately dilated right ventricular cavity with depressed free wall motion. Intrinsic right ventricular systolic function is likely lower due to the severity of tricuspid regurgitation. The aortic sinus is mildly dilated with normal ascending aorta diameter for gender. The aortic arch diameter is normal. The aortic valve leaflets (?#) are mildly thickened. There is no aortic valve stenosis. There is mild [1+] aortic regurgitation. The mitral valve leaflets are mildly thickened with mild bileaflet systolic prolapse. There is trivial mitral regurgitation. The tricuspid valve leaflets are mildly thickened. There is SEVERE [4+] tricuspid regurgitation. There is moderate to severe pulmonary artery systolic hypertension. In the setting of at least moderate to severe tricuspid regurgitation, the pulmonary artery systolic pressure may be UNDERestimated.
+
+Venous Duplex Reflux (___): Reflux is seen within the right popliteal vein and peripheral left great saphenous vein. 
+
+ABIs/PVRs (___): No evidence of arterial insufficiency to the lower extremities bilaterally. 
+
+Venous Dup U/S (___): The right great and bilateral small saphenous veins are patent.
+
+Renal U/S (___): 1. No hydronephrosis. Thin renal cortex bilaterally consistent with chronic renal disease. 2. Extremely limited Doppler evaluation of the kidneys as the patient is unable to hold his breath. Only minimal flow could be identified bilaterally and consequently sonographic evaluation for renal artery stenosis cannot be obtained for this patient. 
+
+CT Abd/Pelvis (___): 1. No retroperitoneal hematoma identified. 2. Patchy right middle lobe airspace disease suggestive of developing infectious or inflammatory pneumonitis. Correlate with respiratory symptoms. 3. Pulmonary fibrosis in a pattern suggestive of UIP. Correlate with patient's clinical history. 4. Small right pleural effusion, trace left pleural effusion and body wall edema compatible with third spacing. 5. Multiple well-circumscribed low attenuating masses within the pancreas likely represent IPMNs or dilated side-branches. Recommend 12 month follow-up MRI or CT to ensure stability.   RECOMMENDATION(S): 12 month MRI or CT of the abdomen with contrast for evaluation of the pancreatic lesions as above. 
+
+Renal US ___ IMPRESSION: 1. No hydronephrosis. Thin renal cortex bilaterally consistent with chronic renal disease. 2. Extremely limited Doppler evaluation of the kidneys as the patient is unable to hold his breath. Only minimal flow could be identified bilaterally and consequently sonographic evaluation for renal artery stenosis cannot be obtained for this patient.
+
+============= MICROBIOLOGY =============
+
+============== DISCHARGE LABS ============== ___ 06:14AM BLOOD WBC-6.9 RBC-2.57* Hgb-7.9* Hct-25.0* MCV-97 MCH-30.7 MCHC-31.6* RDW-14.6 RDWSD-50.9* Plt ___ ___ 06:14AM BLOOD Plt ___ ___ 06:14AM BLOOD Glucose-127* UreaN-102* Creat-3.2* Na-145 K-4.3 Cl-100 HCO3-26 AnGap-19* ___ 06:14AM BLOOD Calcium-8.8 Phos-4.9* Mg-2.3  Brief Hospital Course: ========== SUMMARY ========== Mr. ___ is a ___ year old gentleman with history of CAD s/p stent to LAD and LCx x2 in ___, HTN, HLD, DM, CKD, AF on apixaban, presenting with several days of worsening BLE swelling and pain, orthopnea, and weight gain, found to have ___ on CKD, admitted to ___ for HF management control of his leg bleeding. 
+
+=================== TRANSITIONAL ISSUES =================== [] Please follow up on the following incidental findings, discovered on CT A/P on ___: --> Pulmonary fibrosis in a pattern suggestive of UIP. Correlate with patient's clinical history. --> Multiple well-circumscribed low attenuating masses within the pancreas likely represent IPMNs or dilated side-branches. Recommend 12 month follow-up MRI or CT to ensure stability. [] Patient's anticoagulation for atrial fibrillation was stopped due to leg bleeding. Please consider re-starting anticoagulation with warfarin when his legs have healed [] Please see extensive wound care recommendations in Page 1 of this document as well as the bottom of this summary [] Arrangements were made for pt to see vascular medicine specialist for extensive ___ edema and wounds [] Please continue to work up this pt's anemia; consider GI source. 
+
+DISCHARGE WEIGHT: 90.1 kg (198.63 lb) DISCHARGE CREATININE: 3.2 DISCHARGE DIURESIS: 40 mg torsemide daily CODE: full CONTACT: ___, daughter, Phone: ___ 
+
+============= ACUTE ISSUES ============= # Acute on chronic systolic heart failure w/ mildly reduced EF: Presenting with weight gain of 20lbs in outpatient setting, worsening orthopnea, dyspnea on exertion, elevated JVP, BNP of 8K, and pulmonary edema on CXR. Patient had been uptitrated on home torsemide form 5mg to 20mg due to recent weight gain. Potential etiology of exacerbation could be LLE cellulitis given erythema and warmth on exam, but also a worsening CKD likely a major contributor as he required high dose lasix for diuresis. Also has regional WMA on echo so new/recent ischemia is possible, but less likely given negative troponin, flat MB, and no recent anginal symptoms. He was actively and effectively diuresed with IV lasix 120 mg BID with improvement in orthopnea and lower extremity edema. He was continued on home metoprolol. He was transitioned to oral torsemide 40 mg daily. His weight on discharge was 90.1 kg (198.63 lb).
+
+# ___ on CKD vs worsening CKD stage IV Followed by outpatient nephrologist Dr. ___ with GFR of ___ from prior ___. Likely cardiorenal given evidence of volume overload on exam (discussed above). ___ was consulted and followed the patient while admitted. They agreed with aggressive diuresis and goal of -2L each day. Notably, patient responded well to high dose IV lasix. On admission, the patient expressed that he would like to avoid dialysis, and would potentially not even want dialysis if it was life-threatening. His discharge Cr was 3.2. 
+
+# Chronic venous stasis ulcers s/p skin grafting, complicated by bleeding # Acute blood loss anemia on chronic anemia Superficial bilateral lower extremity ulcerations (L>R) were likely worsened acutely in the setting of heart failure exacerbation and significant lower extremity edema. He has chronic venous stasis ulcers, s/p grafting in the past, and is followed by wound care as an outpatient. Concern for PAD as patient has risk factors, CAD, and pain with dangling of legs, which is classic signs of PAD; however ABIs do not show arterial insufficiency. Vascular surgery was consulted and determined there was no need for surgical intervention as vascular studies were negative for occlusive disease. His course was complicated by extensive and debilitating bleeding from his ___ wounds, requiring pRBC transfusions. His anticoagulation was ultimately stopped due to this bleeding after conversation with this pt and his family. He may restart anticoagulation once his legs have healed. 
+
+# Presumed Cellulitis Patient with LLE erythema, warmth, and pain concerning for cellulitis but no leukocytosis or fevers. Initially on Cefepime, vanc, flagyl however, de-escalated due to lack of systemic illness. He was on ampillicin-sulbactam for a total 7 day course (___). Vancomycin was discontinued on ___ due to low suspicion for MRSA. 
+
+#) Atrial fibrillation: CHADS2VASC of 5. He was initially continued home apixaban 2.5 mg BID for anticoagulation, but this was discontinued when his renal function worsened slightly due to concern for overanticoagulation. He was transtitioned to heparin gtt and eventually to warfarin, but he was unable to tolerate any anticoagulation due to leg bleeding as above. He should re-evaluate the need for antocagulation in ___ weeks when his legs have healed with aggressive wound care. Metoprolol succinate 50 mg daily was continued for rate control.
+
+============== CHRONIC ISSUES ============== # CAD S/P ___ and LCX X2 w/ WMA abnormality on echo: Continued home metoprolol 50mg daily, aspirin 81mg daily, atorvastatin 40mg daily
+
+# DM: not on any home meds, used small amount of sliding scale insulin. A1c was 7.5%, within goal range for geriatric patients. 
+
+ # HLD: continued atorvastatin as above
+
+# HTN: as above
+
+========================== WOUND CARE RECOMMENDATIONS ========================== -When patient is out of bed he needs to be in a reclining chair with his legs elevated at all times and compression. His legs should be elevated on two pillows when in bed.
+
+-Continue pressure relief measures per pressure injury guidelines. -Support nutrition/hydration.
+
+-Gently Wash bilateral lower legs with moisturizing foam soap and warm water using cotton disposable cloth from knees to toes. -Gently Dry legs with Cotton disposable cloth. -Wash all wounds to lower legs with commercial wound cleaner or normal saline. -Gently pat dry with 4X4 gauze and remove any sloughing of skin from unroofed blisters. 
+
+-Apply sooth and cool ointment to bilateral heels and intact skin of lower legs. -Apply blood stop to actively seeping wounds. -Apply Xeroform to all wound beds. -Cover with 4X4 -Secure with kling ( X )Apply Spiral Ace Wraps to B/L ___ ( X ) 2 ace wraps per leg, 6 inch and ending just below the knees.  From just above toes to just below knees  Before patient gets OOB or after elevating ___ for ___ minutes prior to application. -Remove ace wraps at bedtime and reapply in am.  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Apixaban 2.5 mg PO BID 2. Metoprolol Succinate XL 50 mg PO DAILY 3. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 4. Aspirin 81 mg PO DAILY 5. Atorvastatin 40 mg PO QPM 6. Torsemide 20 mg PO DAILY 7. Calcitriol 0.25 mcg PO 4X/WEEK (___) 8. Calcitriol 0.5 mcg PO 3X/WEEK (___) 9. Vitamin E 400 UNIT PO DAILY 10. Cyanocobalamin 1000 mcg PO DAILY 
+
+ Discharge Medications: 1. Torsemide 40 mg PO DAILY RX *torsemide 20 mg 2 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 2. Aspirin 81 mg PO DAILY  3. Atorvastatin 40 mg PO QPM  4. Calcitriol 0.25 mcg PO 4X/WEEK (___)  5. Calcitriol 0.5 mcg PO 3X/WEEK (___)  6. Cyanocobalamin 1000 mcg PO DAILY  7. Metoprolol Succinate XL 50 mg PO DAILY  8. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain  9. Vitamin E 400 UNIT PO DAILY  10.Rolling Walker Rolling walker Dx: ___.33 Px: good ___ 13 mon
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: PRIMARY DIAGNOSES Acute on chronic diastolic heart failure Chronic venous stasis dermatitis Acute blood loss anemia cellulitis
+
+SECONDARY DIAGNOSES Chronic Kidney disease, baseline creatinine 3
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Dear Mr ___,
+
+It was a pleasure taking care of you at ___ ___. 
+
+WHY WAS I ADMITTED TO THE HOSPITAL? - You were admitted to the hospital because you had a heart failure exacerbation which caused your legs to swell and for fluid to back up into your lungs. 
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL? - We gave you medication (Lasix) through the IV to remove the fluid from your lungs - Your legs were bleeding, so we asked our vascular surgery colleagues to evaluate your legs. They didn't think an intervention would be helpful to you. - We talked with you and stopped your anticoagulation (apixiban, and later wafarin) and your bleeding significantly improved.
+
+WHAT SHOULD I DO WHEN I GO HOME? - You should continue to take your medications as prescribed. - You should attend the appointments listed below. - Call your doctor if your weight goes up more than 3 lbs. - We think that you should not take any anticoagulation for a while as your legs heal. You can talk about starting this again with your doctor in the future when your legs are better. 
+
+We wish you the best! Your ___ Care Team 
+
+ Followup Instructions: ___ 

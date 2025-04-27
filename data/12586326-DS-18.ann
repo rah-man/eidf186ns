@@ -1,0 +1,6 @@
+T1	Delirium 6199 6217	Clear and coherent
+A1	Negation T1
+T2	Mobile_with_assistance 6283 6315	Ambulatory - requires assistance
+T3	Mobile_with_aid 6319 6322	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Mobile_with_assistance 4836 4846;4859 4871	ambulating with assist,

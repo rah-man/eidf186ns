@@ -1,0 +1,58 @@
+T1	Urinary_tract_infection 17773 17796	urinary tract infection
+T2	Urinary_tract_infection 17797 17801	(UTI
+T3	Urinary_tract_infection 18276 18279	UTI
+T4	Has_carers 17168 17175	Service
+T5	Delirium 17422 17430	Confused
+T6	Mobile_with_assistance 17510 17536	Out of Bed with assistance
+T7	Mobile_with_aid 17549 17559	wheelchair
+A1	Type_of_aid T7 Wheelchair
+T8	Delirium 17711 17720	confusion
+T9	Urinary_tract_infection 403 407	UTIs
+A2	Diagnosis T9 History_of
+T10	Unspecified_cognitive_impairment 3107 3109;3110 3112	AO x1
+T11	Delirium 3384 3392	oriented
+T12	Urinary_tract_infection 9620 9623	UTI
+T13	Urinary_tract_infection 9668 9672	UTIs
+A3	Diagnosis T13 History_of
+T14	Urinary_tract_infection 9812 9826	pyelonephritis
+A4	Diagnosis T14 Suspected
+T15	Urinary_tract_infection 11700 11703	UTI
+T16	Lives_alone 17158 17162	Home
+A5	Negation T16
+T17	Lives_in_carehome 621 633	nursing home
+T18	Delirium 759 780	altered mental status
+T19	Delirium 811 819;820 822	oriented x3
+A6	Negation T19
+T20	Lower_respiratory_tract_infection 1840 1844	UTIs
+A7	Diagnosis T20 History_of
+T21	Delirium 1251 1259	oriented
+A8	Negation T21
+T22	Visual_impairment 2203 2211	Cataract
+A9	Diagnosis T22 History_of
+T23	Lower_respiratory_tract_infection 7973 7982	pneumonia
+A10	Diagnosis T23 Suspected
+T24	Urinary_tract_infection 9233 9236	UTI
+T25	Urinary_tract_infection 11459 11462	UTI
+T26	Delirium 12148 12151	AMS
+T27	Delirium 12237 12245	oriented
+A11	Negation T27
+T28	Delirium 12342 12350	confused
+A12	Diagnosis T28 Implicit_mention
+T29	Constipation 15222 15234	constipation
+A13	Diagnosis T29 Implicit_mention
+T30	Constipation 15503 15515	constipation
+A14	Diagnosis T30 Implicit_mention
+T31	Lives_alone 18951 18955	home
+A15	Negation T31
+T32	Lives_alone 18871 18875	home
+A16	Negation T32
+T33	Lives_alone 13228 13232	home
+A17	Negation T33
+T34	Lives_alone 13136 13140	home
+A18	Negation T34
+T35	Lives_alone 11784 11788	home
+T36	Lives_alone 10499 10503	home
+A19	Negation T36
+T37	Urinary_tract_infection 8436 8439	UTI
+A20	Diagnosis T37 History_of
+A21	Negation T11

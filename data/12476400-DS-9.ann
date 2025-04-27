@@ -1,0 +1,20 @@
+T1	Delirium 16311 16329	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 16395 16419	Ambulatory - Independent
+T3	Constipation 16740 16752	constipation
+A2	Diagnosis T3 Implicit_mention
+T4	Lower_gastrointestinal_haemorrhage 3081 3108;3123 3134	bright red blood per rectum hemorrhoids
+A3	Diagnosis T4 History_of
+T5	Delirium 5488 5492	AOX3
+A4	Negation T5
+T6	Delirium 6235 6239	AOX3
+A5	Negation T6
+T7	Constipation 12986 12998	Constipation
+T8	Constipation 13028 13040	constipation
+T9	Constipation 16224 16236	Constipation
+T10	Upper_gastrointestinal_haemorrhage 3877 3888	hematemesis
+T11	Upper_gastrointestinal_haemorrhage 3921 3940	bleeding esophageal
+A6	Diagnosis T11 Suspected
+T12	Upper_gastrointestinal_haemorrhage 3947 3950;3993 4001	EGD bleeding
+A7	Negation T12
+T13	Lower_gastrointestinal_haemorrhage 12395 12422	bright red blood per rectum

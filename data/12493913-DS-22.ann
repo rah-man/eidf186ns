@@ -1,0 +1,15 @@
+T1	Lower_respiratory_tract_infection 1389 1398	pneumonia
+A1	Negation T1
+T2	Delirium 6270 6288	Clear and coherent
+A2	Negation T2
+T3	Independently_mobile 6354 6378	Ambulatory - Independent
+T4	Constipation 5547 5559	Constipation
+A3	Diagnosis T4 Implicit_mention
+T5	Delirium 2434 2437;2438 2440	A&O x3
+A4	Negation T5
+T6	Constipation 6015 6027	Constipation
+A5	Diagnosis T6 Implicit_mention
+T7	Lower_respiratory_tract_infection 1259 1268	pneumonia
+A6	Diagnosis T7 Suspected
+T8	Delirium 1876 1879;1880 1882	A&O x3
+A7	Negation T8

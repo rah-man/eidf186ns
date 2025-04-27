@@ -1,0 +1,20 @@
+T1	Has_carers 12003 12010	Service
+T2	Constipation 13126 13137	constipated
+A1	Diagnosis T2 Implicit_mention
+T3	Constipation 13053 13065	constipation
+A2	Diagnosis T3 Implicit_mention
+T4	Constipation 11243 11255	constipation
+A3	Diagnosis T4 Implicit_mention
+T5	Urinary_incontinence 673 685	incontinence
+A4	Negation T5
+A5	Low_confidence T5
+T6	Faecal_incontinence 673 685	incontinence
+A6	Negation T6
+A7	Low_confidence T6
+T7	Constipation 870 882	constipation
+T8	Delirium 9644 9665	altered mental status
+T9	Unspecified_cognitive_impairment 9716 9736	cognitive impairment
+T10	Constipation 11481 11493	constipation
+A8	Diagnosis T10 Implicit_mention
+T11	Lower_gastrointestinal_haemorrhage 9523 9529;9553 9561	rectal bleeding
+A9	Diagnosis T11 Suspected

@@ -1,0 +1,12 @@
+T1	Delirium 12985 13003	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 13069 13093	Ambulatory - Independent
+T3	Lower_respiratory_tract_infection 1868 1877	pneumonia
+A2	Negation T3
+T4	Delirium 4749 4754	A&Ox3
+A3	Negation T4
+T5	Delirium 5277 5282	A&Ox3
+A4	Negation T5
+T6	Lower_respiratory_tract_infection 6776 6785	pneumonia
+A5	Negation T6
+T7	Falls 3798 3803	fall,

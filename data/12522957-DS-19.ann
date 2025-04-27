@@ -1,0 +1,64 @@
+T1	Seizures 11859 11867	seizures
+A1	Diagnosis T1 Implicit_mention
+T2	Delirium 11874 11883	confusion
+A2	Diagnosis T2 Implicit_mention
+T3	Delirium 11887 11910	change in mental status
+A3	Diagnosis T3 Implicit_mention
+T4	Delirium 10528 10546	Clear and coherent
+A4	Negation T4
+T5	Independently_mobile 10612 10636	Ambulatory - Independent
+T6	Constipation 11185 11197	constipation
+A5	Diagnosis T6 Implicit_mention
+T7	Intracranial_haemorrhage 10472 10489	Subdural hematoma
+T8	Intracranial_haemorrhage 7274 7291	subdural hematoma
+A6	Diagnosis T8 History_of
+T9	Seizures 7675 7682	seizure
+A7	Diagnosis T9 Implicit_mention
+T10	Intracranial_haemorrhage 7633 7651	subdural hematomas
+T11	Visual_impairment 10056 10064	glaucoma
+T12	Delirium 3028 3039	Orientation
+A8	Negation T12
+T13	Seizures 2472 2480	seizures
+A9	Negation T13
+T14	Dementia 2484 2492	dementia
+A10	Negation T14
+A11	Diagnosis T13 History_of
+A12	Diagnosis T14 History_of
+T15	Intracranial_haemorrhage 2118 2135	subdural hematoma
+T16	Intracranial_haemorrhage 2260 2277	subdural hematoma
+A13	Diagnosis T16 History_of
+T17	Urinary_tract_infection 2224 2227	UTI
+A14	Diagnosis T17 History_of
+T18	Urinary_tract_infection 1851 1854	UTI
+A15	Negation T18
+T19	Visual_impairment 1639 1647	diplopia
+A16	Negation T19
+T20	Faecal_incontinence 1695 1700;1712 1724	bowel incontinence
+A17	Negation T20
+T21	Urinary_incontinence 1704 1711;1712 1724	bladder incontinence
+A18	Negation T21
+T22	Seizures 1730 1737	seizure
+A19	Negation T22
+T23	Hearing_impairment 2539 2554	hard of hearing
+A20	Diagnosis T23 Implicit_mention
+T24	Delirium 3233 3242	confusion
+A21	Negation T24
+T25	Independently_mobile 5019 5046	stand up without assistance
+T26	Falls 5199 5203	fall
+A22	Diagnosis T26 Implicit_mention
+T27	Intracranial_haemorrhage 6448 6455;6489 6492	CT head SDH
+T28	Intracranial_haemorrhage 454 471	subdural hematoma
+A23	Diagnosis T28 History_of
+T29	Falls 1566 1571	falls
+A24	Negation T29
+T30	Intracranial_haemorrhage 1528 1545	subdural hematoma
+A25	Diagnosis T30 History_of
+T31	Hearing_impairment 4122 4140	difficulty hearing
+T32	Delirium 5365 5373	oriented
+A26	Negation T32
+T33	Intracranial_haemorrhage 6631 6638;6881 6891	CT Head hemorrhage
+A27	Negation T33
+T34	Unspecified_cognitive_impairment 7503 7521	cognitive deficits
+T35	Unspecified_cognitive_impairment 7739 7754	memory deficits
+T36	Visual_impairment 3756 3774	Visual fields full
+A28	Negation T36

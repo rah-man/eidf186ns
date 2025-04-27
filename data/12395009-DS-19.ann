@@ -1,0 +1,17 @@
+T1	Has_carers 10039 10046	Service
+T2	Delirium 10171 10179	confused
+T3	Delirium 7639 7647	Delirium
+T4	Weight_loss 238 249	weight loss
+T5	Malnutrition 468 476	anorexia
+T6	Visual_impairment 1354 1374	macular degeneration
+A1	Diagnosis T6 History_of
+T7	Hearing_impairment 1684 1696	hearing aids
+T8	Unspecified_cognitive_impairment 1885 1892	A&O x 1
+T9	Delirium 8084 8093	confusion
+T10	Delirium 7675 7684	delirious
+T11	Lives_alone 7944 7948	home
+A2	Negation T11
+T12	Lives_alone 6798 6802	home
+A3	Negation T12
+T13	Lives_alone 10029 10033	Home
+A4	Negation T13

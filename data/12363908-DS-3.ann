@@ -1,0 +1,37 @@
+T1	Intracranial_haemorrhage 225 252	intraparenchymal hemorrhage
+T2	Falls 686 690	fall
+T3	Intracranial_haemorrhage 971 976;992 1016	NCHCT basal ganglia hemorrhage
+T4	Falls 1456 1460	fall
+T5	Falls 1801 1805	fall
+A1	Diagnosis T5 History_of
+T6	Delirium 3319 3327;3328 3331	Oriented x 3
+A2	Negation T6
+T7	Intracranial_haemorrhage 4375 4382;4394 4416	CT HEAD parenchymal hemorrhage
+T8	Lower_respiratory_tract_infection 5541 5550	pneumonia
+A3	Negation T8
+T9	Intracranial_haemorrhage 5650 5657;5728 5750	CT head parenchymal hemorrhage
+T10	Intracranial_haemorrhage 7727 7749	intraparenchymal bleed
+T11	Urinary_tract_infection 9656 9659	UTI
+T12	Urinary_tract_infection 9801 9804	UTI
+T13	Falls 10386 10390	fall
+T14	Intracranial_haemorrhage 10919 10943	Intracerebral Hemorrhage
+T15	Constipation 11838 11850	constipation
+A4	Negation T15
+T16	Constipation 11972 11984	constipation
+A5	Diagnosis T16 Implicit_mention
+T17	Intracranial_haemorrhage 12298 12325	intraparenchymal hemorrhage
+T18	Delirium 12364 12382	Clear and coherent
+A6	Negation T18
+T19	Bed_Chairbound 12450 12458	Bedbound
+T20	Intracranial_haemorrhage 12610 12615;12642 12647	bleed brain
+T21	Intracranial_haemorrhage 538 541	IPH
+T22	Visual_impairment 3426 3436	Right gaze
+T23	Intracranial_haemorrhage 4665 4675;4714 4728	hemorrhage corona radiata
+T24	Intracranial_haemorrhage 4981 4988;5006 5024	CT HEAD putaminal hematoma
+T25	Visual_impairment 7872 7886	gaze deviation
+T26	Intracranial_haemorrhage 7950 7977	intraparenchymal hemorrhage
+T27	Intracranial_haemorrhage 8738 8741	ICH
+A7	Diagnosis T27 Implicit_mention
+T28	Intracranial_haemorrhage 9322 9344	intraparenchymal bleed
+A8	Diagnosis T28 Implicit_mention
+T29	Visual_impairment 861 875	gaze deviation

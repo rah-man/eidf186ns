@@ -1,0 +1,41 @@
+T1	Delirium 4518 4526;4527 4529	Oriented x3
+A1	Negation T1
+T2	Falls 203 207	Fall
+T3	Falls 444 448	fall
+T4	Falls 585 589	fall
+T5	Falls 828 832	fell
+T6	Intracranial_haemorrhage 1032 1039;1050 1055	CT Head bleed
+A2	Negation T6
+T7	Delirium 1242 1250	confused
+T8	Visual_impairment 1265 1279	hallucinations
+T9	Lower_respiratory_tract_infection 3201 3210	Pneumonia
+A3	Diagnosis T9 History_of
+T10	Dementia 3320 3328	Dementia
+A4	Diagnosis T10 History_of
+T11	Delirium 3597 3605;3606 3608	Oriented x3
+A5	Negation T11
+T12	Has_carers 12298 12305	Service
+T13	Delirium 12454 12472	Clear and coherent
+A6	Negation T13
+T14	Mobile_with_assistance 12538 12570	Ambulatory - requires assistance
+T15	Mobile_with_aid 12574 12577	aid
+A7	Type_of_aid T15 Two_sticks_or_frame
+T16	Unspecified_cognitive_impairment 3339 3347	oriented
+T17	Malnutrition 3575 3584	nourished
+A8	Negation T17
+T18	Lower_respiratory_tract_infection 7288 7297	pneumonia
+A9	Diagnosis T18 Suspected
+T19	Falls 7815 7822	falling
+T20	Falls 8818 8822	Fall
+T21	Falls 8947 8951	fall
+T22	Vertebral_compression_fracture 9265 9270;9331 9339	spine fracture
+A10	Negation T22
+T23	Vertebral_compression_fracture 9425 9439	spine fracture
+A11	Negation T23
+T24	Dementia 10715 10723	Dementia
+T25	Falls 12701 12705	fell
+T26	Falls 9459 9463	fall
+T27	Vertebral_compression_fracture 6452 6469	thoracic fracture
+A12	Negation T27
+T28	Malnutrition 4496 4505	nourished
+A13	Negation T28

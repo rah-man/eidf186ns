@@ -1,0 +1,45 @@
+T1	Constipation 10167 10179	Constipation
+A1	Diagnosis T1 Implicit_mention
+T2	Delirium 10689 10707	Clear and coherent
+A2	Negation T2
+T3	Mobile_with_assistance 10773 10805	Ambulatory - requires assistance
+T4	Mobile_with_aid 10809 10812	aid
+A3	Type_of_aid T4 Two_sticks_or_frame
+T5	Falls 1190 1197	falling
+A4	Negation T5
+T6	Falls 1734 1738	fall
+A5	Diagnosis T6 History_of
+T7	Visual_impairment 2801 2815	loss of vision
+A6	Negation T7
+T8	Visual_impairment 2817 2831	blurred vision
+A7	Negation T8
+T9	Visual_impairment 2833 2841	diplopia
+A8	Negation T9
+T10	Hearing_impairment 2892 2900	tinnitus
+A9	Negation T10
+T11	Hearing_impairment 2904 2922	hearing difficulty
+A10	Negation T11
+T12	Faecal_incontinence 3016 3021;3033 3045	bowel incontinence
+A11	Negation T12
+T13	Urinary_incontinence 3025 3032;3033 3045	bladder incontinence
+A12	Negation T13
+T14	Constipation 3293 3305	constipation
+A13	Negation T14
+T15	Delirium 3993 4001;4002 4005	oriented x 3
+A14	Negation T15
+T16	Hearing_impairment 4787 4801	Hearing intact
+A15	Negation T16
+T17	Mobile_with_aid 5650 5667	Walks with a cane
+A16	Type_of_aid T17 One_Stick
+T18	Delirium 5777 5785;5786 5789	oriented x 3
+A17	Negation T18
+T19	Constipation 9861 9873	Constipation
+A18	Diagnosis T19 Implicit_mention
+T20	Constipation 9931 9943	Constipation
+A19	Diagnosis T20 Implicit_mention
+T21	Constipation 10578 10590	Constipation
+A20	Diagnosis T21 Implicit_mention
+T22	Weight_loss 3156 3167	weight loss
+A21	Negation T22
+T23	Mobile_with_aid 9123 9131;9137 9146	ambulate with cane
+A22	Type_of_aid T23 One_Stick

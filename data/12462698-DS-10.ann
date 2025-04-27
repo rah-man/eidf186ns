@@ -1,0 +1,27 @@
+T1	Has_carers 10809 10816	Service
+T2	Visual_impairment 10930 10935	Blind
+T3	Delirium 10974 10982	Confused
+T4	Mobile_with_assistance 11062 11094	Ambulatory - requires assistance
+T5	Mobile_with_aid 11098 11101	aid
+A1	Type_of_aid T5 Two_sticks_or_frame
+T6	Delirium 6104 6113	confusion
+T7	Dementia 6201 6209	dementia
+T8	Dementia 6281 6296	memory problems
+T9	Delirium 592 600	confused
+T10	Visual_impairment 396 405	blindness
+T11	Unspecified_cognitive_impairment 747 748;753 756	A Ox2
+T12	Delirium 771 779	confused
+T13	Visual_impairment 1962 1967	blind
+T14	Unspecified_cognitive_impairment 3250 3258	oriented
+T15	Constipation 1401 1413	constipation
+A2	Negation T15
+T16	Intracranial_haemorrhage 2089 2092	SAH
+A3	Diagnosis T16 History_of
+T17	Intracranial_haemorrhage 5139 5146;5228 5238	CT HEAD hemorrhage
+A4	Negation T17
+T18	Falls 5886 5890	fall
+A5	Diagnosis T18 History_of
+T19	Delirium 6051 6060	Confusion
+T20	Has_carers 7423 7431	services
+T21	Delirium 6406 6414	oriented
+A6	Negation T21

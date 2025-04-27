@@ -1,0 +1,27 @@
+T1	Upper_gastrointestinal_haemorrhage 1164 1167	GIB
+A1	Low_confidence T1
+T2	Lower_gastrointestinal_haemorrhage 1164 1167	GIB
+A2	Low_confidence T2
+T3	Delirium 7044 7062	Clear and coherent
+A3	Negation T3
+T4	Independently_mobile 7128 7152	Ambulatory - Independent
+T5	Delirium 7216 7224	oriented
+A4	Negation T5
+T6	Delirium 7755 7763	oriented
+A5	Negation T6
+T7	Delirium 1518 1526	oriented
+A6	Negation T7
+T8	Delirium 2167 2175	oriented
+A7	Negation T8
+T9	Delirium 2701 2709	oriented
+A8	Negation T9
+T10	Delirium 2053 2061	oriented
+A9	Negation T10
+T11	Upper_gastrointestinal_haemorrhage 6173 6176	GIB
+A10	Diagnosis T11 History_of
+A11	Low_confidence T11
+T12	Lower_gastrointestinal_haemorrhage 6173 6176	GIB
+A12	Diagnosis T12 History_of
+A13	Low_confidence T12
+T13	Upper_gastrointestinal_haemorrhage 6303 6314	hematemesis
+A14	Negation T13

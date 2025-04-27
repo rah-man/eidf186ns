@@ -1,0 +1,83 @@
+ Name: ___       Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: NEUROSURGERY  Allergies: Codeine / lisinopril / simvastatin  Attending: ___.  Chief Complaint: Bilateral acute on chronic SDHs  Major Surgical or Invasive Procedure: ___ - Bilateral mini craniotomies for evacuation of bilateral SDHs  History of Present Illness: ___ is an ___ year old male known to Dr. ___ Neurosurgery for bilateral SDHs. The patient was seen in the ___ on ___, at which time imaging was concerning for an increase in the size of these bilateral SDHs. Given this, he was consequently scheduled for a cerebral angiogram for bilateral MMA embolization on ___. In the meantime, the patient presented to the ED today with complaints of lethargy, gait instability, and right lower extremity weakness. Imaging in the ED was concerning for a further increase in the size and worsened acuity of the bilateral SDHs. Neurosurgery was consulted for evaluation and management recommendations. On evaluation in the ED, the patient and his son state that yesterday he was particularly lethargic and "not himself." He also was nauseous and had one episode of emesis yesterday. Today, they note that he had difficulty getting dressed as well as some gait instability and weakness in his right lower extremity, all of which are atypical for him. Given these symptoms, they called the ___, and he was advised to present to the ED for further work-up. The patient denies any additional symptoms including new headaches, dizziness, confusion, visual changes, difficulty with speech, and paresthesias. He denies any recent falls or head trauma since his initial fall back in ___. He also denies being on any anticoagulation since that initial fall, prior to which he was on warfarin for a DVT in his left lower extremity.  Past Medical History: - COPD - DVT in left lower extremity on warfarin - Glaucoma - HLD - HTN - Hypothyroidism - Prostate cancer s/p radiation therapy - S/p cataract surgery  Social History: ___ Family History: Noncontributory.  Physical Exam: On Admission ___: Physical Exam:
+
+VS: T 96.2F, HR 56, BP 159/79, RR 18, O2Sat 100% on room air
+
+Exam:
+
+General: Well-nourished elderly adult male. Appears comfortable. No acute distress. HEENT: Normocephalic. Atraumatic. Extremities: Warm and well-perfused.
+
+Neurologic:
+
+Mental Status: Awake and alert. Cooperative with exam. Normal affect. Orientation: Oriented to person, place, and time. Language: Speech fluent with good comprehension. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+
+I: Not tested. II: PERRL. III, IV, VI: EOMs intact bilaterally without nystagmus. V, VII: Facial strength and sensation intact and symmetric. VIII: Hearing intact to voice. IX, X: Palatal elevation symmetrical. XI: Sternocleidomastoid and trapezius normal bilaterally. XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements, tremors. Reports subjective weakness in the right lower extremity, but strength is ___ throughout all muscle groups. No drift.
+
+Sensation: Grossly intact to light touch.
+
+-------------- On Discharge: ___ -------------- Exam: Opens Eyes: [x]Spontaneous [ ]To voice [ ]To noxious [ ]None
+
+Orientation: [x]Person [x]Place [ ]Time: ___ month" ___
+
+Follows Commands: [ ]Simple [x]Complex [ ]None
+
+Pupils: PERRL
+
+EOMs: [x]Full [ ]Restricted - mild restriction on bilateral upward gaze 
+
+Face Symmetric: [x]Yes [ ]No
+
+Tongue Midline: [x]Yes [ ]No
+
+Drift: [X]Yes - slight right pronation [ ]No 
+
+Speech Fluent: [x]Yes [ ]No
+
+Comprehension Intact: [x]Yes [ ]No
+
+Motor:     Trap  Deltoid  Biceps  Triceps  Grip Right  5   5     5    5     5 Left  5   5     5    5     5
+
+    IP  Quad  Ham  AT  ___  ___ Right  5  5   5   5  5   5 Left  5  5   5   5  5   5
+
+Sensation: Grossly intact to light touch
+
+Finger-nose-finger: slow, slightly dysmetric 
+
+Wound: Right Surgical Sites: [x] OTA [x] Clean, dry, intact [x] Staples [x] Bogginess under the skin on the posterior portion of the head
+
+Left Surgical Site: [x] Everted skin edges in middle of incision [x] xeroform gazue tegaderm changed today, Dressing CDI. [x] Sutures [x] Bogginess under the skin on the posterior portion of the head  Pertinent Results: Please see OMR for relevant laboratory and imaging results.  Brief Hospital Course: ___ year old male known to Dr. ___ Neurosurgery for bilateral SDHs now with complaints of lethargy, gait instability, and right lower extremity weakness and radiographic evidence of worsening hemorrhage.
+
+#Bilateral acute on chronic SDHs The patient was admitted to Neurosurgery on ___ and scheduled for surgery on ___. The patient was taken to the OR on ___ for bilateral mini craniotomies for evacuation of the bilateral acute on chronic SDHs. The operation was uncomplicated. Please see OMR for further intraoperative details. The patient was extubated in the OR and recovered in the PACU. He was transferred to the step down unit postoperatively for close neurologic monitoring. The patient remained neurologically stable. Repeat imaging on ___ showed improvement in the bilateral SDHs but also showed a new cerebellar IPH. Despite this, the patient's neurologic exam remained unchanged. Two subdural drains were kept in place postoperatively, which were subsequently removed on ___ without incident. Post pull imaging was stable. Patient continued to remain stable. 
+
+#Right cerebellar IPH The patient was found to have a new right cerebellar IPH on repeat imaging on ___. This was thought to be unrelated to the bilateral SDHs. Stroke neurology was consulted and recommended labs including A1c, lipids, TSH which were all normal. It was recommended to hold sq heparin. A CTA of the head and neck was ordered to evaluate for underlying cerebrovascular lesion and showed stable hematoma with surrounding edema and stable post-surgical changes, focal stenosis of the bilateral P2 segments of the posterior cerebral arteries bilaterally with the remainder of the vessels normal. An MRI of the head with and without contrast was also ordered to evaluate for underling mass and showed no evidence of cavernous/venous sinus thrombosis, and a new punctate acute infarct in the left frontal lobe, punctate chronic infarcts in the left cerebellar hemisphere and no concern for underlying lesion. Patient complained of worsening dizziness and increased lethargy on ___ although his exam remained stable. His SBP was 170's during an episode of incontinence prior to his scheduled AM antihypertensives. His BP came down after ADLs and scheduled morning meds to SBP 120s. A CT head without contrast showed stable R cerebellar hematoma with mild edema and stable right tentorial and parafalcine subdural hematomas. Stroke neurology recommended discontinuation of SQH in the setting of new hemorrhage and recommended a repeat CTH on ___. Repeat CTH revealed stable infarct and cerebellar hemorrhage and recommended restarting SQH. Patient also underwent a TTE on ___ for official stroke workup which revealed EF of 62%, no structural source of embolism, normal left wall thickness and function, mild mitral and tricuspid regurgitation and mild pulmonary aortic systolic hypertension. 
+
+#Right knee pain The patient complained of right knee pain while admitted. Given his history of falls, x-rays of the knees were ordered and were negative for acute fracture.
+
+#Constipation Patient had not moved his bowels for 6 days post-operatively. He was ordered for a suppository on ___ with good effect and had a BM later in the evening. Patient continued to be monitored closely and remained on steady bowel regimen. 
+
+#Urinary retention Patient has had continued urinary retention requiring intermittent straight cath during admission. Please continue straight cath q 6 hrs and prn. Continue Flomax 0.8mg QHS. See Urology in clinic in ___ weeks if not improved.
+
+#Right thyroid nodule The patient had an incidental finding of a right thyroid nodule while admitted. He reports he's had partial resection in the past. He was advised to follow-up with his PCP after discharge for an ultrasound to further evaluate the finding. 
+
+#Disposition ___ and OT were consulted and recommended acute rehab. Patient was discharged to rehab on ___. Patient scheduled for follow up with Dr. ___ in 8 weeks with a repeat MRI.  Medications on Admission: - atorvastatin 10mg PO once daily - calcium carbonate-vitamin D3 2 tablets PO once daily - diltiazem HCl ER 240mg PO once daily - fluticasone propionate-salmeterol 115mcg-21mcg/actuation aerosol inhaler 1 puff IH BID - levothyroxine 50mcg PO once daily - losartan 50mg PO once daily - ___ 10mg PO QPM - tamsulosin 0.4mg PO once daily - tiotropium bromide 18mcg inhalation capsule 1 capsule IH once daily  Discharge Medications: 1. Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  2. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation - Second Line  3. Docusate Sodium 100 mg PO BID  4. Heparin 5000 UNIT SC BID  5. LevETIRAcetam 500 mg PO BID  6. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - Severe RX *oxycodone 5 mg 5 (Five) tablet(s) by mouth every six (6) hours Disp #*30 Tablet Refills:*0 7. Polyethylene Glycol 17 g PO DAILY  8. Senna 17.2 mg PO QHS  9. Tamsulosin 0.8 mg PO QHS  10. Atorvastatin 10 mg PO QPM  11. Diltiazem Extended-Release 240 mg PO DAILY  12. Fluticasone-Salmeterol Diskus (100/50) 1 INH IH BID  13. Levothyroxine Sodium 50 mcg PO DAILY  14. Losartan Potassium 50 mg PO DAILY  15. Montelukast 10 mg PO QPM  16. Tiotropium Bromide 1 CAP IH DAILY 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Bilateral acute on chronic SDHs Left frontal lobe punctate infarct Right cerebellar IPH
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Out of Bed with assistance to chair or wheelchair.
+
+ Discharge Instructions: Surgery: - You underwent surgery to have blood removed from your brain. - You may shower at this time, but please keep your surgical incision dry until your staples are removed. - It is best to keep your surgical incision open to air, but it is okay to cover it when outside. - Please call your neurosurgeon if there are any signs of infection such as fever, pain, redness, swelling, or drainage from your surgical incision.
+
+Activity: - You may take leisurely walks and slowly increase your activity at your once pace once you are symptom free at rest. Don't try to do too much all at once. - We recommend that you avoid heavy lifting, running, climbing, and other strenuous exercise until your follow-up. - No contact sports until cleared by your neurosurgeon. You should avoid contact sports for at least 6 months. - No driving while taking narcotics or any other sedating medications. - If you experienced a seizure, you are not allowed to drive by law.
+
+Medications: - You may use acetaminophen (Tylenol) for minor discomfort if you are not otherwise restricted from taking this medication. - You have been discharged on levetiracetam (Keppra). This medication helps to prevent seizures. Please continue this medication as prescribed. It is important that you take it consistently and on time. - Please do not take any other blood thinning medications such as aspirin, clopidogrel (Plavix), ibuprofen, warfarin (Coumadin), etc. until cleared by your neurosurgeon.
+
+What You ___ Experience: - You may experience some postoperative swelling around your face and eyes. This is normal after surgery. You may apply ice or a cool or warm washcloth to help with this. It will be its worst in the morning after laying flat while sleeping but should decrease once up. - You may also experience soreness with chewing. This is normal after surgery and will improve with time. Softer foods may be easier during this time. - Feeling more tired, restlessness, irritability, and mood swings are common. - You may have difficulty paying attention, concentrating, and remembering new information. - Emotional and behavioral difficulties are also common. - Constipation is also common. Be sure to drink plenty of fluids and eat a high fiber diet. You may also try an over the counter stool softener if needed.
+
+Headaches: - Headache is one of the most common symptoms after a brain bleed. - Most headaches are not dangerous, but you should call your neurosurgeon if the headaches get worse or if you develop increased sleepiness, arm or leg weakness, or nausea or vomiting with your headaches. - Mild pain medications may be helpful with these headaches, but you should avoid taking pain medications on a daily basis unless prescribed. - There are other things that can be done to help with your headaches including getting enough sleep, daily exercise, avoiding caffeine, ice or heat packs, relaxation, meditation, massage, and acupuncture.
+
+Please Call Your Neurosurgeon At ___ For: - Fever greater than 101.4 degrees Fahrenheit. - Severe pain, redness, swelling, or drainage from the surgical incision. - Severe headaches not relieved by prescribed pain medications. - Extreme sleepiness or not being able to stay awake. - Any new problems with your vision or ability to speak. - Weakness or changes in sensation in your face, arms, or legs. - Nausea or vomiting. - Seizures.
+
+Call ___ And Go To The Nearest Emergency Department If You Experience Any Of The Following: - Sudden severe headaches with no known reason. - Sudden dizziness, trouble walking, or loss of balance or coordination. - Sudden confusion or trouble speaking or understanding. - Sudden weakness or numbness in the face, arms, or legs.  Followup Instructions: ___ 

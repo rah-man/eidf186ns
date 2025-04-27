@@ -1,0 +1,10 @@
+T1	Delirium 4614 4632	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 4698 4722	Ambulatory - Independent
+T3	Has_carers 2496 2504	SERVICES
+T4	Mobile_with_aid 2570 2579;2590 2594	AMBULATED CANE
+A2	Type_of_aid T4 One_Stick
+T5	Delirium 1338 1346	oriented
+A3	Negation T5
+T6	Falls 2325 2334	FALL RISK
+A4	Diagnosis T6 Implicit_mention
