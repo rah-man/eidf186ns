@@ -1,0 +1,8 @@
+T1	Visual_impairment 2698 2718	Diabetic retinopathy
+T2	Delirium 4441 4446	AAOx3
+A1	Negation T2
+T3	Dementia 12798 12816	Clear and coherent
+A2	Negation T3
+T4	Independently_mobile 12882 12906	Ambulatory - Independent
+T5	Visual_impairment 982 1001	visual abnormalitie
+A3	Negation T5

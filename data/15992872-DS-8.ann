@@ -1,0 +1,12 @@
+T2	Mobile_with_aid 11082 11085	aid
+A1	Type_of_aid T2 Two_sticks_or_frame
+T3	Delirium 10962 10980	Clear and coherent
+A2	Negation T3
+T4	Delirium 5775 5797	Alert and Oriented x 3
+A3	Negation T4
+T5	Delirium 5910 5919	Delirious
+T6	Dementia 6046 6054	Demented
+T7	Delirium 817 819;820 823	AO X 3
+A4	Negation T7
+T10	Has_carers 10694 10701	Service
+T1	Mobile_with_assistance 11046 11078	Ambulatory - requires assistance

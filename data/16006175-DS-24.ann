@@ -1,0 +1,24 @@
+T1	Delirium 11640 11648	Confused
+T2	Delirium 225 246	Altered mental status
+T3	Hearing_impairment 1741 1745;1766 1773	loss hearing
+T4	Unspecified_cognitive_impairment 2695 2702	A&Ox1-2
+T5	Delirium 2948 2953	A&Ox3
+A1	Negation T5
+T6	Delirium 3284 3291	A&Ox2-3
+A2	Negation T6
+T7	Delirium 5213 5216	AMS
+T8	Delirium 8064 8077;8112 8124	mental status intermittent
+T9	Delirium 8744 8749	AAOx3
+A3	Negation T9
+T10	Urinary_tract_infection 9456 9459	UTI
+A4	Diagnosis T10 History_of
+T11	Urinary_tract_infection 9619 9623	UTI,
+A5	Negation T11
+T14	Mobile_with_aid 11765 11775	wheelchair
+A6	Type_of_aid T14 Wheelchair
+T15	Delirium 8871 8879	delirium
+T16	Delirium 8675 8683	delirium
+A7	Diagnosis T16 Suspected
+T17	Unspecified_cognitive_impairment 2300 2307	A&Ox1-2
+T18	Delirium 7725 7746	altered mental status
+T12	Mobile_with_assistance 11726 11752	Out of Bed with assistance

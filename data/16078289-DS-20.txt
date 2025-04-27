@@ -1,0 +1,85 @@
+ Name: ___       Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Codeine / Sulfa (Sulfonamide Antibiotics) / Hydrochlorothiazide / Oxycodone / Pioglitazone / Clarithromycin / latex  Attending: ___.  Chief Complaint: NSTEMI  Major Surgical or Invasive Procedure: ___: coronary angiogram 
+
+ History of Present Illness: ___ F with CAD s/p CABGx3, HTN, DM, COPD, CHF, and AVR presenting with chest pain. 
+
+Patient woke up with pain at 2AM this morning. Began as a substernal pain, began to radiate bilaterally toward the lateral chest without involvement of the shoulders. Pain is a ___, initially improved with SL nitro in the AM, then ___ more times afterward without exertion throughout the day. Went to ___ office with symptoms, had EKG, and was sent in for further evaluation. At that time her pain was persistent, without improvement with SL nitro. Not associated with any nausea, vomiting, headache, visual abnormalities, or dizziness.
+
+ED evaluated for ACS, started on full dose ASA, initially had no signs of acute ischemia on EKG. Second set of troponins positive to 0.13, and patient was started on heparin gtt for NSTEMI and admitted for further treatment and evaluation.
+
+- Initial vitals: ___ 11:29 97.1F, 76, 165/95, 18, 99% on 2L
+
+- EKG: LVH, poor R wave progression in V3-V6, T wave flattening in V3, no evidence of acute ischemia, unchanged from prior ___
+
+- Labs/studies notable for: WBC 8.2, Hgb 10.6, Plt 184 Na 142, K 4.1, Cl 105, HCO3 23, BUN 40, Cr 1.2 TnT < 0.01, then 0.13 Mg 1.9 UA 100 protein, otherwise unremarkable
+
+- Patient was given: ___ 14:08 PO Aspirin 243 mg ___ 21:16 IV Furosemide 20 mg  ___ 21:40 IV Heparin 4000 UNIT  ___ 21:40 IV Heparin Started 850 units/hr 
+
+- Vitals on transfer: ___ 97.5F, 70, 175/62, 18, 99% on RA
+
+On the floor patient feels well. She verified the history above. Took SL nitro multiple times throughout the last 24 hours, came in after it stopped working.
+
+REVIEW OF SYSTEMS: 10 point ROS as above, otherwise negative.
+
+ Past Medical History: 1. CARDIAC RISK FACTORS - Diabetes - Hypertension - Dyslipidemia 2. CARDIAC HISTORY - CABG: 3V: LIMA to LAD, SVG to OM1, SVG to PDA ___ BWH) - PERCUTANEOUS CORONARY INTERVENTIONS: Perioperative injury to LIMA requiring PCI with DES, ISR, LAD with balloon angioplasty. - PACING/ICD: None 3. OTHER PAST MEDICAL HISTORY GERD Hx of Zoster infection Carpal tunnel obesity AS s/p AVR c/b LIMA resection requiring intra-anastomosis c/b post-operative STEMI AMI s/p DES x2 hypothyroidism Anemia Cholelithiasis CKD III Restrictive + obstructive lung disease Asthma HFpEF (50-55% ___ NARES Atopic neurodermatitis Hx PE Hx TIA Diabetic retinopathy Angina  Social History: ___ Family History: Mom and dad passed away from MI; uncle has DM.  Physical Exam: ADMISSION PHYSICAL EXAM ======================= 24 HR Data (last updated ___ @ 2339)   Temp: 97.7 (Tm 97.7), BP: 159/49, HR: 60, RR: 18, O2 sat: 96%, O2 delivery: RA, Wt: 158.9 lb/72.08 kg 
+
+GENERAL: NAD, appears younger than stated age HEENT: AT/NC, anicteric sclera, MMM NECK: supple, no LAD CV: RRR, S1/S2, no murmurs, gallops, or rubs PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles GI: abdomen soft, nondistended, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly EXTREMITIES: no cyanosis, clubbing, or edema PULSES: 2+ radial pulses bilaterally NEURO: Alert, moving all 4 extremities with purpose, face symmetric DERM: warm and well perfused, no excoriations or lesions, no rashes LABS/MICRO reviewed in OMR.
+
+DISCHARGE PHYSICAL EXAM ======================= 24 HR Data (last updated ___ @ 656)   Temp: 97.7 (Tm 98.4), BP: 142/57 (109-175/51-70), HR: 59 (55-93), RR: 18, O2 sat: 95% (95-98), O2 delivery: Ra, Wt: 161.16 lb/73.1 kg 
+
+Fluid Balance (last updated ___ @ 539)  Last 8 hours Total cumulative -450ml   IN: Total 0ml   OUT: Total 450ml, Urine Amt 450ml  Last 24 hours Total cumulative -655ml   IN: Total 720ml, PO Amt 720ml   OUT: Total 1375ml, Urine Amt 1375ml 
+
+GENERAL: NAD, sitting up in bed NECK: supple, no LAD, JVP not elevated CV: RRR, S2 louder than S1, ___ SEM heard best at RUSB PULM: bibasilar crackles and occasional wheezing, otherwise clear. No increase work of breathing or accessory muscle use EXTREMITIES: no cyanosis, clubbing. L leg with segment of 1+ edema above sock line, trace edema of bilateral feet. NEURO: AAOx3, moving all 4 extremities with purpose, face symmetric, speech fluent PSYCH: Mood and affect appropriate
+
+ Pertinent Results: ADMISSION LABS ___ 12:16PM BLOOD WBC-8.2 RBC-3.67* Hgb-10.6* Hct-32.9* MCV-90 MCH-28.9 MCHC-32.2 RDW-14.9 RDWSD-47.1* Plt ___ ___ 12:16PM BLOOD ___ PTT-27.1 ___ ___ 12:16PM BLOOD Glucose-150* UreaN-40* Creat-1.2* Na-142 K-4.1 Cl-105 HCO3-23 AnGap-14 ___ 12:16PM BLOOD cTropnT-<0.01 ___ 06:00PM BLOOD cTropnT-0.13* ___ 04:00AM BLOOD CK-MB-6 cTropnT-0.18* proBNP-3259* ___ 11:45AM BLOOD cTropnT-0.20* ___ 11:20PM BLOOD CK-MB-3 cTropnT-0.18* ___ 12:16PM BLOOD Calcium-8.7 Phos-3.1 Mg-1.9
+
+DISCHARGE LABS ___ 07:30AM BLOOD WBC-7.6 RBC-3.73* Hgb-10.6* Hct-33.1* MCV-89 MCH-28.4 MCHC-32.0 RDW-14.8 RDWSD-47.3* Plt ___ ___ 07:30AM BLOOD Glucose-130* UreaN-41* Creat-1.6* Na-140 K-4.3 Cl-99 HCO3-27 AnGap-14 ___ 07:30AM BLOOD Calcium-8.7 Phos-3.9 Mg-1.9
+
+STUDIES TTE ___ CONCLUSION: The left atrium is normal in size. There is normal left ventricular wall thickness with a normal cavity size. There is suboptimal image quality to assess regional left ventricular function. The visually estimated left ventricular ejection fraction is >=50%. Normal right ventricular cavity size with normal free wall motion. The aortic sinus diameter is normal for gender with normal ascending aorta diameter for gender. The aortic valve leaflets (?#) appear structurally normal. There is no aortic valve stenosis. There is no aortic regurgitation. The mitral valve leaflets appear structurally normal. There is moderate mitral annular calcification. There is mild [1+] mitral regurgitation. Due to acoustic shadowing, the severity of mitral regurgitation could be UNDERestimated. The tricuspid valve is not well seen. The pulmonary artery systolic pressure could not be estimated. There is no pericardial effusion. IMPRESSION: Very poor image quality. Normal biventricular wall thicknesses, cavity sizes, and global systolic function. MIld mitral regurgitation. Compared with the prior TTE (images reviewed) of ___ , apical dysfunction is not suggested on the current study, but image quality is very poor. RECOMMEND: If clinically indicated, a cardiac MR or MUGA scan is suggested for further evaluation of regional/global systolic function. Cardiac MR with gadolinium would also allow for assessment for prior infarction.
+
+___ Coronary Catheterization Coronary Description The coronary circulation is right dominant. LM: The Left Main, arising from the left cusp, is a large caliber vessel with p[reviously deployed stents extneding into proximal LAD. This vessel bifurcates into the Left Anterior Descending and Left Circumflex systems. There is a 30% in-stent restenosis in the proximal, mid, and distal segments. LAD: The Left Anterior Descending artery, which arises from the LM, is a large caliber vessel. There is a 50% stenosis in the proximal segment within previously deployed stents. There is a 100% stenosis in the mid segment. The Septal Perforator, arising from the mid segment, is a small caliber vessel. The Diagonal, arising from the mid segment, is a medium caliber vessel. Cx: The Circumflex artery, which arises from the LM, is a large caliber vessel. There is a 100% stenosis in the proximal segment. The Obtuse Marginal, arising from the mid segment, is a medium caliber vessel. RCA: The Right Coronary Artery, arising from the right cusp, is a small caliber vessel. There is an 80% diffuse stenosis in the mid segment. There is an 80% stenosis in the distal segment. The Right Posterolateral Artery, arising from the distal segment, is a medium caliber vessel. The Right Posterior Descending Artery, arising from the distal segment, is a medium caliber vessel. SVG to OM1 is widely patent. SVG to PDA has 30% stenosis in proximal segment at bendpoint in the vessel. Complications: There were no clinically significant complications. Recommendations  No clear culprit for current presentation. Will need optimize medical therapy  Brief Hospital Course: SUMMARY STATEMENT ================== ___ with history of 3V CABG, CAD, HTN, DM, HFpEF presenting with substernal chest pressure that awoke her from sleep found to have NSTEMI, s/p cath ___ with no culprit lesion identified. 
+
+# CORONARIES: LAD 50%, total occlusion mid segment, D1 60%, Cx 80% mid and distal RCA. LIMA-LAD patent, SVG-OM1 patent, SVG-PDA 30% steonsis # PUMP: 50-55% # RHYTHM: NSR
+
+ACTIVE ISSUES ============== #CAD s/p CABG c/b NSTEMI Patient has a history of chronic intermittent chest pain, usually relieved by nitro. This admission she presented with substernal chest pain that awoke her from sleep, not improved with nitroglycerin. She presented to her outpatient provider who referred her to the ED. EKG was unchanged, her first troponin was negative but second was positive, so patient was started on hep gtt, aspirin 325mg. Troponins peaked at 0.20. Cath ___ without clear culprit lesion, no intervention performed. Patient was discharged on ASA 81mg, Plavix 75mg, home Imdur was increased to 180mg QD, she was continued on Atorvastatin 80mg daily. Fractionated home metop to 12.6mg Q6.
+
+#HFpEF No evidence of ongoing exacerbation. She was maintained euvolemic with IV Lasix and was transitioned to torsemide 30mg QD (home dose prior was 60mg QD furosemide). ___ was held in the setting of contrast load for cath and was restarted at reduced dose of 50mg on day of discharge. 
+
+CHRONIC ISSUES ============== #CKD III: At baseline 1.1-1.4 in setting of diabetes, with mild ___ to 1.6 in the setting of cath. 
+
+#COPD/Asthma: Continued home albuterol.
+
+#T2DM: Continued home glargine 54U breakfast, SSI
+
+#AS s/p bioprosthetic AVR: ___ AS murmur on exam, otherwise no signs or symptoms of AS. 
+
+#HYPOTHYROIDISM: Continued home levothyroxine 88 mcg
+
+#GERD: Continued home famotidine
+
+TRANSITIONAL ISSUES: =================== [] losartan at 50mg in setting of ___, can increase to 100mg as outpatient [] BMP on ___, can decrease torsemide or hold if Cr has not returned to baseline
+
+DC WEIGHT: 161.2 lb DC DIURESIS: torsemide 30mg QD DC Cr: 1.6
+
+# CODE: FULL CODE # CONTACT: HCP: ___ (daughter): ___  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Metoprolol Succinate XL 50 mg PO DAILY 2. Clopidogrel 75 mg PO DAILY 3. Isosorbide Mononitrate (Extended Release) 120 mg PO DAILY 4. Famotidine 20 mg PO DAILY 5. Atorvastatin 80 mg PO QPM 6. Losartan Potassium 100 mg PO DAILY 7. Levothyroxine Sodium 88 mcg PO DAILY 8. Furosemide 40 mg PO QAM 9. Furosemide 20 mg PO QPM 10. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN CP 11. Glargine 54 Units Breakfast Insulin SC Sliding Scale using HUM Insulin 12. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB/wheezing 13. Docusate Sodium 100 mg PO DAILY 14. Vitamin D ___ UNIT PO DAILY 15. Fluticasone Propionate NASAL 2 SPRY NU DAILY 16. Aspirin 81 mg PO DAILY 17. cyanocobalamin (vitamin B-12) 1,000 mcg oral DAILY 18. Ferrous Sulfate 325 mg PO DAILY 
+
+ Discharge Medications: 1. Torsemide 30 mg PO DAILY RX *torsemide 10 mg 1 tablet(s) by mouth DAILY Disp #*30 Tablet Refills:*0 RX *torsemide 20 mg 1 tablet(s) by mouth DAILY Disp #*30 Tablet Refills:*0 2. Glargine 54 Units Breakfast Insulin SC Sliding Scale using HUM Insulin 3. Isosorbide Mononitrate (Extended Release) 180 mg PO DAILY RX *isosorbide mononitrate 120 mg 1 tablet(s) by mouth DAILY Disp #*30 Tablet Refills:*0 RX *isosorbide mononitrate 60 mg 1 tablet(s) by mouth DAILY Disp #*30 Tablet Refills:*0 4. Losartan Potassium 50 mg PO DAILY RX *losartan 50 mg 1 tablet(s) by mouth DAILY Disp #*30 Tablet Refills:*0 5. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB/wheezing  6. Aspirin 81 mg PO DAILY  7. Atorvastatin 80 mg PO QPM  8. Clopidogrel 75 mg PO DAILY  9. cyanocobalamin (vitamin B-12) 1,000 mcg oral DAILY  10. Docusate Sodium 100 mg PO DAILY  11. Famotidine 20 mg PO DAILY  12. Ferrous Sulfate 325 mg PO DAILY  13. Fluticasone Propionate NASAL 2 SPRY NU DAILY  14. Levothyroxine Sodium 88 mcg PO DAILY  15. Metoprolol Succinate XL 50 mg PO DAILY  16. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN CP  17. Vitamin D ___ UNIT PO DAILY 
+
+ Discharge Disposition: Home  Discharge Diagnosis: PRIMARY DIAGNOSIS Coronary Artery Disease Non ST Elevation Myocardial Infarct 
+
+SECONDARY DIAGNOSIS Chronic Kidney Disease COPD/Asthma Type II Diabetes Mellitus Aortic Stenosis Hypothyroidism 
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Ms. ___, 
+
+It was a pleasure participating in your care. Please read through the following information.
+
+WHY WAS I ADMITTED TO THE HOSPITAL? You were admitted to the hospital because you were having chest pain. 
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL? While you were here, we did blood tests which showed you had a heart attack. You underwent a procedure to have the arteries of your heart looked at. None of the arteries had a clear blockage, so we did not put in any stents. You were treated you with medications to help prevent blockages from developing (Aspirin and Plavix). 
+
+WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL?  - Take all of your medications as prescribed (listed below)  - Follow up with your doctors as listed below  - Weigh yourself every morning. Your weight on discharge is 161 lb. Please seek medical attention if your weight goes up more than 3 lbs (increases to a weight of 164). - Seek medical attention if you have new or concerning symptoms or you develop swelling in your legs, abdominal distention, or shortness of breath at night.   We wish you the best! 
+
+-Your ___ Care Team 
+
+ Followup Instructions: ___ 

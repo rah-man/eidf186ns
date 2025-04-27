@@ -1,0 +1,18 @@
+T1	Constipation 582 594	constipation
+T2	Independently_mobile 10490 10514	Ambulatory - Independent
+T3	Delirium 10406 10425	Clear and coherent.
+A1	Negation T3
+T4	Delirium 2576 2581	AAOx3
+A2	Negation T4
+T5	Constipation 205 217	constipation
+T6	Lower_gastrointestinal_haemorrhage 1681 1698	blood per rectum,
+A3	Negation T6
+T7	Upper_gastrointestinal_haemorrhage 1702 1713	hematemesis
+A4	Negation T7
+T8	Constipation 5863 5878	fecal impaction
+T9	Urinary_tract_infection 6687 6722	enterococcalurinary tract infection
+T10	Constipation 10620 10632	constipation
+T11	Constipation 7039 7046;7065 7074	colonic impaction
+A5	Negation T11
+T12	Constipation 10291 10306	Fecal impaction
+T13	Hearing_impairment 2192 2203	hearing aid

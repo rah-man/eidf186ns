@@ -1,0 +1,51 @@
+ Name: ___      Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: NEUROLOGY  Allergies: No Known Allergies / Adverse Drug Reactions  Attending: ___  Chief Complaint: dysarthria, left sided weakness  Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: This is a ___ RHM from ___ with a history of resected and radiated ___ secreting pituitary adenoma, DMII, hypercholesterolemia and recent hospitalizations/ED visits with nausea/vomitting who presents to the ED by ambulance for new onset slurred speech and difficulty with left sided heaviness or weakness. The history is provided through the son's interpretation of the patient's wife and the patient. 
+
+The patient has been in his usual state of health for the past couple of days. Last week he was admitted for one day for new onset nausea and vomiting as well as a new infiltrate on his CXR. The thought was that he developed adrenal insufficiency in the setting of a pneumonia. He received IV antibiotics for one day and stress dosed IV steroids and was discharged home the next day (___). This morning, he was well and went to church. Around 1PM, he started to complain of constipation and he took an entire bottle of milk of magnesia. At around 4pm, he measured his blood sugar and it was quite high for him (~200s) and he asked his wife to give him his "pills" and he took three (the son guesses that he took metformin). At around that time, he was noted to have slurred speech. He also reported to his wife that the left side of his body felt weak. There was no numbness, and his son confirms that his mother noted slurred speech only but not jumbled words or nonsense words. At that point EMS was called. When patient was brought in to the ED, following an initial screen, a code stroke was called. 
+
+Of note, following his discharge from his most recent hospitalization, he was asked to stop taking his ACE inhibitor medication as it interacted with the antibiotic he was prescribed. He only restarted this medication this morning (quinapril). 
+
+ Past Medical History: - DM2 (last A1c was 8.1 tested earlier this month) - acromegaly s/p transsphenoidal resection and proton beam irradiation in ___  - panhypopituitarism on prednisone and thyroid replacement - Multiple hospitalizations for nausea, vomiting, dizziness, most recently dc'ed ___ for n/v and was not taking PO prednisone consistently; had n/v and headache with negative neurologic workup ___ - Thyroid nodules  - cholecystectomy  - Hypertension: has never had high blood pressure per son, but has been on a low dose of ACE inhibitor (? renal protection)  - Cataract surgeries bilaterally 
+
+ Social History: ___ Family History: Negative for headache, migraine, stroke.
+
+ Physical Exam: PHYSICAL EXAM ON ADMISSION:
+
+V/s: 125/58, 75, 18, 97% General: Pale, Awake, cooperative, NAD. HEENT: NC/AT, edentulous, no conjunctival icterus noted, MMM, no lesions noted in oropharynx  Neck: Supple, no masses or lymphadenopathy  Pulmonary: Lungs CTA bilaterally without R/R/W  Cardiac: Regular, nl. S1S2, no M/R/G noted  Abdomen: soft, NT/ND, no masses or organomegaly noted.  Extremities:warm and well perfused  Skin: no rashes or lesions noted. 
+
+Neurologic:  -Mental Status: ___ was able to tell me the date and the current place, as well as his name. He was able to follow simple and complex cross body commands. He read well and named high frequency objects without difficulty. Calculation and praxis was not tested. 
+
+-Cranial Nerves:  I: Olfaction not tested.  II: Pupils were equal and postsurgical bilaterally. VFF to confrontation.  III, IV and VI: EOM are intact and full, no nystagmus  V: Facial sensation intact to light touch.  VII: Left sided facial droop noted which wife confirms is new. Delayed activation of the left NLF with forehead sparing.  VIII: Hearing intact grossly IX, X: Palate elevates symmetrically.  XI: ___ strength in trapezii and SCM bilaterally.  XII: Tongue protrudes in midline. 
+
+-Motor: Normal bulk, tone throughout. Left pronator drift. No adventitious movements, such as tremor, noted. No asterixis noted. All major muscle groups were ___ power except for left IP (5-). RAMs were clumsy on the left. 
+
+-Sensory: No deficits to light touch. Pinprick was diminished in his lower extremities in a stocking distribution with impaired vibration at the toes bilaterally. JPS was intact at the great toes. 
+
+-DTRs: 1+ throughout except for the ankles which were 0. Toes were upgoing bilaterally. 
+
+-Coordination: No intention tremor, No dysmetria on FNF. 
+
+-Gait: Deferred
+
+ Pertinent Results: BMP: 137, 3.8, 97, 28, 19, 0.9, 232 Ca: 9.4 Mg: 1.5 P: 2.1 Serum ASA, EtOH, Acetmnphn, Benzo, Barb, Tricyc Negative ___: 11.9 PTT: 25.8 INR: 1.1  CBC: 8.4, 36.1, 285 
+
+DIAGNOSTIC STUDIES:  NCHCT: No acute intracranial hemorrhage
+
+CTA Head/neck: Extensive atherosclerotic calcifications noted extra- and intracranially. There is a 3.1 x 1.9 cm expansile sinonasal mass in the right sphenoid sinus, causing bony destruction with invasion into the sella turcica. Head/Neck CTA: heavy calcification and significant stenosis at bilateral cavernous ICAs. Circle of ___ patent. No large aneursm or dissection in bilateral ICAs and vertebral arteries. No AVMs. 
+
+ Brief Hospital Course:  Mr. ___ is a ___ right handed man who presented with dysarthria and left sided weakness. His exam was consistent with a ataxic hemiparesis. He had an MRI of his head, which showed a right pontine stroke. The stroke is most likely due to small vessel disease. He had his stroke risk factors checked; HbA1C was 8.3, LDL was 25. He had a TTE, which had suboptimal image quality, but showed no evidence of PFO/ASD. Given that his LDL was 25, his statin was decreased to Atorvastatin 40 mg daily. He was started on ASA 325 mg daily for secondary stroke prevention. His home oral hypoglycemics were held in the setting of his CTA on admission and he was maintained on SSI for euglycemia.  Given the new stress of a stroke, his Prednisone was increased to triple his home dose. He was on this stress dose for 3 days during hospitalization and will be d/c home on his home steroid dose (this was discussed with endocrinology). 
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic Attack
+
+1. Dysphagia screening before any PO intake? (x) Yes, confirmed done - () Not confirmed  () No 2. DVT Prophylaxis administered? (x) Yes - () No 3. Antithrombotic therapy administered by end of hospital day 2? (x) Yes - () No 4. LDL documented? (x) Yes (LDL = 25 ) - () No 5. Intensive statin therapy administered? (simvastatin 80mg, simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, rosuvastatin 20mg or 40mg, for LDL > 100) (x) Yes - () No [if LDL >100, reason not given: ] 6. Smoking cessation counseling given? () Yes - (x) No [reason (x) non-smoker - () unable to participate] 7. Stroke education (personal modifiable risk factors, how to activate EMS for stroke, stroke warning signs and symptoms, prescribed medications, need for followup) given (verbally or written)? (x) Yes - () No 8. Assessment for rehabilitation or rehab services considered? (x) Yes - () No 9. Discharged on statin therapy? (x) Yes - () No [if LDL >100, reason not given: ] 10. Discharged on antithrombotic therapy? (x) Yes [Type: (x) Antiplatelet - () Anticoagulation] - () No 11. Discharged on oral anticoagulation for patients with atrial fibrillation/flutter? () Yes - () No - (x) N/A  Medications on Admission: - Metformin 1g BID - Glimeperide 1mg daily - Synthroid 75ug daily - Prednisone 5mg AM, 2.5mg ___ - Quinapril 10mg daily - Vit D3 supp - Colace/Senna  Discharge Medications: 1. Levothyroxine Sodium 75 mcg PO DAILY 2. PredniSONE 2.5 mg PO ___ 3. PredniSONE 5 mg PO AM 4. MetFORMIN (Glucophage) 1000 mg PO BID 5. glimepiride *NF* 1 mg Oral daily 6. Quinapril 10 mg PO DAILY 7. Aspirin 325 mg PO DAILY 8. Atorvastatin 40 mg PO DAILY RX *atorvastatin 40 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0
+
+ Discharge Disposition: Home With Service  Facility: ___  Discharge Diagnosis: right pontine infarct
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+Neuro Exam at Discharge: Dysarthric. Left lower field cut. Mild left hemiparesis (IP weakest at ___. Dysmetria on left finger-nose-finger. 
+
+ Discharge Instructions: Dear Mr. ___,
+
+ You were admitted to the hospital for slurred speech and left arm and leg weakness and were found to have had a stroke. Your weakness improved throughout your stay and physical therapy thought you were safe to go home with home ___ and home OT.   For your stroke, you were started on Aspirin 325 mg daily. You had stroke risk factors checked, including cholesterol level, HbA1C and an echocardiogram of your heart. Your HbA1C was elevated at 8.3; you will need to have improved glucose control to try to help prevent future strokes. Your LDL cholesterol was low at 25, so your statin dose was DECREASED to 40 mg daily. Your echocardiogram did not show any abnormalities that increases your stroke risk.   Followup Instructions: ___ 

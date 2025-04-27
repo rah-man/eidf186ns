@@ -1,0 +1,55 @@
+ Name: ___         Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: Penicillins / Metoprolol  Attending: ___.  Chief Complaint: hypotension (asx)  Major Surgical or Invasive Procedure: none  History of Present Illness: Mr. ___ is a ___ yo male w/ h/o ESRD on HD, chronic anemia, Diastolic CHF, CAD s/p CABG, and a-fib on Coumadin, who presented from hemodialysis today for concerns of hypotension and anemia. During HD, patient felt clammy and sweaty and UF was stopped after taking off 1L. Patient denied any SOB, chest pain, palpitations, nausea, lightheadedness. He reports no illness prior to this HD session. His baseline SBP is in the low ___. He states that he has become hypotensive at HD occasionally in the past.
+
+Pt. denies any recent SOB, cough, chest pain, nausea, vomiting, diarrhea, constipation, abdominal pain. He denies any blood in the stool or urine.  Of note, pt. was hospitalized here in ___ for CHF exacerbation. ECHO at that time showed an EF of 50%, new mild lateral wall motion abnormality, and moderate to severe MR. ___ that time he has been receiving more aggressive UF at dialysis sessions to help maintain his dry weight. Cardiac cath in ___ showed patent graft vessels.  In the ED, initial VS were: 93 90/64 22 99%. BP dropped as low as 75/62. He received 1L bolus of NS and BP came up to SBP of low 100s. Labs were notable for Hct of 29.4, which is around his baseline of low ___.
+
+On arrival to the MICU, pt. is completely asymptomatic. He denies any fevers, chills, lightheadedness, abdominal pain, nausea, chest pain, shortness of breath.  Past Medical History: MEDICAL & SURGICAL HISTORY: 1. CABG (___) -- (LIMA->LAD, SVG->RPDA, SVG->RPL2,SVG-Diagonal) 2. Chronic LV Diastolic Dysfunction 3. HTN 4. Hyperlipidemia 5. ESRD on HD since ___ 6. Anemia of CKD -- baseline hematocrit low ___ 7. h/o Hypertensive encephalopathy 8. Vascular Dementia 9. Subcortical WMD w/ brain atrophy 10 Sleep apnea 11. Osteoarthritis 12. Spinal Stenosis 13. Peripheral Neuropathy 14. Left hip fracture (___)-- s/p ORIF of left femoral neck fx 15. Depression 16. Sleep Apnea 17. GERD 18. BPH 19. h/o Nephrolithiasis 20. atrial fibrillation . PAST SURGICAL HISTORY: 1. ___ Fistulogram with 8-mm balloon angioplasty of the venous outflow lesion 2. ___ AV graft redo and thrombectomy 3. ___ evac hematoma and thrombectomy 4. ___ Excision of left arteriovenous graft for infcetion. 5. ___ Bedside ligation of left upper arm arteriovenous graft and drainage of likely infected hematoma. 6. ___ Left upper arm arteriovenous graft. 7. Vagotomy and Bilroth procedure for ulcers 8. Cholecystectomy  Social History: ___ Family History: # Father -- died after surgery for brain tumor # Mother -- died of a stroke at age ___ # Sister -- ___ disease and diabetes, age ___ # Sister -- massive MI and passed away in her ___ # Sister (mother of niece ___ -- HTN and HLD, but otherwise well # Brother -- HTN, HLD, DM2  Physical Exam: Vitals: T: 97.6 BP: 121/95 P: 87 R: 16 O2: 99% RA General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated, no LAD CV: Normal rate, irregularly irregular rhythm, normal S1 + S2, ___ holosystolic murmur heard best at the apex, radiating to the axilla Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Skin: no rashes, ulcers, erythema. There is a tunneled dialysis catheter on the right upper chest going to the RIJ. Entry site is c/d/i, no erythema or drainage. Neuro: ___ strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred, finger-to-nose intact
+
+ Pertinent Results: ADMISSION LABS
+
+___ 11:00AM BLOOD WBC-5.1 RBC-3.11* Hgb-9.6* Hct-29.4* MCV-95 MCH-30.7 MCHC-32.5 RDW-16.0* Plt ___ ___ 11:00AM BLOOD Neuts-78* Bands-0 Lymphs-7* Monos-9 Eos-5* Baso-0 Atyps-1* ___ Myelos-0 ___ 05:39PM BLOOD ___ PTT-32.9 ___ ___ 11:00AM BLOOD Glucose-95 UreaN-15 Creat-3.0* Na-137 K-3.6 Cl-98 HCO3-28 AnGap-15 ___ 05:39PM BLOOD CK-MB-3 cTropnT-0.03* ___ 06:11AM BLOOD WBC-4.8 RBC-2.66* Hgb-8.2* Hct-25.4* MCV-96 MCH-30.7 MCHC-32.1 RDW-15.4 Plt ___ ___ 06:11AM BLOOD ___ ___ 06:11AM BLOOD Glucose-102* UreaN-33* Creat-5.3*# Na-139 K-4.4 Cl-101 HCO3-24 AnGap-18 ___ 05:39PM BLOOD Cortsol-9.0
+
+Microbiology ___ BCX Negative
+
+Imaging ___ CXR A right-sided tunneled dialysis catheter terminates in the right atrium. The patient is post-median sternotomy. The heart size is top normal. There is mild pulmonary vascular congestion with mild interstitial edema. Mild bibasilar linear opacities are most compatible with atelectasis. There is no focal consolidation or pneumothorax. The right costophrenic angle is excluded from this examination, but no large effusion is seen. IMPRESSION: Mild interstitial edema and pulmonary vascular congestion. 
+
+ Brief Hospital Course: ACUTE CARE 1. Hypotension - Most likely secondary to excessive ultrafiltration at HD today. Has now resolved after 1L NS. Pt. appears to be euvolemic on exam. Potential other causes of his hypotension include cardiac dysfunction, given his h/o CHF. This seems less likely given his history, exam, and CXR. Cardiac enzymes not c/w acute ischemia with troponin 0.04 in setting of renal disease and this is around baseline per our records. His CKMB was flat. Other potential etiology is bacteremia, with his major risk factor being dialysis access, so blood cultures were obtained and were pending at time of discharge. Assessed adrenal insufficiency by checking random cortisol level, which was normal.
+
+2. Anemia - Hct is at his baseline. This is likely his anemia of chronic disease. Consider increasing his epogen by 50% during dialysis sessions.
+
+CHRONIC CARE
+
+3. AFIB - cont home amiodarone. The aptient is not taking warfarin, confirmed with his niece and the patient. This was reportedly discontinued due to bleeding complications.
+
+4. CAD - cont home simvastatin
+
+5. DEPRESSION - cont home mirtazapine, zolpidem, citalopram
+
+6. ESRD - cont home sevelamer, cont home cinacalcet. ___ long standing htn.
+
+7. GERD - Cont home pantoprazole.
+
+8. Back Pain - cont home lidocaine patch, gabapentin. He is also on percocet.
+
+9. Hydrocodone-Acetaminophen (5mg-500mg 1 TAB PO Q6H:PRN pain 
+
+10. Hypothyroidism - cont home levothyroxine.
+
+TRANSITIONS IN CARE
+
+FULL CODE CONFIRMED CONTACT WITH NIECE HEALTH CARE PROXY ___ ___ PENDING STUDIES AT DISCHARGE: BLOOD CULTURE ___ ISSUES TO DISCUSS AT FOLLOW UP: PLEASE CONSIDER INCREASING EPOGEN. PLEASE CONSIDER OUTPATIENT ECHOCARDIOGRAM.  Medications on Admission: Preadmission medications listed are correct and complete.  Information was obtained from Patient. 1. Zolpidem Tartrate 5 mg PO HS 2. Amiodarone 200 mg PO DAILY 3. Simvastatin 10 mg PO DAILY 4. Cinacalcet 30 mg PO DAILY 5. Pantoprazole 40 mg PO Q24H 6. Citalopram 40 mg PO DAILY 7. Levothyroxine Sodium 25 mcg PO DAILY 8. FoLIC Acid 1 mg PO DAILY 9. Nephrocaps 1 CAP PO DAILY 
+
+ Discharge Medications: 1. Amiodarone 200 mg PO DAILY 2. Pantoprazole 40 mg PO Q24H 3. Citalopram 40 mg PO DAILY 4. Levothyroxine Sodium 25 mcg PO DAILY 5. Simvastatin 10 mg PO DAILY 6. FoLIC Acid 1 mg PO DAILY 7. Cinacalcet 30 mg PO DAILY 8. Nephrocaps 1 CAP PO DAILY 9. Zolpidem Tartrate 5 mg PO HS 
+
+ Discharge Disposition: Home  Discharge Diagnosis: primary diagnosis: hypotension secondary to hypovolemia
+
+secondary diagnosis: end stage renal disease on hemodialysis coronary artery disease atrial fibrillation not on warfarin
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Dear Mr. ___, You were admitted for low blood pressures. You were taken to the medical ICU, but you did very well and your blood pressure improved with fluids. You had a chest xray, blood tests and you had no signs of acute illness. It was a pleasure taking care of you. Please weigh yourself every morning, call MD if weight goes up more than 3 lbs.
+
+Please note that there have been no changes to your medications.
+
+Please be sure to follow up with your physicians.
+
+ Followup Instructions: ___ 

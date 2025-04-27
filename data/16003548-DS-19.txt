@@ -1,0 +1,103 @@
+ Name: ___          Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  M  Service: MEDICINE  Allergies: bacitracin  Attending: ___  Chief Complaint: Altered mental status, hypoxia  Major Surgical or Invasive Procedure: JG tube placement (___)  History of Present Illness: ___ yom presented from ___ rehab with AMS starting this AM associated with respiratory distress and cough. He was initially hypoxic to the ___ and responsive to pain, mumbling, but not oriented. Since ___ of last week patient has had increased secretions, which were initially attributed to increased tube feed speeds. CXR at EPOCH last ___ did not show any acute processes. His tube feeds were slowed, he was given atropine sublingually and mucinex through the G-tube with some improvement by ___ afternoon. However, ___ morning his nurse noted that he was acutely delerious, not re-directable and he was hypoxic to the 80's. EMS was called and he was supposed to be transferred to ___ but EMS diverted due to no ALS available.
+
+___ the ED vitals: 102.0 106 113/55 28 93% on 15L via Non-Rebreather. Exam/labs were notable for: WBC 7.6, Hct 37, BUN/Cr 37/0.8, lactate 3.3; VBG: 7.45/43; CXR with RLL consolidation; Blood cultures sent. The patient was given acetaminophen PR, vanc 1g IV, zosyn. He was intubated, and started on fentanyl/versed. His pressures dropped to 76/39, but responded to a total 4L of NS ___ the ED (to 100s). ABG after intubation showed 7.34/50/232, so FiO2 decreased to 0.5 & RR increased to 16. Prior to transfer to ED 
+
+Of note, the patient has been ___ of hospitals and rehab since ___ of this year. He was admitted to ___ ___ ___ for an episode of choking, during which he was diagnosed with dysphagia (secondary to inclusion body myositis) and had a G-tube placed. He was ___ rehab until ___ when he suffered an acute psychosis for which he was hospitalized at ___ until ___. Since ___, he has been at ___ for ___ rehabilitation to re-gain some lower extremity strength.  On transfer to the ICU, vitals were T 98.8 HR 70 BP 95/53, intubated on assist control.
+
+ Past Medical History: Inclusion body myositis Dysphagia, s/p G-tube Bipolar disorder Depression Anemia Hypothyroidism HTN
+
+ Social History: ___ Family History: Non-contributory
+
+ Physical Exam: ADMISSION EXAM: ==================== Vitals- T:98.8 BP: 95/53 P:70 R: 16 O2: 100% Vent: Assist control, tidal volume 550, RR 16, PEEP 5, FiO2 50% General: Intubated HEENT: PERRLA, Sclera anicteric, intubated, OG tube on suction with bilious fluid.  Neck: supple, JVP not elevated, no LAD  Lungs: Coarse breath sounds on left anteriorly. CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly, G-tube ___ place, bandage C/D/I no erythema or induration.  GU: Foley with light yellow urine Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema 
+
+DISCHARGE EXAM: ===================== Vitals: 98.9 82 139/71 20 97%RA General Appearance: No acute distress, Frail, chronically ill-appearing Eyes/Conjunctiva: PERRL, non-icteric Head, Ears, Nose, Throat: Normocephalic, MMM Lymphatic: no LAD Cardiovascular: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  Respiratory/Chest: CTAB Abdominal: Soft, Non-tender, Bowel sounds present, JG tube C/D/I Extremities: Trace LLE bilaterally Skin: warm, 2+ puleses throughout, no C/C/E 
+
+ Pertinent Results: ADMISSION LABS: =========================== ___ 10:18AM BLOOD WBC-7.6 RBC-3.98* Hgb-11.8* Hct-37.4* MCV-94 MCH-29.7 MCHC-31.6 RDW-13.2 Plt ___ ___ 10:18AM BLOOD Neuts-83* Bands-9* Lymphs-6* Monos-1* Eos-0 Baso-0 ___ Metas-1* Myelos-0 ___ 10:18AM BLOOD ___ PTT-21.6* ___ ___ 10:18AM BLOOD Glucose-146* UreaN-37* Creat-0.8 Na-144 K-4.7 Cl-106 HCO3-29 AnGap-14 ___ 10:18AM BLOOD CK(CPK)-575* ___ 10:18AM BLOOD CK-MB-11* MB Indx-1.9 ___ 10:18AM BLOOD cTropnT-0.03* ___ 10:18AM BLOOD Lithium-0.8 ___ 01:08PM BLOOD ___ pO2-40* pCO2-43 pH-7.39 calTCO2-27 Base XS-0 Comment-PERIPHERAL ___ 11:21AM BLOOD Type-ART Temp-38.3 Tidal V-550 PEEP-5 FiO2-100 pO2-232* pCO2-50* pH-7.34* calTCO2-28 Base XS-0 AADO2-434 REQ O2-75 -ASSIST/CON Intubat-INTUBATED ___ 10:35AM BLOOD ___ pO2-51* pCO2-43 pH-7.45 calTCO2-31* Base XS-4 Comment-PERIPHERAL ___ 01:08PM BLOOD Lactate-2.6* ___ 10:35AM BLOOD Lactate-3.3* ___ 01:08PM BLOOD O2 Sat-72
+
+INTERIM LABS: ======================= ___ 03:59AM BLOOD WBC-18.9*# RBC-2.86*# Hgb-8.6*# Hct-27.1*# MCV-95 MCH-30.2 MCHC-31.9 RDW-12.7 Plt ___ ___ 06:31AM BLOOD WBC-15.8* RBC-2.81* Hgb-8.7* Hct-27.1* MCV-96 MCH-30.9 MCHC-32.1 RDW-13.3 Plt ___ ___ 07:20AM BLOOD WBC-12.9* RBC-3.15* Hgb-9.6* Hct-29.7* MCV-94 MCH-30.4 MCHC-32.2 RDW-13.3 Plt ___ ___ 06:11AM BLOOD WBC-27.8*# RBC-3.33* Hgb-9.8* Hct-31.2* MCV-94 MCH-29.5 MCHC-31.5 RDW-13.7 Plt ___ ___ 04:33AM BLOOD WBC-15.4* RBC-2.98* Hgb-8.9* Hct-28.0* MCV-94 MCH-29.9 MCHC-31.8 RDW-14.0 Plt ___ ___ 03:07AM BLOOD WBC-10.3 RBC-3.06* Hgb-9.0* Hct-28.2* MCV-92 MCH-29.4 MCHC-31.9 RDW-14.1 Plt ___ ___ 03:59AM BLOOD Glucose-99 UreaN-26* Creat-0.6 Na-141 K-3.8 Cl-112* HCO3-23 AnGap-10 ___ 01:10PM BLOOD Glucose-125* UreaN-13 Creat-0.5 Na-148* K-3.9 Cl-113* HCO3-28 AnGap-11 ___ 05:55AM BLOOD Glucose-108* UreaN-15 Creat-0.5 Na-146* K-3.8 Cl-109* HCO3-29 AnGap-12 ___ 04:33AM BLOOD Glucose-100 UreaN-12 Creat-0.5 Na-144 K-3.5 Cl-109* HCO3-29 AnGap-10 ___ 10:36PM BLOOD Glucose-100 UreaN-8 Creat-0.6 Na-146* K-3.4 Cl-111* HCO3-25 AnGap-13 ___ 03:07AM BLOOD Glucose-102* UreaN-9 Creat-0.5 Na-144 K-3.6 Cl-111* HCO3-26 AnGap-11 ___ 06:11AM BLOOD ALT-26 AST-27 AlkPhos-76 TotBili-0.5 ___ 02:38AM BLOOD ALT-21 AST-25 AlkPhos-70 TotBili-0.6 ___ 03:59AM BLOOD TSH-3.8 ___ 06:59AM BLOOD Vanco-34.6* ___ 06:14AM BLOOD Lithium-0.5 ___ 07:15PM BLOOD ___ pO2-41* pCO2-35 pH-7.45 calTCO2-25 Base XS-0 ___ 10:35AM BLOOD Lactate-3.3* ___ 01:08PM BLOOD Lactate-2.6* ___ 07:15PM BLOOD Lactate-3.0* ___ 01:10AM BLOOD Lactate-1.8
+
+DISCHARGE LABS: ================== ___ 02:53AM BLOOD WBC-12.4* RBC-3.08* Hgb-9.0* Hct-28.7* MCV-93 MCH-29.1 MCHC-31.3 RDW-14.4 Plt ___ ___ 02:53AM BLOOD Glucose-112* UreaN-9 Creat-0.6 Na-150* K-3.6 Cl-115* HCO3-26 AnGap-13 ___ 02:53AM BLOOD Calcium-9.6 Phos-3.0 Mg-2.3 ___ 06:59AM BLOOD Vanco-34.6*
+
+Microbiology: ==================== Blood Culture, Routine (Final ___:  NO GROWTH. Blood Culture, Routine (Final ___:    STAPHYLOCOCCUS, COAGULASE NEGATIVE.      Isolated from only one set ___ the previous five days.      SENSITIVITIES PERFORMED ON REQUEST.. 
+
+  Aerobic Bottle Gram Stain (Final ___:    GRAM POSITIVE COCCI ___ CLUSTERS.    Reported to and read back by ___ ___ AT 09:03.
+
+MRSA SCREEN (Final ___:    POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS. 
+
+SPUTUM GRAM STAIN (Final ___:    >25 PMNs and <10 epithelial cells/100X field.    2+  ___ per 1000X FIELD):  GRAM POSITIVE COCCI.                   ___ PAIRS AND CLUSTERS.    2+  ___ per 1000X FIELD):  GRAM POSITIVE ROD(S). 
+
+  RESPIRATORY CULTURE (Final ___:    SPARSE GROWTH Commensal Respiratory Flora.    GRAM NEGATIVE ROD(S).  SPARSE GROWTH. 
+
+Legionella Urinary Antigen (Final ___:    NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+
+SPUTUM GRAM STAIN (Final ___:    ___ PMNs and <10 epithelial cells/100X field.    NO MICROORGANISMS SEEN. 
+
+  RESPIRATORY CULTURE (Final ___:  NO GROWTH.
+
+Blood Culture, Routine (Final ___:  NO GROWTH. Blood Culture, Routine (Final ___:  NO GROWTH. Blood Culture, Routine (Final ___:  NO GROWTH. C. difficile DNA amplification assay (Final ___:    Negative for toxigenic C. difficile by the Illumigene DNA    amplification assay. URINE CULTURE (Final ___:    MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN    AND/OR GENITAL CONTAMINATION. GRAM STAIN (Final ___:    >25 PMNs and <10 epithelial cells/100X field.    4+  (>10 per 1000X FIELD):  GRAM POSITIVE COCCI.                   ___ PAIRS AND CLUSTERS. 
+
+  RESPIRATORY CULTURE (Final ___:    SPARSE GROWTH Commensal Respiratory Flora.    STAPH AUREUS COAG +.  SPARSE GROWTH. OF TWO COLONIAL MORPHOLOGIES.      Oxacillin RESISTANT Staphylococci MUST be reported as also     RESISTANT to other penicillins, cephalosporins, carbacephems,     carbapenems, and beta-lactamase inhibitor combinations. 
+
+     Rifampin should not be used alone for therapy. 
+
+               SENSITIVITIES: MIC expressed ___ MCG/ML            _________________________________________________________               STAPH AUREUS COAG +               |  CLINDAMYCIN-----------  =>8 R ERYTHROMYCIN----------  =>8 R GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------  =>8 R OXACILLIN-------------  =>4 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------   2 S TRIMETHOPRIM/SULFA---- <=0.5 S VANCOMYCIN------------ <=0.5 S
+
+___ 9:40 pm Blood Culture, Routine (Pending): 
+
+IMAGING: =========================== Chest Xray ___: 1. Endotracheal tube tip is at the thoracic inlet and should be advanced by no more than 3 cm for optimal placement. 2. Right mid/lower lung consolidation is consistent with pneumonia ___ the appropriate clinical context 
+
+ECG ___: Sinus tachycardia. There is an early transition that is non-specific. There are non-diagnostic Q waves ___ the inferior and anterolateral leads. No previous tracing available for comparison. 
+
+CXR ___: Right internal jugular line tip is at the level of mid SVC. NG tube tip is ___ the stomach. Drain is projecting over the mid abdomen. Heart size and mediastinum are unchanged ___ appearance as well as the right mid and lower lung consolidations that might be consistent with aspiration but overall unchanged since the prior study. No appreciable pneumothorax demonstrated.   There is a linear lucency projecting over the right upper chest, most likely representing skin fold since there is continued shin of the lung markings beyond this point. Repeated radiograph to confirm that is recommended 
+
+CXR ___: As compared to the previous radiograph, the known aspiration pneumonia on the right has decreased ___ extent but is still clearly visible. The maximum extent of the pneumonia is currently ___ the perihilar right areas. The right internal jugular vein catheter is visualized ___ almost unchanged manner. Moderate cardiomegaly with elongation of the descending aorta and overall mild pulmonary edema. No pleural effusions. 
+
+CXR ___: As compared to the previous radiograph, there is an improvement ___ extent and severity of the pre-existing parenchymal opacities. The opacities, however, located ___ the right lung, continue to be visible ___ almost unchanged manner. No other relevant change. 
+
+CXR ___: ___ comparison with the earlier study of this date, there is a continued opacification ___ the right mid and lower lung zones, consistent with the clinical diagnosis of aspiration. Otherwise little change. 
+
+CXR ___: Confluent opacities ___ the right upper lobe and left retrocardiac region have worsened, but a right lower lobe opacity has improved. Cardiomediastinal contours are stable, and there is no pleural effusion or pneumothorax. 
+
+GJ Tube Placement XR ___: Successful exchange of an existing gastrostomy tube for a new 16 ___ MIC gastrojejunostomy tube. The jejunal port is ___ the proximal jejunum and may be used immediately. The tube is ready to use. The gastric port may be used to decompress the stomach if needed.  Brief Hospital Course: ___ year old male with past medical history significant for inclusion body myositis complicated by dysphagia, severe bipolar disorder/depression who presented with acute onset of AMS and hypoxemic respiratory failure concerning for aspiration PNA. ___ summary, he was ___ the intensive care unit as he was initially intubated; he was weaned off the vent and then was called out to the floor; he was readmitted to the ICU for likely aspiration events and is being treated for aspiration PNA (MRSA on sputum) with vancomycin at the time of discharge. His mental status overall improved greatly throughout hospitalization, although continued to demonstrate intermittent comfusion and perseveration.
+
+HOSPITAL ISSUES:
+
+# Hypoxemic respiratory failure: Patient was initially intubated and ventilated on assist control, then extubated once off pressors. He required frequent suctioning to maintain his saturations. On ___, he was transfered to the medical floor, where he continued to improve and receive suctioning. On ___, he began to require more suctioning, and was noted by staff to have aspirated with accompanying hypoxemia. A second aspiration with hypoexmia event was noted the following day, and he was moved back to the ICU. He required suctioning every hour, but no further aspirations were noted, and his secretions decreased.  On ___, he was again moved to the medical floor. However, staff say they were instructed not to provide suctioning, and his secretions accumulated and he had bradycardia into the 30's, rapid response team was called. However, this resolved spontaneously, and he was admitted to the ICU again. ___ the ICU, he received suctioning as needed and remained stable for several days prior to discharge. Recurrent respiratory distress was attributed to poor swallowing ability, attributed to progressoin of undelying inclusoin body myositis. Aspiration precautions are paramount with HOB >30 deg.
+
+# Pneumonia: Given acute onset of his Sx, he most likely sustained an aspiration pneumonia. Patient may have aspirated saliva or stomach contents given history of increased secretions with increased tube feed speed. CXR showed RLL consolidation and purulent secretions suppported PNA. Given his recent ___ admission and nursing home stay, he was treated for HCAP with vancomycin and cefepime (started on ___. He also received a one time levaquin dose for concern of legionella PNA given temperature-pulse dissociation on admission, but this was discontinued once urinary legionella was negative. Bronschopy was performed on ___ and was notable for bilateral secretions. BAL was sent for culture, showing no organisms and no growth. Sputum culture from ___ was notable for gram stain positive for gram positive cocci ___ pairs and clusters and gram positive rods, as well as gram negative rods on respiratory culture. He was extubated on ___ and required frequent suctioning, and was moved to the medical floor on ___ as above.  After readmission to the ICU, he had persistence of the RLL pneumonia, and had a new consolidation ___ the RML. Treatment for aspiration pneumonia was continued with vancomycin and cefepime initially, which was narrowed on ___ to vancomycin given MRSA on a sputum culture, with clinical and radiographic improvement. 
+
+# Septic Shock: Improved. Source was likely pulmonary given CXR and increased secretions. Patient required fluid resuscitation with NS, LR and initially levophed. This resolved, patient weaned off pressors on ___.
+
+# Bacteremia: Initial blood cultures also grew coag negative staph ___ ___ bottles, and this was attributed to contamination as subsequent blood cultures were negative. 
+
+# Increased secretions: Initially attributed to either to reflux secondary to increased tube feed speed vs progression of bulbar dysfunction secondary to inclusion body myositis (bulbar invovlement ~50% of cases). Tube feeds were held initially and he was frequently suctioned. A contrast esophagram was done, demonstrating no reflux. Tube feeds were re-started. Following readmission to the ICU on ___, on suctioning, there was clearly tube feed materials ___ his secretions, so tube feeds were again d/c'd. On ___, his G-tube was converted to a G-J tube, with the hope this would decrease his reflux. Tube feeds were re-started. 
+
+# Delirium: Likely secondary to inpatient setting and intubation, especially ___ setting of psychiatric disorders at baseline. Waxed and waned post-extubation, requiring re-orientation. At times, he became agitated, and haldol and seroquel were given with good effect. This improved and his sensorium was clearer at the time of discharge; mild confusion but oriented and alert.
+
+# Hypernatremia: Appeared to be free water deficit due to tube feeds being held for most of his stay. CBC and BMP appeared to be concentrated. Repleted with D5W as needed.
+
+# Lactic acidosis: Lactic acid initially 3.3, attributed to hypoperfusion from sepsis, and downtrended.
+
+# Troponinemia: Troponins peaked to 0.03 ___ ED. No ischemic ECG changes. Likely type-II NSTEMI due to demand ischemia from hypoxemia and hypotension.
+
+Chronic Issues:
+
+# Bipolar Disorder/Depression: The patient continued home lithium, zyprexa, and buproprion. 
+
+# Hypothyroidism: Continued home levothyroxine
+
+# Anemia, secondary to B12-deficiency: Continued home Cyanocobalamin
+
+_____________________________ Transitional issues: -Pt was Full Code during this admission -Pt needs Aspiration precautions with HOB elevated 30 degrees, suction secretions frequently (q4 hours) -Discharge Na was 150; continue giving free water flushes PRN based on BMP -Continue vancomycin for MRSA PNA until ___ dose on ___ held due to trough of 34.6 -Wound care for pressure ulcers per instructions on d/c sheet -Outpatient neurologist to talk with family more re: prognostication, course of illness, help with family understanding  Medications on Admission: The Preadmission Medication list is accurate and complete. 1. BuPROPion 37.5 mg PO DAILY 2. creatine monohydrate 1200 mg oral BID 3. Docusate Sodium (Liquid) 100 mg PO DAILY 4. Levothyroxine Sodium 50 mcg PO DAILY 5. Lithium Oral Solution 300 mg PO QPM 6. TraZODone 25 mg PO HS:PRN insomnia 7. Vitamin D 50,000 UNIT PO 1X/WEEK (FR) 8. Cyanocobalamin 250 mcg PO DAILY 9. Acetaminophen 650 mg PO Q6H:PRN pain, fever 10. Bisacodyl 10 mg PR HS:PRN constipation 11. Fleet Enema ___AILY:PRN constipation 12. Ibuprofen 800 mg PO Q4H:PRN pain 13. Milk of Magnesia 30 mL PO DAILY:PRN constipation 14. Atropine Sulfate 1% 2 DROP SL Q4H:PRN secretions 15. TraZODone 25 mg PO HS 16. OLANZapine 10 mg PO HS 17. Guaifenesin ER 1200 mg PO Q12H 18. Ibuprofen 600 mg PO BID 
+
+ Discharge Medications: 1. Alteplase 1mg/2mL ( Clearance ie. PICC, tunneled access line ) 1 mg IV ONCE MR1 Duration: 1 Dose 2. Artificial Tears ___ DROP BOTH EYES PRN eye irritation 3. Heparin 5000 UNIT SC TID 4. Levothyroxine Sodium 25 mcg IV DAILY 5. Sodium Chloride 0.9% Flush ___ mL IV DAILY and PRN, line flush 6. Vancomycin 1000 mg IV Q 12H Last day to be ___ for ___. Bisacodyl 10 mg PR HS:PRN constipation 8. BuPROPion 37.5 mg PO DAILY 9. Cyanocobalamin 250 mcg PO DAILY 10. Docusate Sodium (Liquid) 100 mg PO DAILY 11. Lithium Oral Solution 300 mg PO QPM 12. OLANZapine 10 mg PO HS 13. Vitamin D 50,000 UNIT PO 1X/WEEK (FR) 
+
+ Discharge Disposition: Extended Care  Facility: ___  Discharge Diagnosis: Septic shock Hypoxemic respiratory failure Hospital acquired/aspiration Pneumonia Bipolar disease/depression
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Out of Bed with assistance to chair or wheelchair.
+
+ Discharge Instructions: Dear Mr. ___,
+
+It was a pleasure taking care of you at ___. You were admitted for confusion, trouble breathing, and likely pneumonia. We treated your pneumonia with antibiotics. We had to use a breathing machine to support your respiratory status. Your confusion improved over the course of your hospitalization. We were concerned that you were aspirating your tube feeds (going down the wrong pipe) so your G-tube was advanced further into your GI tract.
+
+It was a privilege providing care for you at the ___, and we wish you all the best.  Followup Instructions: ___ 

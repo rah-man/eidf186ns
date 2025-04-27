@@ -1,0 +1,20 @@
+T1	Delirium 10234 10252	Clear and coherent
+A1	Negation T1
+T2	Independently_mobile 10318 10342	Ambulatory - Independent
+T4	Lower_gastrointestinal_haemorrhage 12138 12143;12192 12197	blood bowel
+A3	Diagnosis T4 Implicit_mention
+T5	Lower_gastrointestinal_haemorrhage 12147 12157	dark/black
+A4	Diagnosis T5 Implicit_mention
+T3	Upper_gastrointestinal_haemorrhage 12138 12143;12147 12157	blood dark/black
+A2	Diagnosis T3 Implicit_mention
+T6	Delirium 1618 1623	AAOx3
+A5	Negation T6
+T7	Lower_respiratory_tract_infection 2290 2294;2340 2349	lung infection
+A6	Diagnosis T7 Suspected
+T8	Lower_respiratory_tract_infection 2792 2801	pneumonia
+T9	Delirium 5195 5218	change in mental status
+T10	Delirium 5449 5470	altered mental status
+T11	Delirium 5734 5755	altered mental status
+T12	Lower_respiratory_tract_infection 5925 5934	pneumonia
+A7	Diagnosis T12 Suspected
+T13	Lower_respiratory_tract_infection 6649 6658	pneumonia

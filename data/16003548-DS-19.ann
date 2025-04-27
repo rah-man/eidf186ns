@@ -1,0 +1,45 @@
+T1	Lower_respiratory_tract_infection 11839 11842	PNA
+T2	Delirium 19103 19112	confusion
+T3	Lower_respiratory_tract_infection 19144 19153	pneumonia
+A1	Diagnosis T3 Suspected
+T4	Lower_respiratory_tract_infection 19171 19180	pneumonia
+T5	Delirium 19274 19283	confusion
+T6	Delirium 18860 18878	Clear and coherent
+A2	Negation T6
+T9	Mobile_with_aid 18983 18993	wheelchair
+A3	Type_of_aid T9 Wheelchair
+T10	Lower_respiratory_tract_infection 18785 18794	Pneumonia
+T11	Constipation 17819 17831	constipation
+A4	Diagnosis T11 Implicit_mention
+T12	Constipation 17729 17741	constipation
+A5	Diagnosis T12 Implicit_mention
+T13	Constipation 17688 17700	constipation
+A6	Diagnosis T13 Implicit_mention
+T14	Constipation 18404 18416	constipation
+T15	Delirium 15988 15997	confusion
+T16	Delirium 16002 16010	oriented
+A8	Negation T16
+T17	Delirium 15646 15654	Delirium
+T18	Lower_respiratory_tract_infection 13280 13289	Pneumonia
+T19	Lower_respiratory_tract_infection 13359 13368	pneumonia
+T20	Lower_respiratory_tract_infection 13636 13640	HCAP
+A7	In-hospital_event T20
+T21	Lower_respiratory_tract_infection 13755 13758	PNA
+T22	Lower_respiratory_tract_infection 14366 14375	pneumonia
+T23	Lower_respiratory_tract_infection 14443 14452	pneumonia
+T24	Lower_respiratory_tract_infection 11596 11599	PNA
+T25	Lower_respiratory_tract_infection 9955 9964	pneumonia
+T26	Lower_respiratory_tract_infection 9027 9036	pneumonia
+T27	Delirium 192 213	Altered mental status
+T28	Delirium 496 508	not oriented
+T29	Delirium 881 890	delerious
+A9	Diagnosis T29 Implicit_mention
+T30	Frailty 3099 3104	Frail
+T31	Lower_respiratory_tract_infection 10059 10068	pneumonia
+T32	Delirium 11532 11535	AMS
+T33	Delirium 12020 12029	comfusion
+T34	Lower_respiratory_tract_infection 13558 13561	PNA
+T35	Lives_in_carehome 13598 13610	nursing home
+T36	Delirium 353 356	AMS
+T37	Pressure_injury 17051 17066	pressure ulcers
+T7	Mobile_with_assistance 18944 18979	Out of Bed with assistance to chair

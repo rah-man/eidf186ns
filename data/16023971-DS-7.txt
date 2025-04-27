@@ -1,0 +1,41 @@
+ Name: ___           Unit No:  ___  Admission Date: ___       Discharge Date:  ___  Date of Birth: ___       Sex:  F  Service: MEDICINE  Allergies: Penicillins / Codeine / Shellfish Derived / Bee Pollens / kiwi / Avocado / carboplatin  Attending: ___.  Chief Complaint: planned admit for desensitization to chemotherapy (carboplatin hypersensitivity)
+
+ Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: Ms ___ is a ___ yo F with Stage IIIC papillary serous cancer of gynecologic primary treated in ___ now with relapsed disease, presenting for C4D15 of ___ therapy with plan for desensitization, due to carboplatin hypersensitivity.
+
+Had history of platinum sensitivity during first occurunce of ovarian cancer. Initially tolerated carboplatinum upon restarting wtih recurrence of ovarian cancer, but developed itching/flushing with 8th dose. She was premedicated prior to 9th dose, but still developed similar symptoms. Refered to allergist, seen on ___ who confirmed carboplatin allergy by skin testing and recommended inpatient desensitization.  
+
+On arrival to the floor, patient reports feeling very anxious, but otherwise well. Took ___ and AM ceterizine as instructed.
+
+ Past Medical History: - On ___, she was found to have bilateral adnexal masses on pelvic ultrasound, which was being done on an annual basis. She also noticed some pelvic pressure or discomfort at that time. - 3 cycles of neo-adjuvant chemotherapy with ___ Taxol - ___: resection - 3 additional cycles of weekly taxol/carboplatin, completed ___ - Ct scans from ___ revealed new metastatic implants in the peritoneum. - ___ C1D1 ___ - ___: C4D1 ___
+
+ Social History: ___ Family History: Sister w/ colon CA in her ___, diagnosed early and now in good health, denies hx of breast/gyn/pancreatic CA in family, paternal grandfather with stomach CA  Physical Exam: ADMISSION EXAM: (same day as discharge) VS: 97.7 101/65 89 18 100% RA GENERAL: NAD  HEENT: NC/AT, EOMI, PERRL, MMM CARDIAC: RRR, nl S1 and S2, no murmurs LUNG: CTAB no w/r/rh ABD: +BS, soft, NT/ND, no r/g EXT: No lower extremity pitting edema, varicose veins   NEURO: CN II-XII intact. SKIN: Warm and dry
+
+ Pertinent Results: ADMISSION LABS: ___ 08:29AM  ___ PTT-31.8 ___ ___ 08:29AM  PLT COUNT-277 ___ 08:29AM  WBC-4.0 RBC-3.25* HGB-10.7* HCT-31.1* MCV-96 MCH-32.9* MCHC-34.4 RDW-18.5* ___ 08:29AM  ALBUMIN-4.0 CALCIUM-9.2 PHOSPHATE-4.0 MAGNESIUM-2.2 ___ 08:29AM  ALT(SGPT)-40 AST(SGOT)-37 TOT BILI-0.2 ___ 08:29AM  GLUCOSE-95 UREA N-14 CREAT-0.9 SODIUM-142 POTASSIUM-4.0 CHLORIDE-105 TOTAL CO2-28 ANION GAP-13
+
+ Brief Hospital Course: Ms ___ is a ___ yo F with Stage IIIC papillary serous cancer of gynecologic primary treated in ___ now with relapsed disease, presenting for C4D8 of ___ therapy with plan for desensitization, due to carboplatin hypersensitivity.
+
+ACUTE ISSUES: # Platinum Hypersensitity: Admitted for desensitization to carboplatin after prior hypersensitivity rxn (see H&P for more details). She was given ceterizine 1hr prior to inititiating carboplatin and benadryl and famotidine 30 min prior to initiating carboplatin. She then recieved recieve 100 fold and 10 fold dilution of carboplatin with monitoring prior to recieving actual dose of carboplatin as part of desensitization protocol. During infusion of the full dose carboplatin she did develop a maculopapular rash over her trunk. She was given IV benadryl with resolution of rash and remained asymptomatic during the remaineder of the infusion. 
+
+CHRONIC ISSUES: # Ovarian Cancer: C4D15 ___ as above; got gemcitabine after completing carboplatin infusions.
+
+# Overactive bladder: continued home Myrbetriq.
+
+# HLD: continued home simvastatin.
+
+# Anxiety: continued home sertraline.
+
+TRANSITIONAL ISSUE: - further chemo doses to be determined by Dr ___ is discussion that this may be last dose).
+
+ Medications on Admission: The Preadmission Medication list is accurate and complete. 1. Ondansetron 8 mg PO Q8H:PRN nausea 2. Prochlorperazine 10 mg PO Q8H:PRN N/V 3. ALPRAZolam 0.25 mg PO BID:PRN anxiety 4. Rosuvastatin Calcium 20 mg PO QPM 5. Sertraline 150 mg PO DAILY 6. Myrbetriq (mirabegron) 25 mg oral DAILY 
+
+ Discharge Medications: 1. ALPRAZolam 0.25 mg PO BID:PRN anxiety 2. Myrbetriq (mirabegron) 25 mg oral DAILY 3. Rosuvastatin Calcium 20 mg PO QPM 4. Sertraline 150 mg PO DAILY 5. Ondansetron 8 mg PO Q8H:PRN nausea 6. Prochlorperazine 10 mg PO Q8H:PRN N/V 
+
+ Discharge Disposition: Home  Discharge Diagnosis: Primary: carboplatin hypersensitivity, ovarian cancer
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Ms ___,
+
+It was a pleasure taking care of you at the ___ ___. You were admitted for desensitization therapy to carboplatin given prior allergy. You tolerated this process well and recieved cycle 4, day 8 of your carboplatin/gemcitabine therapy for ovarian cancer.  Followup Instructions: ___ 

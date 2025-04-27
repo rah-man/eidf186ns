@@ -1,0 +1,14 @@
+T1	Delirium 8146 8164	Clear and coherent
+A1	Negation T1
+T3	Mobile_with_aid 8266 8269	aid
+A2	Type_of_aid T3 Two_sticks_or_frame
+T4	Lower_respiratory_tract_infection 999 1008	pneumonia
+T5	Constipation 1206 1218	constipation
+T6	Intracranial_haemorrhage 4823 4846	intracranial hemorrhage
+A3	Negation T6
+T8	Has_carers 8041 8048	Service
+T9	Delirium 3252 3265	Mental Status
+A5	Negation T9
+T2	Mobile_with_assistance 8230 8262	Ambulatory - requires assistance
+T7	Intracranial_haemorrhage 4848 4856;4921 4935	CTA Head intracranially
+A4	Negation T7

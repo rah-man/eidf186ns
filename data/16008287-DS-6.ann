@@ -1,0 +1,6 @@
+T1	Independently_mobile 11652 11676	Ambulatory - Independent
+T2	Weight_loss 700 704;722 728	lost pounds
+T3	Seizures 1162 1169	seizure
+A1	Diagnosis T3 History_of
+T4	Delirium 11568 11586	Clear and coherent
+A2	Negation T4

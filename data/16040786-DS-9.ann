@@ -1,0 +1,25 @@
+T1	Constipation 3272 3284	constipation
+A1	Negation T1
+T2	Lower_gastrointestinal_haemorrhage 3286 3291	BRBPR
+A2	Negation T2
+T3	Upper_gastrointestinal_haemorrhage 3293 3299	melena
+A3	Negation T3
+T4	Lower_gastrointestinal_haemorrhage 3301 3313	hematochezia
+A4	Negation T4
+T5	Delirium 10464 10482	Clear and coherent
+A5	Negation T5
+T6	Independently_mobile 10548 10572	Ambulatory - Independent
+T7	Constipation 9219 9231	constipation
+A6	Diagnosis T7 Implicit_mention
+T8	Constipation 9450 9462	constipation
+A7	Diagnosis T8 Implicit_mention
+T9	Constipation 8738 8750	constipation
+A8	Diagnosis T9 Implicit_mention
+T10	Constipation 8807 8819	constipation
+A9	Diagnosis T10 Implicit_mention
+T11	Delirium 4526 4534	oriented
+A10	Negation T11
+T12	Delirium 4087 4095	oriented
+A11	Negation T12
+T13	Visual_impairment 3135 3149	vision changes
+A12	Negation T13

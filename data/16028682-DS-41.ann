@@ -1,0 +1,50 @@
+T1	Lower_respiratory_tract_infection 21425 21434	pneumonia
+T2	Lower_respiratory_tract_infection 21637 21646	pneumonia
+T3	Lower_respiratory_tract_infection 21115 21124	pneumonia
+T4	Lower_respiratory_tract_infection 15802 15806	HCAP
+T5	Upper_gastrointestinal_haemorrhage 17616 17627	GI bleeding
+A1	Diagnosis T5 History_of
+T6	Lower_gastrointestinal_haemorrhage 17616 17627	GI bleeding
+A2	Diagnosis T6 History_of
+T7	Lower_respiratory_tract_infection 12033 12036	PNA
+A3	Diagnosis T7 Suspected
+T8	Lower_respiratory_tract_infection 12110 12114	HCAP
+T9	Lower_respiratory_tract_infection 6265 6274	pneumonia
+T10	Lower_respiratory_tract_infection 4449 4452	PNA
+A4	Diagnosis T10 Implicit_mention
+T11	Lower_respiratory_tract_infection 3473 3476	PNA
+A5	Diagnosis T11 Suspected
+T12	Upper_gastrointestinal_haemorrhage 3935 3943	GI bleed
+A6	Diagnosis T12 History_of
+T13	Lower_gastrointestinal_haemorrhage 3935 3943	GI bleed
+A7	Diagnosis T13 History_of
+T14	Constipation 20418 20430	constipation
+A8	Diagnosis T14 Implicit_mention
+T15	Upper_gastrointestinal_haemorrhage 18419 18427	GI bleed
+T16	Lower_gastrointestinal_haemorrhage 18419 18427	GI bleed
+T17	Lower_respiratory_tract_infection 549 552	PNA
+T18	Lower_respiratory_tract_infection 11667 11670	PNA
+T19	Lower_respiratory_tract_infection 11677 11686	Pneumonia
+T20	Lower_respiratory_tract_infection 11688 11692	HCAP
+A9	In-hospital_event T20
+T21	Lower_respiratory_tract_infection 530 533	CAP
+T22	Lower_respiratory_tract_infection 15652 15655	PNA
+T23	Seizures 2327 2334	seizure
+A10	Diagnosis T23 Implicit_mention
+T24	Frailty 4613 4618	frail
+T25	Lower_respiratory_tract_infection 15167 15176	pneumonia
+T26	Lower_respiratory_tract_infection 12051 12064	parapneumonic
+T27	Lower_respiratory_tract_infection 11848 11857	pneumonia
+A11	Diagnosis T27 History_of
+A12	Low_confidence T12
+A13	Low_confidence T13
+T28	Upper_gastrointestinal_haemorrhage 4026 4029	GIB
+A14	Diagnosis T28 History_of
+A15	Low_confidence T28
+T29	Lower_gastrointestinal_haemorrhage 4026 4029	GIB
+A16	Diagnosis T29 History_of
+A17	Low_confidence T29
+A18	Low_confidence T5
+A19	Low_confidence T6
+A20	Low_confidence T15
+A21	Low_confidence T16

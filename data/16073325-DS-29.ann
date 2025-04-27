@@ -1,0 +1,17 @@
+T1	Constipation 876 888	constipation
+A1	Negation T1
+T2	Lower_gastrointestinal_haemorrhage 920 925;933 938	blood stool
+A2	Negation T2
+T3	Dementia 1948 1956	Dementia
+T4	Hip_fracture 2082 2094	hip fracture
+A3	Diagnosis T4 History_of
+T5	Delirium 7700 7718	Clear and coherent
+A4	Negation T5
+T7	Mobile_with_aid 7820 7823	aid
+A5	Type_of_aid T7 Two_sticks_or_frame
+T8	Dementia 1960 1975	Subcortical WMD
+T9	Delirium 3075 3083	oriented
+A6	Negation T9
+T6	Mobile_with_assistance 7784 7816	Ambulatory - requires assistance
+A7	Diagnosis T8 History_of
+A8	Diagnosis T3 History_of

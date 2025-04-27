@@ -1,0 +1,10 @@
+T1	Has_carers 11642 11649	Service
+T2	Delirium 11766 11784	Clear and coherent
+A1	Negation T2
+T3	Independently_mobile 11850 11874	Ambulatory - Independent
+T4	Delirium 3516 3520	AOx3
+A2	Negation T4
+T5	Constipation 1683 1693	obstipated
+T6	Delirium 2868 2872	AOx3
+A3	Negation T6
+T7	Hearing_impairment 1867 1879	Hearing loss
