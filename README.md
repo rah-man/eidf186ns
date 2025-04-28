@@ -25,7 +25,7 @@ I need to login to docker before pushing the image. Note to self: use `fr27` as 
 ### Build the Docker image
 
 ```bash
-docker login
+docker login --username fr27
 docker build -t fr27/frahman-hugface:latest .
 docker push fr27/frahman-hugface:latest
 ```
