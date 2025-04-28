@@ -69,4 +69,5 @@ Accessing a PVC from a lightweight job's pod:
     kubectl -n <project-namespace> cp alice.txt <pod_id>:/mnt/app/
     kubectl -n <project-namespace> exec <pod_id> -- ls /mnt/app/
     kubectl -n <project-namespace> exec <pod_id> -- curl https://archive.ics.uci.edu/static/public/53/iris.zip -o /mnt/app/iris.zip
+    kubectl -n <project-namespace> cp lightweight-job-rxn69-sd8t9:mnt/ceph/eidf186ns .
 ```
